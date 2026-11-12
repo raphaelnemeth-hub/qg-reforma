@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-12T21:36:53Z",
- "lastCheckBr": "12/11/2026 18:36",
- "added": 5,
+ "lastCheckAt": "2026-11-12T22:36:13Z",
+ "lastCheckBr": "12/11/2026 19:36",
+ "added": 2,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -13,7 +13,7 @@
    "name": "Agência Câmara",
    "ok": true,
    "found": 1,
-   "new": 0
+   "new": 1
   },
   {
    "name": "Receita Federal",
@@ -36,23 +36,48 @@
   {
    "name": "InfoMoney",
    "ok": true,
-   "found": 1,
-   "new": 1
+   "found": 0,
+   "new": 0
   },
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 94,
-   "new": 3
+   "found": 95,
+   "new": 1
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
    "ok": true,
    "found": 7,
-   "new": 1
+   "new": 0
   }
  ],
  "items": [
+  {
+   "id": "8a241c873a1e",
+   "date": "2026-11-12",
+   "title": "Comissão de Finanças debate com Receita Federal regulamentação da reforma tributária",
+   "resumo": "Debate vai abordar alíquotas, Imposto Seletivo e desafios operacionais do novo sistema tributário",
+   "link": "https://www.camara.leg.br/noticias/1319043-comissao-de-financas-debate-com-receita-federal-regulamentacao-da-reforma-tributaria",
+   "source": "Agência Câmara",
+   "official": true,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-12T22:36:13Z"
+  },
+  {
+   "id": "40b64721f0d1",
+   "date": "2026-11-12",
+   "title": "Receita propõe adiar recolhimento da CBS e flexibiliza transição da reforma tributária",
+   "resumo": "Proposta prevê recolhimento definitivo da CBS em março de 2027, enquanto empresas terão mais prazo para adaptar documentos fiscais.",
+   "link": "https://www.gazetadopovo.com.br/republica/receita-propoe-adiar-recolhimento-da-cbs-e-flexibiliza-transicao-da-reforma-tributaria/",
+   "source": "Gazeta do Povo",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-12T22:36:13Z",
+   "tries": 1
+  },
   {
    "id": "620a1742fb6d",
    "date": "2026-11-12",
@@ -1181,7 +1206,7 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-12T21:36:53Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "a83bca4c1e15",

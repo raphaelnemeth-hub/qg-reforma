@@ -1,0 +1,1218 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'unsafe-inline'; script-src 'unsafe-inline'; img-src data:; connect-src 'self'; base-uri 'none'; form-action 'none'">
+<meta name="referrer" content="no-referrer">
+<meta name="robots" content="noindex">
+<title>QG da Reforma Tributária</title>
+<style>
+:root{
+  --ink:#0a1b33;--navy:#0b2545;--navy2:#0f3160;--blue:#1d5fa8;--sky:#e8f0fb;--gold:#c9a24b;--gold2:#f5e9c8;
+  --bg:#f3f5f9;--card:#fff;--line:#e0e6ef;--mut:#5a6779;--ok:#1b7a50;--okbg:#e2f4ec;--warn:#8f6300;--warnbg:#fff3d1;
+  --r:14px;--sh:0 1px 2px rgba(11,37,69,.06),0 8px 24px rgba(11,37,69,.06)
+}
+*{box-sizing:border-box}html{scroll-behavior:smooth;scroll-padding-top:70px}
+body{margin:0;font:15px/1.6 "Inter",system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;color:var(--ink);background:var(--bg);-webkit-font-smoothing:antialiased}
+a{color:var(--blue);text-decoration:none;font-weight:600}a:hover{text-decoration:underline}
+.wrap{max-width:1200px;margin:0 auto;padding:0 24px}
+
+/* HERO */
+.hero{position:relative;color:#fff;background:radial-gradient(1200px 500px at 85% -10%,#1d5fa8 0,transparent 60%),linear-gradient(160deg,#071a33,#0b2545 55%,#12396f);padding:46px 0 0;overflow:hidden}
+.hero:before{content:"";position:absolute;inset:0;background-image:linear-gradient(rgba(255,255,255,.045) 1px,transparent 1px),linear-gradient(90deg,rgba(255,255,255,.045) 1px,transparent 1px);background-size:44px 44px;mask-image:linear-gradient(to bottom,#000 30%,transparent 95%)}
+.hero .wrap{position:relative}
+.eyebrow{display:inline-flex;align-items:center;gap:8px;font-size:12px;letter-spacing:1.4px;text-transform:uppercase;color:var(--gold);font-weight:700}
+.eyebrow i{width:8px;height:8px;border-radius:50%;background:var(--gold);box-shadow:0 0 0 4px rgba(201,162,75,.25)}
+h1{font-size:44px;line-height:1.08;margin:12px 0 10px;letter-spacing:-1px;font-weight:800}
+h1 em{font-style:normal;color:var(--gold)}
+.hero p.sub{max-width:720px;color:#c9d6ea;font-size:17px;margin:0 0 26px}
+.hero-grid{display:grid;grid-template-columns:1.25fr 1fr;gap:20px;align-items:stretch}
+.count{background:linear-gradient(135deg,rgba(201,162,75,.18),rgba(255,255,255,.06));border:1px solid rgba(201,162,75,.45);border-radius:var(--r);padding:20px 22px}
+.count small{color:#e6d6aa;font-weight:600;letter-spacing:.3px}
+.count .digits{display:flex;gap:12px;margin-top:10px}
+.count .d{background:rgba(7,26,51,.6);border-radius:10px;padding:10px 14px;min-width:78px;text-align:center}
+.count .d b{display:block;font-size:30px;font-weight:800;line-height:1.1;font-variant-numeric:tabular-nums}
+.count .d span{font-size:11px;color:#b9c8df;text-transform:uppercase;letter-spacing:1px}
+.count p{margin:12px 0 0;color:#d6e0f0;font-size:13.5px}
+.alert{background:rgba(255,255,255,.07);border:1px solid rgba(255,255,255,.16);border-radius:var(--r);padding:18px 20px}
+.alert h4{margin:0 0 8px;font-size:13px;text-transform:uppercase;letter-spacing:1.2px;color:var(--gold)}
+.alert ul{margin:0;padding:0;list-style:none}
+.alert li{display:flex;gap:10px;padding:7px 0;border-top:1px solid rgba(255,255,255,.1);font-size:14px;color:#e5edf8}
+.alert li:first-child{border-top:0}
+.alert li b{min-width:62px;color:var(--gold);font-variant-numeric:tabular-nums}
+.hero{padding-bottom:30px}.count{display:flex;flex-direction:column;justify-content:center}
+.kpis{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin:26px 0 0;position:relative;z-index:2}
+.kpi{background:#fff;color:var(--ink);border-radius:var(--r);padding:16px 18px;box-shadow:var(--sh);border-top:4px solid var(--gold)}
+.kpi small{color:var(--mut);font-weight:600;font-size:12px;text-transform:uppercase;letter-spacing:.8px}
+.kpi b{display:block;font-size:26px;color:var(--navy);letter-spacing:-.5px;margin:2px 0}
+.kpi span{font-size:13px;color:var(--mut)}
+
+/* NAV */
+nav.top{position:sticky;top:0;z-index:20;background:rgba(255,255,255,.92);backdrop-filter:blur(10px);border-bottom:1px solid var(--line);margin-top:0}
+nav.top .wrap{max-width:1360px;display:flex;justify-content:space-between;gap:0;overflow-x:auto;scrollbar-width:none;-webkit-overflow-scrolling:touch}
+nav.top .wrap::-webkit-scrollbar{display:none}
+nav.top a{padding:15px 9px;flex:0 0 auto;color:var(--navy);font-weight:600;font-size:13px;white-space:nowrap;border-bottom:3px solid transparent}
+@media(max-width:1279px){nav.top .wrap{justify-content:flex-start;-webkit-mask-image:linear-gradient(90deg,#000 90%,transparent);mask-image:linear-gradient(90deg,#000 90%,transparent)}nav.top a{padding:15px 12px}}
+nav.top a:hover,nav.top a.on{border-color:var(--gold);text-decoration:none;color:var(--blue)}
+main{padding-top:24px}
+
+/* SECTIONS */
+section{padding:30px 0 12px}
+.sh{display:flex;align-items:flex-end;justify-content:space-between;gap:16px;flex-wrap:wrap;margin-bottom:18px}
+.sh .n{font-size:12px;font-weight:800;color:var(--gold);letter-spacing:2px}
+h2{margin:2px 0 0;font-size:28px;letter-spacing:-.6px;color:var(--navy)}
+.lead{color:var(--mut);max-width:780px;margin:6px 0 0}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:16px}
+.grid.g2{grid-template-columns:repeat(auto-fill,minmax(420px,1fr))}
+.card{background:var(--card);border:1px solid var(--line);border-radius:var(--r);padding:18px;box-shadow:var(--sh);break-inside:avoid;transition:transform .15s,box-shadow .15s}
+.card:hover{transform:translateY(-2px);box-shadow:0 2px 4px rgba(11,37,69,.08),0 14px 30px rgba(11,37,69,.1)}
+.card h3{margin:6px 0 6px;font-size:16.5px;color:var(--navy);line-height:1.3}
+.card p{margin:0 0 10px;color:#2d394b;font-size:14.5px}
+.tag{display:inline-block;font-size:10.5px;font-weight:800;padding:3px 9px;border-radius:99px;background:var(--sky);color:var(--navy2);letter-spacing:.6px;text-transform:uppercase;margin-right:4px}
+.tag.gold{background:var(--gold2);color:#6f5206}.tag.ok{background:var(--okbg);color:var(--ok)}.tag.warn{background:var(--warnbg);color:var(--warn)}
+.date{font-size:12.5px;font-weight:700;color:var(--mut);font-variant-numeric:tabular-nums}
+.src{font-size:13px;display:inline-block;margin-right:12px}
+.go{display:inline-flex;align-items:center;gap:6px;background:var(--navy);color:#fff!important;padding:8px 14px;border-radius:9px;font-size:13px;font-weight:700;margin-top:4px}
+.go:hover{background:var(--blue);text-decoration:none}
+.go.ghost{background:var(--sky);color:var(--navy)!important}
+.chips{display:flex;gap:8px;flex-wrap:wrap}
+.chip{border:1px solid var(--line);background:#fff;color:var(--navy);padding:7px 14px;border-radius:99px;font:600 13px inherit;cursor:pointer}
+.chip.on{background:var(--navy);color:#fff;border-color:var(--navy)}
+.search{width:100%;max-width:460px;padding:12px 14px;border:1px solid var(--line);border-radius:10px;font:inherit;background:#fff;margin-bottom:14px}
+
+/* FEED */
+.feed{display:grid;gap:12px}
+.item{display:grid;grid-template-columns:96px 1fr;gap:16px;background:#fff;border:1px solid var(--line);border-radius:var(--r);padding:16px 18px;box-shadow:var(--sh)}
+.item .when{border-right:2px solid var(--gold2);padding-right:12px}
+.item .when b{display:block;font-size:22px;color:var(--navy);line-height:1}
+.item .when span{font-size:12px;color:var(--mut);font-weight:700;text-transform:uppercase}
+.item h3{margin:2px 0 4px;font-size:16.5px;color:var(--navy)}
+.item p{margin:0 0 6px;color:#2d394b;font-size:14.5px}
+
+/* TABLES */
+.scroll{overflow:auto;border-radius:var(--r);box-shadow:var(--sh);border:1px solid var(--line);background:#fff}
+table{width:100%;border-collapse:collapse;font-size:14px}
+th{background:var(--navy);color:#fff;text-align:left;padding:12px;font-size:12.5px;letter-spacing:.5px;text-transform:uppercase;white-space:nowrap}
+td{padding:11px 12px;border-top:1px solid var(--line);vertical-align:top}
+tr:nth-child(even) td{background:#f8fafd}tr.now td{background:var(--gold2);font-weight:700}
+
+/* ROADMAP */
+.road{display:grid;grid-template-columns:repeat(8,1fr);gap:0;margin:6px 0 18px}
+.yr{position:relative;padding:16px 8px 0;text-align:center}
+.yr:before{content:"";position:absolute;top:8px;left:0;right:0;height:4px;background:var(--line)}
+.yr.past:before,.yr.now:before{background:var(--gold)}
+.yr:after{content:"";position:absolute;top:2px;left:50%;margin-left:-8px;width:16px;height:16px;border-radius:50%;background:#fff;border:4px solid var(--navy)}
+.yr.now:after{background:var(--gold);box-shadow:0 0 0 6px rgba(201,162,75,.3)}
+.yr b{display:block;margin-top:12px;font-size:17px;color:var(--navy)}
+.yr small{display:block;color:var(--mut);font-size:12px;line-height:1.35}
+.bar{height:8px;border-radius:5px;background:var(--line);overflow:hidden;margin-top:6px}
+.bar i{display:block;height:100%;background:linear-gradient(90deg,var(--blue),var(--gold))}
+
+/* TOOLS */
+.tool{background:#fff;border:1px solid var(--line);border-radius:var(--r);box-shadow:var(--sh);overflow:hidden}
+.tool header{background:linear-gradient(135deg,var(--navy),var(--navy2));color:#fff;padding:14px 18px}
+.tool header h3{margin:0;font-size:16.5px}.tool header p{margin:2px 0 0;font-size:13px;color:#c9d6ea}
+.tool .body{padding:16px 18px}
+.f{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.f label{display:block;font-size:12px;font-weight:700;color:var(--mut);margin-bottom:3px;text-transform:uppercase;letter-spacing:.5px}
+.f input,.f select{width:100%;padding:9px 10px;border:1px solid var(--line);border-radius:8px;font:inherit;background:#fbfcfe}
+.f input:focus,.f select:focus,.search:focus{outline:2px solid var(--gold);border-color:var(--gold)}
+.f .full{grid-column:1/-1}
+.res{margin-top:14px;background:var(--sky);border-radius:10px;padding:12px 14px}
+.res div{display:flex;justify-content:space-between;gap:10px;padding:4px 0;font-size:14px;border-bottom:1px dashed #c9d8ee}
+.res div:last-child{border:0}
+.res .big{font-size:17px;font-weight:800;color:var(--navy)}
+.pre{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:10px}
+.pre button{border:1px solid var(--line);background:#fff;border-radius:8px;padding:5px 10px;font:600 12px inherit;cursor:pointer;color:var(--navy)}
+.pre button:hover{background:var(--gold2)}
+.mini{font-size:12.5px;color:var(--mut);margin-top:10px}
+
+/* FAQ */
+details{background:#fff;border:1px solid var(--line);border-radius:12px;padding:0;margin-bottom:10px;box-shadow:var(--sh)}
+summary{cursor:pointer;font-weight:700;color:var(--navy);padding:14px 18px;list-style:none;display:flex;justify-content:space-between;gap:12px}
+summary::-webkit-details-marker{display:none}
+summary:after{content:"+";font-size:20px;color:var(--gold);font-weight:800;line-height:1}
+details[open] summary:after{content:"–"}
+details .ans{padding:0 18px 16px;color:#2d394b}
+details .ans p{margin:0 0 8px}
+
+.card ul{margin:0 0 6px;padding-left:18px;color:#2d394b;font-size:14.2px}.card li{margin:0 0 6px}
+.cols{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+@media(max-width:1000px){.cols{grid-template-columns:1fr}}
+.az{display:flex;gap:4px;flex-wrap:wrap;margin-bottom:12px}
+.az button{border:1px solid var(--line);background:#fff;border-radius:7px;min-width:30px;padding:4px 6px;font:700 12px inherit;color:var(--navy);cursor:pointer}
+.az button.on{background:var(--navy);color:#fff}
+.gl{display:grid;grid-template-columns:repeat(auto-fill,minmax(340px,1fr));gap:12px}
+.gl article{background:#fff;border:1px solid var(--line);border-left:4px solid var(--gold);border-radius:12px;padding:13px 15px;box-shadow:var(--sh);break-inside:avoid}
+.gl h4{margin:0 0 2px;color:var(--navy);font-size:15px}.gl h4 small{font-weight:700;color:var(--mut);font-size:11px;letter-spacing:.7px;text-transform:uppercase;margin-left:6px}
+.gl p{margin:0;color:#2d394b;font-size:14px}
+.live{display:flex;align-items:center;gap:10px;background:#fff;border:1px solid var(--line);border-left:4px solid var(--gold);border-radius:12px;padding:10px 14px;margin:0 0 14px;font-size:13.5px;color:#2d394b;box-shadow:var(--sh)}
+.live .dot{width:9px;height:9px;border-radius:50%;background:#9aa7ba;flex:0 0 auto}
+.live.on .dot{background:var(--ok);box-shadow:0 0 0 4px rgba(27,122,80,.18)}
+.live.off .dot{background:var(--gold)}
+.item.dbitem{border-color:#e7d49b;background:linear-gradient(0deg,#fff,#fffdf6)}
+.item.fresh{border-color:#c9a227;box-shadow:0 0 0 3px rgba(201,162,39,.22);background:linear-gradient(0deg,#fff,#fff6d9)}
+.dbitem .meta{font-size:12px;color:#5b6b7f;margin:6px 0 4px}
+#ufinL li.nw small{display:block;font-weight:400;opacity:.85;margin-top:2px}
+.tag.new{background:var(--navy);color:#fff}
+/* UPDATE OVERLAY */
+.updbtn{position:fixed;right:22px;bottom:22px;z-index:40;border:0;border-radius:99px;background:linear-gradient(135deg,var(--gold),#e2c06d);color:var(--ink);font:800 14px inherit;padding:13px 20px;box-shadow:0 10px 30px rgba(11,37,69,.35);cursor:pointer;display:flex;gap:8px;align-items:center}
+.updbtn:hover{filter:brightness(1.05)}
+.topbtn{position:fixed;right:160px;bottom:22px;z-index:40;border:1px solid var(--line);border-radius:99px;background:#fff;color:var(--navy);font:800 14px inherit;padding:12px 18px;box-shadow:0 10px 30px rgba(11,37,69,.2);cursor:pointer;opacity:0;visibility:hidden;transform:translateY(8px);transition:opacity .25s,transform .25s,visibility .25s}
+.topbtn.show{opacity:1;visibility:visible;transform:none}
+.topbtn:hover{background:var(--navy);color:#fff}
+@media(max-width:560px){.topbtn{right:22px;bottom:78px}}
+.updbtn svg{width:16px;height:16px}
+.upd{position:fixed;inset:0;z-index:100;background:radial-gradient(900px 500px at 50% 20%,#12396f 0,#071a33 70%);display:flex;align-items:center;justify-content:center;padding:20px;transition:opacity .6s,visibility .6s}
+.upd.hide{opacity:0;visibility:hidden;pointer-events:none}
+.upd .box{width:min(860px,100%);color:#fff;text-align:center}
+.upd .stage{background:rgba(255,255,255,.04);border:1px solid rgba(255,255,255,.14);border-radius:18px;padding:14px;box-shadow:0 30px 80px rgba(0,0,0,.45)}
+.upd svg.scene{width:100%;height:auto;display:block;border-radius:12px}
+.upd .status{margin:14px 0 4px;font-weight:700;font-size:16px;color:#fff;min-height:24px}
+.upd .meter{height:6px;border-radius:4px;background:rgba(255,255,255,.14);overflow:hidden;max-width:520px;margin:8px auto 0}
+.upd .meter i{display:block;height:100%;width:0;background:linear-gradient(90deg,var(--blue2),var(--gold));transition:width .5s}
+.upd .skip{margin-top:14px;background:transparent;border:1px solid rgba(255,255,255,.3);color:#cfd9e8;border-radius:99px;padding:6px 16px;font:600 12.5px inherit;cursor:pointer}
+.upd .fin{display:none;padding:40px 24px}
+.upd.done .stage,.upd.done .status,.upd.done .meter,.upd.done .skip{display:none}
+.upd.done .fin{display:block;animation:pop .5s ease}
+@keyframes pop{from{transform:scale(.94);opacity:0}to{transform:scale(1);opacity:1}}
+.fin .ck{width:92px;height:92px;margin:0 auto 14px}
+.fin .ck circle{fill:none;stroke:var(--gold);stroke-width:5;stroke-dasharray:290;stroke-dashoffset:290;animation:dr .8s .1s forwards}
+.fin .ck path{fill:none;stroke:#fff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:60;stroke-dashoffset:60;animation:dr .5s .8s forwards}
+@keyframes dr{to{stroke-dashoffset:0}}
+.fin h2{color:#fff;font-size:32px;margin:0 0 6px}.fin h2:after{margin:8px auto 0}
+.fin p{color:#c9d6ea;margin:6px auto;max-width:620px}
+.fin ul{list-style:none;margin:16px auto;padding:0;max-width:640px;text-align:left}
+.fin li{background:rgba(255,255,255,.07);border:1px solid rgba(255,255,255,.14);border-radius:10px;padding:9px 12px;margin-bottom:8px;font-size:14px;color:#e5edf8}
+.fin li b{color:var(--gold)}
+.fin small{display:block;color:#93a6c3;font-size:12px;margin:10px auto 16px;max-width:600px}
+.fin .go{background:var(--gold);color:var(--ink)!important;border:0;font:800 14px inherit;cursor:pointer;padding:12px 26px;border-radius:99px}
+/* scene */
+.cd rect.bg{fill:#fff;stroke:#c9d4e6;stroke-width:2;transition:fill .3s,stroke .3s}
+.cd text{font:700 14px system-ui,sans-serif;fill:#0b2545}.cd text.s{font:500 11.5px system-ui,sans-serif;fill:#5a6779}
+.cd .ic{opacity:0;transition:opacity .3s}
+.cd.act rect.bg{stroke:#1d5fa8;stroke-width:3;fill:#e8f0fb}
+.cd.sel rect.bg{fill:#f5e9c8;stroke:#c9a24b;stroke-width:3}.cd.sel .ok{opacity:1}
+.cd.drop{opacity:.5}.cd.drop .no{opacity:1}.cd.drop .strike{opacity:1}
+.cd .strike{opacity:0;stroke:#9a6b00;stroke-width:3;transition:opacity .3s}
+#man{transition:transform 2.4s cubic-bezier(.45,.05,.55,.95),opacity .5s}
+#cam{transform-origin:450px 220px;animation:cam 14s ease-in-out forwards}
+@keyframes cam{from{transform:scale(1)}to{transform:scale(1.05)}}
+#bob{transition:transform .3s}
+.walk #bob{animation:bob .46s ease-in-out infinite alternate}
+@keyframes bob{from{transform:translateY(0)}to{transform:translateY(-4px)}}
+.limb{transform-box:fill-box;transform-origin:50% 4%}
+.walk .l1{animation:sw .46s ease-in-out infinite alternate}.walk .l2{animation:sw .46s ease-in-out infinite alternate-reverse}
+@keyframes sw{from{transform:rotate(-20deg)}to{transform:rotate(20deg)}}
+.walk #armB{animation:sw .46s ease-in-out infinite alternate}
+.walk #uA{animation:sw .46s ease-in-out infinite alternate-reverse}
+#uA{transform:rotate(0deg)}#fA{transform:rotate(0deg)}
+.work #uA{animation:reach 1.3s ease-in-out infinite alternate}
+.work #fA{animation:write .32s ease-in-out infinite alternate}
+@keyframes reach{from{transform:rotate(62deg)}to{transform:rotate(84deg)}}
+@keyframes write{from{transform:rotate(4deg)}to{transform:rotate(34deg)}}
+.work #head{animation:nod 1.3s ease-in-out infinite alternate}
+@keyframes nod{from{transform:translateY(0)}to{transform:translateY(1.5px)}}
+#doorLeaf{transform-box:fill-box;transform-origin:100% 50%;transition:transform .8s}
+#doorGlow{transition:opacity .6s}
+@media print{.updbtn,.topbtn,.upd{display:none!important}}
+.note{background:var(--warnbg);border:1px solid #ecd9a0;border-radius:12px;padding:12px 16px;font-size:14px;margin-top:14px;color:#4a3700}
+footer{margin-top:50px;background:var(--ink);color:#b9c8df;padding:30px 0;font-size:13px}
+footer a{color:var(--gold)}footer b{color:#fff}
+@media(max-width:900px){.hero-grid{grid-template-columns:1fr}.kpis{grid-template-columns:repeat(2,1fr)}.road{grid-template-columns:repeat(4,1fr);row-gap:14px}h1{font-size:32px}.grid.g2{grid-template-columns:1fr}.item{grid-template-columns:1fr}.item .when{border-right:0;border-bottom:2px solid var(--gold2);padding:0 0 8px}.f{grid-template-columns:1fr}}
+@media print{nav.top,.search,.chips,.pre{display:none}.hero{background:#fff;color:#000}.hero:before{display:none}.card,.item,.tool,details{box-shadow:none;break-inside:avoid}details .ans{display:block}}
+</style>
+</head>
+<body>
+
+<header class="hero"><div class="wrap">
+  <span class="eyebrow"><i></i>Quartel-General · Atualizado em 12/11/2026</span>
+  <h1>QG da <em>Reforma Tributária</em></h1>
+  <p class="sub">Tudo em um só lugar: o que já saiu, o que está para sair, cronograma até 2033, notas técnicas, calculadoras, guia de dúvidas, especialistas e cursos. Apenas fontes oficiais e veículos identificados.</p>
+
+  <div class="hero-grid">
+    <div class="count">
+      <small>CONTAGEM REGRESSIVA · INÍCIO DA COBRANÇA DA CBS</small>
+      <div class="digits">
+        <div class="d"><b id="cd-d">--</b><span>dias</span></div>
+        <div class="d"><b id="cd-h">--</b><span>horas</span></div>
+        <div class="d"><b id="cd-m">--</b><span>min</span></div>
+      </div>
+      <p>01/01/2027: CBS efetiva, IBS simbólico de 0,1% e split payment facultativo entre empresas.</p>
+    </div>
+    <div class="alert">
+      <h4>Prazos que importam agora</h4>
+      <ul>
+        <li><b>Em breve</b><span>2ª versão dos regulamentos de CBS e IBS (Receita: "nos próximos dias")</span></li>
+        <li><b>20/12</b><span>Fim da janela para desistir da opção pelo Simples Híbrido (abre em 03/11)</span></li>
+        <li><b>15/12</b><span>Senado fixa a alíquota de referência da CBS (TCU propôs 11,3%)</span></li>
+        <li><b>14/12</b><span>Regras de rejeição da NT 2026.002 entram em produção</span></li>
+        <li><b>31/12</b><span>Prazo para o Congresso converter a MP do Imposto Seletivo (MP 1.399/2026)</span></li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="kpis">
+    <div class="kpi"><small>Fase atual</small><b>Teste 2026</b><span>CBS 0,9% + IBS 0,1% informativos</span></div>
+    <div class="kpi"><small>CBS 2027 (proposta TCU)</small><b>11,3%</b><span>Decisão final do Senado até 15/12</span></div>
+    <div class="kpi"><small>Imposto Seletivo</small><b>2/2/2027</b><span>Início previsto da cobrança (noventena)</span></div>
+    <div class="kpi"><small>Vigência plena</small><b>2033</b><span>ICMS e ISS extintos</span></div>
+  </div>
+</div></header>
+
+<nav class="top" aria-label="Seções"><div class="wrap" id="menu">
+  <a href="#novidades">Novidades</a><a href="#cronograma">Cronograma</a><a href="#vem-ai">Por vir</a><a href="#legislacao">Legislação</a><a href="#notas">Notas técnicas</a><a href="#temas">Temas-chave</a><a href="#impactos">Impactos</a><a href="#lucro-real">Lucro Real</a><a href="#glossario">Glossário</a><a href="#calc">Calculadoras</a><a href="#faq">Dúvidas</a><a href="#especialistas">Especialistas</a><a href="#cursos">Cursos</a><a href="#fontes">Fontes</a>
+</div></nav>
+
+<main class="wrap">
+
+<!-- NOVIDADES -->
+<section id="novidades">
+  <div class="sh"><div><div class="n">01</div><h2>Central de novidades</h2><p class="lead">Do mais recente para o mais antigo. Itens sem data exata na fonte aparecem como "2026".</p></div>
+    <div class="chips" id="fchips">
+      <button class="chip on" data-f="all">Tudo</button><button class="chip" data-f="lei">Legislação</button><button class="chip" data-f="nt">Notas técnicas</button><button class="chip" data-f="aliq">Alíquotas</button><button class="chip" data-f="pag">Split payment</button><button class="chip" data-f="simples">Simples</button><button class="chip" data-f="cont">Contabilidade</button><button class="chip" data-f="cap">Capacitação</button>
+    </div></div>
+  <div class="live" id="live"><span class="dot"></span><span id="liveTxt">Conectando às novidades automáticas…</span></div>
+  <div class="feed" id="feed">
+
+    <article class="item" data-t="lei aliq pag cont"><div class="when"><b>11</b><span>nov/2026</span></div><div>
+      <span class="tag warn">Novidade</span><h3>Receita anuncia Programa de Conformidade e regra opcional de transição da CBS</h3>
+      <p>Em coletiva no Ministério da Fazenda, o secretário Robinson Barreirinhas anunciou que a empresa poderá apurar a CBS por <b>estimativa dos créditos</b> a que terá direito, com ajuste das diferenças na apuração seguinte. A primeira apuração será em <b>fevereiro de 2027</b>, com 30 dias adicionais para recolher (pagamento definitivo no segundo mês, a depender de projeto de lei complementar a ser enviado ao Congresso). Também foram citados: crédito imediato na compra de bens de capital (máquinas, equipamentos e imóveis), ressarcimento em 30, 60 ou 90 dias conforme a conformidade, caráter orientador na fase inicial e ausência de punição a erros de boa-fé em dúvidas relevantes.</p>
+      <p>Seis novos documentos fiscais passam a ser exigidos só em <b>1º de março de 2027</b> (BP-e TM, BP-e aéreo, NFS-e para plataformas digitais/dados/softwares/conteúdo, DF-e do Simples para venda de mercadorias, NF-e ABI para imóveis e NFS-e de transporte coletivo municipal). O modelo de Crédito Vinculado ao Pagamento (CVP) e o split ficaram mais flexíveis. Segundo a Receita, uma nova versão dos regulamentos sai "nos próximos dias" e normas complementares estão previstas ainda este ano; a primeira versão recebeu quase 5 mil sugestões.</p>
+      <a class="src" href="https://fenacon.org.br/reforma-tributaria/proposta-que-facilita-transicao-tributaria-sera-enviada-ao-congresso/" target="_blank" rel="noopener noreferrer">Fenacon ↗</a><a class="src" href="https://correiodoestado.com.br/economia/2026/11/11/receita-federal-anuncia-prazo-extra-para-pagamento-da-cbs-e-flexibiliza-transicao-da-reforma-tributaria.html" target="_blank" rel="noopener noreferrer">Correio do Estado ↗</a><a class="src" href="https://opovo.com.br/noticias/economia/2026/11/11/reforma-tributaria-governo-apresentara-texto-para-facilitar-adaptacao.html" target="_blank" rel="noopener noreferrer">O Povo ↗</a></div></article>
+
+    <article class="item" data-t="lei aliq"><div class="when"><b>10</b><span>nov/2026</span></div><div>
+      <span class="tag gold">Implementação</span><h3>FPA e outras quatro bancadas entregam 32 pontos à Receita Federal</h3>
+      <p>Pedem ajustes no Decreto 12.955/2026 e na Resolução CGIBS 6/2026: produtor rural não contribuinte (até R$ 3,6 milhões) sem obrigação de emitir nota, ativos biológicos na produção rural, irrigação e estufas como bens de capital desonerados, ressarcimento de IBS mesmo com débitos impugnados. A Receita prometeu resposta a boa parte até o fim de novembro. Também aguardam publicação: lista de insumos agrícolas e de medicamentos com alíquota zero, documento fiscal do produtor rural e alíquota dos biocombustíveis.</p>
+      <a class="src" href="https://agencia.fpagropecuaria.org.br/2026/11/10/fpa-apresenta-demandas-para-implementacao-da-reforma-tributaria" target="_blank" rel="noopener noreferrer">Agência FPA ↗</a></div></article>
+
+    <article class="item" data-t="aliq lei"><div class="when"><b>04</b><span>nov/2026</span></div><div>
+      <span class="tag gold">Imposto Seletivo</span><h3>MP 1.399/2026 fixa as alíquotas do Imposto Seletivo para 2027</h3>
+      <p>Cigarros e cigarrilhas: 66,7% sobre o valor de referência mais R$ 3,50 por vintena. Bebidas alcoólicas: de 4,2% (cerveja de malte) a 24% (destilados). Bebidas açucaradas: 2,6%. Automóveis: base de 6,3% com fatores técnicos. Aeronaves 6,8%, barcos a motor 12%, outras embarcações de recreio 7,8%, concursos de prognósticos 0,5%, outros fumígenos 37,5%. Bens minerais a 0% até 31/12/2027. Caminhões de 3.500 kg ou mais ficam fora. Cobrança a partir de 2/2/2027; projeto com alíquotas de 2028 em diante deve ir ao Congresso até 31/5/2027.</p>
+      <a class="src" href="https://www.taxgroup.com.br/intelligence/cbs-ibs-e-is-entenda-os-novos-impostos-que-nascem-com-a-reforma-tributaria/" target="_blank" rel="noopener noreferrer">Tax Group ↗</a><a class="src" href="https://www.canalrural.com.br/economia/mp-define-aliquotas-do-imposto-seletivo-para-2027/" target="_blank" rel="noopener noreferrer">Canal Rural ↗</a><a class="src" href="https://www.legjur.com/legislacao/htm/mpv_00013992026" target="_blank" rel="noopener noreferrer">Texto da MP (Legjur) ↗</a></div></article>
+
+    <article class="item" data-t="aliq"><div class="when"><b>28</b><span>out/2026</span></div><div>
+      <span class="tag gold">Alíquotas</span><h3>TCU aprova alíquota de referência de 11,3% para a CBS em 2027</h3>
+      <p>O cálculo (11,3468% arredondado) usa 17 módulos da Receita, arrecadação média de 4,99% do PIB dos tributos substituídos (2012–2021) e redutor de 29,3% no hiato de conformidade. Foi enviado ao Senado, que fixa a alíquota por resolução até 15/12. Sem resolução, vale o número do TCU. Não inclui o IBS.</p>
+      <a class="src" href="https://www.congressoemfoco.com.br/noticia/129639/tcu-propoe-aliquota-de-11-3-para-cbs-senado-tera-decisao-final" target="_blank" rel="noopener noreferrer">Congresso em Foco ↗</a><a class="src" href="https://www.legisweb.com.br/noticia/?id=34652" target="_blank" rel="noopener noreferrer">Legisweb ↗</a></div></article>
+
+    <article class="item" data-t="simples"><div class="when"><b>30</b><span>out/2026</span></div><div>
+      <span class="tag">Simples Nacional</span><h3>Encerrou a opção pelo Simples Híbrido (IBS/CBS no regime regular)</h3>
+      <p>Prazo prorrogado de 30/09 para 30/10 pela Resolução CGSN nº 194. A escolha vale a partir de jan/2027, permanece até renúncia formal e pode ser cancelada de 03/11 a 20/12/2026. Em 2027 haverá janelas de opção ou renúncia em março e setembro. Pedidos de ingresso/retorno ao Simples em 2027 iam até 15/10.</p>
+      <a class="src" href="https://www.serpro.gov.br/menu/noticias/noticias-2026/opcao-simples-hibrido" target="_blank" rel="noopener noreferrer">Serpro ↗</a><a class="src" href="https://servicos.receitafederal.gov.br/servico/regime-ibs-cbs" target="_blank" rel="noopener noreferrer">Serviço da Receita ↗</a></div></article>
+
+    <article class="item" data-t="pag"><div class="when"><b>15</b><span>out/2026</span></div><div>
+      <span class="tag">Split payment</span><h3>Receita inicia testes de integração com a Plataforma Pública do Split Payment</h3>
+      <p>Testes em ambiente controlado com prestadores de pagamento; em 16/11 outros prestadores poderão se inscrever. A implantação da CBS deve ser gradual, em ao menos duas etapas, e a primeira pode ser facultativa e restrita a boleto, Pix, TED e TEF.</p>
+      <a class="src" href="https://exame.com/economia/split-payment-da-reforma-tributaria-forca-empresas-a-rever-caixa-e-contratos-desde-ja/" target="_blank" rel="noopener noreferrer">Exame ↗</a></div></article>
+
+    <article class="item" data-t="nt"><div class="when"><b>01</b><span>out/2026</span></div><div>
+      <span class="tag">Nota técnica</span><h3>Ato Conjunto nº 8/2026 aprova novo pacote de notas técnicas da NF-e/NFC-e</h3>
+      <p>Seis documentos: NT 2025.002 v1.52, NT 2026.002 v1.11, NT 2026.007 v1.10, NT 2026.008 v1.00, NT 2026.010 v1.00 e Informe Técnico 2025.002 v1.70. Detalhes na seção Notas técnicas.</p>
+      <a class="src" href="https://www.cgibs.gov.br/upload/arquivos/202610/01120217-nfe-nfc-cte-notas-faturas-e-demais-atc-rfb-sufis-cgibs-diretoria-executiva-n-8-de-29-de-setembro-de-2026.pdf" target="_blank" rel="noopener noreferrer">Ato Conjunto nº 8/2026 (CGIBS) ↗</a></div></article>
+
+    <article class="item" data-t="pag nt"><div class="when"><b>25</b><span>set/2026</span></div><div>
+      <span class="tag">Split payment</span><h3>Ato Técnico Conjunto RFB/CGIBS nº 5/2026 aprova seis documentos do split payment</h3>
+      <p>Operações e integração com sistemas de pagamento, padrões de segurança e de comunicação em rede. Define como o valor do tributo será separado do pagamento ao fornecedor e repassado ao poder público. Uso opcional previsto para 2027 e obrigatório a partir de 2028, ainda dependente de regulamentação.</p>
+      <a class="src" href="https://cbic.org.br/reforma-tributaria-receita-aprova-documentos-tecnicos-do-split-payment/" target="_blank" rel="noopener noreferrer">CBIC ↗</a><a class="src" href="https://netcpa.com.br/colunas/ato-tecnico-conjunto-rfbcgibssuara-no-52026-dispoe-sobre-a-aprovacao-conjunta-da-secretaria-especial-da-receita-federal-do-brasil-rfb-e-do-cgibs-split-payment/28429" target="_blank" rel="noopener noreferrer">NetCPA ↗</a></div></article>
+
+    <article class="item" data-t="cap"><div class="when"><b>22</b><span>set/2026</span></div><div>
+      <span class="tag ok">Capacitação</span><h3>Receita, CFC e Sebrae lançam tira-dúvidas e podcast "Reforma de Fato"; curso RFB/CFC termina com 18 módulos</h3>
+      <p>O pacote inclui materiais para micro e pequenas empresas, guia prático do Sebrae, calculadora de tributos, simulador de Darf da CBS e respostas a fake news. O curso RFB/CFC encerrou em 22/09 com o módulo de casos especiais.</p>
+      <a class="src" href="https://agenciagov.ebc.com.br/noticias/202609/tire-duvidas-reforma-tributaria-com-a-receita-sebrae-contadores" target="_blank" rel="noopener noreferrer">Agência Gov ↗</a></div></article>
+
+    <article class="item" data-t="cont"><div class="when"><b>20</b><span>jul/2026</span></div><div>
+      <span class="tag ok">Contabilidade</span><h3>CFC publica a Orientação Técnica nº 1/2026 sobre contabilização de IBS e CBS</h3>
+      <p>Orientação não vinculante para o período de teste de 2026. IBS e CBS são cobrados por fora e <b>não são receita</b> da entidade: o valor destacado na nota vai para passivo e a receita é reconhecida pelo valor líquido (vínculo com o CPC 47). Créditos de compras são ativos recuperáveis quando atendem aos critérios contábeis, não compõem custo de estoque ou despesa e são classificados em circulante ou não circulante. Reconhecimento por competência, independentemente de pagamento. Sobre 2026, o CFC não impõe resposta única (tributo gerado e dispensado, ou período operacional sem obrigação econômica): recomenda julgamento individual, documentado, com divulgação transparente e controles internos.</p>
+      <a class="src" href="https://www.migalhas.com.br/depeso/461077/orientacao-cfc-01-26-impactos-do-ibs-e-da-cbs" target="_blank" rel="noopener noreferrer">Migalhas ↗</a><a class="src" href="https://www.migalhas.com.br/depeso/460872/cfc-publica-orientacao-sobre-ibs-e-cbs-na-transicao-tributaria" target="_blank" rel="noopener noreferrer">Migalhas (2) ↗</a><a class="src" href="https://www.contadores.cnt.br/noticias/tecnicas/2026/07/21/cfc-publica-orientacao-tecnica-sobre-contabilizacao-de-ibs-e-cbs.html" target="_blank" rel="noopener noreferrer">Contadores.cnt ↗</a></div></article>
+
+    <article class="item" data-t="lei"><div class="when"><b>30</b><span>abr/2026</span></div><div>
+      <span class="tag gold">Regulamentos</span><h3>Primeira versão dos regulamentos de CBS e IBS</h3>
+      <p>Publicada em 30/04/2026 (Decreto 12.955/2026 e Resolução CGIBS 6/2026). Receita e CGIBS receberam 4 mil+ e 847 sugestões, respectivamente. A segunda versão foi prometida para novembro e, em 11/11, a Receita disse que sai "nos próximos dias". Até esta atualização, não localizei publicação.</p>
+      <a class="src" href="https://www.contabeis.com.br/noticias/78181/2a-versao-dos-regulamentos-de-ibs-e-cbs-deve-ser-publicada-em-novembro/" target="_blank" rel="noopener noreferrer">Contábeis ↗</a></div></article>
+
+    <article class="item" data-t="nt"><div class="when"><b>2026</b><span>CGIBS</span></div><div>
+      <span class="tag">Documentação</span><h3>DeRE v1.3.0, Portaria de combustíveis e contrato de crédito do Comitê Gestor</h3>
+      <p>DeRE v1.3.0 aprovada pelo Ato Técnico Conjunto nº 6/2026. Portaria Conjunta define alíquotas uniformes por unidade de medida para combustíveis (CBS em 2027, IBS em 2029). O Comitê Gestor assinou contrato de crédito com a União para financiar a implantação, a ser ressarcido com receitas do IBS.</p>
+      <a class="src" href="https://www.cgibs.gov.br/dere-cgibs-e-receita-federal-publicam-versao-1-3-0-da-documentacao-tecnica-e-disponibilizam-manual-do-usuario" target="_blank" rel="noopener noreferrer">DeRE ↗</a><a class="src" href="https://www.cgibs.gov.br/combustiveis-portaria-conjunta-define-como-serao-calculadas-as-aliquotas-do-ibs-e-da-cbs" target="_blank" rel="noopener noreferrer">Combustíveis ↗</a><a class="src" href="https://www.cgibs.gov.br/comite-gestor-do-ibs-e-uniao-assinam-contrato-de-operacao-de-credito-para-financiar-a-implantacao-do-orgao" target="_blank" rel="noopener noreferrer">Contrato ↗</a></div></article>
+
+    <article class="item" data-t="lei"><div class="when"><b>14</b><span>jan/2026</span></div><div>
+      <span class="tag gold">Legislação</span><h3>Publicada a Lei Complementar nº 227/2026 (PLP 108/2024)</h3>
+      <p>Organiza o Comitê Gestor e a coordenação com a Receita, cria a Câmara Nacional de Integração do Contencioso, o Programa Nacional de Conformidade Tributária (PNCT) e a associação pública para sistemas compartilhados, disciplina o split payment, define a transição de saldos credores de ICMS e altera a LC 214/2025 (plataformas digitais, serviços financeiros, medicamentos, fundos). Houve vetos sujeitos a deliberação do Congresso.</p>
+      <a class="src" href="https://www2.camara.leg.br/legin/fed/leicom/2026/leicomplementar-227-13-janeiro-2026-798657-norma-pl.html" target="_blank" rel="noopener noreferrer">Texto (Câmara) ↗</a><a class="src" href="https://www.mattosfilho.com.br/unico/lc-227-reforma-tributaria/" target="_blank" rel="noopener noreferrer">Análise Mattos Filho ↗</a></div></article>
+
+    <article class="item" data-t="cap"><div class="when"><b>09</b><span>dez/2025</span></div><div>
+      <span class="tag ok">Capacitação</span><h3>Enap lança curso gratuito sobre a reforma na Escola Virtual de Governo</h3>
+      <p>Parceria com Sefaz-CE, Comsefaz e FNP, voltada a servidores e interessados.</p>
+      <a class="src" href="https://www.escolavirtual.gov.br/curso/1425" target="_blank" rel="noopener noreferrer">Página do curso ↗</a></div></article>
+  </div>
+</section>
+
+<!-- CRONOGRAMA -->
+<section id="cronograma">
+  <div class="sh"><div><div class="n">02</div><h2>Cronograma de transição</h2><p class="lead">CBS entra primeiro e o IBS substitui ICMS e ISS gradualmente entre 2029 e 2033.</p></div></div>
+  <div class="road">
+    <div class="yr now"><b>2026</b><small>Teste<br>0,9% + 0,1%</small></div>
+    <div class="yr"><b>2027</b><small>CBS efetiva<br>IS · fim PIS/Cofins</small></div>
+    <div class="yr"><b>2028</b><small>CBS · IBS 0,1%<br>split obrigatório*</small></div>
+    <div class="yr"><b>2029</b><small>IBS 10%<br>ICMS/ISS 90%</small></div>
+    <div class="yr"><b>2030</b><small>IBS 20%<br>ICMS/ISS 80%</small></div>
+    <div class="yr"><b>2031</b><small>IBS 30%<br>ICMS/ISS 70%</small></div>
+    <div class="yr"><b>2032</b><small>IBS 40%<br>ICMS/ISS 60%</small></div>
+    <div class="yr"><b>2033</b><small>Vigência plena<br>ICMS/ISS extintos</small></div>
+  </div>
+  <div class="scroll"><table>
+    <tr><th>Ano</th><th>CBS (federal)</th><th>IBS (estados e municípios)</th><th>PIS/Cofins, ICMS, ISS, IPI</th><th>Imposto Seletivo</th></tr>
+    <tr class="now"><td>2026</td><td>Destaque informativo 0,9%</td><td>Destaque informativo 0,1%</td><td>Mantidos; valores de teste compensados no PIS/Cofins</td><td>Não aplicado</td></tr>
+    <tr><td>2027–2028</td><td>Cobrança efetiva (alíquota de referência 11,3% proposta pelo TCU para 2027)</td><td>0,1% (0,05% estadual + 0,05% municipal)</td><td>PIS/Cofins extintos; IPI zerado (exceto ZFM)</td><td>Em vigor (cobrança a partir de 2/2/2027)</td></tr>
+    <tr><td>2029</td><td>100%</td><td>10% da alíquota plena</td><td>ICMS e ISS a 90%</td><td>Em vigor</td></tr>
+    <tr><td>2030</td><td>100%</td><td>20%</td><td>ICMS e ISS a 80%</td><td>Em vigor</td></tr>
+    <tr><td>2031</td><td>100%</td><td>30%</td><td>ICMS e ISS a 70%</td><td>Em vigor</td></tr>
+    <tr><td>2032</td><td>100%</td><td>40%</td><td>ICMS e ISS a 60%</td><td>Em vigor</td></tr>
+    <tr><td>2033</td><td>Vigência plena</td><td>Vigência plena</td><td>ICMS e ISS extintos</td><td>Em vigor</td></tr>
+  </table></div>
+  <p class="mini">* A obrigatoriedade do split payment em 2028 é tratada pela imprensa como previsão, ainda sem norma que a defina. Fontes: <a href="https://www.taxgroup.com.br/intelligence/cbs-ibs-e-is-entenda-os-novos-impostos-que-nascem-com-a-reforma-tributaria/" target="_blank" rel="noopener noreferrer">Tax Group</a>, <a href="https://jornalcontabil.com.br/noticia/reforma-tributaria-cronograma-e-acoes-a-se-tomar-ainda-em-2026/" target="_blank" rel="noopener noreferrer">Jornal Contábil</a>, <a href="https://infomoney.com.br/guias/reforma-tributaria-guia-completo-sobre-ibs-cbs-e-o-que-muda" target="_blank" rel="noopener noreferrer">InfoMoney</a>. Confirme na LC 214/2025.</p>
+</section>
+
+<!-- O QUE VEM -->
+<section id="vem-ai">
+  <div class="sh"><div><div class="n">03</div><h2>O que ainda está por vir</h2><p class="lead">Ordem cronológica de marcos pendentes.</p></div></div>
+  <div class="grid">
+    <div class="card"><span class="tag warn">Fim de nov/2026</span><h3>Respostas da Receita às demandas da FPA</h3><p>Podem alterar o regulamento da CBS (Decreto 12.955/2026) e o do IBS (Resolução CGIBS 6/2026).</p></div>
+    <div class="card"><span class="tag warn">Iminente</span><h3>2ª versão dos regulamentos de CBS e IBS</h3><p>Em 11/11 a Receita disse que sai "nos próximos dias", com normas complementares ainda em 2026. Primeira versão: 30/04/2026. Não há publicação confirmada até esta atualização.</p></div>
+    <div class="card"><span class="tag warn">A enviar</span><h3>PLP da regra opcional de transição da CBS</h3><p>Apuração por estimativa de créditos, com ajuste no mês seguinte e prazo extra de 30 dias. Sem número do projeto nem data de envio informados.</p></div>
+    <div class="card"><span class="tag gold">Jan–fev/2027</span><h3>Documentos fiscais em janeiro e 1ª apuração da CBS em fevereiro</h3><p>Seis novos documentos fiscais só em 01/03/2027.</p></div>
+    <div class="card"><span class="tag warn">16/11/2026</span><h3>Novos prestadores nos testes do split</h3><p>Outros prestadores de pagamento poderão se inscrever nos testes da plataforma.</p></div>
+    <div class="card"><span class="tag warn">14/12/2026</span><h3>NT 2026.002 em produção</h3><p>Rejeição de NF-e de saída que referencie NFC-e, CF-e ou DANFE Simplificado Tipo 2.</p></div>
+    <div class="card"><span class="tag warn">15/12/2026</span><h3>Resolução do Senado: alíquota da CBS</h3><p>Sem resolução até 22/12, vale o cálculo do TCU (11,3%).</p></div>
+    <div class="card"><span class="tag warn">Dez/2026</span><h3>DANFE com IBS/CBS/IS</h3><p>NT 2026.010: ERPs devem atualizar impressão e PDF.</p></div>
+    <div class="card"><span class="tag warn">31/12/2026</span><h3>Conversão da MP 1.399/2026</h3><p>Prazo para o Congresso converter em lei a MP do Imposto Seletivo.</p></div>
+    <div class="card"><span class="tag gold">01/01/2027</span><h3>Início da CBS</h3><p>PIS/Cofins extintos, IPI zerado (exceto ZFM), IBS de 0,1% e split facultativo entre empresas.</p></div>
+    <div class="card"><span class="tag gold">2/2/2027</span><h3>Cobrança do Imposto Seletivo</h3><p>Respeita a noventena da MP.</p></div>
+    <div class="card"><span class="tag gold">31/05/2027</span><h3>Projeto de lei do IS 2028+</h3><p>Executivo deve enviar ao Congresso as alíquotas de 2028 em diante.</p></div>
+    <div class="card"><span class="tag gold">Mar e set/2027</span><h3>Janelas do Simples Híbrido</h3><p>Opção ou renúncia; opção de março vale no 2º semestre.</p></div>
+    <div class="card"><span class="tag gold">Set/2027</span><h3>GTIN em materiais de construção</h3><p>Rejeição em produção prevista (NT 2021.003 v1.50).</p></div>
+    <div class="card"><span class="tag">2028</span><h3>Split payment obrigatório (previsão)</h3><p>Ainda sem norma que o defina.</p></div>
+    <div class="card"><span class="tag">Pendente</span><h3>Atos complementares</h3><p>Insumos agrícolas e medicamentos com alíquota zero, documento do produtor rural, crédito presumido para não contribuintes e autônomos, biocombustíveis, regimes especiais e ressarcimento de IBS.</p></div>
+    <div class="card"><span class="tag">2029–2033</span><h3>Transição do IBS</h3><p>10%, 20%, 30%, 40% e vigência plena; cashback do IBS desde 2029.</p></div>
+  </div>
+</section>
+
+<!-- LEGISLAÇÃO -->
+<section id="legislacao">
+  <div class="sh"><div><div class="n">04</div><h2>Legislação e normas em vigor</h2></div></div>
+  <div class="grid">
+    <div class="card"><span class="tag gold">Constituição</span><h3>Emenda Constitucional nº 132/2023</h3><p>Cria IBS, CBS e Imposto Seletivo e institui o IVA dual.</p><a class="go ghost" href="https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc132.htm" target="_blank" rel="noopener noreferrer">Planalto ↗</a></div>
+    <div class="card"><span class="tag gold">Lei Complementar</span><h3>LC nº 214/2025</h3><p>Primeira regulamentação: fato gerador, créditos, regimes específicos, Imposto Seletivo, transição.</p><a class="go ghost" href="https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp214.htm" target="_blank" rel="noopener noreferrer">Planalto ↗</a></div>
+    <div class="card"><span class="tag gold">Lei Complementar</span><h3>LC nº 227/2026</h3><p>Segunda regulamentação: Comitê Gestor, contencioso, split payment, ajustes à LC 214.</p><a class="go ghost" href="https://legis.senado.leg.br/norma/42042119" target="_blank" rel="noopener noreferrer">Senado ↗</a></div>
+    <div class="card"><span class="tag warn">Medida Provisória</span><h3>MP nº 1.399/2026</h3><p>Alíquotas do Imposto Seletivo para 2027; vigência condicionada à conversão em lei.</p><a class="go ghost" href="https://www.legjur.com/legislacao/htm/mpv_00013992026" target="_blank" rel="noopener noreferrer">Texto ↗</a></div>
+    <div class="card"><span class="tag">Decreto</span><h3>Decreto nº 12.955/2026</h3><p>Regulamento da CBS.</p></div>
+    <div class="card"><span class="tag">Resolução</span><h3>Resolução CGIBS nº 6/2026</h3><p>Regulamento do IBS.</p><a class="go ghost" href="https://www.cgibs.gov.br/resolucoes" target="_blank" rel="noopener noreferrer">Resoluções ↗</a></div>
+    <div class="card"><span class="tag">Portaria</span><h3>Portaria Conjunta MF/CGIBS nº 7/2026</h3><p>Disposições comuns a CBS e IBS.</p><a class="go ghost" href="https://www.cgibs.gov.br/atos-conjuntos" target="_blank" rel="noopener noreferrer">Atos conjuntos ↗</a></div>
+    <div class="card"><span class="tag">Resolução CGSN</span><h3>Resolução CGSN nº 194</h3><p>Prorrogou a opção do Simples Híbrido para 30/10/2026.</p></div>
+  </div>
+</section>
+
+<!-- NOTAS TECNICAS -->
+<section id="notas">
+  <div class="sh"><div><div class="n">05</div><h2>Notas técnicas de documentos fiscais</h2><p class="lead">Pacote do Ato Conjunto nº 8/2026. Os PDFs estão hospedados no Portal da Reforma Tributária (veículo privado); confirme a versão vigente no portal oficial da NF-e.</p></div></div>
+  <input class="search" id="q" type="search" placeholder="Filtrar notas técnicas (ex.: DANFE, GTIN, 2026.008, split)">
+  <div id="nts">
+    <details><summary>NT 2025.002 v1.52 · NF-e IBS/CBS/IS (Regras de Negócio RTC)</summary><div class="ans"><p>Verificação de que a nota original de devolução é de saída (VC02-50) e adiamento para 03/11 da regra que exige referenciar a nota de origem apenas por item (VC02-14).</p><a class="src" href="https://www.reformatributaria.com/wp-content/uploads/2026/10/NT_2025.002_v1.52_RTC_NF-e_IBS_CBS_IS.pdf" target="_blank" rel="noopener noreferrer">PDF ↗</a></div></details>
+    <details><summary>NT 2026.002 v1.11 · DANFE Simplificado Tipo 2, emissão offline</summary><div class="ans"><p>Adia para 14/12 as regras que rejeitam NF-e de saída referenciando NFC-e, CF-e ou DANFE Simplificado Tipo 2.</p><a class="src" href="https://www.reformatributaria.com/wp-content/uploads/2026/10/NT_2026.002_v1.11_DANFE_Simpl_Tp2_Emi_Offline_Autoriz_Alerta.pdf" target="_blank" rel="noopener noreferrer">PDF ↗</a></div></details>
+    <details><summary>NT 2026.007 v1.10 · NF-e sem IE e RV LCC</summary><div class="ans"><p>Ajusta o ambiente de homologação para simular emissões com regras de IBS/CBS sem inscrição estadual.</p><a class="src" href="https://www.reformatributaria.com/wp-content/uploads/2026/10/NT2026.007_v1.10-Emissao-NF-e-sem-IE-e-RV-LCC.pdf" target="_blank" rel="noopener noreferrer">PDF ↗</a></div></details>
+    <details><summary>NT 2026.008 v1.00 · Valor líquido do produto</summary><div class="ans"><p>A partir de 2027, IBS, CBS e IS compõem o valor total do produto, mas não as próprias bases (cálculo por fora). Novos campos de valor líquido e de ICMS em pagamento antecipado.</p><a class="src" href="https://www.reformatributaria.com/wp-content/uploads/2026/10/NT_2026.008_v1.00_RTC_ValorLiquidoProduto.pdf" target="_blank" rel="noopener noreferrer">PDF ↗</a></div></details>
+    <details><summary>NT 2026.010 v1.00 · DANFE RTC</summary><div class="ans"><p>Layout do DANFE com totais e detalhes de IBS, CBS e IS. ERPs devem adequar até dezembro/2026.</p><a class="src" href="https://www.reformatributaria.com/wp-content/uploads/2026/10/NFe_NT_2026.010_v1_00_DANFE_RTC.pdf" target="_blank" rel="noopener noreferrer">PDF ↗</a></div></details>
+    <details><summary>Informe Técnico 2025.002 v1.70 · Tabelas cClassTrib, CST e cCredPres</summary><div class="ans"><p>Classificações de IBS e CBS. O enquadramento em regimes específicos é registrado no cClassTrib.</p><a class="src" href="https://www.reformatributaria.com/wp-content/uploads/2026/10/IT-2025.002-v.1.70-Tabelas-de-Classificacao-do-IBS-e-da-CBS.pdf" target="_blank" rel="noopener noreferrer">PDF ↗</a></div></details>
+    <details><summary>NT 2021.003 v1.50 · Validação de GTIN (Grupo V)</summary><div class="ans"><p>Publicada em 25/09. GTIN obrigatório em materiais de construção; rejeição em produção prevista para set/2027.</p><a class="src" href="https://www.reformatributaria.com/wp-content/uploads/2026/10/NT2021.003_v1_50-Validacao-GTIN-Grupo-V.pdf" target="_blank" rel="noopener noreferrer">PDF ↗</a></div></details>
+    <details><summary>NT 2023.003 v1.40 · CFOP em NFC-e</summary><div class="ans"><p>Publicada em 24/09. Inclui o Amazonas nas exceções do CFOP 5.949 (gorjetas).</p><a class="src" href="https://www.reformatributaria.com/wp-content/uploads/2026/10/NT_2023.003_v1.40_CFOP_NFCe.pdf" target="_blank" rel="noopener noreferrer">PDF ↗</a></div></details>
+    <details><summary>Ato Técnico Conjunto RFB/CGIBS nº 5/2026 · Split payment (6 documentos)</summary><div class="ans"><p>Aprova manuais de operações e integração com sistemas de pagamento, segurança e comunicação em rede. Permite atualizações sequenciais no Manual de Habilitação de Participantes.</p><a class="src" href="https://cbic.org.br/reforma-tributaria-receita-aprova-documentos-tecnicos-do-split-payment/" target="_blank" rel="noopener noreferrer">CBIC ↗</a></div></details>
+    <details><summary>DeRE v1.3.0 · Ato Técnico Conjunto nº 6/2026</summary><div class="ans"><p>Documentação técnica atualizada e Manual do Usuário (MOD).</p><a class="src" href="https://www.cgibs.gov.br/dere-cgibs-e-receita-federal-publicam-versao-1-3-0-da-documentacao-tecnica-e-disponibilizam-manual-do-usuario" target="_blank" rel="noopener noreferrer">CGIBS ↗</a></div></details>
+  </div>
+  <a class="go" href="https://www.nfe.fazenda.gov.br/portal/principal.aspx" target="_blank" rel="noopener noreferrer">Portal Nacional da NF-e ↗</a>
+  <a class="go ghost" href="https://www.cgibs.gov.br/atos-tecnicos-conjuntos" target="_blank" rel="noopener noreferrer">Atos Técnicos Conjuntos (CGIBS) ↗</a>
+</section>
+
+<!-- TEMAS -->
+<section id="temas">
+  <div class="sh"><div><div class="n">06</div><h2>Temas-chave em resumo</h2><p class="lead">O essencial de cada assunto, sem rodeios.</p></div></div>
+  <div class="grid">
+    <div class="card"><span class="tag gold">Modelo</span><h3>IVA dual: CBS + IBS</h3><p>CBS (federal) substitui PIS e Cofins. IBS (estados e municípios) substitui ICMS e ISS. Cobrança no destino, não cumulatividade plena e crédito amplo, calculado por fora (imposto não compõe a própria base).</p></div>
+    <div class="card"><span class="tag gold">Imposto Seletivo</span><h3>IS: lista fechada e uma única incidência</h3><p>Cigarros e fumígenos, bebidas alcoólicas e açucaradas, veículos, embarcações e aeronaves, bens minerais extraídos e concursos de prognósticos. Fica fora do IVA, não gera crédito, mas integra a base de IBS e CBS.</p></div>
+    <div class="card"><span class="tag gold">Créditos</span><h3>Crédito financeiro amplo</h3><p>Crédito nasce quando o fornecedor confirma o pagamento do tributo, não na entrada da nota. Vedado para uso pessoal, a maioria de brindes e representação e operações isentas. Crédito de IBS só abate IBS; de CBS só abate CBS. Fonte: Tax Radar.</p></div>
+    <div class="card"><span class="tag gold">Alíquotas</span><h3>Reduções e zero</h3><p>Redução de 60%: educação, saúde, medicamentos, alimentos e transporte público coletivo urbano. Redução de 30%: profissões intelectuais regulamentadas. Alíquota zero: Cesta Básica Nacional. Trava de 26,5% aciona revisão de benefícios, mas não é teto automático.</p></div>
+    <div class="card"><span class="tag gold">Split payment</span><h3>Imposto separado na liquidação</h3><p>Banco ou adquirente segrega IBS/CBS no pagamento. Elimina o intervalo de 30 a 40 dias entre venda e recolhimento. Doze arranjos de pagamento previstos; parcelados têm split por parcela; estorno em até 3 dias úteis. Setores com poucos créditos (varejo, bares e restaurantes, e-commerce) sentem mais.</p></div>
+    <div class="card"><span class="tag gold">Simples e MEI</span><h3>Escolhas de regime</h3><p>Simples pode ficar no DAS (sem repassar crédito integral) ou optar pelo regime regular (Simples Híbrido). MEI permanece com DAS fixo. Nanoempreendedor não é contribuinte. Compradores só creditam o que o optante pagou no DAS.</p></div>
+    <div class="card"><span class="tag gold">Cashback</span><h3>Devolução para baixa renda</h3><p>CadÚnico com renda até meio salário mínimo per capita. Gás de botijão, energia, água, esgoto, gás canalizado e telecom: 100% da CBS e 20% do IBS. Demais compras: 20% de cada. CBS a partir de 2027; IBS a partir de 2029.</p></div>
+    <div class="card"><span class="tag gold">Transição de créditos</span><h3>PIS/Cofins e ICMS</h3><p>Créditos legados de PIS/Cofins seguem válidos e são usados antes da CBS. Cumulativos têm crédito presumido de 9,25% sobre estoque de 31/12/2026 em 12 parcelas desde 2027 (fonte: Tax Radar; valide na LC 214). Saldo de ICMS segue cronograma de 240 meses.</p></div>
+    <div class="card"><span class="tag gold">Documentos fiscais</span><h3>Escalonamento de obrigações</h3><p>NF-e/NFC-e (ago/2026), NFS-e (out/2026), NFS-e de optantes do Simples pelo Emissor Nacional (nov/2026), informações de IBS/CBS para o Simples (jan/2027). Em 2026 o destaque é informativo; quem cumpre acessórias é dispensado do recolhimento.</p></div>
+  </div>
+</section>
+
+<!-- IMPACTOS -->
+<section id="impactos">
+  <div class="sh"><div><div class="n">07</div><h2>Impactos contábeis, financeiros e econômicos</h2><p class="lead">Leitura prática por área. Pontos contábeis baseados na Orientação Técnica CFC nº 1/2026 (não vinculante) e em fontes de contadores; valide com o contador e com o auditor.</p></div></div>
+  <div class="cols">
+    <div class="card"><span class="tag gold">Contábil</span><h3>Reconhecimento e demonstrações</h3>
+      <ul>
+        <li><b>Receita:</b> pela Orientação Técnica CFC nº 1/2026 (não vinculante), IBS e CBS são cobrados por fora e não são receita da entidade: o valor destacado vai para passivo e a receita é reconhecida pelo valor líquido (CPC 47). O efeito sobre o conceito fiscal de receita bruta ainda é debatido.</li>
+        <li><b>Custo de aquisição:</b> tributo recuperável (crédito amplo de IBS/CBS) não compõe o custo do estoque, do imobilizado nem do serviço. Hoje o ICMS e o PIS/Cofins já seguem essa lógica; o que muda é a amplitude do crédito, que alcança uso e consumo e serviços antes sem crédito.</li>
+        <li><b>Ativos fiscais:</b> créditos legados de PIS/Cofins (compensáveis por 60 meses, segundo o Tax Radar) e saldos de ICMS (cronograma de 240 meses) pedem controle por origem, vencimento e teste de recuperabilidade.</li>
+        <li><b>Crédito presumido de estoque:</b> 9,25% sobre estoque de 31/12/2026 para quem estava no cumulativo, em 12 parcelas, exige inventário conciliado e documentado (fonte: Tax Radar).</li>
+        <li><b>Contas de transição:</b> a literatura de mercado recomenda contas patrimoniais e de resultado separadas para IBS e CBS, para créditos do modelo antigo e para o destaque informativo de 2026.</li>
+        <li><b>Contingências:</b> teses e autuações sob regras antigas seguem o CPC 25; a Câmara Nacional de Integração do Contencioso (LC 227/2026) tende a uniformizar o entendimento administrativo.</li>
+      </ul></div>
+    <div class="card"><span class="tag gold">Financeiro</span><h3>Caixa, capital de giro e contratos</h3>
+      <ul>
+        <li><b>Split payment:</b> o imposto sai na liquidação do pagamento, e o fornecedor recebe valor líquido. Acaba o intervalo de 30 a 40 dias entre venda e recolhimento. Simulação da NimbusTax (Exame): custo financeiro de 0,13% a 0,42% do faturamento para varejista de R$ 2 milhões/mês, o que pode consumir de 3% a mais de 20% do lucro com margens de 2% a 4%.</li>
+        <li><b>Crédito condicionado:</b> o crédito do comprador depende do recolhimento pelo fornecedor. Inadimplência tributária do fornecedor vira risco de custo para quem compra.</li>
+        <li><b>Ressarcimento:</b> saldos credores acumulados (exportadores, quem vende com alíquota zero, investimentos) podem ser ressarcidos em prazos legais de 60 a 180 dias, conforme o perfil de conformidade. IBS depende de regras do Comitê Gestor ainda por definir.</li>
+        <li><b>Contratos:</b> cláusulas com "impostos inclusos" sem listar tributos e ausência de reequilíbrio por mudança tributária geram disputa. Revise contratos que atravessam 2027.</li>
+        <li><b>Parcelados e devoluções:</b> split por parcela; estorno do imposto em até 3 dias úteis, procedimento ainda não testado na prática.</li>
+        <li><b>Conciliação:</b> baixa de contas a receber precisa separar valor bruto, imposto retido e líquido recebido; cadastro incorreto de pagador/recebedor pode bloquear pagamento.</li>
+      </ul></div>
+    <div class="card"><span class="tag gold">Econômico</span><h3>Efeitos sobre preços, setores e arrecadação</h3>
+      <ul>
+        <li><b>Meta de neutralidade:</b> a alíquota de referência é calibrada para manter a arrecadação dos tributos substituídos. O TCU usou média de 4,99% do PIB (2012–2021) e redutor de 29,3% no hiato de conformidade, ou seja, parte da arrecadação virá de melhor cumprimento.</li>
+        <li><b>Fim da cascata:</b> o crédito amplo tende a reduzir o custo tributário embutido em cadeias longas e favorece quem investe e exporta (exportação com crédito mantido).</li>
+        <li><b>Setores com mais pressão:</b> serviços intensivos em mão de obra (poucos créditos), varejo, bares e restaurantes e e-commerce, por causa do split. Setores favorecidos: exportadores e capital intensivo.</li>
+        <li><b>Preços:</b> a transição é longa (2026–2033) e os efeitos sobre preços, renda e emprego não estão no cálculo do TCU. O repasse ao consumidor varia por setor e concorrência.</li>
+        <li><b>Federalismo:</b> com o princípio do destino, a receita do IBS migra para onde se consome; fundos de compensação (FCBF) e de desenvolvimento regional (FNDR) acompanham a transição. Mecanismo de revisão se a soma de IBS e CBS passar de 26,5%.</li>
+        <li><b>Competitividade:</b> redução da guerra fiscal do ICMS, IPI zerado em 2027 (exceto ZFM) e simplificação de obrigações acessórias.</li>
+      </ul></div>
+  </div>
+
+  <div class="grid" style="margin-top:16px">
+    <div class="card"><span class="tag">Custos e Compras</span><h3>Como isso entra na formação de custo</h3>
+      <ul><li>Custo líquido de material = preço de compra menos IBS/CBS creditável. Fornecedor do Simples credita só o valor pago no DAS, então o custo líquido pode ser maior que o de fornecedor do regime regular com mesmo preço nominal.</li>
+      <li>Revise lista de preços e orçamentos: trabalhe com preço sem tributo (base) e some IBS/CBS por fora.</li>
+      <li>Revise estrutura de custo de itens com ICMS/PIS/Cofins embutidos e critérios de crédito (uso e consumo, serviços).</li></ul></div>
+    <div class="card"><span class="tag">Fiscal e TI</span><h3>Adequações de sistema</h3>
+      <ul><li>Cadastro de produtos: NCM, cClassTrib, CST e cCredPres por item.</li><li>Emissão de NF-e, NFC-e e NFS-e com campos de IBS/CBS/IS, valor líquido do produto e novo DANFE (dez/2026).</li><li>Referência de documentos (devoluções) e regras de rejeição com datas adiadas.</li><li>Parâmetros de split e conciliação financeira com bancos e adquirentes.</li></ul></div>
+    <div class="card"><span class="tag">Planejamento</span><h3>Decisões de 2026–2027</h3>
+      <ul><li>Simples: manter DAS ou migrar ao regime regular (janelas em mar/set de 2027).</li><li>Lucro presumido: efeito de sair do PIS/Cofins de 3,65% para o regime regular de IBS/CBS.</li><li>Capital de giro: dimensionar o custo do split (calculadora 3).</li><li>Contratos de longo prazo e cláusulas de reequilíbrio.</li></ul></div>
+  </div>
+  <div class="note">Os números de mercado citados (NimbusTax, Tax Radar, TCU) são estimativas das fontes indicadas e podem mudar com a conversão da MP 1.399/2026, a resolução do Senado e novos regulamentos.</div>
+</section>
+
+<!-- LUCRO REAL -->
+<section id="lucro-real">
+  <div class="sh"><div><div class="n">08</div><h2>Lucro Real: apuração e impactos contábeis</h2><p class="lead">Roteiro para quem apura IRPJ e CSLL pelo Lucro Real, organizado a partir da ementa do curso de Apuração do Lucro Real 2026 (Treinario, 22 e 23/10/2026) que você anexou, cruzada com a Orientação Técnica CFC nº 1/2026 e artigos de contadores.</p></div></div>
+  <div class="grid">
+    <div class="card"><span class="tag ok">Contabilidade</span><h3>O que não muda</h3>
+      <ul><li>IRPJ e CSLL continuam apurados sobre o lucro contábil ajustado por adições e exclusões, com LALUR/LACS (e-LALUR), estimativa mensal ou trimestral e ajuste anual.</li>
+      <li>Regras de compensação de prejuízo fiscal e base negativa da CSLL, ECF e demais obrigações seguem, segundo artigos de contadores (limite de 30% citado pela Escola Superior).</li>
+      <li>A escolha entre real e presumido passa a importar só para IRPJ/CSLL, já que ambos entram no regime regular de IBS/CBS (opinião de Moises Coimbra, Portal da Reforma Tributária, jun/2025).</li></ul></div>
+    <div class="card"><span class="tag gold">Muda</span><h3>PIS/Cofins não cumulativo vira CBS + IBS</h3>
+      <ul><li>Em 01/01/2027, PIS/Cofins (9,25% no não cumulativo) são extintos; entram CBS e IBS.</li>
+      <li>Crédito financeiro amplo substitui o debate sobre "insumo", mas exige documentação e integração de sistemas (Avalara).</li>
+      <li>Crédito legado de PIS/Cofins segue válido e é usado antes da CBS.</li>
+      <li>Margens oscilam com o novo IVA e afetam indiretamente o lucro tributável (Avalara). Monte DRE em versões antigo x novo regime.</li></ul></div>
+    <div class="card"><span class="tag ok">CFC OT 1/2026</span><h3>Regras de contabilização</h3>
+      <ul><li><b>Receita:</b> IBS/CBS por fora não são receita; passivo pelo valor destacado e receita líquida (CPC 47).</li>
+      <li><b>Créditos:</b> ativo recuperável se houver controle e benefício econômico futuro; contas separadas para créditos sujeitos a validação; sem integrar custo de estoque ou despesa, salvo vedação legal; circulante ou não circulante conforme a realização.</li>
+      <li><b>Competência:</b> reconhecimento independe do pagamento; reconcilie contabilidade, fiscal e caixa.</li>
+      <li><b>Split payment:</b> caixa recebido pode ser menor que o faturado; impacta conciliação, contas a receber e projeção de caixa.</li>
+      <li><b>Reembolsos:</b> valores pagos por conta de terceiros podem exigir tratamento distinto; a orientação não fixa critério.</li></ul></div>
+    <div class="card"><span class="tag warn">Decisão de 2026</span><h3>Reconhecer ou não IBS/CBS no ano de teste</h3>
+      <ul><li>O CFC apresenta duas leituras: tributo que nasce e é dispensado, ou período operacional sem obrigação econômica real.</li>
+      <li>Recomenda julgamento individual, fundamentação documentada, divulgação transparente e controles internos.</li>
+      <li>Na prática, cada entidade precisa ter <b>política contábil formalmente definida até o fim do exercício</b> e discutida com a auditoria.</li></ul></div>
+    <div class="card"><span class="tag warn">Em aberto</span><h3>Efeitos fiscais sobre IRPJ/CSLL</h3>
+      <ul><li>A OT é só contábil: não altera LC 214/2025, IRPJ, CSLL ou CPRB.</li>
+      <li>Discute-se se IBS/CBS entram na base do Lucro Presumido (arts. 15 e 20 da Lei 9.249/1995; precedente do STJ no Tema 1.008 sobre ICMS, em que a relatora ficou vencida). Esse debate não trata do Lucro Real.</li>
+      <li>Aguarde posição da Receita e do Judiciário; não há ato oficial citado nas fontes.</li></ul></div>
+    <div class="card"><span class="tag">Escrituração</span><h3>Plano de contas e obrigações</h3>
+      <ul><li>Crie contas separadas para CBS, IBS, créditos legados (PIS/Cofins, ICMS), crédito presumido e conta de transição.</li>
+      <li>Mantenha SPED Contábil, EFD-Contribuições (enquanto houver PIS/Cofins), ECF, LALUR/LACS; acompanhe as novas obrigações de IBS/CBS.</li>
+      <li>Retenções, PER/DCOMP de saldo negativo e controle de subcontas seguem rotina de fechamento.</li></ul></div>
+  </div>
+
+  <h3 style="margin:22px 0 10px;color:var(--navy)">Comparativo de regimes após 2027</h3>
+  <div class="scroll"><table>
+    <tr><th>Item</th><th>Lucro Real</th><th>Lucro Presumido</th><th>Simples Nacional</th></tr>
+    <tr><td>IRPJ/CSLL</td><td>Lucro contábil ajustado (LALUR/LACS); permite compensar prejuízos</td><td>Percentual presumido sobre a receita bruta (ex.: 8% comércio, 32% serviços)</td><td>Dentro do DAS</td></tr>
+    <tr><td>IBS/CBS</td><td>Regime regular, crédito amplo</td><td>Regime regular, crédito amplo (deixa o PIS/Cofins de 3,65%)</td><td>No DAS, sem repassar crédito integral; ou regime regular (Simples Híbrido)</td></tr>
+    <tr><td>Complexidade contábil</td><td>Alta: ECF, e-LALUR, controle de créditos</td><td>Média: controle de créditos e split</td><td>Baixa, mas com decisão sobre híbrido</td></tr>
+    <tr><td>Vantagem típica</td><td>Margem baixa ou volátil, uso de prejuízos</td><td>Margem alta com receita previsível</td><td>Pequeno porte, simplificação</td></tr>
+  </table></div>
+  <p class="mini">Simule a carga entre regimes antes de decidir (Escola Superior de Negócios recomenda comparar real, presumido e Simples; artigo de natureza promocional, confira alíquotas na legislação).</p>
+
+  <h3 style="margin:22px 0 10px;color:var(--navy)">Checklist de fechamento 2026 (Lucro Real)</h3>
+  <div class="grid">
+    <div class="card"><ul><li>Definir e documentar a política contábil de IBS/CBS no ano de teste.</li><li>Conciliar saldos de crédito de PIS/Cofins que serão usados contra a CBS em 2027.</li><li>Mapear saldos de ICMS e prazos de aproveitamento.</li></ul></div>
+    <div class="card"><ul><li>Revisar plano de contas, ERP e integração fiscal (NF-e com IBS/CBS, NT 2026.008 e 2026.010).</li><li>Preparar conciliação de split payment e baixa de contas a receber líquida.</li><li>Atualizar projeções de caixa com custo financeiro do split.</li></ul></div>
+    <div class="card"><ul><li>Rodar DRE nas duas versões (regime atual e novo) e estimar efeito em IRPJ/CSLL.</li><li>Revisar contratos com cláusula de reequilíbrio tributário.</li><li>Alinhar notas explicativas e divulgação com auditoria.</li></ul></div>
+  </div>
+  <div class="note">Fontes: <a href="https://www.migalhas.com.br/depeso/461077/orientacao-cfc-01-26-impactos-do-ibs-e-da-cbs" target="_blank" rel="noopener noreferrer">Migalhas (OT CFC 01/26)</a> · <a href="https://site.avalarabrasil.com.br/reforma-tributaria/reforma-tributaria-e-lucro-real/" target="_blank" rel="noopener noreferrer">Avalara</a> · <a href="https://escolasuperioresn.com.br/reforma-tributaria-2026-cbs-ibs-lucro-real/" target="_blank" rel="noopener noreferrer">Escola Superior de Negócios</a> · <a href="https://www.reformatributaria.com/opiniao/lucro-presumido-e-lucro-real-como-fica-a-apuracao-com-a-reforma-tributaria/" target="_blank" rel="noopener noreferrer">Portal da Reforma Tributária</a> · <a href="https://www.dsfadvogados.com.br/blog/primeiros-litigios-da-reforma-tributaria-inclusao-do-ibs-e-da-cbs-na-base-de-calculo-do-irpjcsll-apurados-pelo-lucro-presumido" target="_blank" rel="noopener noreferrer">DSF Advogados</a>. São veículos privados e contadores; a OT do CFC não é vinculante. Para decisões, consulte o contador e o texto oficial da orientação no site do CFC.</div>
+</section>
+
+<!-- GLOSSARIO -->
+<section id="glossario">
+  <div class="sh"><div><div class="n">08</div><h2>Glossário completo</h2><p class="lead">Siglas, tributos, conceitos, órgãos, documentos fiscais e termos contábeis. Busque ou navegue por letra.</p></div></div>
+  <input class="search" id="gq" type="search" placeholder="Buscar termo ou definição (ex.: cClassTrib, noventena, hiato, DAS)">
+  <div class="az" id="az"></div>
+  <div class="gl" id="gl"></div>
+</section>
+
+<!-- CALCULADORAS -->
+<section id="calc">
+  <div class="sh"><div><div class="n">09</div><h2>Modelos de cálculo</h2><p class="lead">Simulações didáticas. Alíquotas editáveis; os padrões de 2027 usam CBS de 11,2% (referência de 11,3% menos 0,1% de IBS) e IBS de 0,1%, ainda pendentes de decisão do Senado.</p></div></div>
+  <div class="grid g2">
+
+    <div class="tool"><header><h3>1 · Nota fiscal: cálculo por fora</h3><p>Do valor do item ao total da nota com CBS, IBS e IS</p></header><div class="body">
+      <div class="pre"><button data-c1="2026">Preset 2026</button><button data-c1="2027">Preset 2027</button></div>
+      <div class="f">
+        <div><label>Valor do item (R$)</label><input id="c1v" type="number" value="1000" step="0.01" min="0"></div>
+        <div><label>Redução de alíquota</label><select id="c1r"><option value="0">Nenhuma</option><option value="0.3">30% (profissões)</option><option value="0.6">60% (saúde, educação…)</option><option value="1">100% (alíquota zero)</option></select></div>
+        <div><label>CBS %</label><input id="c1c" type="number" value="11.2" step="0.01"></div>
+        <div><label>IBS %</label><input id="c1i" type="number" value="0.1" step="0.01"></div>
+        <div class="full"><label>Imposto Seletivo % (0 se não incidir)</label><input id="c1s" type="number" value="0" step="0.01"></div>
+      </div>
+      <div class="res" id="c1o"></div>
+      <p class="mini">IS integra a base de IBS/CBS; IBS e CBS não integram a própria base. Simplificação didática.</p></div></div>
+
+    <div class="tool"><header><h3>2 · Apuração mensal: débitos x créditos</h3><p>Saldo a recolher ou a compensar e carga efetiva sobre vendas</p></header><div class="body">
+      <div class="pre"><button data-c2="2026">Preset 2026</button><button data-c2="2027">Preset 2027</button></div>
+      <div class="f">
+        <div><label>Vendas tributadas (R$)</label><input id="c2v" type="number" value="150000" step="0.01"></div>
+        <div><label>Compras com direito a crédito (R$)</label><input id="c2c" type="number" value="100000" step="0.01"></div>
+        <div><label>CBS %</label><input id="c2a" type="number" value="11.2" step="0.01"></div>
+        <div><label>IBS %</label><input id="c2b" type="number" value="0.1" step="0.01"></div>
+        <div class="full"><label>Crédito legado PIS/Cofins a usar (R$)</label><input id="c2l" type="number" value="0" step="0.01"></div>
+      </div>
+      <div class="res" id="c2o"></div>
+      <p class="mini">Crédito de CBS só abate CBS; de IBS só IBS; legado de PIS/Cofins é usado antes da CBS. Considera crédito integral de fornecedores.</p></div></div>
+
+    <div class="tool"><header><h3>3 · Split payment: custo de caixa</h3><p>Efeito do fim do prazo entre venda e recolhimento</p></header><div class="body">
+      <div class="f">
+        <div><label>Faturamento mensal (R$)</label><input id="c3f" type="number" value="2000000" step="1000"></div>
+        <div><label>Imposto líquido a recolher (% do faturamento)</label><input id="c3p" type="number" value="8" step="0.1"></div>
+        <div><label>Prazo médio hoje até recolher (dias)</label><input id="c3d" type="number" value="35" step="1"></div>
+        <div><label>Custo do capital (% a.m.)</label><input id="c3t" type="number" value="2" step="0.1"></div>
+        <div class="full"><label>Margem líquida da empresa (%)</label><input id="c3m" type="number" value="3" step="0.1"></div>
+      </div>
+      <div class="res" id="c3o"></div>
+      <p class="mini">Custo = imposto mensal × (dias ÷ 30) × taxa. Estimativa para dimensionar capital de giro, não previsão oficial.</p></div></div>
+
+    <div class="tool"><header><h3>4 · Formação de preço: do preço final à base</h3><p>Extrai o preço sem imposto a partir do preço com tributos</p></header><div class="body">
+      <div class="f">
+        <div><label>Preço final ao cliente (R$)</label><input id="c4p" type="number" value="1113" step="0.01"></div>
+        <div><label>CBS %</label><input id="c4c" type="number" value="11.2" step="0.01"></div>
+        <div><label>IBS %</label><input id="c4i" type="number" value="0.1" step="0.01"></div>
+        <div><label>Custo unitário sem tributo (R$)</label><input id="c4k" type="number" value="600" step="0.01"></div>
+      </div>
+      <div class="res" id="c4o"></div>
+      <p class="mini">Base = preço final ÷ (1 + CBS + IBS). Não considera IS nem reduções.</p></div></div>
+
+    <div class="tool"><header><h3>5 · Crédito presumido sobre estoque</h3><p>Empresas do regime cumulativo de PIS/Cofins (estoque de 31/12/2026)</p></header><div class="body">
+      <div class="f">
+        <div><label>Estoque inventariado (R$)</label><input id="c5e" type="number" value="500000" step="0.01"></div>
+        <div><label>Tributos já recuperados (R$)</label><input id="c5t" type="number" value="0" step="0.01"></div>
+      </div>
+      <div class="res" id="c5o"></div>
+      <p class="mini">Regra citada pelo Tax Radar: 9,25% do custo de aquisição, em 12 parcelas mensais desde 2027, sem ressarcimento e exige inventário documentado. Confirme na LC 214/2025.</p></div></div>
+
+    <div class="tool"><header><h3>6 · Evolução do IBS e do ICMS/ISS</h3><p>Participação por ano na transição</p></header><div class="body">
+      <div class="f"><div class="full"><label>Ano</label><select id="c6a"><option>2029</option><option>2030</option><option>2031</option><option>2032</option><option>2033</option></select></div>
+      <div><label>Carga atual de ICMS+ISS (R$)</label><input id="c6c" type="number" value="100000" step="0.01"></div>
+      <div><label>Carga plena de IBS projetada (R$)</label><input id="c6i" type="number" value="100000" step="0.01"></div></div>
+      <div class="res" id="c6o"></div>
+      <p class="mini">Aplica 10/20/30/40/100% de IBS e 90/80/70/60/0% de ICMS/ISS. Exercício comparativo, não projeta alíquotas.</p></div></div>
+
+    <div class="tool"><header><h3>7 · Custo líquido de aquisição</h3><p>Compra com crédito integral x crédito parcial (ex.: fornecedor do Simples)</p></header><div class="body">
+      <div class="f">
+        <div><label>Valor da nota de compra (R$)</label><input id="c7v" type="number" value="1113" step="0.01"></div>
+        <div><label>CBS + IBS embutidos na nota %</label><input id="c7a" type="number" value="11.3" step="0.01"></div>
+        <div class="full"><label>% do imposto da nota que gera crédito (100 = integral)</label><input id="c7p" type="number" value="100" step="1" max="100" min="0"></div>
+      </div>
+      <div class="res" id="c7o"></div>
+      <p class="mini">Imposto da nota = valor ÷ (1 + alíquota) × alíquota. Fornecedor do Simples no DAS credita só o que pagou; informe o percentual aproximado.</p></div></div>
+  </div>
+  <div class="note">Ferramentas oficiais: <a href="https://piloto-cbs.tributos.gov.br/servico/calculadora-consumo/calculadora" target="_blank" rel="noopener noreferrer">Calculadora da Receita Federal (piloto CBS) ↗</a> · <a href="https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/publicacoes/apresentacoes/reforma-tributaria-do-consumo/faq-calculadora-v1-4.pdf" target="_blank" rel="noopener noreferrer">FAQ da calculadora (PDF) ↗</a></div>
+</section>
+
+<!-- FAQ -->
+<section id="faq">
+  <div class="sh"><div><div class="n">10</div><h2>Guia geral de dúvidas</h2><p class="lead">Respostas diretas às perguntas mais comuns. Use a busca para filtrar.</p></div></div>
+  <input class="search" id="fq" type="search" placeholder="Buscar dúvida (ex.: Simples, split, crédito, MEI, cashback)">
+  <div id="faq-list">
+    <details><summary>O que muda para a minha empresa já em 2026?</summary><div class="ans"><p>Pouco no bolso e muito no sistema. Em 2026 a CBS (0,9%) e o IBS (0,1%) são destacados apenas como teste; quem cumpre as obrigações acessórias fica dispensado do recolhimento e os valores são compensados no PIS/Cofins. O foco é adequar ERP, cadastro de produtos (NCM, cClassTrib) e emissão de NF-e, NFC-e e NFS-e.</p></div></details>
+    <details><summary>Quando a CBS começa a ser cobrada de fato?</summary><div class="ans"><p>Em 1º de janeiro de 2027, com extinção de PIS e Cofins. O TCU propôs 11,3% de alíquota de referência; o Senado decide por resolução até 15/12/2026 e, sem resolução, vale o número do TCU. A Tax Group estima CBS efetiva de 11,2% em 2027–2028 se o número for mantido.</p></div></details>
+    <details><summary>O que é "cálculo por fora"?</summary><div class="ans"><p>IBS e CBS não entram na própria base de cálculo: imposto = alíquota × valor da operação, somado depois ao total da nota. A NT 2026.008 trata disso nos campos de valor líquido. Para formar preço, extraia a base dividindo o preço final por (1 + soma das alíquotas). Veja as calculadoras 1 e 4.</p></div></details>
+    <details><summary>Como funciona o crédito de IBS e CBS?</summary><div class="ans"><p>É amplo: compras de bens e serviços usados na atividade geram crédito, salvo uso pessoal, brindes, representação (na maioria) e operações isentas. O crédito surge quando o fornecedor recolhe o tributo, via split payment. CBS só compensa CBS e IBS só compensa IBS. Créditos de PIS/Cofins do modelo antigo seguem válidos e são usados antes da CBS.</p></div></details>
+    <details><summary>O que é split payment e quando passa a valer?</summary><div class="ans"><p>É a separação do IBS/CBS na liquidação do pagamento, feita por bancos e adquirentes, que repassam o imposto ao fisco e liberam o restante ao fornecedor. Em 2027 é facultativo entre empresas; 2028 é a previsão de obrigatoriedade, ainda sem norma. A primeira etapa pode ser restrita a boleto, Pix, TED e TEF. O principal efeito é a perda do prazo de 30 a 40 dias de caixa (calculadora 3).</p></div></details>
+    <details><summary>Quem paga o Imposto Seletivo e quando?</summary><div class="ans"><p>Incide uma única vez sobre cigarros e fumígenos, bebidas alcoólicas e açucaradas, veículos, embarcações e aeronaves, bens minerais e concursos de prognósticos. As alíquotas de 2027 estão na MP 1.399/2026 (precisa ser convertida em lei até 31/12/2026) e a cobrança deve começar em 2/2/2027. IPI vai a zero em 2027, exceto produtos da Zona Franca de Manaus.</p></div></details>
+    <details><summary>Qual a diferença entre CBS e IBS?</summary><div class="ans"><p>Mesma base e mesmas regras de crédito, mas arrecadação separada. CBS é federal e substitui PIS/Cofins. IBS é compartilhado entre estados e municípios, administrado pelo Comitê Gestor, e substitui ICMS e ISS entre 2029 e 2033.</p></div></details>
+    <details><summary>Simples Nacional: devo optar pelo regime regular (híbrido)?</summary><div class="ans"><p>Depende do perfil de compras. Quem compra muito insumo tributado ou vende com alíquota zero e acumula crédito tende a ganhar com o regime regular. Quem compra pouco de fornecedores com crédito pode ficar no DAS. O prazo de 2026 acabou em 30/10; é possível cancelar entre 03/11 e 20/12/2026 e há novas janelas em março e setembro de 2027. Quem permanece no DAS não repassa crédito integral ao comprador.</p></div></details>
+    <details><summary>E o MEI?</summary><div class="ans"><p>Continua pagando valor fixo mensal pelo DAS. O nanoempreendedor (pessoa física abaixo de certo limite que não aderiu ao MEI) não é contribuinte de IBS e CBS.</p></div></details>
+    <details><summary>Lucro presumido muda de regime?</summary><div class="ans"><p>Passa ao regime regular de IBS e CBS (hoje pagam PIS/Cofins pela alíquota conjunta de 3,65%), sem alterar IRPJ e CSLL. Quem estava no cumulativo tem crédito presumido sobre estoque de 31/12/2026 (calculadora 5).</p></div></details>
+    <details><summary>IBS e CBS são receita da empresa?</summary><div class="ans"><p>Contabilmente, não: a Orientação Técnica CFC nº 1/2026 (não vinculante) trata IBS/CBS cobrados por fora como valores de terceiros, registrados em passivo, com receita reconhecida pelo valor líquido. O reflexo no conceito fiscal de receita bruta (e na base do IRPJ/CSLL) segue em debate.</p></div></details>
+    <details><summary>Devo contabilizar IBS/CBS em 2026?</summary><div class="ans"><p>O CFC não impôs resposta única: há quem entenda que o tributo nasce e é dispensado e quem entenda que o período é operacional, sem obrigação econômica. Recomenda julgamento individual, documentado, divulgação transparente e controles. Defina a política com o contador e a auditoria antes do fechamento.</p></div></details>
+    <details><summary>O Lucro Real muda na apuração de IRPJ e CSLL?</summary><div class="ans"><p>O método segue o mesmo (lucro contábil ajustado, LALUR/LACS, estimativa ou anual). O que muda é o custo tributário embutido (PIS/Cofins vira CBS + IBS), o conjunto de créditos e a necessidade de controles e contas novas. Veja a seção Lucro Real.</p></div></details>
+    <details><summary>O que é a regra opcional de transição da CBS anunciada em 11/11?</summary><div class="ans"><p>A Receita pretende permitir que a empresa calcule a CBS estimando os créditos a que terá direito, ajustando a diferença na apuração do mês seguinte, com a primeira apuração em fevereiro de 2027 e prazo extra de 30 dias. Depende de projeto a ser enviado ao Congresso, sem número nem data informados.</p></div></details>
+    <details><summary>A Receita vai multar erros no início?</summary><div class="ans"><p>O secretário Robinson Barreirinhas afirmou que contribuintes de boa-fé não devem ser penalizados em dúvidas relevantes ou dificuldades justificadas, e que a fase inicial terá caráter orientador. Não há detalhamento de regras de penalidade nas fontes consultadas.</p></div></details>
+    <details><summary>O teto de 26,5% existe?</summary><div class="ans"><p>É um gatilho: se a alíquota conjunta projetada superar 26,5%, o governo deve propor revisão de benefícios. Não é teto automático para todas as operações. A estimativa histórica do IBS ficou em cerca de 18,7%, mas as alíquotas definitivas dependem de resolução do Senado e de leis estaduais e municipais.</p></div></details>
+    <details><summary>Quais produtos têm alíquota zero ou reduzida?</summary><div class="ans"><p>Zero: Cesta Básica Nacional, medicamentos em lista e outras hipóteses de 100% de redução. Redução de 60%: saúde, educação, alimentos, medicamentos e transporte público coletivo urbano. Redução de 30%: profissões intelectuais com conselho. As listas estão na LC 214/2025 e nos regulamentos; novas listas (insumos agrícolas, medicamentos) ainda serão publicadas.</p></div></details>
+    <details><summary>Como funciona o cashback?</summary><div class="ans"><p>É devolução a famílias do CadÚnico com renda de até meio salário mínimo por pessoa: 100% da CBS e 20% do IBS em gás de botijão, energia, água, esgoto, gás canalizado e telecom; 20% de cada nas demais compras. Vale para CBS desde 2027 e para IBS desde 2029.</p></div></details>
+    <details><summary>Quais notas fiscais mudam?</summary><div class="ans"><p>NF-e, NFC-e e NFS-e ganham campos de IBS, CBS e IS (cClassTrib, CST, cCredPres), DANFE novo e regras de referência de documentos. Acompanhe a seção Notas técnicas; prazos de rejeição em produção são frequentemente adiados.</p></div></details>
+    <details><summary>Os contratos de longo prazo são afetados?</summary><div class="ans"><p>Sim. Cláusulas com "impostos inclusos" sem especificar tributos, e a falta de reequilíbrio por mudança tributária, tendem a gerar disputas. Revise contratos que atravessam 2027 (veja a matéria da Exame e do Contadores.cnt sobre cláusulas).</p></div></details>
+    <details><summary>Como me manter atualizado com segurança?</summary><div class="ans"><p>Priorize Receita Federal, CGIBS, Planalto e Portal Nacional da NF-e. Para dúvidas de fake news, a Receita mantém a página "Reforma de Fato" e o tira-dúvidas com Sebrae, CFC e Fenacon. Desconfie de calculadoras ou cursos pagos que prometem "alíquota exata", pois as alíquotas ainda estão em definição.</p></div></details>
+  </div>
+</section>
+
+<!-- ESPECIALISTAS -->
+<section id="especialistas">
+  <div class="sh"><div><div class="n">11</div><h2>Especialistas e vozes para acompanhar</h2><p class="lead">Autoridades e analistas citados nas fontes pesquisadas, com conteúdo identificado.</p></div></div>
+  <div class="grid">
+    <div class="card"><span class="tag gold">Governo</span><h3>Bernard Appy</h3><p>Secretário Extraordinário da Reforma Tributária e um dos arquitetos do modelo. Aparece na série da Receita e em entrevistas.</p><a class="go ghost" href="https://www.youtube.com/watch?v=yQG2ghZKfMs" target="_blank" rel="noopener noreferrer">Entrevista Veja+ ↗</a> <a class="go ghost" href="https://www.youtube.com/watch?v=XKXSNKXxsUo" target="_blank" rel="noopener noreferrer">Valor Econômico ↗</a></div>
+    <div class="card"><span class="tag gold">Governo</span><h3>Robinson Barreirinhas</h3><p>Secretário Especial da Receita Federal; presente na série "Diálogos" e na interlocução com o setor produtivo.</p><a class="go ghost" href="https://www.youtube.com/watch?v=doRL2krvTkE&list=PL7zsee2Wcyb4NShpfArt0soZ1_jprxT6g" target="_blank" rel="noopener noreferrer">Série Diálogos ↗</a></div>
+    <div class="card"><span class="tag">TCU</span><h3>Vital do Rêgo</h3><p>Relator do cálculo da alíquota de referência da CBS no TCU; afirmou que o percentual "assegura a equivalência exigida pela Constituição".</p><a class="go ghost" href="https://www.congressoemfoco.com.br/noticia/129639/tcu-propoe-aliquota-de-11-3-para-cbs-senado-tera-decisao-final" target="_blank" rel="noopener noreferrer">Matéria ↗</a></div>
+    <div class="card"><span class="tag">Tributarista</span><h3>Eurico Marcos Diniz de Santi</h3><p>Professor e tributarista, colunista do Portal da Reforma Tributária.</p><a class="go ghost" href="https://www.reformatributaria.com/institucional/eurico-santi-e-novo-colunista-do-portal-da-reforma-tributaria/" target="_blank" rel="noopener noreferrer">Coluna ↗</a></div>
+    <div class="card"><span class="tag">Constitucionalista</span><h3>Roque Carrazza</h3><p>Professor da PUC-SP; em debate com Appy previu judicialização da reforma.</p><a class="go ghost" href="https://www.reformatributaria.com/justica/na-puc-sp-appy-defende-manter-cronograma-da-reforma-carrazza-preve-judicializacao/" target="_blank" rel="noopener noreferrer">Matéria ↗</a></div>
+    <div class="card"><span class="tag">Prática fiscal</span><h3>Fellipe Guerra</h3><p>Professor e tributarista; "Super Live da Reforma Tributária: IBS e CBS na prática".</p><a class="go ghost" href="https://www.youtube.com/watch?v=OYJoDKYylmo" target="_blank" rel="noopener noreferrer">Assistir ↗</a></div>
+    <div class="card"><span class="tag">Receita / Serpro</span><h3>Marcos Flores e Fernando Mombelli</h3><p>Auditores fiscais da Receita Federal entrevistados no podcast Tax Capital, com Alexandre Amorim e Robson Lima (Serpro, gerência nacional da reforma).</p><a class="go ghost" href="https://www.youtube.com/watch?v=_nkgPyDI7Pg&list=PLq5EN9qcfqCvwsnV6Nh79BCBMvBgKDfIt" target="_blank" rel="noopener noreferrer">Playlist Tax Capital ↗</a></div>
+    <div class="card"><span class="tag">Veículo</span><h3>Portal da Reforma Tributária</h3><p>Cobertura diária, entrevistas e colunas de especialistas (grupo ROIT).</p><a class="go ghost" href="https://www.youtube.com/@portaldareformatributaria" target="_blank" rel="noopener noreferrer">Canal ↗</a></div>
+  </div>
+</section>
+
+<!-- CURSOS -->
+<section id="cursos">
+  <div class="sh"><div><div class="n">12</div><h2>Cursos e vídeos para estudar</h2><p class="lead">Cada botão abre direto o curso, vídeo ou playlist indicados, sem passar pela página inicial do site.</p></div></div>
+  <div class="grid">
+    <div class="card"><span class="tag ok">Oficial · gratuito</span><h3>Curso RFB/CFC · 18 módulos</h3><p>Aulas com a Receita Federal, de maio a setembro de 2026, gravadas na playlist do CFC. Certificado para inscritos e pontos no PEPC.</p><a class="go" href="https://www.youtube.com/watch?v=94Y7E74L96g&list=PLw2ZKoI7RG_csmR4mhKQ840wwG_QEL4gn" target="_blank" rel="noopener noreferrer">Abrir playlist ↗</a></div>
+    <div class="card"><span class="tag ok">Oficial · gratuito</span><h3>Módulo 13 · Bens imóveis (CFC)</h3><p>Aula específica sobre operações com bens imóveis, parte do curso RFB/CFC.</p><a class="go" href="https://www.youtube.com/watch?v=esA8WZsj7O8" target="_blank" rel="noopener noreferrer">Abrir vídeo ↗</a></div>
+    <div class="card"><span class="tag ok">Oficial</span><h3>Série "Diálogos – Entendendo a Reforma Tributária"</h3><p>Série da Receita Federal sobre a LC 214/2025 (14 de 17 episódios na época do lançamento), com Appy e Barreirinhas. O link abre direto o episódio indicado na playlist oficial.</p><a class="go" href="https://www.youtube.com/watch?v=doRL2krvTkE&list=PL7zsee2Wcyb4NShpfArt0soZ1_jprxT6g" target="_blank" rel="noopener noreferrer">Abrir aula ↗</a></div>
+    <div class="card"><span class="tag ok">Oficial · gratuito</span><h3>Curso Enap · Escola Virtual de Governo</h3><p>Curso "Reforma Tributária" da Enap com Sefaz-CE, Comsefaz e FNP, com certificação.</p><a class="go" href="https://www.escolavirtual.gov.br/curso/1425" target="_blank" rel="noopener noreferrer">Abrir página do curso ↗</a></div>
+    <div class="card"><span class="tag">Indicado por você</span><h3>Reforma Tributária na Prática: como proteger margens e fluxo de caixa</h3><p>Vídeo do canal ASIS Tax Tech sobre efeitos da reforma em margem e caixa.</p><a class="go" href="https://www.youtube.com/watch?v=leYXle7o2xU" target="_blank" rel="noopener noreferrer">Assistir ↗</a></div>
+    <div class="card"><span class="tag">Prática</span><h3>Como calcular IBS e CBS em 2026 e como sai na nota</h3><p>Canal Fiscal na Prática; foco em cálculo e preenchimento da NF-e.</p><a class="go" href="https://www.youtube.com/watch?v=E8m29yDGzz4" target="_blank" rel="noopener noreferrer">Assistir ↗</a></div>
+    <div class="card"><span class="tag">Prática</span><h3>Super Live: IBS e CBS na prática</h3><p>Professor Fellipe Guerra, tributarista; transmissão sobre a entrada de 2026.</p><a class="go" href="https://www.youtube.com/watch?v=OYJoDKYylmo" target="_blank" rel="noopener noreferrer">Assistir ↗</a></div>
+    <div class="card"><span class="tag">Entrevista</span><h3>O que muda com a reforma, com Bernard Appy</h3><p>Entrevista do Valor Econômico com um dos formuladores do modelo.</p><a class="go" href="https://www.youtube.com/watch?v=XKXSNKXxsUo" target="_blank" rel="noopener noreferrer">Assistir ↗</a></div>
+    <div class="card"><span class="tag">Entrevista</span><h3>Bernard Appy explica o que muda em 2026</h3><p>Entrevista do Veja+ com foco no ano de teste.</p><a class="go" href="https://www.youtube.com/watch?v=yQG2ghZKfMs" target="_blank" rel="noopener noreferrer">Assistir ↗</a></div>
+    <div class="card"><span class="tag">Podcast</span><h3>Tax Capital · conversas com protagonistas</h3><p>Entrevistas com auditores da Receita, Serpro e tributaristas. Também no Spotify.</p><a class="go" href="https://www.youtube.com/watch?v=_nkgPyDI7Pg&list=PLq5EN9qcfqCvwsnV6Nh79BCBMvBgKDfIt" target="_blank" rel="noopener noreferrer">Abrir playlist ↗</a> <a class="go ghost" href="https://open.spotify.com/show/3bG6ETHwMhR3kOGWSvReBB" target="_blank" rel="noopener noreferrer">Spotify ↗</a></div>
+  </div>
+  <div class="note">Conteúdo de terceiros varia em qualidade e pode ficar desatualizado após a LC 227/2026 e as MPs de 2026. Priorize aulas recentes e confronte com o texto legal. Os canais ASIS Tax Tech, Fiscal na Prática e Fellipe Guerra são privados e comerciais.</div>
+</section>
+
+<!-- FONTES -->
+<section id="fontes">
+  <div class="sh"><div><div class="n">13</div><h2>Fontes oficiais</h2></div></div>
+  <div class="grid">
+    <div class="card"><h3>Receita Federal</h3><p><a href="https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/acoes-e-programas/programas-e-atividades/reforma-consumo" target="_blank" rel="noopener noreferrer">Programa da Reforma Tributária ↗</a><br><a href="https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/publicacoes/manuais/reforma-tributaria-do-consumo" target="_blank" rel="noopener noreferrer">Manuais ↗</a><br><a href="https://piloto-cbs.tributos.gov.br/servico/calculadora-consumo/calculadora" target="_blank" rel="noopener noreferrer">Calculadora oficial ↗</a><br><a href="https://servicos.receitafederal.gov.br/servico/regime-ibs-cbs" target="_blank" rel="noopener noreferrer">Opção do regime IBS/CBS ↗</a></p></div>
+    <div class="card"><h3>Comitê Gestor do IBS</h3><p><a href="https://www.cgibs.gov.br" target="_blank" rel="noopener noreferrer">Portal ↗</a><br><a href="https://www.cgibs.gov.br/resolucoes" target="_blank" rel="noopener noreferrer">Resoluções ↗</a><br><a href="https://www.cgibs.gov.br/atos-conjuntos" target="_blank" rel="noopener noreferrer">Atos conjuntos ↗</a><br><a href="https://www.cgibs.gov.br/atos-tecnicos-conjuntos" target="_blank" rel="noopener noreferrer">Atos técnicos conjuntos ↗</a></p></div>
+    <div class="card"><h3>Legislação e NF-e</h3><p><a href="https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp214.htm" target="_blank" rel="noopener noreferrer">LC 214/2025 ↗</a><br><a href="https://legis.senado.leg.br/norma/42042119" target="_blank" rel="noopener noreferrer">LC 227/2026 ↗</a><br><a href="https://www.nfe.fazenda.gov.br/portal/principal.aspx" target="_blank" rel="noopener noreferrer">Portal Nacional da NF-e ↗</a></p></div>
+  </div>
+</section>
+</main>
+
+<footer><div class="wrap">
+  <p><b>Aviso:</b> material informativo consolidado de fontes públicas em 12/11/2026. Não substitui a legislação nem constitui consultoria tributária. Valores de alíquotas de 2027 dependem de decisão do Senado e de conversão da MP 1.399/2026. Itens atribuídos a veículos privados (Tax Group, Tax Radar, Exame, InfoMoney, Portal da Reforma Tributária e outros) devem ser conferidos nas fontes oficiais. Datas divergentes entre fontes estão sinalizadas.</p>
+  <p>Última atualização: <b>12/11/2026</b>. Arquivo local, sem coleta de dados nem conexões externas.</p>
+</div></footer>
+
+<button class="topbtn" id="topBtn" type="button" aria-label="Voltar ao início">↑ Início</button>
+<button class="updbtn" id="updBtn" type="button" aria-label="Atualizar painel"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a9 9 0 1 1-3-6.7"/><path d="M21 3v6h-6"/></svg>Atualizar</button>
+
+<div class="upd" id="upd" role="dialog" aria-live="polite" aria-label="Atualização do painel">
+  <div class="box">
+    <div class="stage">
+      <svg class="scene" id="scene" viewBox="0 0 900 440" aria-hidden="true">
+  <defs>
+    <linearGradient id="wall" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#16407a"/><stop offset=".6" stop-color="#0d2a52"/><stop offset="1" stop-color="#0a2040"/></linearGradient>
+    <linearGradient id="floor" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0b1d38"/><stop offset="1" stop-color="#050f1f"/></linearGradient>
+    <linearGradient id="cone" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff4d0" stop-opacity=".30"/><stop offset="1" stop-color="#fff4d0" stop-opacity="0"/></linearGradient>
+    <radialGradient id="vig" cx="50%" cy="48%" r="75%"><stop offset=".6" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".55"/></radialGradient>
+    <linearGradient id="jacket" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#1f66b3"/><stop offset="1" stop-color="#15487f"/></linearGradient>
+    <linearGradient id="boardsheen" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".55"/><stop offset=".5" stop-color="#fff" stop-opacity="0"/></linearGradient>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="6"/></filter>
+  </defs>
+  <g id="cam">
+    <rect width="900" height="380" fill="url(#wall)"/>
+    <g opacity=".07" stroke="#fff"><line x1="150" y1="0" x2="150" y2="380"/><line x1="300" y1="0" x2="300" y2="380"/><line x1="450" y1="0" x2="450" y2="380"/><line x1="600" y1="0" x2="600" y2="380"/><line x1="750" y1="0" x2="750" y2="380"/></g>
+    <polygon points="400,10 500,10 700,340 200,340" fill="url(#cone)"/>
+    <rect x="400" y="0" width="100" height="10" rx="3" fill="#f5e9c8"/>
+    <rect y="380" width="900" height="60" fill="url(#floor)"/>
+    <rect y="376" width="900" height="6" fill="#c9a24b" opacity=".55"/>
+    <ellipse cx="360" cy="392" rx="300" ry="9" fill="#fff" opacity=".05"/>
+    <!-- clock -->
+    <circle cx="730" cy="86" r="32" fill="#f4f6fa" stroke="#c9a24b" stroke-width="4"/>
+    <line id="hh" x1="730" y1="86" x2="730" y2="68" stroke="#0b2545" stroke-width="4" stroke-linecap="round"/>
+    <line id="mm" x1="730" y1="86" x2="748" y2="86" stroke="#0b2545" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="730" cy="86" r="3" fill="#c9a24b"/>
+    <!-- plant -->
+    <rect x="18" y="340" width="26" height="40" rx="4" fill="#8a6d2b"/>
+    <path d="M31 342 q-26 -30 -16 -62 q18 22 16 62z M31 342 q4 -44 26 -54 q4 30 -26 54z M31 342 q-8 -28 6 -52 q14 22 -6 52z" fill="#1b7a50"/>
+    <!-- board -->
+    <rect x="60" y="44" width="620" height="290" rx="12" fill="#05152b" opacity=".5" filter="url(#soft)" transform="translate(6,10)"/>
+    <rect x="60" y="40" width="620" height="290" rx="12" fill="#e9eef6" stroke="#c9a24b" stroke-width="6"/>
+    <rect x="70" y="50" width="600" height="270" rx="8" fill="#fff"/>
+    <rect x="70" y="50" width="600" height="270" rx="8" fill="url(#boardsheen)" opacity=".35"/>
+    <text x="92" y="84" font-family="system-ui,sans-serif" font-size="17" font-weight="800" fill="#0b2545">Varredura de novidades · Reforma Tributária</text>
+    <rect x="92" y="92" width="52" height="3" fill="#c9a24b"/>
+    <g transform="translate(528,66)"><rect width="124" height="22" rx="11" fill="#0b2545"/><circle cx="13" cy="11" r="4" fill="#c9a24b"><animate attributeName="opacity" values="1;.2;1" dur="1.2s" repeatCount="indefinite"/></circle><text x="24" y="15" font-family="system-ui,sans-serif" font-size="10.5" font-weight="800" fill="#fff" letter-spacing="1">EM ANDAMENTO</text></g>
+    <g class="cd" id="cd0" transform="translate(92,106)"><rect class="bg" width="170" height="72" rx="10"/><text x="14" y="30">Legislação</text><text class="s" x="14" y="52">LC 214 · LC 227 · MPs</text><g class="ic ok"><circle cx="148" cy="20" r="12" fill="#c9a24b"/><path d="M142 20l4 4 8-9" stroke="#fff" stroke-width="3" fill="none" stroke-linecap="round"/></g><g class="ic no"><circle cx="148" cy="20" r="12" fill="#9a6b00"/><path d="M143 15l10 10M153 15l-10 10" stroke="#fff" stroke-width="3" stroke-linecap="round"/></g><rect class="tg ok" x="14" y="56" width="0" height="0"/><line class="strike" x1="12" y1="36" x2="158" y2="36"/></g>
+<g class="cd" id="cd1" transform="translate(282,106)"><rect class="bg" width="170" height="72" rx="10"/><text x="14" y="30">Notas técnicas</text><text class="s" x="14" y="52">NF-e · CGIBS · Atos</text><g class="ic ok"><circle cx="148" cy="20" r="12" fill="#c9a24b"/><path d="M142 20l4 4 8-9" stroke="#fff" stroke-width="3" fill="none" stroke-linecap="round"/></g><g class="ic no"><circle cx="148" cy="20" r="12" fill="#9a6b00"/><path d="M143 15l10 10M153 15l-10 10" stroke="#fff" stroke-width="3" stroke-linecap="round"/></g><rect class="tg ok" x="14" y="56" width="0" height="0"/><line class="strike" x1="12" y1="36" x2="158" y2="36"/></g>
+<g class="cd" id="cd2" transform="translate(472,106)"><rect class="bg" width="170" height="72" rx="10"/><text x="14" y="30">Alíquotas</text><text class="s" x="14" y="52">CBS · IBS · IS · TCU</text><g class="ic ok"><circle cx="148" cy="20" r="12" fill="#c9a24b"/><path d="M142 20l4 4 8-9" stroke="#fff" stroke-width="3" fill="none" stroke-linecap="round"/></g><g class="ic no"><circle cx="148" cy="20" r="12" fill="#9a6b00"/><path d="M143 15l10 10M153 15l-10 10" stroke="#fff" stroke-width="3" stroke-linecap="round"/></g><rect class="tg ok" x="14" y="56" width="0" height="0"/><line class="strike" x1="12" y1="36" x2="158" y2="36"/></g>
+<g class="cd" id="cd3" transform="translate(92,190)"><rect class="bg" width="170" height="72" rx="10"/><text x="14" y="30">Split payment</text><text class="s" x="14" y="52">CVP · testes · Pix</text><g class="ic ok"><circle cx="148" cy="20" r="12" fill="#c9a24b"/><path d="M142 20l4 4 8-9" stroke="#fff" stroke-width="3" fill="none" stroke-linecap="round"/></g><g class="ic no"><circle cx="148" cy="20" r="12" fill="#9a6b00"/><path d="M143 15l10 10M153 15l-10 10" stroke="#fff" stroke-width="3" stroke-linecap="round"/></g><rect class="tg ok" x="14" y="56" width="0" height="0"/><line class="strike" x1="12" y1="36" x2="158" y2="36"/></g>
+<g class="cd" id="cd4" transform="translate(282,190)"><rect class="bg" width="170" height="72" rx="10"/><text x="14" y="30">Contabilidade</text><text class="s" x="14" y="52">CFC · CPC · Lucro Real</text><g class="ic ok"><circle cx="148" cy="20" r="12" fill="#c9a24b"/><path d="M142 20l4 4 8-9" stroke="#fff" stroke-width="3" fill="none" stroke-linecap="round"/></g><g class="ic no"><circle cx="148" cy="20" r="12" fill="#9a6b00"/><path d="M143 15l10 10M153 15l-10 10" stroke="#fff" stroke-width="3" stroke-linecap="round"/></g><rect class="tg ok" x="14" y="56" width="0" height="0"/><line class="strike" x1="12" y1="36" x2="158" y2="36"/></g>
+<g class="cd" id="cd5" transform="translate(472,190)"><rect class="bg" width="170" height="72" rx="10"/><text x="14" y="30">Cursos e vídeos</text><text class="s" x="14" y="52">YouTube · EVG · CFC</text><g class="ic ok"><circle cx="148" cy="20" r="12" fill="#c9a24b"/><path d="M142 20l4 4 8-9" stroke="#fff" stroke-width="3" fill="none" stroke-linecap="round"/></g><g class="ic no"><circle cx="148" cy="20" r="12" fill="#9a6b00"/><path d="M143 15l10 10M153 15l-10 10" stroke="#fff" stroke-width="3" stroke-linecap="round"/></g><rect class="tg ok" x="14" y="56" width="0" height="0"/><line class="strike" x1="12" y1="36" x2="158" y2="36"/></g>
+
+    <rect x="92" y="282" width="550" height="8" rx="4" fill="#e0e6ef"/><rect id="pb" x="92" y="282" width="0" height="8" rx="4" fill="#1d5fa8" style="transition:width .6s"/>
+    <text id="tally" x="92" y="308" font-family="system-ui,sans-serif" font-size="12" font-weight="700" fill="#5a6779">Selecionadas: 0 · Sem alteração: 0</text>
+    <text id="tick" x="642" y="308" text-anchor="end" font-family="ui-monospace,Menlo,monospace" font-size="11" fill="#1d5fa8"></text>
+    <!-- marker trail -->
+    <path id="trail" d="M92 270 q40 -10 80 0 t80 0 t80 0 t80 0 t80 0" fill="none" stroke="#c9a24b" stroke-width="3" stroke-linecap="round" stroke-dasharray="500" stroke-dashoffset="500" opacity="0"/>
+    <!-- door -->
+    <rect x="770" y="186" width="110" height="194" fill="#030c1a"/>
+    <rect x="770" y="186" width="110" height="194" fill="none" stroke="#2a4470" stroke-width="3"/>
+    <rect x="778" y="192" width="94" height="188" fill="#f5e9c8" opacity="0" id="doorGlow"/>
+    <g id="doorLeaf" style="transform:scaleX(.16)"><rect x="774" y="190" width="102" height="190" rx="3" fill="#7d6226"/><rect x="786" y="204" width="78" height="74" rx="3" fill="#957637"/><rect x="786" y="292" width="78" height="80" rx="3" fill="#957637"/><circle cx="782" cy="290" r="5" fill="#f5e9c8"/></g>
+    <rect x="790" y="164" width="70" height="18" rx="3" fill="#0b2545" stroke="#c9a24b"/><text x="825" y="177" text-anchor="middle" font-family="system-ui,sans-serif" font-size="10.5" font-weight="800" fill="#c9a24b" letter-spacing="1.2">SAÍDA</text>
+    <!-- man -->
+    <g id="man" style="transform:translate(870px,380px);opacity:0">
+      <ellipse cx="0" cy="3" rx="34" ry="7" fill="#000" opacity=".4"/>
+      <g id="flip" style="transform:scaleX(1)">
+        <g id="bob">
+          <g class="limb l2"><path d="M2 -70 h15 l-2 68 h-13z" fill="#0c1f40"/><path d="M-1 -4 h20 q2 6 -6 6 h-14z" fill="#0a0a0f"/></g>
+          <g class="limb l1"><path d="M-18 -70 h16 l-1 68 h-14z" fill="#12305c"/><path d="M-21 -4 h20 q2 6 -6 6 h-14z" fill="#0a0a0f"/></g>
+          <g class="limb" id="armB"><rect x="8" y="-134" width="13" height="52" rx="6" fill="#144476"/><circle cx="14" cy="-80" r="6" fill="#e9b88f"/></g>
+          <path d="M-27 -128 q0 -12 14 -12 h26 q14 0 14 12 l3 62 q-30 8 -60 0z" fill="url(#jacket)"/>
+          <path d="M-10 -140 l10 24 l10 -24z" fill="#fff"/>
+          <path d="M-3 -138 h6 l3 8 l-6 40 l-6 -40z" fill="#c9a24b"/>
+          <rect x="-7" y="-152" width="14" height="14" fill="#e3ad82"/>
+          <ellipse cx="0" cy="-166" rx="20" ry="23" fill="#f0c7a0" id="head"/>
+          <ellipse cx="-19" cy="-164" rx="4" ry="6" fill="#e3ad82"/>
+          <path d="M-21 -170 q-1 -26 21 -26 q22 0 21 24 q-10 -10 -22 -9 q-14 0 -20 11z" fill="#2a1d14"/>
+          <path d="M-14 -172 q4 -3 8 0" stroke="#2a1d14" stroke-width="2" fill="none" stroke-linecap="round"/>
+          <circle cx="-9" cy="-166" r="2.3" fill="#2a1d14"/><circle cx="4" cy="-166" r="2.3" fill="#2a1d14"/>
+          <circle cx="-9" cy="-166" r="7.5" fill="none" stroke="#c9a24b" stroke-width="1.6"/><circle cx="4" cy="-166" r="7.5" fill="none" stroke="#c9a24b" stroke-width="1.6"/><line x1="-1.5" y1="-166" x2="-1.5" y2="-166" stroke="#c9a24b" stroke-width="1.6"/>
+          <path d="M-8 -156 q5 5 11 0" stroke="#8a4f2d" stroke-width="2" fill="none" stroke-linecap="round"/>
+          <g id="uA" class="limb"><rect x="-21" y="-134" width="14" height="46" rx="7" fill="url(#jacket)"/>
+            <g id="fA" class="limb"><rect x="-20" y="-92" width="12" height="42" rx="6" fill="#1f66b3"/><circle cx="-14" cy="-48" r="7" fill="#f0c7a0"/><rect x="-16" y="-62" width="3.5" height="20" rx="1.7" fill="#c9a24b"/></g></g>
+        </g>
+      </g>
+    </g>
+    <rect width="900" height="440" fill="url(#vig)"/>
+  </g>
+</svg>
+
+    </div>
+    <div class="status" id="ust">Preparando a varredura…</div>
+    <div class="meter"><i id="umeter"></i></div>
+    <button class="skip" id="uskip" type="button">Pular animação</button>
+
+    <div class="fin" id="ufin">
+      <svg class="ck" viewBox="0 0 100 100"><circle cx="50" cy="50" r="46"/><path d="M30 52l14 14 27-30"/></svg>
+      <h2>Atualização finalizada</h2>
+      <p id="ufinP">Base verificada em <b>12/11/2026</b> · 4 blocos com novidades e 2 sem alteração.</p>
+      <ul id="ufinL">
+        <li><b>11/11</b> · Receita anuncia regra opcional de transição da CBS, prazo extra de 30 dias e Programa de Conformidade.</li>
+        <li><b>11/11</b> · Seis novos documentos fiscais só em 01/03/2027; CVP e split mais flexíveis.</li>
+        <li><b>Em breve</b> · 2ª versão dos regulamentos de CBS e IBS "nos próximos dias" (ainda sem publicação confirmada).</li>
+        <li><b>20/07</b> · Orientação Técnica CFC nº 1/2026 incorporada, com nova seção de Lucro Real.</li>
+      </ul>
+      <small id="ufinS">Este arquivo funciona offline e não consulta a internet sozinho: a busca real é feita por Claude quando você pede a revisão do painel.</small>
+      <button class="go" id="uok" type="button">Acessar o QG</button>
+    </div>
+  </div>
+</div>
+
+<script>
+(function(){
+  var QG=window.QG={last:null,known:null,fresh:[],prev:''};
+  var MES=['jan','fev','mar','abr','mai','jun','jul','ago','set','out','nov','dez'];
+  function el(t,c,x){var e=document.createElement(t);if(c)e.className=c;if(x!=null)e.textContent=x;return e}
+  function okUrl(u){return typeof u==='string'&&/^https:\/\//.test(u)}
+  function dlabel(d){var m=/^(\d{4})-(\d{2})-(\d{2})/.exec(d||'');return m?{d:m[3],m:MES[+m[2]-1]+'/'+m[1]}:{d:'--',m:''}}
+  function lastVisit(){try{return localStorage.getItem('qg_last_visit')||''}catch(e){return ''}}
+  function saveVisit(){try{localStorage.setItem('qg_last_visit',new Date().toISOString())}catch(e){}}
+  function isFresh(id){return QG.fresh.indexOf(id)>-1}
+  function buildItem(it){
+    var fr=isFresh(it.id);
+    var a=el('article','item dbitem'+(fr?' fresh':''));a.setAttribute('data-t',(it.category||'outros')+'');
+    var w=el('div','when'),dl=dlabel(it.date);w.appendChild(el('b',null,dl.d));w.appendChild(el('span',null,dl.m));
+    var b=el('div');
+    if(fr)b.appendChild(el('span','tag new','Novo'));
+    b.appendChild(el('span','tag gold',it.tag||'Atualização'));
+    b.appendChild(el('h3',null,it.title||''));
+    b.appendChild(el('p',null,it.resumo||'Resumo não disponível na fonte. Abra a matéria para os detalhes.'));
+    var m=el('div','meta',(it.official?'Fonte oficial':'Veículo de imprensa')+': '+(it.source||'—')+' · captado automaticamente');b.appendChild(m);
+    if(okUrl(it.link)){var x=el('a','src','Ler matéria ↗');x.href=it.link;x.target='_blank';x.rel='noopener noreferrer';b.appendChild(x)}
+    a.appendChild(w);a.appendChild(b);return a}
+  function render(r){
+    var live=document.getElementById('live'),txt=document.getElementById('liveTxt'),feed=document.getElementById('feed');
+    document.querySelectorAll('#feed .dbitem').forEach(function(n){n.remove()});
+    if(!live)return;
+    live.classList.remove('on','off');
+    if(r.ok){
+      var d=r.data,items=(d.items||[]).slice().sort(function(a,b){return (b.date||'').localeCompare(a.date||'')||(b.addedAt||'').localeCompare(a.addedAt||'')});
+      if(QG.known===null){
+        QG.prev=lastVisit();QG.known={};
+        items.forEach(function(it){QG.known[it.id]=1;if(QG.prev&&it.addedAt&&it.addedAt>QG.prev)QG.fresh.push(it.id)});
+        saveVisit();
+      }else{
+        items.forEach(function(it){if(!QG.known[it.id]){QG.known[it.id]=1;QG.fresh.push(it.id)}});
+      }
+      for(var i=items.length-1;i>=0;i--){feed.insertBefore(buildItem(items[i]),feed.firstChild)}
+      txt.textContent='Ao vivo: última verificação automática em '+(d.lastCheckBr||'—')+' · '+items.length+' notícia(s) captada(s) · '+QG.fresh.length+' nova(s) desde a sua última visita.';
+      live.classList.add('on');
+    }else{
+      txt.textContent='Modo offline: exibindo os dados embutidos até 12/11/2026. Abra pelo endereço publicado (GitHub Pages) para ver as atualizações automáticas.';
+      live.classList.add('off');
+    }
+    var f=document.querySelector('#fchips .chip.on');if(f)f.click();
+  }
+  QG.load=function(){
+    return new Promise(function(resolve){
+      var done=false;
+      function fin(r){if(done)return;done=true;QG.last=r;render(r);resolve(r)}
+      var t=setTimeout(function(){fin({ok:false,reason:'timeout'})},10000);
+      try{
+        fetch('novidades.json?_='+Date.now(),{cache:'no-store'}).then(function(res){
+          if(!res.ok)throw new Error('http');return res.json()
+        }).then(function(d){
+          clearTimeout(t);
+          if(!d||!Array.isArray(d.items))return fin({ok:false,reason:'formato'});
+          fin({ok:true,data:d});
+        }).catch(function(){clearTimeout(t);fin({ok:false,reason:'rede'})});
+      }catch(e){clearTimeout(t);fin({ok:false,reason:'erro'})}
+    });
+  };
+  QG.fillFinish=function(){
+    var r=QG.last,p=document.getElementById('ufinP'),l=document.getElementById('ufinL'),s=document.getElementById('ufinS');
+    if(!r||!p||!l||!s)return;
+    if(r.ok){
+      var d=r.data,byId={};(d.items||[]).forEach(function(it){byId[it.id]=it});
+      var nw=QG.fresh.map(function(id){return byId[id]}).filter(Boolean).sort(function(a,b){return (b.date||'').localeCompare(a.date||'')});
+      p.textContent=nw.length?nw.length+' novidade(s) inserida(s) · última verificação automática em '+(d.lastCheckBr||'—')+'.':'Painel em dia · última verificação automática em '+(d.lastCheckBr||'—')+'.';
+      l.innerHTML='';
+      if(!nw.length){var li=el('li');li.appendChild(el('b',null,'Em dia · '));li.appendChild(document.createTextNode('Nenhuma notícia nova desde a sua última visita.'));l.appendChild(li)}
+      nw.slice(0,4).forEach(function(it){
+        var li=el('li','nw'),dl=dlabel(it.date);
+        li.appendChild(el('b',null,'NOVO · '+dl.d+'/'+dl.m.split('/')[0]+' · '));li.appendChild(document.createTextNode(it.title||''));
+        if(it.resumo){li.appendChild(el('small',null,it.resumo.length>150?it.resumo.slice(0,150).replace(/\s\S*$/,'')+'…':it.resumo))}
+        l.appendChild(li)});
+      if(nw.length>4){var m=el('li');m.appendChild(el('b',null,'+ '+(nw.length-4)+' · '));m.appendChild(document.createTextNode('veja as demais em Novidades.'));l.appendChild(m)}
+      var fd=d.feeds||[],ok=fd.filter(function(x){return x.ok}).length;
+      s.textContent=ok+' de '+fd.length+' fontes responderam na última rodada. As novidades são captadas automaticamente de feeds públicos (Senado, Câmara, Receita e imprensa) e exibidas com título, resumo da fonte e link; confira sempre no texto original.';
+    }else{
+      p.textContent='Não foi possível carregar as novidades automáticas.';
+      s.textContent='Arquivo de novidades indisponível (abra pelo endereço publicado, não pelo arquivo local). Exibindo os dados embutidos até 12/11/2026.';
+    }
+  };
+  setTimeout(function(){QG.load()},400);
+})();
+</script>
+<script>
+(function(){
+  /* numeração automática das seções */
+  document.querySelectorAll('section .n').forEach(function(e,i){e.textContent=(i+1<10?'0':'')+(i+1)});
+})();
+(function(){
+  var upd=document.getElementById('upd'),man=document.getElementById('man'),flip=document.getElementById('flip'),door=document.getElementById('doorLeaf'),
+      st=document.getElementById('ust'),mt=document.getElementById('umeter'),pb=document.getElementById('pb'),tally=document.getElementById('tally'),scene=document.getElementById('scene'),tick=document.getElementById('tick'),trail=document.getElementById('trail'),glow=document.getElementById('doorGlow'),hh=document.getElementById('hh'),mm=document.getElementById('mm');
+  var timers=[],sel=0,drop=0;
+  var src=['planalto.gov.br · senado.leg.br','cgibs.gov.br · nfe.fazenda.gov.br','tcu.gov.br · MP 1.399/2026','Receita · Plataforma do Split','cfc.org.br · CPCs','YouTube · Escola Virtual de Governo'];
+  function pad(n){return (n<10?'0':'')+n}
+  function clock(){var d=new Date();var h=d.getHours()%12+d.getMinutes()/60,m=d.getMinutes();
+    var ha=(h/12)*2*Math.PI,ma=(m/60)*2*Math.PI;
+    hh.setAttribute('x2',730+17*Math.sin(ha));hh.setAttribute('y2',86-17*Math.cos(ha));
+    mm.setAttribute('x2',730+24*Math.sin(ma));mm.setAttribute('y2',86-24*Math.cos(ma));return pad(d.getHours())+':'+pad(d.getMinutes())+':'+pad(d.getSeconds())}
+  var steps=['Consultando legislação (Planalto, Senado)…','Lendo notas técnicas (CGIBS, Portal da NF-e)…','Conferindo alíquotas (TCU, MP 1.399)…','Verificando split payment e CVP…','Revisando orientações contábeis (CFC)…','Checando cursos e playlists…'];
+  var dec=['sel','sel','drop','sel','sel','drop'];
+  function at(ms,fn){timers.push(setTimeout(fn,ms))}
+  function clear(){timers.forEach(clearTimeout);timers=[]}
+  function reset(){
+    clear();sel=0;drop=0;
+    upd.classList.remove('hide','done');
+    scene.classList.remove('walk','work');
+    man.style.transition='none';man.style.opacity='0';man.style.transform='translate(870px,380px)';flip.style.transform='scaleX(1)';
+    door.style.transform='scaleX(.16)';glow.style.opacity='.35';tick.textContent='';trail.style.transition='none';trail.style.opacity='0';trail.style.strokeDashoffset='500';clock();
+    for(var i=0;i<6;i++){document.getElementById('cd'+i).setAttribute('class','cd')}
+    pb.setAttribute('width','0');mt.style.width='0';tally.textContent='Selecionadas: 0 · Sem alteração: 0';
+    st.textContent='Entrando na sala de dados…';
+    void man.getBoundingClientRect();man.style.transition='';
+  }
+  function setWalk(on){scene.classList.toggle('walk',on)}
+  function setWork(on){scene.classList.toggle('work',on)}
+  function finish(){
+    clear();setWalk(false);setWork(false);if(window.QG)window.QG.fillFinish();
+    upd.classList.add('done');
+    timers.push(setTimeout(close,6000));
+  }
+  function close(){upd.classList.add('hide');document.body.style.overflow=''}
+  function run(){
+    reset();document.body.style.overflow='hidden';if(window.QG)window.QG.load();
+    at(300,function(){man.style.opacity='1';setWalk(true);man.style.transform='translate(700px,380px)';mt.style.width='6%'});
+    at(2600,function(){setWalk(false);setWork(true);trail.style.opacity='1';trail.style.transition='stroke-dashoffset 5.6s linear';trail.style.strokeDashoffset='0'});
+    steps.forEach(function(txt,i){
+      var t=2800+i*850;
+      at(t,function(){st.textContent=txt;tick.textContent=clock()+' · '+src[i];document.getElementById('cd'+i).classList.add('act');mt.style.width=(10+i*11)+'%'});
+      at(t+500,function(){
+        var c=document.getElementById('cd'+i);c.classList.remove('act');c.classList.add(dec[i]);
+        if(dec[i]==='sel')sel++;else drop++;
+        tally.textContent='Selecionadas: '+sel+' · Sem alteração: '+drop;
+        pb.setAttribute('width',String(Math.round((i+1)/6*550)));
+      });
+    });
+    at(8100,function(){st.textContent='Descartando duplicadas e fontes sem confirmação…';mt.style.width='84%'});
+    at(8900,function(){st.textContent='Gravando novidades no painel…';mt.style.width='94%';setWork(false);flip.style.transform='scaleX(-1)';setWalk(true);man.style.transform='translate(880px,380px)'});
+    at(11100,function(){setWalk(false);man.style.opacity='0';door.style.transform='scaleX(1)';glow.style.opacity='0';st.textContent='Concluindo…';mt.style.width='100%'});
+    at(11900,finish);
+  }
+  var tb=document.getElementById('topBtn');
+  tb.addEventListener('click',function(){window.scrollTo({top:0,behavior:'smooth'})});
+  window.addEventListener('scroll',function(){tb.classList.toggle('show',window.scrollY>400)},{passive:true});
+  document.getElementById('updBtn').addEventListener('click',run);
+  document.getElementById('uskip').addEventListener('click',finish);
+  document.getElementById('uok').addEventListener('click',close);
+  document.addEventListener('keydown',function(e){if(e.key==='Escape'&&upd.classList.contains('done'))close()});
+  run();
+})();
+</script>
+<script>
+(function(){
+  var $=function(i){return document.getElementById(i)};
+  var brl=function(n){return (isFinite(n)?n:0).toLocaleString('pt-BR',{style:'currency',currency:'BRL'})};
+  var pct=function(n){return (isFinite(n)?n:0).toLocaleString('pt-BR',{minimumFractionDigits:2,maximumFractionDigits:2})+'%'};
+  var num=function(i){var v=parseFloat($(i).value);return isNaN(v)?0:v};
+  var row=function(a,b,c){return '<div'+(c?' class="big"':'')+'><span>'+a+'</span><span>'+b+'</span></div>'};
+
+  /* countdown */
+  function tick(){
+    var t=new Date('2027-01-01T00:00:00-03:00')-new Date();
+    if(t<0)t=0;
+    $('cd-d').textContent=Math.floor(t/864e5);
+    $('cd-h').textContent=Math.floor(t%864e5/36e5);
+    $('cd-m').textContent=Math.floor(t%36e5/6e4);
+  }
+  tick();setInterval(tick,30000);
+
+  /* feed filter */
+  var chips=document.querySelectorAll('#fchips .chip');
+  chips.forEach(function(c){c.addEventListener('click',function(){
+    chips.forEach(function(x){x.classList.remove('on')});c.classList.add('on');
+    var f=c.getAttribute('data-f');
+    document.querySelectorAll('#feed .item').forEach(function(it){
+      it.style.display=(f==='all'||(' '+it.getAttribute('data-t')+' ').indexOf(' '+f+' ')>-1)?'':'none';
+    });
+  })});
+
+  /* filters */
+  function filt(inp,sel){$(inp).addEventListener('input',function(){
+    var t=$(inp).value.toLowerCase();
+    document.querySelectorAll(sel).forEach(function(d){d.style.display=d.textContent.toLowerCase().indexOf(t)>-1?'':'none'});
+  })}
+  filt('q','#nts details');filt('fq','#faq-list details');
+
+  /* calc 1 */
+  function c1(){
+    var v=num('c1v'),r=parseFloat($('c1r').value),cb=num('c1c')/100*(1-r),ib=num('c1i')/100*(1-r),is=num('c1s')/100;
+    var seletivo=v*is,base=v+seletivo,cbs=base*cb,ibs=base*ib,total=base+cbs+ibs;
+    $('c1o').innerHTML=row('Valor do item',brl(v))+row('Imposto Seletivo',brl(seletivo))+row('Base de IBS/CBS',brl(base))+row('CBS ('+pct(cb*100)+')',brl(cbs))+row('IBS ('+pct(ib*100)+')',brl(ibs))+row('Total da nota',brl(total),1)+row('Carga sobre o item',pct(v?(total-v)/v*100:0));
+  }
+  function c2(){
+    var v=num('c2v'),c=num('c2c'),a=num('c2a')/100,b=num('c2b')/100,l=num('c2l');
+    var dc=v*a,di=v*b,cc=c*a,ci=c*b;
+    var cbsAPagar=Math.max(dc-cc-l,0),cbsSaldo=Math.max(cc+l-dc,0),ibsAPagar=Math.max(di-ci,0),ibsSaldo=Math.max(ci-di,0);
+    var tot=cbsAPagar+ibsAPagar;
+    $('c2o').innerHTML=row('Débito CBS / IBS',brl(dc)+' / '+brl(di))+row('Crédito CBS / IBS',brl(cc)+' / '+brl(ci))+row('CBS a recolher',brl(cbsAPagar))+row('IBS a recolher',brl(ibsAPagar))+(cbsSaldo+ibsSaldo>0?row('Saldo credor (CBS / IBS)',brl(cbsSaldo)+' / '+brl(ibsSaldo)):'')+row('Total a recolher',brl(tot),1)+row('Carga efetiva sobre vendas',pct(v?tot/v*100:0));
+  }
+  function c3(){
+    var f=num('c3f'),p=num('c3p')/100,d=num('c3d'),t=num('c3t')/100,m=num('c3m')/100;
+    var imp=f*p,custo=imp*(d/30)*t,lucro=f*m;
+    $('c3o').innerHTML=row('Imposto líquido mensal',brl(imp))+row('Capital antecipado ao fisco',brl(imp*(d/30))+' (equiv.)')+row('Custo financeiro mensal',brl(custo),1)+row('% do faturamento',pct(f?custo/f*100:0))+row('% do lucro líquido',pct(lucro?custo/lucro*100:0));
+  }
+  function c4(){
+    var p=num('c4p'),c=num('c4c')/100,i=num('c4i')/100,k=num('c4k');
+    var base=p/(1+c+i),cbs=base*c,ibs=base*i;
+    $('c4o').innerHTML=row('Preço sem tributos (base)',brl(base),1)+row('CBS / IBS',brl(cbs)+' / '+brl(ibs))+row('Margem bruta sobre a base',brl(base-k))+row('Margem % sobre a base',pct(base?(base-k)/base*100:0));
+  }
+  function c5(){
+    var e=num('c5e'),t=num('c5t'),b=Math.max(e-t,0),cr=b*0.0925;
+    $('c5o').innerHTML=row('Base do crédito',brl(b))+row('Crédito presumido (9,25%)',brl(cr),1)+row('Parcela mensal (12x)',brl(cr/12));
+  }
+  function c6(){
+    var a=parseInt($('c6a').value,10),ibsP={2029:.1,2030:.2,2031:.3,2032:.4,2033:1}[a],icms=1-ibsP;
+    var c=num('c6c'),i=num('c6i');
+    var vi=i*ibsP,vc=c*icms;
+    $('c6o').innerHTML=row('Participação do IBS / ICMS+ISS',(ibsP*100)+'% / '+(icms*100)+'%')+row('IBS',brl(vi))+row('ICMS+ISS residual',brl(vc))+row('Total comparativo',brl(vi+vc),1);
+  }
+  function c7(){
+    var v=num('c7v'),a=num('c7a')/100,p=Math.min(Math.max(num('c7p'),0),100)/100;
+    var base=v/(1+a),imp=v-base,cred=imp*p,liq=v-cred;
+    $('c7o').innerHTML=row('Base (sem imposto)',brl(base))+row('IBS/CBS na nota',brl(imp))+row('Crédito aproveitável',brl(cred))+row('Custo líquido de aquisição',brl(liq),1)+row('Custo líquido sobre a base',pct(base?(liq/base-1)*100:0)+' acima');
+  }
+  var map={c1:c1,c2:c2,c3:c3,c4:c4,c5:c5,c6:c6,c7:c7};
+  Object.keys(map).forEach(function(k){
+    document.querySelectorAll('[id^="'+k+'"]').forEach(function(el){
+      if(el.tagName==='INPUT'||el.tagName==='SELECT'){el.addEventListener('input',map[k]);el.addEventListener('change',map[k])}
+    });
+  });
+  document.querySelectorAll('[data-c1]').forEach(function(b){b.addEventListener('click',function(){
+    var y=b.getAttribute('data-c1');$('c1c').value=y==='2026'?0.9:11.2;$('c1i').value=0.1;c1();})});
+  document.querySelectorAll('[data-c2]').forEach(function(b){b.addEventListener('click',function(){
+    var y=b.getAttribute('data-c2');$('c2a').value=y==='2026'?0.9:11.2;$('c2b').value=0.1;c2();})});
+  c1();c2();c3();c4();c5();c6();c7();
+
+  /* glossary */
+  var G=[
+['IVA','Tributo','Imposto sobre Valor Agregado. Cobrado em cada etapa da cadeia sobre o valor que ela adiciona: o contribuinte debita o imposto das vendas e abate (credita) o imposto das compras.'],
+['IVA dual','Tributo','Modelo brasileiro com dois tributos de mesma base e regras equivalentes: CBS (federal) e IBS (estadual e municipal).'],
+['CBS','Tributo','Contribuição sobre Bens e Serviços. Tributo federal que substitui PIS e Cofins. Teste de 0,9% em 2026 e cobrança efetiva a partir de 01/01/2027.'],
+['IBS','Tributo','Imposto sobre Bens e Serviços. Tributo de estados e municípios, administrado pelo Comitê Gestor, que substitui ICMS e ISS gradualmente de 2029 a 2033. Teste de 0,1% em 2026; 0,1% em 2027 e 2028 (0,05% estadual e 0,05% municipal).'],
+['IS (Imposto Seletivo)','Tributo','Imposto extrafiscal sobre bens e serviços prejudiciais à saúde ou ao meio ambiente (cigarros, bebidas alcoólicas e açucaradas, veículos, embarcações, aeronaves, minerais extraídos, concursos de prognósticos). Incide uma vez, não gera crédito e integra a base de IBS e CBS.'],
+['PIS e Cofins','Tributo legado','Contribuições federais sobre receita. Extintas em 2027 e substituídas pela CBS. No regime cumulativo somam 3,65% e no não cumulativo, 9,25%.'],
+['ICMS','Tributo legado','Imposto estadual sobre circulação de mercadorias e certos serviços. Reduzido a partir de 2029 (90% a 60% até 2032) e extinto em 2033.'],
+['ISS','Tributo legado','Imposto municipal sobre serviços. Segue o mesmo cronograma de redução do ICMS.'],
+['IPI','Tributo legado','Imposto federal sobre produtos industrializados. Zerado em 2027, exceto para produtos da Zona Franca de Manaus.'],
+['Tributos legados','Conceito','PIS, Cofins, ICMS, ISS e IPI, que convivem com os novos tributos durante a transição.'],
+['Não cumulatividade plena','Conceito','Direito de abater do imposto devido todo o imposto pago nas aquisições, salvo exceções legais. Evita tributação em cascata.'],
+['Tributação em cascata','Conceito','Incidência de tributo sobre tributo ao longo da cadeia, que encarece o preço final e penaliza cadeias longas.'],
+['Crédito financeiro amplo','Conceito','Crédito sobre a maioria das aquisições usadas na atividade, sem o teste de "essencialidade" do PIS/Cofins. Não vale para uso pessoal, a maior parte de brindes e representação e operações não tributadas.'],
+['Crédito presumido','Conceito','Crédito calculado por percentual definido em lei, sem correspondência exata com imposto destacado na nota. Ex.: 9,25% sobre estoque de 31/12/2026 para quem estava no cumulativo (fonte de mercado; confirme na LC 214).'],
+['Crédito legado','Conceito','Crédito acumulado de tributos antigos (PIS/Cofins, ICMS) que continua utilizável, com regras próprias de compensação e ressarcimento.'],
+['Saldo credor','Contábil','Situação em que os créditos superam os débitos no período. Pode ser transportado, compensado ou ressarcido, conforme as regras.'],
+['Ressarcimento','Conceito','Devolução em dinheiro de saldo credor. Prazos legais de 60 a 180 dias conforme o perfil de conformidade do contribuinte, segundo a imprensa especializada.'],
+['Compensação','Conceito','Uso de crédito para quitar débito de tributo. Crédito de CBS só compensa CBS e de IBS só IBS; o legado de PIS/Cofins é usado antes da CBS.'],
+['Fato gerador','Conceito','Situação que faz nascer a obrigação tributária. Aqui, a operação com bens ou serviços, materiais ou imateriais, inclusive direitos (art. 4º da LC 214/2025).'],
+['Base de cálculo','Conceito','Valor sobre o qual a alíquota incide.'],
+['Contribuinte / não contribuinte','Conceito','Contribuinte é quem apura e recolhe IBS e CBS. Não contribuintes, como o nanoempreendedor, ficam fora, mas podem sofrer o tributo embutido nas compras.'],
+['Cálculo "por fora"','Conceito','O imposto é calculado sobre o valor da operação sem incluir o próprio imposto e somado ao total. Preço final = base + imposto.'],
+['Cálculo "por dentro"','Conceito','O imposto integra a sua própria base. É a lógica do ICMS atual, cujo preço já contém o imposto.'],
+['Princípio do destino','Conceito','Receita fica com o ente onde o bem ou serviço é consumido, e não onde é produzido. Reduz a guerra fiscal.'],
+['Neutralidade','Economia','Característica de um tributo que não distorce escolhas de produção, localização ou organização das empresas.'],
+['Alíquota de referência','Alíquota','Percentual calculado para manter a arrecadação dos tributos substituídos. Para a CBS 2027, o TCU propôs 11,3% e o Senado decide por resolução até 15/12/2026.'],
+['Alíquota padrão','Alíquota','Alíquota geral aplicada quando não há redução, que cada ente fixa por lei para o IBS e a União para a CBS; a soma de IBS e CBS é a "alíquota combinada".'],
+['Alíquota efetiva','Alíquota','Alíquota realmente suportada na operação, após reduções (60%, 30%) ou zeragem, ou em relação ao valor final.'],
+['Alíquota reduzida / zero','Alíquota','Redução de 60% para saúde, educação, medicamentos, alimentos e transporte coletivo; 30% para profissões intelectuais regulamentadas; zero para a Cesta Básica Nacional e outras hipóteses de 100%.'],
+['Trava de 26,5%','Alíquota','Gatilho de revisão: se a soma de IBS e CBS projetada passar de 26,5%, o governo deve propor revisão de benefícios. Não é teto automático para cada operação.'],
+['Hiato de conformidade','Economia','Diferença entre o imposto devido e o efetivamente arrecadado, por sonegação, inadimplência ou erro. O TCU aplicou redução de 29,3% no cálculo da CBS.'],
+['Carga tributária','Economia','Proporção da renda, do PIB ou do preço que se destina a tributos.'],
+['Repasse (pass-through)','Economia','Parte da mudança de custo tributário que as empresas transmitem ao preço final.'],
+['Guerra fiscal','Economia','Concorrência entre estados por benefícios de ICMS para atrair investimentos. Com o IBS e o princípio do destino, perde espaço.'],
+['FCBF','Economia','Fundo de Compensação de Benefícios Fiscais ou Financeiro-Fiscais do ICMS, previsto na EC 132, ligado à transição de benefícios estaduais. Detalhes na LC 214/2025.'],
+['FNDR','Economia','Fundo Nacional de Desenvolvimento Regional, previsto na EC 132, para reduzir desigualdades regionais.'],
+['Transição','Conceito','Período de 2026 a 2033 em que tributos legados e novos convivem, com redução gradual de ICMS/ISS e aumento do IBS.'],
+['Noventena','Conceito','Prazo mínimo de 90 dias entre a publicação da norma que cria ou aumenta tributo e sua cobrança. Explica a data de 2/2/2027 para o Imposto Seletivo.'],
+['Anterioridade','Conceito','Regra que impede cobrança de tributo criado ou majorado no mesmo exercício da publicação da lei, com exceções constitucionais.'],
+['Regimes específicos','Conceito','Regimes com regras próprias para setores como combustíveis, serviços financeiros, bens imóveis, planos de saúde, cooperativas, hotelaria, parques, agências de viagem, bares e restaurantes e concursos de prognósticos. O enquadramento é indicado no cClassTrib.'],
+['Regimes diferenciados','Conceito','Tratamentos favorecidos com alíquota reduzida ou zero para determinados bens e serviços.'],
+['Regime regular','Conceito','Apuração de IBS e CBS com débitos e créditos pelo sistema geral. Aplica-se ao lucro presumido e ao lucro real e pode ser escolhido por optantes do Simples.'],
+['Regime cumulativo / não cumulativo','Contábil','No PIS/Cofins, a forma cumulativa (lucro presumido, 3,65%) não permite crédito; a não cumulativa (lucro real, 9,25%) permite.'],
+['Lucro presumido / Lucro real','Contábil','Formas de apuração do IRPJ e da CSLL que, hoje, definem o regime de PIS/Cofins. Em 2027 ambos passam ao regime regular de IBS e CBS.'],
+['Simples Nacional','Regime','Regime unificado de tributos para micro e pequenas empresas, pago pelo DAS.'],
+['DAS','Regime','Documento de Arrecadação do Simples Nacional.'],
+['Simples Híbrido','Regime','Opção de empresa do Simples apurar IBS e CBS pelo regime regular, fora do DAS, para transferir crédito integral aos compradores. Opção de 2026 encerrou em 30/10; cancelamento de 03/11 a 20/12/2026; novas janelas em março e setembro de 2027.'],
+['MEI','Regime','Microempreendedor Individual. Mantém pagamento fixo mensal pelo DAS.'],
+['Nanoempreendedor','Regime','Pessoa física com receita abaixo de um percentual do limite do MEI que não aderiu ao MEI. Não é contribuinte de IBS e CBS (art. 26, IV, da LC 214/2025).'],
+['Cashback','Conceito','Devolução de parte de IBS e CBS a famílias de baixa renda do CadÚnico (renda até meio salário mínimo per capita). 100% da CBS e 20% do IBS em gás, energia, água, esgoto, gás canalizado e telecom; 20% de cada nas demais compras.'],
+['CadÚnico','Sigla','Cadastro Único para Programas Sociais do governo federal.'],
+['Cesta Básica Nacional','Conceito','Lista de alimentos com alíquota zero de IBS e CBS.'],
+['ZFM','Sigla','Zona Franca de Manaus. Mantém benefícios e o IPI não é zerado para seus produtos.'],
+['Split payment','Pagamento','Pagamento dividido: na liquidação, o prestador de pagamento separa IBS e CBS e os envia ao fisco, repassando o restante ao fornecedor.'],
+['Split padrão','Pagamento','Modalidade em que a plataforma calcula o IBS e a CBS da operação, desconta o que já foi quitado (créditos da empresa) e o prestador segrega só a diferença.'],
+['Split simplificado','Pagamento','Modalidade que usa percentuais fixos, sem considerar créditos operação a operação.'],
+['Plataforma Pública do Split Payment','Pagamento','Sistema operado por Receita e Comitê Gestor que calcula e conduz a segregação do imposto entre os participantes. Testes de integração iniciados em 15/10/2026.'],
+['PSP','Pagamento','Prestador de Serviço de Pagamento: bancos, adquirentes de cartão e outros que liquidam o pagamento e executam o split.'],
+['TEF, TED, Pix, boleto','Pagamento','Meios de pagamento entre os doze arranjos previstos para o split. TEF é a transferência eletrônica de fundos por meio de terminais; TED, transferência eletrônica disponível.'],
+['EC 132/2023','Norma','Emenda Constitucional da reforma tributária: cria IBS, CBS e IS e institui o IVA dual.'],
+['LC 214/2025','Norma','Lei Complementar da primeira regulamentação: fato gerador, créditos, regimes, IS e transição.'],
+['LC 227/2026','Norma','Lei Complementar da segunda regulamentação (PLP 108/2024), publicada em 14/01/2026: Comitê Gestor, contencioso, PNCT, split payment e ajustes à LC 214.'],
+['PLP','Norma','Projeto de Lei Complementar. O PLP 108/2024 originou a LC 227/2026.'],
+['MP','Norma','Medida Provisória. A MP 1.399/2026 fixa as alíquotas do IS de 2027 e perde eficácia se não for convertida em lei dentro do prazo.'],
+['Resolução do Senado','Norma','Ato do Senado que fixa a alíquota de referência da CBS. Prazo: 15/12/2026.'],
+['Decreto 12.955/2026','Norma','Regulamento da CBS.'],
+['Resolução CGIBS 6/2026','Norma','Regulamento do IBS.'],
+['Portaria Conjunta','Norma','Ato conjunto de Receita/Fazenda e Comitê Gestor com regras comuns a CBS e IBS (ex.: Portaria Conjunta MF/CGIBS 7/2026).'],
+['Ato Conjunto / Ato Técnico Conjunto','Norma','Atos de RFB e CGIBS (às vezes com Encat) que aprovam regras e documentação técnica, como o Ato Conjunto 8/2026 (notas técnicas) e o Ato Técnico Conjunto 5/2026 (split).'],
+['RFB','Órgão','Receita Federal do Brasil.'],
+['CGIBS','Órgão','Comitê Gestor do IBS, órgão que administra o IBS de estados e municípios e edita resoluções.'],
+['Encat','Órgão','Encontro Nacional de Coordenadores e Administradores Tributários Estaduais; assina atos de documentos fiscais com RFB e CGIBS.'],
+['CGSN','Órgão','Comitê Gestor do Simples Nacional. Editou a Resolução 194, que prorrogou a opção do Simples Híbrido.'],
+['TCU','Órgão','Tribunal de Contas da União. Calculou a alíquota de referência da CBS para 2027.'],
+['Serpro','Órgão','Serviço Federal de Processamento de Dados. Opera a Plataforma CBS e serviços da Receita.'],
+['Enap / EVG','Órgão','Escola Nacional de Administração Pública e Escola Virtual de Governo, plataforma de cursos gratuitos.'],
+['CFC / PEPC','Órgão','Conselho Federal de Contabilidade e seu Programa de Educação Profissional Continuada, que atribui pontos a cursos.'],
+['Fenacon / FPA','Órgão','Federação Nacional das Empresas de Serviços Contábeis e Frente Parlamentar da Agropecuária.'],
+['PNCT','Programa','Programa Nacional de Conformidade Tributária, de adesão voluntária (LC 227/2026), que uniformiza infrações e multas.'],
+['Câmara Nacional de Integração do Contencioso','Órgão','Instância criada pela LC 227/2026 para uniformizar decisões administrativas sobre IBS e CBS.'],
+['NF-e / NFC-e / NFS-e','Documento','Notas fiscais eletrônicas: de mercadorias (modelo 55), ao consumidor (modelo 65) e de serviços. Passam a trazer IBS, CBS e IS.'],
+['Emissor Nacional','Documento','Emissor de NFS-e padrão nacional, que optantes do Simples utilizam com informações de IBS/CBS.'],
+['DANFE / DANFE Simplificado','Documento','Documento auxiliar da NF-e, impresso ou em PDF. A NT 2026.010 atualiza o layout com IBS/CBS/IS.'],
+['NT / Informe Técnico','Documento','Nota Técnica: especificação de layout e regras de validação dos documentos fiscais, publicada com versão (ex.: NT 2026.008 v1.00).'],
+['cClassTrib','Documento','Código de classificação tributária de IBS e CBS por item, que indica tratamento (regular, reduzido, zero, regime específico).'],
+['CST','Documento','Código de Situação Tributária, que descreve a tributação do item.'],
+['cCredPres','Documento','Código de crédito presumido informado no documento fiscal.'],
+['NCM','Documento','Nomenclatura Comum do Mercosul: classificação fiscal da mercadoria.'],
+['GTIN','Documento','Número global do item comercial (código de barras). Validação obrigatória em ampliação na NF-e.'],
+['CFOP','Documento','Código Fiscal de Operações e Prestações, que identifica a natureza da operação.'],
+['IE','Documento','Inscrição Estadual.'],
+['DFe','Documento','Documento fiscal eletrônico. DFeReferenciado é o grupo que referencia documento de origem.'],
+['Ambiente de homologação / produção','Documento','Homologação é o ambiente de testes sem efeito fiscal; produção é o ambiente real. Rejeição em produção bloqueia a autorização da nota.'],
+['DeRE','Documento','Sigla usada nas fontes do CGIBS e da Receita para a documentação técnica (versão 1.3.0, Ato Técnico Conjunto 6/2026). Consulte o manual no portal do CGIBS.'],
+['RTC','Sigla','Reforma Tributária, sigla adotada pela Receita nos manuais e plataformas (ex.: Plataforma CBS, Painel Nacional de Tributação).'],
+['Darf','Documento','Documento de Arrecadação de Receitas Federais. A Receita oferece simulador de Darf de CBS.'],
+['Receita bruta e líquida','Contábil','Receita bruta é o valor das vendas; receita líquida deduz tributos sobre vendas, devoluções e abatimentos.'],
+['DRE','Contábil','Demonstração do Resultado do Exercício.'],
+['Custo de aquisição','Contábil','Valor pago na compra, excluindo tributos recuperáveis (como IBS/CBS creditáveis), mais custos para colocar o item em condição de uso ou venda.'],
+['Tributo recuperável','Contábil','Tributo que pode ser abatido de débitos futuros e, por isso, não compõe custo nem despesa.'],
+['CPC','Contábil','Comitê de Pronunciamentos Contábeis, que emite as normas contábeis (ex.: CPC 16 estoques, CPC 25 provisões e contingências, CPC 32 tributos sobre o lucro).'],
+['Capital de giro','Financeiro','Recursos para financiar a operação entre pagar fornecedores e receber de clientes. O split reduz o prazo de caixa do imposto.'],
+['Custo financeiro','Financeiro','Custo do dinheiro no tempo; no split, é o custo de antecipar o imposto ao fisco.'],
+['CVP (Crédito Vinculado ao Pagamento)','Conceito','Modelo em que o crédito do comprador depende do recolhimento do tributo pelo fornecedor, viabilizado pelo split payment. A Receita flexibilizou a adoção na fase inicial (anúncio de 11/11/2026).'],
+['Regra opcional de transição da CBS','Conceito','Proposta anunciada em 11/11/2026: apurar a CBS por estimativa de créditos, com ajuste da diferença no mês seguinte e prazo extra de 30 dias. Depende de projeto de lei complementar ainda a ser enviado.'],
+['Programa de Conformidade','Programa','Iniciativa anunciada pela Receita em 11/11/2026 com caráter orientador na fase inicial e sem punição de erros de boa-fé em dúvidas relevantes.'],
+['LALUR / LACS / e-LALUR','Contábil','Livro de Apuração do Lucro Real e Livro de Apuração da CSLL (partes A e B), hoje escriturados de forma eletrônica na ECF; controlam adições, exclusões e compensações.'],
+['ECF','Contábil','Escrituração Contábil Fiscal: obrigação acessória anual que reúne a apuração do IRPJ e da CSLL.'],
+['EFD-Contribuições','Contábil','Escrituração Fiscal Digital de PIS/Pasep e Cofins.'],
+['SPED Contábil (ECD)','Contábil','Escrituração Contábil Digital: livros contábeis em formato digital.'],
+['Estimativa mensal / trimestral / anual','Contábil','Formas de recolhimento de IRPJ e CSLL no Lucro Real: antecipações mensais por estimativa com ajuste anual, ou apuração trimestral definitiva.'],
+['Base negativa da CSLL / prejuízo fiscal','Contábil','Resultado negativo apurado no período que pode ser compensado com lucros futuros, com limite de 30% da base de cada período, conforme artigos de contadores.'],
+['JCP','Contábil','Juros sobre Capital Próprio: remuneração ao acionista dedutível na apuração do Lucro Real dentro de limites legais.'],
+['CPC 47','Contábil','Norma de receita de contrato com cliente (equivale ao IFRS 15). Base do tratamento de IBS/CBS por fora como não receita, segundo a OT CFC 1/2026.'],
+['Orientação Técnica CFC nº 1/2026','Norma','Orientação do Conselho Federal de Contabilidade (20/07/2026), não vinculante, sobre contabilização de IBS e CBS no período de teste.'],
+['PER/DCOMP','Contábil','Pedido Eletrônico de Ressarcimento e Declaração de Compensação, usado para recuperar saldos negativos e créditos.'],
+['Imposto diferido / Lei 12.973/2014','Contábil','Lei que alinhou a tributação do lucro às normas contábeis (IFRS) e trata de receita bruta, valor justo e ajuste a valor presente; base do Lucro Real atual.'],
+['BP-e / NF-e ABI / DF-e Simples','Documento','Novos documentos fiscais eletrônicos exigidos a partir de 01/03/2027: bilhete de passagem (BP-e) e outros, NF-e para venda de imóveis (ABI) e DF-e do Simples para venda de mercadorias.'],
+['Conformidade (compliance)','Conceito','Cumprimento correto e tempestivo das obrigações. Influencia prazos de ressarcimento e riscos no crédito.']
+  ];
+  G.sort(function(a,b){return a[0].localeCompare(b[0],'pt-BR',{sensitivity:'base'})});
+  var gl=$('gl'),az=$('az'),letters={};
+  gl.innerHTML=G.map(function(g){
+    var L=g[0].charAt(0).toUpperCase().normalize('NFD').replace(/[̀-ͯ]/g,'');
+    if(!/[A-Z]/.test(L))L='#';
+    letters[L]=1;
+    return '<article data-l="'+L+'"><h4>'+g[0]+'<small>'+g[1]+'</small></h4><p>'+g[2]+'</p></article>';
+  }).join('');
+  az.innerHTML='<button class="on" data-l="">Todos ('+G.length+')</button>'+Object.keys(letters).sort().map(function(l){return '<button data-l="'+l+'">'+l+'</button>'}).join('');
+  var curL='';
+  function gf(){
+    var t=$('gq').value.toLowerCase();
+    gl.querySelectorAll('article').forEach(function(a){
+      var ok=(!curL||a.getAttribute('data-l')===curL)&&(!t||a.textContent.toLowerCase().indexOf(t)>-1);
+      a.style.display=ok?'':'none';
+    });
+  }
+  az.addEventListener('click',function(e){
+    if(e.target.tagName!=='BUTTON')return;
+    az.querySelectorAll('button').forEach(function(b){b.classList.remove('on')});
+    e.target.classList.add('on');curL=e.target.getAttribute('data-l');gf();
+  });
+  $('gq').addEventListener('input',gf);
+
+  /* active menu */
+  var links=document.querySelectorAll('#menu a');
+  var secs=[].map.call(links,function(a){return document.querySelector(a.getAttribute('href'))});
+  window.addEventListener('scroll',function(){
+    var y=window.scrollY+120,cur=0;
+    secs.forEach(function(s,i){if(s&&s.offsetTop<=y)cur=i});
+    links.forEach(function(a,i){a.classList.toggle('on',i===cur)});
+    var on=links[cur],m=document.getElementById('menu');
+    if(on&&m.scrollWidth>m.clientWidth){m.scrollTo({left:on.offsetLeft-m.clientWidth/2+on.offsetWidth/2,behavior:'auto'})}
+  },{passive:true});
+})();
+</script>
+</body>
+</html>

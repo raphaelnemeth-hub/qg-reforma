@@ -1,12 +1,12 @@
 {
- "lastCheckAt": "2026-11-12T17:43:50Z",
- "lastCheckBr": "12/11/2026 14:43",
- "added": 0,
+ "lastCheckAt": "2026-11-12T18:40:50Z",
+ "lastCheckBr": "12/11/2026 15:40",
+ "added": 5,
  "feeds": [
   {
    "name": "Agência Senado",
    "ok": true,
-   "found": 1,
+   "found": 0,
    "new": 0
   },
   {
@@ -30,8 +30,8 @@
   {
    "name": "Portal Contábeis",
    "ok": true,
-   "found": 15,
-   "new": 0
+   "found": 16,
+   "new": 1
   },
   {
    "name": "InfoMoney",
@@ -42,8 +42,8 @@
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 96,
-   "new": 0
+   "found": 95,
+   "new": 4
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -53,6 +53,31 @@
   }
  ],
  "items": [
+  {
+   "id": "1d7f2b02f9b1",
+   "date": "2026-11-12",
+   "title": "Simples Unificado ou Híbrido com a CBS de 11,3%: como decidir antes de 20 de dezembro",
+   "resumo": "Webinar aborda como avaliar a tributação do Simples Nacional e a apuração da CBS fora do regime antes do prazo de decisão. Leia mais em…",
+   "link": "https://www.contabeis.com.br/noticias/80806/simples-unificado-ou-hibrido-com-a-cbs-de-11-3-como-decidir-antes-de-20-de-dezembro/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "simples",
+   "tag": "Simples",
+   "addedAt": "2026-11-12T18:40:50Z"
+  },
+  {
+   "id": "cbb9a3d6a885",
+   "date": "2026-11-12",
+   "title": "IBS e CBS na base do ICMS e do ISS: cobrança gera disputa na Reforma Tributária",
+   "resumo": "Decisões liminares acolhem pedidos de contribuintes contra a inclusão dos novos tributos no cálculo dos atuais impostos, mas discussão ainda não tem solução definitiva",
+   "link": "https://www.portaldoagronegocio.com.br/gestao-rural/analise-de-mercado/noticias/ibs-e-cbs-na-base-do-icms-e-do-iss-cobranca-gera-disputa-na-reforma-tributaria",
+   "source": "Portal do Agronegócio",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-12T18:40:50Z",
+   "tries": 1
+  },
   {
    "id": "1e987bf6bde6",
    "date": "2026-11-12",
@@ -341,6 +366,19 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-12T03:00:00Z",
+   "tries": 1
+  },
+  {
+   "id": "305ccd7485b2",
+   "date": "2026-11-11",
+   "title": "Reforma tributária: Receita perdoará multa de empresa de 'boa-fé' em 2027",
+   "resumo": "",
+   "link": "https://economia.uol.com.br/noticias/redacao/2026/11/11/conformidade-da-reforma-tributaria.ghtm",
+   "source": "UOL Economia",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-12T18:40:50Z",
    "tries": 1
   },
   {
@@ -807,7 +845,7 @@
    "category": "cont",
    "tag": "Contabilidade",
    "addedAt": "2026-11-11T13:33:00Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "131c12cf2f7a",
@@ -833,7 +871,7 @@
    "category": "nt",
    "tag": "Nota técnica",
    "addedAt": "2026-11-11T13:24:00Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "676ceff0aeae",
@@ -911,7 +949,7 @@
    "category": "cont",
    "tag": "Contabilidade",
    "addedAt": "2026-11-11T12:49:00Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "a25f393029bc",
@@ -1018,6 +1056,19 @@
    "tries": 1
   },
   {
+   "id": "92168f24e266",
+   "date": "2026-11-10",
+   "title": "Davi Alcolumbre recebe do presidente do TCU relatório sobre alíquota da CBS para 2027",
+   "resumo": "O documento apresenta o percentual de referência de 11,3% para 2027, aprovado pelo TCU em 28 de outubro. A CBS substituirá o PIS/Pasep e a Cofins e integra o novo modelo de tributação sobre o consumo, instituído pela reforma tributária aprovada pelo Congresso.",
+   "link": "https://www12.senado.leg.br/institucional/presidencia/noticia/semi-destaques/davi-alcolumbre-recebe-do-presidente-do-tcu-relatorio-sobre-aliquota-da-cbs-para-2027",
+   "source": "Senado",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-12T18:40:50Z",
+   "tries": 1
+  },
+  {
    "id": "4f7f659ac746",
    "date": "2026-11-10",
    "title": "PEC 22/2026 propõe manter IPI até início do Imposto Seletivo",
@@ -1061,408 +1112,442 @@
    "date": "2026-11-10",
    "title": "Após reunião com Durigan, Coutinho afirma que reforma tributária não será adiada - Republicanos 10",
    "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTnF3Nk5ycEZEd1VVMzR0c3RnYldNUm5YeHhwN1dTWkhSMVBJX00tcWNMMFlOMWdiWnp2NGpWNWNvSFVILWIwQ3Q3YWtjT05oRmpoOEJwaHBPbFdid2NNQUotM2ZYTVlaM3lvaGk5VWFjczBVY0psTmNUNkFrX0NnTURUdlFjM0Qz?oc=5",
+   "link": "https://republicanos10.org.br/noticia/coutinho-reforma-tributaria-nao-sera-adiada",
    "source": "Republicanos 10",
    "official": false,
    "category": "lei",
    "tag": "Legislação",
-   "addedAt": "2026-11-10T22:39:49Z"
+   "addedAt": "2026-11-10T22:39:49Z",
+   "tries": 1
   },
   {
    "id": "21d7bc152130",
    "date": "2026-11-10",
    "title": "Nem 11,3%, nem 2027: Congresso articula para mudar alíquota da CBS e adiar a reforma tributária - NeoFeed",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdHVVdkF4RENQbURHN2kxQXZZZzBhWnF4WlZKWVRwSVNGRTZZUGlCd3NaaXJqR3ZFSENBTmMwTVN6YThpeXJ0VERNNW91eFlhci1xWUduRGF4MzdQdmV1UlBIOVlUUEJUOGF1M1hYVkdjV1RPSHZHeC1VWVY1dEQtUkpwX1JobEtRVmg5OVVoWWpiSVVtWm1qemF4aHN6UEctY3Z0TDVta2daLW9kOUtqR1RyUVBibjNhWDN0M3BR?oc=5",
+   "resumo": "Parlamentares questionam cálculo do TCU para tentar reduzir o imposto e colhem assinaturas para PEC que joga a vigência do novo sistema para 2028.",
+   "link": "https://neofeed.com.br/poder/nem-113-nem-2027-congresso-articula-para-mudar-aliquota-da-cbs-e-adiar-a-reforma-tributaria/",
    "source": "NeoFeed",
    "official": false,
    "category": "aliq",
    "tag": "Alíquotas",
-   "addedAt": "2026-11-10T21:13:00Z"
+   "addedAt": "2026-11-10T21:13:00Z",
+   "tries": 1
   },
   {
    "id": "0512a22428d4",
    "date": "2026-11-10",
    "title": "Senado recebe acórdão do TCU que propõe alíquota de 11,3% para a CBS — Senado Notícias - Senado",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY09BeUoxZGJOUXhaVFdWeWNscUtoTkhTOHQ2Qy1DdVk2Tms3WnJaYXpBaU5RZ2c4NVNoc01RSzEzeGlvOFJEdVRHN0RzUFNqQ3YtYWVNekZNQ2JYZmJmTWkzZEwwa2RRNXFoUXF6eEcxTk5qR0xRN1l5RzlmMVJvLXpVcmo2YlVJc2hsNXNyQ1hhYkpLN0p3V1ZESDdwclZQQTZfTWJRc0dsNm5wdnNsNU10T21PcUdIVFdBWm5wMnZadw?oc=5",
+   "resumo": "O presidente do Tribunal de Contas da União (TCU), ministro Vital do Rêgo, entregou nesta terça-feira (10) ao presidente do Senado, Davi Alcolumbre, o acórdão da decisão que recomenda uma alíquota de 11,3% para a Contribuição Social sobre Bens e Serviços…",
+   "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/senado-recebe-acordao-do-tcu-que-propoe-aliquota-de-11-3-para-a-cbs",
    "source": "Senado",
    "official": false,
    "category": "aliq",
    "tag": "Alíquotas",
-   "addedAt": "2026-11-10T21:11:18Z"
+   "addedAt": "2026-11-10T21:11:18Z",
+   "tries": 1
   },
   {
    "id": "5970255b01dc",
    "date": "2026-11-10",
    "title": "Alíquota de CBS? Imposto do Pecado? Entenda as discussões sobre a reforma tributária em 6 pontos - Estadão",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdXFWTV9JUjJ1dV83d3JYM0ZXdTBXRDhqdHZCSGh3bWZlRTJMY3dHRUFCQTRqRGVhMkJ4Ry0zZFRIOXhmUXBZbFlxU2RCR2VhUzYxWkFUVHQtRjR0c1o0M0QwRFNPTktuSmdqTkFEak1rSzNERmZBWEROdzh5MjNWVTVnZlhubDFqcS11OXZValhQcEhPZlZTOHhJUklCQ1hraVVIamJQaTktbzRvWlZXd0oxcE8xZW1Yd2FDck5uekJvbERpY0diRG01aW9TYV9J0gHQAUFVX3lxTE51cVZNX0lSMnV1Xzd3clgzRld1MFdEOGp0dkJIaHdtZmVFMkxjd0dFQUJBNGpEZWEyQnhHLTNkVEg5eGZRcFlsWXFTZEJHZWFTNjFaQVRUdC1GNHRzWjQzRDBEU09OS25KZ2pOQURqTWtLM0RGZkFYRE53OHkyM1ZVNWdmWG5sMWpxLXU5dlVqWFBwSE9mVlM4eElSSUJDWGtpVUhqYlBpOS1vNG9aVld3SjFwTzFlbVh3YUNyTm56Qm9sRGljR2JEbTVpb1NhX0k?oc=5",
+   "resumo": "Nos últimos dias, uma série de novidades impactou o empresariado, como uma alíquota de CBS muito maior do que o esperado, a divulgação do “Imposto do Pecado” e a discussão sobre um possível adiamento",
+   "link": "https://www.estadao.com.br/amp/economia/aliquota-de-cbs-imposto-do-pecado-entenda-as-discussoes-sobre-a-reforma-tributaria-em-6-pontos/",
    "source": "Estadão",
    "official": false,
    "category": "aliq",
    "tag": "Alíquotas",
-   "addedAt": "2026-11-10T19:53:00Z"
+   "addedAt": "2026-11-10T19:53:00Z",
+   "tries": 1
   },
   {
    "id": "1941ce82bb46",
    "date": "2026-11-10",
    "title": "Reforma tributária do aluguel: novas regras para PF e PJ - Acia Araçatuba",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMkM5T1hWVGZuUXpqd2tDbl9iZWhaZ1RSQXhTMk55MlhSZFRqQmZWT0FROW50VmR5VzNKQngwNDBJb0RpMXc1SVdDdExpZndaRDZ5RVNZSWxCcm9ybHlQMDNaMGRNZkFmRkZ1d29icXBfeF9vaXZ2NlFndUJZd290eThB?oc=5",
+   "resumo": "A reforma tributária inclui a CBS e o IBS sobre rendimentos de aluguel, com regras diferentes para pessoas físicas e jurídicas. A transição será gradual, com gatilhos de receita e prazos até 2029.",
+   "link": "https://aciara.com.br/reforma-tributaria-do-aluguel-novas-regras-para-pf-pj/",
    "source": "Acia Araçatuba",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-10T18:35:48Z"
+   "addedAt": "2026-11-10T18:35:48Z",
+   "tries": 1
   },
   {
    "id": "edd8c6cebba1",
    "date": "2026-11-10",
    "title": "Tributária: Bancos preveem implementação do ‘split payment’ para empresas até outubro de 2027 - Estadão",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeEtkNHVpOExtVEc3aWpMOE10Nk1KX2hrLTUyWjYyNklZdVVGMlU4aFFQRmptZFVfSk9feEJvR29FN3V2VVhCc0kzazV3Zng5bUVTQjFLMC1Kb0E1cGNFa3pydngwMmlQQU83UEVmd29DSm1aNDdmS1ZDQU84Y1FfZ3pEWExQNTRla2QwYndRakhkaXVqWEozdF9PVDJjRGRGWm9YOGF4ZHpiVmJDNG5EamNoWnB4ZVdXc1lyeExQbkpyM25EelHSAcsBQVVfeXFMT2pJVlVGSm5qeU1XSkNTa1ZvX1I1LUpCWnJnOEJoXzhwTlotZlFqSGxGSENLU05SRWNibmZPVTJLM1BCRWoyaGFRT3NDS0xjOXEtNElnYXBzZmJBN1laWGxFRldNV0U2VDd1aUJaUEFQRE9FNjF6eUtzUU5pVVRwZkFrNEFkS2ZpZ1VKY3VUVjZoS1RWUXFRTEx4SkVwVnplZDNBZVUxakJZNFIyZEVXcDZfaUpiZkg4YWhsdWZQVW5NcjVQWERUcGhJOWc?oc=5",
+   "resumo": "Mecanismo terá adesão voluntária para pessoas jurídicas e acontecerá em fases ao longo do ano que vem",
+   "link": "https://www.estadao.com.br/economia/tributaria-bancos-preveem-implementacao-do-split-payment-para-empresas-ate-outubro-de-2027/",
    "source": "Estadão",
    "official": false,
    "category": "pag",
    "tag": "Split payment",
-   "addedAt": "2026-11-10T18:21:00Z"
+   "addedAt": "2026-11-10T18:21:00Z",
+   "tries": 1
   },
   {
    "id": "91875e3a09c6",
    "date": "2026-11-10",
    "title": "Reforma tributária no aluguel: regras para pessoa física e jurídica - Portal Contabeis",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWVkxMTdaWS1FVnZ4cVc1bkRvUFpyMWRFQndLXzZUX3hyRjlCMERhV3d0UGRUTDM4aHJZZTJzeUhDclpUNy1FVWdIalI5UHZZN0NzRVQwS05HYXZmMkhvUWdpSVRfeGt1cWRjSlVfRE5LcFFwamtEbVEwckdCMzVENEZ5WVpfRmI0VXo5UUh4MUxTVkUzLU16QS1LMkhLcWppdzBOMzluTlZBYS1GZXU4Yg?oc=5",
+   "resumo": "Entenda quando IBS e CBS incidem sobre aluguéis, como funciona o redutor residencial e quais contratos podem adotar o regime de 3,65%.",
+   "link": "https://www.contabeis.com.br/noticias/80736/reforma-tributaria-no-aluguel-regras-para-pessoa-fisica-e-juridica/",
    "source": "Portal Contabeis",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-10T17:30:02Z"
+   "addedAt": "2026-11-10T17:30:02Z",
+   "tries": 1
   },
   {
    "id": "89f01da723ee",
    "date": "2026-11-10",
    "title": "FIN e CNI cobram proteção contra multas na reforma tributária - Poder360",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ3RGR25mOFpnS1p0Ti1fTVU5ZWp5RVlDNTZZSkhBdGs1Yl9NSzVxYzFHU2tsTUZMZDdwTjhSUzl0NGc2em1zaXN1RzdQRHZUUGFoY0c1NmRqR0dqYVNzZVRmMFJlZlhZSkYtNGZWS3VpRmJrWDVHZGxGRXlzY3RWXy1ER2xnV3FnUjBoUHZBbHh5akZWNDVlTC1PQUg1TGs3UlROYXF1T2ljWnQ5UkZvZXprelY?oc=5",
+   "resumo": "Bancos alertam para falta de testes no split payment e discutem remuneração de R$ 0,39 por transação. Leia no Poder360.",
+   "link": "https://www.poder360.com.br/reforma-tributaria-2027/fin-e-cni-cobram-protecao-contra-multas-na-reforma-tributaria/",
    "source": "Poder360",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-10T17:26:24Z"
+   "addedAt": "2026-11-10T17:26:24Z",
+   "tries": 1
   },
   {
    "id": "5c9c400a4b59",
    "date": "2026-11-10",
    "title": "TJ-SP suspende decisões que afastavam IBS e CBS da base do ICMS - Consultor Jurídico",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTUF0SUpudEY5VGcyS295cVdhd1NYR25sdDFWMVZGTFdwS2Q0UWFoaVUxNkV4NXF5RWNPYXZQNVN1Rm1aZXBvYmtqcDdXRTJkZlF1TzNjWWlJWVpsWnJFYm5jZkE2X1J0QnItZWdhM2Vpa2R1MkFKV2ZoZmdOZ0VNS3BxblNadzF4VTVXR3F3bnVtNENKNjEtOURQYTZvdHc?oc=5",
+   "resumo": "Por risco de perda de arrecadação em 2027, presidente do TJ-SP atendeu pedido da Fazenda Estadual para manter IBS e a CBS da base do ICMS",
+   "link": "https://conjur.com.br/2026-nov-10/tj-sp-suspende-decisoes-que-afastavam-ibs-e-cbs-da-base-do-icms/",
    "source": "Consultor Jurídico",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-10T16:40:00Z"
+   "addedAt": "2026-11-10T16:40:00Z",
+   "tries": 1
   },
   {
    "id": "e31a4b31b1e2",
    "date": "2026-11-10",
    "title": "TIM: Estamos prontos para a Reforma Tributária, mas faltam definições relevantes como a alíquota da CBS - ConvergenciaDigital",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSVRjc3NRdWVfWnBOaDZMekg1dkZBMDFDNUkzS0F5ZzljSGZLOFREdklhM3h6M1JmRFZuRERoX2Y1TkdXWTAtSXdkOEtqdHBuQXEtOW9vd3JkRWhsdFpWblN3bWxhR1dNV1JxQW1IY1Q2OS13ZTlwVWdqbGREbEZaQ3lBNlA4enh1bUhLZnVPN0hZQkF6RWRDSHlzS3VBYkJQNkt3MDdtMmdFbVNaNU5tcmEtTFgtdFB0TTJzWkpvZlFWUGNOMFZDSlhhQ1V1YkJCekJwbGxqNVQ1Undwa1E?oc=5",
+   "resumo": "A TIM disse ser indiferente ao adiamento ou não do começo da Reforma Tributária em janeiro de 2027.",
+   "link": "https://convergenciadigital.com.br/mercado/tim-estamos-prontos-para-a-reforma-tributaria-mas-faltam-definicoes-relevantes-como-a-aliquota-da-cbs/",
    "source": "ConvergenciaDigital",
    "official": false,
    "category": "aliq",
    "tag": "Alíquotas",
-   "addedAt": "2026-11-10T16:08:50Z"
+   "addedAt": "2026-11-10T16:08:50Z",
+   "tries": 1
   },
   {
    "id": "4eb79287069f",
    "date": "2026-11-10",
    "title": "Calendário dos bancos prevê pleno funcionamento do 'split payment' na Reforma Tributária a partir de outubro de 2027 - O GLOBO",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQMXRmMFIyYzROdTZZc2NTRlJXamdCUEl1VVdnNG1zazZNOEFUYzVaclZrYm44enZ6NGV6MEk1bmJuVWdkLWd5aEp6NGxCRlYxTi03OFljeXpwcjhqQzRaSjBGcDlCOUw4R2pKZDZxVDJJVmdvRjRYendXbXhEOVJQZU9fNUotR1ZDTF93cDNhdEJjY2wyV09lOWdFVUxWSGJXb0ZWMEJQb2w3b2xUZ0xvcTZMN1NvUlhPTWtBNGhsOTNPNzRIVGRuWXNDYWx5cm9qVl9lUjAzZkdPOGlQazBKTlkxclZfa1Brb1VlSU9ySnlEYnBkdFlXUFlTVWpkQ2dMWGgzNktLT21RZHVj0gGbAkFVX3lxTE1WRDM3LWRHMDA3RWU2R3l1Tm16Tkh1bGNJbmxQcndCbFhndTJzZmRWdzV2blJfQ19FTVJZbHRpZDc5QjE4T09yQmZfYmFlNTkxM04xWTMtUWhYd1VOS1YyVTI4V09vNlA0X1FZVkVRNjVjUVNkcF8zOVBxVlQxcFI1eURxbEZQUzRTeTRkT0ktaGhXc2d5WlFzNEJBcGlpeDVfaFdJSVBZT0xGcy16cEpDZ3dKb01CMGV5NWVISVM4dlJLamlRYnl3azNsYnZINXJSQTNfT1IzZlk1TGQ3N1RLTVpWbXAwOWVXM2dTMFh0U3BfS2RNdGJSdVVseGo2WGJaR1VwNEdNVGpFU2lXSXlOZGlFeGtGcUwwczA?oc=5",
+   "resumo": "Mecanismo é visto pelo Fisco como fundamental para reduzir a sonegação",
+   "link": "https://oglobo.globo.com/economia/fabio-graner/post/2026/11/calendario-dos-bancos-preve-pleno-funcionamento-do-split-payment-na-reforma-tributaria-a-partir-de-outubro-de-2027.ghtml",
    "source": "O GLOBO",
    "official": false,
    "category": "pag",
    "tag": "Split payment",
-   "addedAt": "2026-11-10T15:57:12Z"
+   "addedAt": "2026-11-10T15:57:12Z",
+   "tries": 1
   },
   {
    "id": "25e03a4e9dd8",
    "date": "2026-11-10",
    "title": "Fin prevê split payment em 98% das operações B2B até outubro de 2027 - Congresso em Foco",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdEE5YW15UXJ5OGVFYmo5WF9rbDZEV1J4a0pkM29RWXlDVUI4cVJvQ3dzaDNwTHZyQi1HdkxnS0ZPTHFYUUJJdWp4ZkNKenhpYkRDcGk0RmtvWU1nZEh6YWlLT1RpZ2Z1RWJwb2dmRzFpaHVVRlZaWWQ2OU1ONTU0U2RaM0owZXRwT25LSENkVm9uM01IVWFKVDJFb0toOFdWY0ZJbHZxSXB4dUMyRGNpRFF4VEN4Z1Bp?oc=5",
+   "resumo": "Estimativa considera pagamentos entre empresas; primeira fase do sistema de recolhimento automático de impostos não afeta transações realizadas por pessoas físicas.",
+   "link": "https://www.congressoemfoco.com.br/noticia/131454/fin-preve-split-payment-em-98-das-operacoes-b2b-ate-outubro-de-2027",
    "source": "Congresso em Foco",
    "official": false,
    "category": "pag",
    "tag": "Split payment",
-   "addedAt": "2026-11-10T15:45:31Z"
+   "addedAt": "2026-11-10T15:45:31Z",
+   "tries": 1
   },
   {
    "id": "2c7047827fce",
    "date": "2026-11-10",
    "title": "'Split payment': 98% das operações entre empresas devem estar cobertas a partir de outubro de 2027, estima confederação - G1",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQc2tWaEJmSTdVckFzZFh3ZDBTdThZdEZfdVNRSVJMM2dHTkZuVjNCWEU3d3cxTlZTSHViLUpFVUI0elM0WnhrX0dWOUdIbFduRGVILUR1TUktb1liZUZkTTEyY3hyQ1RIa3BKVFdrY0xOUFhLWm1oRURyQ0Y5WFZidHdwcklaa2RiU0pHaGYtYTJ1T1A5bTJ5WnRmX2V1eWdzbW02WXI1OXVvbEtfMFBpRHAyeFkwZThuVkpfZmJWalV2NGlMM2I4d0NhR2JJMUxJYmZEYTF0R2xHSGw0YUhBeWJzSVgwWGZnamRfLTk1TTVDeV9mZF8w0gGGAkFVX3lxTFByNDlFeHNkRldjN3lQSUNnRUVsNW1TLWNOanJmUi0wYTdWdlhIMTFzVkFhN09PdUM1cmJrUDJkckVSY1d1c3JtZ3p3MGNSRGY4SG1TbUZOZ1JFa3dGNEpBNUhUVU05S0lPQ2otZ0dqZDBldWlWVUQ0SVFmRzRfWnNLVVdFMDJQTUNiZnJuaU9LTVpLZ1BONHJad2kwQzFRRjFPQ3JGWkt0UUYtd3NReFJMM1pkaWVQbEdtcEtKbzE2QWR6YjhVajcxc25tT1ZwTFJQVjhWN3gtT3ktTEV0YXhIYmVwRnhnMDd0NFRsT0U2RXhpV0VjNy0xeF91cmdvMVdmUzdnSkE?oc=5",
+   "resumo": "Mecanismo foi criado para viabilizar o pagamento dos tributos sobre o consumo em tempo real para União, estados e municípios, reduzindo a sonegação.",
+   "link": "https://g1.globo.com/economia/noticia/2026/11/10/split-payment-98percent-das-operacoes-devem-estar-cobertas-ate-outubro-de-2027-estima-confederacao-dos-bancos.ghtml",
    "source": "G1",
    "official": false,
    "category": "nt",
    "tag": "Nota técnica",
-   "addedAt": "2026-11-10T14:06:55Z"
+   "addedAt": "2026-11-10T14:06:55Z",
+   "tries": 1
   },
   {
    "id": "884236f8d10a",
    "date": "2026-11-10",
    "title": "Reforma Tributária: Receita libera novas APIs para consulta da apuração da CBS - ConvergenciaDigital",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZUlWYkhYS09Db3Q0ZXhMc2Z0TmZXRHQwckxFSXE4RTJGVWxHMVNrSVJkQm1oQ21YcllVTmllUDA0WDM3MkpPcURuXzNDaEVkM2FFUnh1Q3Znd2dBRWluSzdRa2FlNjJZZXJ2REJZTVJlb0pHenpxSXZsZkprSXgwRjFqQVhHVl83T3hDTFk3dEFZSTFOb2h6WDg3NFkxVFhWZ3NSb3pka2FOdFlpRmdMYThjZUthN0ZnNGZET3lB?oc=5",
+   "resumo": "A Receita Federal liberou a versão 2.0 das interfaces de programação de aplicações (APIs) para consu",
+   "link": "https://convergenciadigital.com.br/governo/reforma-tributaria-receita-libera-novas-apis-para-consulta-da-apuracao-da-cbs/",
    "source": "ConvergenciaDigital",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-10T13:32:54Z"
+   "addedAt": "2026-11-10T13:32:54Z",
+   "tries": 1
   },
   {
    "id": "a41601cb94b1",
    "date": "2026-11-10",
    "title": "Reforma Tributária na saúde: como clínicas devem se preparar - Contadores.cnt.br",
    "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNR01WVWFLZjlza09jUEtmTklsNWJrdEdMbDJMQzVNbFRtV05ScXREdk1ROFNxM3Rscnh5WUdndnhfVl85XzVPOXhxWThjdXRQbVJXX2sxSUMtNEpabmc4eDd4MFpFMFpFLUd4dEx4NlFRRzFMMHhuMktZdV9GU0NlcTRJdmVuUlRTdnctUl95d29YbC1GNm9tNWc5NVh5SmlmeEZZVmFIdEt0b3VJSUYzdjU2R3ZmeDRuSGNIQVFIVVA?oc=5",
+   "link": "https://www.contadores.cnt.br/noticias/tecnicas/2026/11/10/reforma-tributaria-na-saude-como-clinicas-devem-se-preparar.html",
    "source": "Contadores.cnt.br",
    "official": false,
    "category": "cont",
    "tag": "Contabilidade",
-   "addedAt": "2026-11-10T13:29:00Z"
+   "addedAt": "2026-11-10T13:29:00Z",
+   "tries": 1
   },
   {
    "id": "8b7d63408c67",
    "date": "2026-11-10",
    "title": "Reforma tributária inclui aluguéis na cobrança de IBS e CBS a partir de 2027 - Termômetro da Política",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbmg4dkhuWDhQMjFsREtZcW84WGdXQVUyUWd6cHFZTnVIcnpEb3NETHVwNmZPVUNhZHE0U1VnWE5tOTE3SFhPTnFDTEZZbkczQkhQc2picmxzUmpHQ2k3MmlqaGhxSHVfY3lESXJxbHJQV3BndktqVER4bUVCNFhmLXROQm4tdVc1c3lId3RKSXJNbU5oU0VYc05OMVdSRmpmTFl2WFZsX05ZdmNGYXFMWEQ1NDZJdExCY3B6b0NBdUY3YVZpT1cwZm5QSUpQZ3c2M0d0QVJNZDNOQUcyUHc?oc=5",
+   "resumo": "A reforma tributária vai incluir a renda de aluguéis na cobrança da Contribuição sobre Bens e Serviços (CBS) e do Imposto sobre Bens e ...",
+   "link": "https://www.termometrodapolitica.com.br/economia/noticia/2026/11/10/reforma-tributaria-inclui-alugueis-na-cobranca-de-ibs-e-cbs-a-partir-de-2027/",
    "source": "Termômetro da Política",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-10T12:20:00Z"
+   "addedAt": "2026-11-10T12:20:00Z",
+   "tries": 1
   },
   {
    "id": "42f283668a55",
    "date": "2026-11-10",
    "title": "Revisão da CBS pode gerar pressão sobre benefícios setoriais da reforma - JOTA Info",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRzVzQjVzNkJiMGR4ZGpzeWNfUXY2Yk56bTQ3aUk0aVF6WVIxWnoyY2R6YjFVOXNzWWpKYTRwOVdYTXdqNTcyeHZ5WGo3cnVld1NEUjZobVYtcUhVaDVoSFhGTU5JbVhnRHNBRTBCcDIzTjJOVXNEcU82ZUVWbG5lZEpaUVQxTjNqWWhwcXVZUHVlSXQya0J2WHJjUDAtN3RCZ1ItWmRxNk44S0dKTWpvSTFDOEVfbUpMY3V0eFRSMkU4TnZCeGd3emZvNA?oc=5",
+   "resumo": "Alíquota de referência de 11,3% calculada pelo TCU surpreendeu parlamentares e setor privado, que falam em reduzir percentual",
+   "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/revisao-da-cbs-pode-gerar-pressao-sobre-beneficios-setoriais-da-reforma",
    "source": "JOTA Info",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-10T12:15:13Z"
+   "addedAt": "2026-11-10T12:15:13Z",
+   "tries": 1
   },
   {
    "id": "b241785bed79",
    "date": "2026-11-10",
    "title": "Receita libera APIs para consultar débitos e créditos da CBS - Portal Contabeis",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMGpMWDNoVXRFRnJKY01nLWFzWGtYcGdUbHJLZlBVNUxjVlAzUTBGbkpuV1c1aUtlTFhrQUtjTFEzdkVNVlUxejdPd3hxN0k3ckpuejdmS3phVTlfYzYwN2NQa1F1QlNoMEpCckxCMURuUHJUVUJDcFNZWUVwZHBIX04tWkZUS3FCOC1IOGF6VmppX3ZPbGlnX3AtZ1I1QlZLajRrUlJSYjg?oc=5",
+   "resumo": "Nova versão das APIs da CBS permite consultas incrementais e integração com sistemas das empresas; contribuintes precisam gerar novas credenciais.",
+   "link": "https://www.contabeis.com.br/noticias/80723/receita-libera-apis-para-consultar-debitos-e-creditos-da-cbs/",
    "source": "Portal Contabeis",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-10T12:00:01Z"
+   "addedAt": "2026-11-10T12:00:01Z",
+   "tries": 1
   },
   {
    "id": "131a19ac9d54",
    "date": "2026-11-10",
    "title": "Reforma Tributária: Atualização do Ambiente Beta da DeRE — Receita Federal - Governo Federal",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZ0l0MTlnVk1DUkRJTW03Q2R1Q2FydW12RF9mb0cxVTBHTWY5RFU3cTdRVkgxbXFMX0h2cHllYklqUVljcHA4RzZ5RVBkUUJFYUdmNENVekZsdEc1LVVYMmpvX1Ewd08zSDlOMlpXZTRHQ3JKT2pSNGxDRmVzMEhma2RLMXBSSkxLRjF5U3BydUNKcE04cGVKSGRqakRINlNuWExBQnBEbUpyQWdBMVpRanF0d2dJUVN2R3FVZ1lDdElPR1ZPeEE?oc=5",
+   "resumo": "A atualização será realizada sem interrupção dos serviços.",
+   "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/reforma-tributaria-atualizacao-do-ambiente-beta-da-dere",
    "source": "Governo Federal",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-10T11:16:06Z"
+   "addedAt": "2026-11-10T11:16:06Z",
+   "tries": 1
   },
   {
    "id": "05c3c4146caf",
    "date": "2026-11-10",
    "title": "Reforma tributária e imposto seletivo para 2027 - Migalhas",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRVdLdjh3YUVPNXdOUjU2RlJIX2ZLcTZJajc1dGlNbW9LdjF5SEg5Zi13QVlWUTA4cXdpOUZ5NGRyTmlhUnhXRkh6dUp0eGFhU2w0Rzc2OVVqS1V6MTVMbkhxR2RKUlhveGhwOGhVdF9EQzFIdU9VZEVVdWpnR0lEOURPTzRDMG5CWExWVUNoa2YxUVE?oc=5",
+   "resumo": "Por Ricardo Pontes Vivacqua. O texto analisa a MP 1.399/26, a fixação de alíquotas e suas regras de implementação.",
+   "link": "https://www.migalhas.com.br/depeso/468179/reforma-tributaria-e-imposto-seletivo-para-2027",
    "source": "Migalhas",
    "official": false,
    "category": "aliq",
    "tag": "Alíquotas",
-   "addedAt": "2026-11-10T10:15:48Z"
+   "addedAt": "2026-11-10T10:15:48Z",
+   "tries": 1
   },
   {
    "id": "01bb5d4b4463",
    "date": "2026-11-10",
    "title": "Que imposto é esse: Coautor da reforma tributária rejeita adiamento da CBS para 2028 - Folha de S.Paulo",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZm0zRExpc1pDcVNWSXZHTDlaSmY5TmZ3RTQ4eF90a0l5RFJIMC1DWUQtdll6dU1PQWV1cXgxZFZXSzMwSkVCRWpqbzUwejQ2QVdfT2kwb253cWU3Z0JxbndFaTcyS3FIN3NEa1lJU3duZjZ5c3ozaHNqQko0b0FzWmpqdUYzeDNaSVlVYk9TdGFDNkYtRVJYUzRCNkJaX2c2OEFONW44ejRRbW5kd1RWUFlMVVNYSG5pdXZLNmVvdTZQall0QWw4c1dzaE5WZw?oc=5",
+   "resumo": "Eurico Marcos Diniz de Santi diz que prorrogação encurta aprendizado das empresas",
+   "link": "https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/11/coautor-da-reforma-tributaria-rejeita-adiamento-da-cbs-para-2028.shtml",
    "source": "Folha de S.Paulo",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-10T07:00:00Z"
+   "addedAt": "2026-11-10T07:00:00Z",
+   "tries": 1
   },
   {
    "id": "d973a5466d30",
    "date": "2026-11-10",
    "title": "Reforma tributária muda regras para renda com aluguel; veja como fica para pessoas físicas e jurídicas - G1",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOaktBbV9xeWpCYWd4SERJWU4xdWVMbHhaTUtMS1VOR2hrZGxPYnVka2VqbXoxaVRDVDB4S3JEQndqcTRqbm04MlJMYmNzTzFzUjJxNThSQnJsN2ItVUVqRy1Jd2hPdUNPdGxjY0FEajlVM3BJb1BDZlVIMWJNSEdEclE0c3FBOGNCcUZQWlY1d09GVGE2TXhRcmduREt5Y3V1UVFJai1tSWNOZE9YRUgyZmxVamdKWTdHTzQ5WkptQU8zaFJJQ2gySU1LR2ppS2pKaFFOVUpJR21GT2JQdE1HSnVPSkVyX0VVTElnWtIB-wFBVV95cUxQWV9JVTdiWG5sVEtzZUIzYXdwRVlrVm44Z0FaSmd2RXBrVHRwMDdfNVV4N2sxUFRPVDZ5ZldULXJfSm11djU3amFzWWdhVmFFY3g1ODdRZ2RXTUhOV0l4SFRPS3N3ZEhyX1VZWmRkeTk5d1paYkhhNVpDUEgxeDduSm1BY2dTT2FwNElXdVBtM1RXNEVkZkZwM1JhYnJjeUFOLUY5LW9qZjdyb0tUZTN5R0Y1MTJBQ1I1NzhkNjVRT00tVHg0TlFsdHcxdHVUSTRTWUhEZU9vVFlaZmRtR0d2ekxvczRHN3dFRHExZk5VdWRGNS1pMjlFMDZOUQ?oc=5",
+   "resumo": "A CBS e o IBS passarão a incidir sobre rendimentos vindos do aluguel, com regras distintas para proprietários que são PJ e PF. A nova cobrança será gradual, com gatilhos e fase de transição até 2029.",
+   "link": "https://g1.globo.com/economia/noticia/2026/11/10/reforma-tributaria-muda-regras-para-renda-com-aluguel-veja-como-fica-para-pessoas-fisicas-e-juridicas.ghtml",
    "source": "G1",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-10T03:00:01Z"
+   "addedAt": "2026-11-10T03:00:01Z",
+   "tries": 1
   },
   {
    "id": "0214e4c9f796",
    "date": "2026-11-09",
    "title": "Justiça de São Paulo permite excluir IBS e CBS do cálculo do ISS Decisão provisória impede que novos tributos da Reforma Tributária sejam incluídos na base de cálculo do ISS de uma empresa, evitando um possível aumento d",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPakwxeFFSUXdCd1VGMWJpc29NNi1fdk80NjFzQWJHSnNleUc1Zk0wdUl6R1dDRERNUF83M1B6NXJnVTA1SHZ6XzJHS09VYzdwV1kzU1U0cnZBTUVBaWRJbzZlVUVZWkR1NFROVHpsM2lWVElBcmI2WExXajR1MHpxYndadVRvSXVPRE8tb2xNTEtoRjQ3X0F2NzlzTzVRUWRaNkRzeHV1cENaUGw4M01FdDU1YncxQk1NamlDQVFyOFhYcHVmcEFNcnU5Ynlyd1ZDSGo2bVNvalNrSXEzTW4tSWFNZmk4QVM0SWhsRHFJeWFndHdDc3lBVTIyeG9ONXI4amVEaDZhVXJhVllSVkhhc3VpajJGNVU4enlfd2xCS0IwM09WOEt5Zm5HalFpQVk1MEQyM0UwODVaTG8xc2VYdVF3Q2NkYWJKV01aRg?oc=5",
+   "resumo": "Uma decisão da Justiça de São Paulo autorizou uma empresa a não incluir os […]",
+   "link": "https://www.hondatar.com.br/justica-de-sao-paulo-permite-excluir-ibs-e-cbs-do-calculo-do-iss-decisao-provisoria-impede-que-novos-tributos-da-reforma-tributaria-sejam-incluidos-na-base-de-calculo-do-iss-de-uma-empresa-evitando-u/",
    "source": "HONDATAR Advogados",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-12T15:47:59Z"
+   "addedAt": "2026-11-12T15:47:59Z",
+   "tries": 1
   },
   {
    "id": "a4793f0f3e21",
    "date": "2026-11-09",
    "title": "Ato Técnico nº 10/2026: veja as versões fiscais aprovadas para IBS e CBS - Portal Contabeis",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUmItb1NLSldvQkozVUNld0ZwUkJUcHhWWklqMjJkVzNrTmVvUmhUb2VERXJrQmdXNzROb1JKU24tVnNJOHBtMHhTamJza2ItQ2ZqaFIwYjRwcEhpbTgxZWxZYW9wRWhaVHBwZmt4RWowbkZJNm5HNXZzeFg3dWdlTEVoc3lHRnFQUVpuQjA0MFBkRXVNekpjMURaODFsTHA3YXhGU0l2enBwTFAwOTcycElfdVdHbzA?oc=5",
+   "resumo": "Receita e CGIBS aprovaram versões para NF-e, NFC-e, CT-e e outros documentos fiscais, além da tabela cClassTrib 1.71. Confira a lista.",
+   "link": "https://www.contabeis.com.br/noticias/80686/ato-tecnico-no-10-2026-veja-as-versoes-fiscais-aprovadas-para-ibs-e-cbs/",
    "source": "Portal Contabeis",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-12T13:02:10Z"
+   "addedAt": "2026-11-12T13:02:10Z",
+   "tries": 1
   },
   {
    "id": "6daf46f129da",
    "date": "2026-11-09",
    "title": "Petrobras diz ter dúvidas sobre reforma tributária e pede período sem multas - JOTA Info",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaHZYNlQ4b01KbUhJeEQwdERVTGtMcWpoT3pSU1VhQnpYaE1yWGVmWnNRb0QtTTY2bGRuUGpGX3c1WXUwWWdqM19zSjU3TWhBWThRSnQydm1QX2VVTFpoSENMSGt4MFl2Y21RZkwzLTNlUmRwcEU2SHVyTnR1andRQzBfU0JPaDExZVZrM2VMYkJfYnBXQnFlbm90bzBlQUE0QUFtbTVvWktGRkk?oc=5",
+   "resumo": "Magda Chambriard afirmou que a estatal tem dúvidas a respeito da implantação da reforma tributária e defendeu que haja um período de transição com diálogo e sem multas",
+   "link": "https://www.jota.info/tributos/petrobras-diz-ter-duvidas-sobre-reforma-tributaria-e-pede-periodo-sem-multas",
    "source": "JOTA Info",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-09T22:28:57Z"
+   "addedAt": "2026-11-09T22:28:57Z",
+   "tries": 1
   },
   {
    "id": "1d064cc128d7",
    "date": "2026-11-09",
    "title": "Adubo, semente e defensivo vão ficar mais caros com a reforma tributária? - Portal Contabeis",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRS1ZSEpGc2xjeGFwSW9BSUdOMnNEenB6QXBKMG1lQ29ya0pPNmxEUEM5UlhXdUFLazJBVzhtUEVsZVhaR0x6OS1fcVk3UkMzNmJXWEJzeHJmRzF5MVVpUDZoZ0FBemFyOTk2ZzJUclBLT2hKdU1nVGxLYmVaU0NFZDZ0cnpxMjZCT05OelNqeEEyX2IzaHZiU2U2U1hPeUR5M21UT3RRRW9NeWxPR0lyUVlMZFJXZw?oc=5",
+   "resumo": "Diferimento pode aliviar a compra, mas o imposto pode voltar no preço da produção",
+   "link": "https://www.contabeis.com.br/artigos/80685/adubo-semente-e-defensivo-vao-ficar-mais-caros-com-a-reforma-tributaria/",
    "source": "Portal Contabeis",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-09T21:15:01Z"
+   "addedAt": "2026-11-09T21:15:01Z",
+   "tries": 1
   },
   {
    "id": "053d04579a5f",
    "date": "2026-11-09",
    "title": "Brasscom: Adiar Reforma Tributária pune quem investiu até agora, mas defende foco do governo 100% na CBS - ConvergenciaDigital",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdERleHlmOC15RW9ncWZyMlFCS09mX0xEckU1YXFqRnowVllpWmEzYy1TRzZ2alpOYnpQdWdFSmoycVVvN1YzekVMckxaTnd3WlVSVGFiVDNzUC1DZm9UWTNZZEdCa212ajNHYW9uclFxWHBOWDRLclZzUHZjS3k4el9NV1oxRnE0RVU1Z1JJRFZ0bVlHYXlDUHc1ZlFpbTVZU2RIaXI4UjVTNDJLLW52ZDhlaEY1MVlfX1dwQUlsa2QxM1hEMXYwMDBoSWZZN2RSeEFvU0VNbFFmcS1DSGc?oc=5",
+   "resumo": "A Brasscom - Associação das Empresas de Tecnologia da Informação e Comunicação (TIC) e de Tecnologia",
+   "link": "https://convergenciadigital.com.br/governo/brasscom-adiar-reforma-tributaria-pune-quem-investiu-ate-agora-mas-defende-foco-do-governo-100-na-cbs/",
    "source": "ConvergenciaDigital",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-09T20:59:18Z"
+   "addedAt": "2026-11-09T20:59:18Z",
+   "tries": 1
   },
   {
    "id": "902383e70b44",
    "date": "2026-11-09",
    "title": "Receita Federal libera acesso às novas APIs de apuração da CBS - Governo Federal",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPN1NGMXRPb2w0bGFDZzlpNVo1dEZfWWp6blRjUzRDeGdlcTNpMUltYkdHTDF5T0dLWEYtY2c1N3BNeHByR1diWURzSGJCTUFuYkRjcW4tQU1oQ0l6NFhvMk1BbXRCTlZ6OTVScHN1ZjZEQUJUWXNoNnU1WVZlcGxNT0U5aU56QkVhVDQ2ajUyNFhoOGdJNHh2dkEwbkVTX0pqTVBjaUVJeGhLV1B4RC1aZ2pIRXU5eUd2WUJPWkVjR3RGdlNFZE1ncFZGUnNvNzA?oc=5",
+   "resumo": "Nova versão permite consultas incrementais de débitos e créditos apurados.",
+   "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-libera-acesso-as-novas-apis-de-apuracao-da-cbs",
    "source": "Governo Federal",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-09T19:57:00Z"
+   "addedAt": "2026-11-09T19:57:00Z",
+   "tries": 1
   },
   {
    "id": "ca6367156af2",
    "date": "2026-11-09",
    "title": "Cesta básica terá alíquota zero, mas Reforma Tributária preocupa setor de abastecimento - FecomercioSP",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQ25tSVBxRFYxSHFTSG9xa05jS2gzV1FnWW5NMWdCZjk5bTdRUWM5a0FoYmJDb3IwMTJobnlxUGR3QVpHVUgwVTRDdWtIaXpCcmw1N3o4QjU3SGtnNU9WUlVjVXMzMWIzQ0lPVGtHd0dlTEJaLVAxVTM4SzlVa2czQV9WTEw0TllLNzNwcnBlSWplZzlGTWRaX2hwRTBORmttT1B0bmQtMGsyYVJjeGNUd2FwU3AxTHFYLXo4WkR6dHNPdw?oc=5",
+   "resumo": "Conselho da FecomercioSP debate os reflexos das novas regras sobre o comércio de alimentos",
+   "link": "https://fecomercio.com.br/tributario/cesta-basica-tera-aliquota-zero-mas-reforma-tributaria-preocupa-setor-de-abastecimento/",
    "source": "FecomercioSP",
    "official": false,
    "category": "aliq",
    "tag": "Alíquotas",
-   "addedAt": "2026-11-09T19:42:30Z"
+   "addedAt": "2026-11-09T19:42:30Z",
+   "tries": 1
   },
   {
    "id": "fb18896bb830",
    "date": "2026-11-09",
    "title": "Reforma Tributária: guia completo sobre IBS, CBS e o que muda de 2026 a 2033 - InfoMoney",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVndEdWRVWm5mdC00eFRDMTFnc28zWlZoaWcyM09aeHhTRjk0Yk45SUcxSVpXTUNtQVd1S3hoV3kwWVpSX19ibkQwSnFYM1NhRG9CbUd0TGZJQ0FDYjJyQjVXTHZrRkc0blFtZ0hlVGFBeVJhbktoQUtHblp4WTltZUFFVnc4enFEVTdvZ21peVJJZFFZMkNsV3BoUQ?oc=5",
+   "resumo": "Saiba tudo sobre a Reforma Tributária: IBS, CBS, alíquotas, créditos tributários, split payment, cashback e as principais mudanças até 2033.",
+   "link": "https://www.infomoney.com.br/guias/reforma-tributaria-guia-completo-sobre-ibs-cbs-e-o-que-muda/",
    "source": "InfoMoney",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-09T19:30:00Z"
+   "addedAt": "2026-11-09T19:30:00Z",
+   "tries": 1
   },
   {
    "id": "c32d885c8044",
    "date": "2026-11-09",
    "title": "NF-e sem ICMS: veja as regras para IBS e CBS - Portal Contabeis",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZlIweTFHVmZ1UFo4aHpOT1JDTlBSV0V6Z2FINmdobnJpMEZTTnhwb3cwLXpNbm94VXlZam1qQnZINFAyZjdKakt3VDJaUExybHhORkFPeEFEM3d2SVc5Q25zWTJyQzEyQl9USEJHelVRaG54RzdmSlVWUmphX0tzSE5LVUJmRTVqaVRueVVLX0sxdw?oc=5",
+   "resumo": "Empresas que não recolhem ICMS, mas estão sujeitas ao IBS e à CBS, terão novas regras para emitir NF-e a partir de dezembro.",
+   "link": "https://www.contabeis.com.br/noticias/80708/nf-e-sem-icms-veja-as-regras-para-ibs-e-cbs/",
    "source": "Portal Contabeis",
    "official": false,
    "category": "nt",
    "tag": "Nota técnica",
-   "addedAt": "2026-11-09T18:15:01Z"
+   "addedAt": "2026-11-09T18:15:01Z",
+   "tries": 1
   },
   {
    "id": "0bf7938c5af8",
    "date": "2026-11-09",
    "title": "Izalci Lucas quer debater alíquota da CBS e impactos da Reforma Tributária - Senado",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeG45ck40bml0NTVNdlZvVktHWlpPbE85UnB5TkJ4NFE1VWhTbXZyNjhhQUM4Y09qQWIzelRZLTdhUF9QRnJzZ1k3aFUyLVg0Zk5GdTVSbzJaRFFwU1RaZlVDenBxNDgxanNmcnpwTEJ5WDBMLTUyUTBaa3gwZklGdzBLTGpocDk3OUo3ZG9TNGppNF9lSml4V21pX0Q5OHd5VGNQWDFlLWszdUlsalBCSDlObWZmNzZ5bThXTWo1V1lxSm9xM0NXYjBsUzhKQQ?oc=5",
+   "resumo": "Senador Izalci Lucas (PL-DF) fala sobre a audiência pública da Comissão de Assuntos Econômicos (CAE) que vai discutir o cálculo da alíquota da Contribuição de Bens e Serviços (CBS), prevista na Reforma Tributária, e os possíveis impactos para os…",
+   "link": "https://www12.senado.leg.br/tv/programas/argumento/2026/11/izalci-lucas-quer-debater-aliquota-da-cbs-e-impactos-da-reforma-tributaria",
    "source": "Senado",
    "official": false,
    "category": "aliq",
    "tag": "Alíquotas",
-   "addedAt": "2026-11-09T16:16:24Z"
+   "addedAt": "2026-11-09T16:16:24Z",
+   "tries": 1
   },
   {
    "id": "6ed133c1c2b5",
    "date": "2026-11-09",
    "title": "Medida provisória não pode dispor sobre Imposto Seletivo, CBS e IBS - JOTA Info",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNXgyLWZYWUNvem9WMGxCQ0J5LS04TW54WWpNaFk2ZWw4cDNobzRaSzkyNVltYUJoM3VQcU5GdHh3eHpXSlNjMGVlbldMOWhmV21pSTVRY1Fael9KU3JDT2VfQlB2X2plQU9UN3FsMzJUaWQ5eTF5ZVdick1KQ3VKbDJiQWhpNXJKVEN3dktIY3JsNEtmZkJlMVNwRjBiSl9YSGhtMVZTUDNITnhiODlmbnFVa21JODZKZTMtbDhwUTVWTjBp?oc=5",
+   "resumo": "Uma lei é uma lei; uma medida provisória é uma medida provisória. Confundi-las para fixar as alíquotas do Imposto Seletivo repete o velho hábito brasileiro de deixar à míngua a casa do povo",
+   "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/medida-provisoria-nao-pode-dispor-sobre-imposto-seletivo-cbs-e-ibs",
    "source": "JOTA Info",
    "official": false,
    "category": "aliq",
    "tag": "Alíquotas",
-   "addedAt": "2026-11-09T13:44:19Z"
+   "addedAt": "2026-11-09T13:44:19Z",
+   "tries": 1
   },
   {
    "id": "70fdcfab56fc",
    "date": "2026-11-09",
    "title": "Adiamento da reforma tributária esbarra na resistência do governo - JOTA Info",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSlRaSmxFbUNUY1FwLTBmVzctamFUbjM0V2JoUWMzT0ZTN3NiakF3UEtYempObXFFYTNfVFBEbjRwd3hfOHdWVEZoVWxUMjdFaGxKYjJLQ08xWlowcXR2QXU2aklHYkFVQ3lHQmZBX1p0TWRGM3ZDcnZLQS0zV256VDltV3dfZjdxSWpObnRWUjZoeVNxUS16OF9GTG5rOXFuMGVtOTJHWDQtbktiOW4xb2dWYUJ1UU9ENFVfVWYzNzk2UkE?oc=5",
+   "resumo": "Parlamentares ouvidos pelo JOTA dizem que PEC para adiar vigência dependeria do Planalto, que sinaliza em sentido oposto",
+   "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/adiamento-da-reforma-tributaria-esbarra-na-resistencia-do-governo",
    "source": "JOTA Info",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-09T13:12:25Z"
+   "addedAt": "2026-11-09T13:12:25Z",
+   "tries": 1
   },
   {
    "id": "28cef829379e",
@@ -1499,6 +1584,18 @@
    "category": "aliq",
    "tag": "Alíquotas",
    "addedAt": "2026-11-07T11:00:00Z"
+  },
+  {
+   "id": "5bfa549f4916",
+   "date": "2026-11-06",
+   "title": "Reforma tributária: Seis cláusulas contratuais para revisar antes de 2027",
+   "resumo": "",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ3NEbEpkeXd6V3ZhRFZBbkJEdEFMVXVobDZocFRtdG02WC1XVk1yYzl5dnBGdmpVamg4RnJIQVFJOUxadGN3RzU3eVZkS05FVkdrdkhtQzJoTWZWTmliZmhBc29Xekd0N2lsRzNZczRfclVqeHhZZ3dHcnZoOVZqM2hlU0J4azJQMUphbnBab2ZkNlpWRDl3RDVzbHFMS1VGblE?oc=5",
+   "source": "Migalhas",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-12T18:40:50Z"
   },
   {
    "id": "e95f0b9f211a",

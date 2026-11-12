@@ -1,13 +1,13 @@
 {
- "lastCheckAt": "2026-11-12T15:47:59Z",
- "lastCheckBr": "12/11/2026 12:47",
- "added": 8,
+ "lastCheckAt": "2026-11-12T17:35:38Z",
+ "lastCheckBr": "12/11/2026 14:35",
+ "added": 16,
  "feeds": [
   {
    "name": "Agência Senado",
    "ok": true,
-   "found": 0,
-   "new": 0
+   "found": 1,
+   "new": 1
   },
   {
    "name": "Agência Câmara",
@@ -22,330 +22,558 @@
    "new": 0
   },
   {
+   "name": "Agência Brasil",
+   "ok": true,
+   "found": 0,
+   "new": 0
+  },
+  {
+   "name": "Portal Contábeis",
+   "ok": true,
+   "found": 15,
+   "new": 10
+  },
+  {
+   "name": "InfoMoney",
+   "ok": true,
+   "found": 0,
+   "new": 0
+  },
+  {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 96,
-   "new": 7
+   "new": 5
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
    "ok": true,
    "found": 4,
-   "new": 1
+   "new": 0
   }
  ],
  "items": [
   {
+   "id": "1e987bf6bde6",
+   "date": "2026-11-12",
+   "title": "Aprovados R$ 522 mi para modernização fiscal e compromissos internacionais",
+   "resumo": "O Congresso Nacional aprovou, em sessão conjunta nesta quinta-feira (12), dois projetos que somam R$ 522,1 milhões em créditos orçamentários para financiar ações de modernização da gestão fiscal e pagar compromissos do Brasil com organismos financeiros…",
+   "link": "https://www12.senado.leg.br/noticias/materias/2026/11/12/aprovados-r-522-mi-para-modernizacao-fiscal-e-compromissos-internacionais",
+   "source": "Senado Federal",
+   "official": true,
+   "category": "cap",
+   "tag": "Capacitação",
+   "addedAt": "2026-11-12T17:35:38Z"
+  },
+  {
+   "id": "f46419a43c6b",
+   "date": "2026-11-12",
+   "title": "Entidades filantrópicas poderão manter créditos de IBS e CBS",
+   "resumo": "Projeto aprovado em comissão do Senado permite que entidades de saúde, educação e assistência social recuperem créditos dos novos tributos pagos nas compras. Leia mais em…",
+   "link": "https://www.contabeis.com.br/noticias/80816/entidades-filantropicas-poderao-manter-creditos-de-ibs-e-cbs/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "lei",
+   "tag": "Legislação",
+   "addedAt": "2026-11-12T17:35:38Z"
+  },
+  {
+   "id": "5778066cd402",
+   "date": "2026-11-12",
+   "title": "CBS e IBS em 2027: o que muda com a reforma tributária",
+   "resumo": "Veja como CBS e IBS serão cobrados em 2027, o que acontece com PIS , Cofins , ICMS e ISS e quais decisões ainda estão pendentes. Leia mais em https://www.contabeis.com.br/noticias/80809/cbs-e-ibs-em-2027-o-que-muda-com-a-reforma-tributaria/",
+   "link": "https://www.contabeis.com.br/noticias/80809/cbs-e-ibs-em-2027-o-que-muda-com-a-reforma-tributaria/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-12T17:35:38Z"
+  },
+  {
+   "id": "cb144684c3d9",
+   "date": "2026-11-12",
+   "title": "NF-e e NFC-e: veja o que muda em 16 de novembro",
+   "resumo": "Novas versões de notas técnicas atualizam regras de devolução, campos do Simples Nacional , split payment e validações cadastrais nos documentos fiscais. Leia mais em https://www.contabeis.com.br/noticias/80815/nf-e-e-nfc-e-veja-o-que-muda-em-16-de-novembro/",
+   "link": "https://www.contabeis.com.br/noticias/80815/nf-e-e-nfc-e-veja-o-que-muda-em-16-de-novembro/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "nt",
+   "tag": "Nota técnica",
+   "addedAt": "2026-11-12T17:35:38Z"
+  },
+  {
+   "id": "dfcb6bb4561b",
+   "date": "2026-11-12",
+   "title": "Reforma Tributária: Receita prevê correção preventiva em 2027",
+   "resumo": "Programa de Conformidade prevê orientação e correção de erros fiscais sem punição para contribuintes de boa-fé durante a transição para IBS e CBS . Leia mais em…",
+   "link": "https://www.contabeis.com.br/noticias/80808/reforma-tributaria-receita-preve-correcao-preventiva-em-2027/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-12T17:35:38Z"
+  },
+  {
+   "id": "448ce4010f03",
+   "date": "2026-11-12",
+   "title": "Recolhimento pelo adquirente: como o comprador paga IBS e CBS",
+   "resumo": "Entenda quem pode recolher IBS e CBS pelo adquirente, como o pagamento afeta os créditos e qual a diferença em relação ao split payment. Leia mais em https://www.contabeis.com.br/noticias/80804/recolhimento-pelo-adquirente-como-o-comprador-paga-ibs-e-cbs/",
+   "link": "https://www.contabeis.com.br/noticias/80804/recolhimento-pelo-adquirente-como-o-comprador-paga-ibs-e-cbs/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "pag",
+   "tag": "Split payment",
+   "addedAt": "2026-11-12T17:35:38Z"
+  },
+  {
+   "id": "01381ecb7921",
+   "date": "2026-11-12",
+   "title": "Split payment: formulário para testes está previsto para esta sexta (13)",
+   "resumo": "Receita e CGIBS preveem divulgar em 13 de novembro o formulário para novos prestadores. Inscrições para os testes começam no dia 16. Leia mais em https://www.contabeis.com.br/noticias/80803/split-payment-formulario-para-testes-esta-previsto-para-esta-sexta-13/",
+   "link": "https://www.contabeis.com.br/noticias/80803/split-payment-formulario-para-testes-esta-previsto-para-esta-sexta-13/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "pag",
+   "tag": "Split payment",
+   "addedAt": "2026-11-12T17:35:38Z"
+  },
+  {
+   "id": "6aff0463587b",
+   "date": "2026-11-12",
+   "title": "Reforma Tributária: CFC e Fenacon levam nove propostas à Receita",
+   "resumo": "Foto: Anastassia Anufrieva / Unsplash · Licença Unsplash Entidades pedem adaptação gradual dos documentos fiscais, ajustes na apuração assistida e medidas de segurança jurídica para 2027. Leia mais em…",
+   "link": "https://www.contabeis.com.br/noticias/80807/reforma-tributaria-cfc-e-fenacon-levam-nove-propostas-a-receita/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "cont",
+   "tag": "Contabilidade",
+   "addedAt": "2026-11-12T17:35:38Z"
+  },
+  {
+   "id": "40b56ba1810f",
+   "date": "2026-11-12",
+   "title": "Receita prevê abrir piloto da reforma tributária em novembro",
+   "resumo": "Receita prevê ampliar o piloto da reforma tributária em novembro de 2026. Veja o que já está disponível e como preparar os testes da CBS . Leia mais em https://www.contabeis.com.br/noticias/80798/receita-preve-abrir-piloto-da-reforma-tributaria-em-novembro/",
+   "link": "https://www.contabeis.com.br/noticias/80798/receita-preve-abrir-piloto-da-reforma-tributaria-em-novembro/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-12T17:35:38Z"
+  },
+  {
+   "id": "96f9474b4ba0",
+   "date": "2026-11-12",
+   "title": "Reforma Tributária – CBS e IBS e seus impactos no comércio varejista",
+   "resumo": "",
+   "link": "https://sindilojas.rio/2026/11/12/reforma-tributaria-cbs-e-ibs-e-seus-impactos-no-comercio-varejista/",
+   "source": "SindilojasRio",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-12T17:35:38Z",
+   "tries": 1
+  },
+  {
+   "id": "3aabee77ab7f",
+   "date": "2026-11-12",
+   "title": "Reforma Tributária: Receita quer mudar 1º pagamento da CBS para fevereiro",
+   "resumo": "Receita Federal propõe adiar para fevereiro o 1º pagamento da CBS. Entenda o RAD, o Programa de Conformidade e os novos prazos.",
+   "link": "https://noticias.iob.com.br/reforma-receita-pagamento-cbs/",
+   "source": "IOB Notícias",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-12T17:35:38Z",
+   "tries": 1
+  },
+  {
+   "id": "568d836de7d0",
+   "date": "2026-11-12",
+   "title": "Reforma tributária: governo e setor privado disputam calendário; entenda",
+   "resumo": "Empresariado traz queixas sobre entraves e despreparo para adaptação ao novo sistema; Receita Federal defente implementação, mas secretário sugere adiamento em um mês no recolhimento da CBS",
+   "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/reforma-tributaria-governo-e-setor-privado-disputam-calendario-entenda/",
+   "source": "CNN Brasil",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-12T17:35:38Z",
+   "tries": 1
+  },
+  {
    "id": "6b0c9bbc57bc",
    "date": "2026-11-12",
    "title": "Fisco adia para março de 2027 exigências da reforma tributária para empresas do Simples - Sistema FENACON",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbjZwcXo0TzVvQTVmazhVVHFualFzT1REYzdWUlM1cU1YQUZrTjZaa2s5bVpHMlZSdGxWOUYwbENnNFA4M0owRVNNVGxEUUZvS1c5QW1QWDhWdnZDSkZVd1pJUzhEZXlCN1AyLTNxcW1DelNMZi1UYTU1czFVR3NBeXZmT2Vsd2ZxRXVIWDlPWnJfdTZSVlJyR2VnMEltVkFCSXViUExhb01waV9EclE4VGR5c1JIVkpRMnpibg?oc=5",
+   "resumo": "Início da reforma está mantido para janeiro de 2027. Secretário Robinson Barreirinhas anunciou programa que prevê orientação e correção preventiva, sem punição a contribuintes de boa-fé durante a transição Foto:...",
+   "link": "https://fenacon.org.br/noticias/fisco-adia-para-marco-de-2027-exigencias-da-reforma-tributaria-para-empresas-do-simples/",
    "source": "Sistema FENACON",
    "official": false,
    "category": "simples",
    "tag": "Simples",
-   "addedAt": "2026-11-12T15:47:59Z"
+   "addedAt": "2026-11-12T15:47:59Z",
+   "tries": 1
   },
   {
    "id": "9b9f44c64a9d",
    "date": "2026-11-12",
    "title": "Imposto seletivo puxa pra baixo avaliação da reforma tributária - JOTA Info",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWE5PUHYwUXFDUmE2UmNqQ05hQjlHRFk4QXJ3R0JWbEZvcUZwSEltb0h5aDI4TE52RUhSVkliRE1fajR5WFRwR1Z5YWsyYVo5WHZzLTJmWjRobGJaOUJiNmRrWnAyVURDMTB1eHNTNmg0c0x4clFvUWY5cW5iRHd2SWR6WEFPbUg5UU0tYTUtOURpUWRhZEdoRlNXN0l6T0pTMXZSVzlEQjY4WWZuZXgxUQ?oc=5",
+   "resumo": "Apesar da insegurança, comitê de especialistas do Pulso da Reforma aponta avanço na nota fiscal e no split payment",
+   "link": "https://www.jota.info/opiniao-e-analise/artigos/imposto-seletivo-puxa-pra-baixo-avaliacao-da-reforma-tributaria",
    "source": "JOTA Info",
    "official": false,
    "category": "aliq",
    "tag": "Alíquotas",
-   "addedAt": "2026-11-12T15:47:59Z"
+   "addedAt": "2026-11-12T15:47:59Z",
+   "tries": 1
   },
   {
    "id": "527fdd6f46ee",
    "date": "2026-11-12",
    "title": "Reforma Tributária: se Senado reduzir CBS, governo terá de cortar gastos, diz relator - O GLOBO",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTjM2WDJCci1FYzUzRWNBU3paR1FWUThJMkU4SkVSdURicUx1ampsakZnNnJ5aUVPVk0zVGJRVFZQQVh3TDBQLWd4ZE55X0NQdmd4enJFTUp3QUoxSzRSdkh3QXd3ZTlZeGZXTGx0NUtaOE16UThHOTFObHVRbFNfUzZzdXY1SEx3UVNzdk9NNnR0WGhYaEV1Z2kyTGZGRlI5dkliWUo2S2FockUyeVZSZGo3WS1CLXdHOE1RZ3NSZUZneVhIX0M3TVBPMFNtcGxKbVBfUlpiOWjSAecBQVVfeXFMT0FzX3RJQ2VuZS04aUZvclhQN1BLN1JUZmdMRjZsaW1Rb3pXN25fYzVMdXFEdFR2ejg2NU1NY05EZEtFV0RvT1pZc1pESnRGUEFCZFB3NUlYaS1MMnMxeEZlYkFhRHN0anFicE95NmFfN2NQeHFIVjVnNGtnUEpfSXd2cUJBMWhWMFJDTkZMOEE0cnlOUS03bnExWERPY2plNG5iVzREa2pyR0wzd3M1MTdBSlN3Smo1MjZKQ1FEWUdqZXlaZWlHa0lVdUU4aUU5RmtOUEZIRGludkhDR2N0X2tqY1A1ZGlZ?oc=5",
+   "resumo": "Aguinaldo Ribeiro relativiza alíquota de 11,3% calculada pelo TCU e cita conta da Fazenda que aponta média efetiva de 8,5%; senadores discutem mudar o percentual até 15 de dezembro",
+   "link": "https://oglobo.globo.com/economia/noticia/2026/11/12/reforma-tributaria-se-senado-reduzir-cbs-governo-tera-de-cortar-gastos-diz-relator.ghtml",
    "source": "O GLOBO",
    "official": false,
    "category": "lei",
    "tag": "Legislação",
-   "addedAt": "2026-11-12T15:47:59Z"
+   "addedAt": "2026-11-12T15:47:59Z",
+   "tries": 1
   },
   {
    "id": "a76f7f1c29f0",
    "date": "2026-11-12",
    "title": "Governo enviará PL para adiar em um mês pagamento definitivo da CBS - Migalhas",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZDdHdzFKVnZmejlYeVNFXzJjaUxTZ01YU3lyYVU2MFlpc1FDVGo0dk9LMVF5R1pEWjZBZFdqVVduWkZmZk9VX2tOaGxxWnQyaU95YjhoR21IV0xRRDZ3QktPak15M1NxRlhVRi1NVEFmNWFnT1ZXTWJiWkhoNkFwMElrNWtIUHg2MmhXRXpESTgyQV83bTZseE5GXzdvaTN4Wk5aaEp4X19KVGx6c1Rz?oc=5",
+   "resumo": "Projeto busca dar fôlego ao caixa das empresas durante a transição, sem alterar o início da cobrança, previsto para janeiro de 2027.",
+   "link": "https://www.migalhas.com.br/quentes/468464/governo-enviara-pl-para-adiar-em-um-mes-pagamento-definitivo-da-cbs",
    "source": "Migalhas",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-12T15:47:59Z"
+   "addedAt": "2026-11-12T15:47:59Z",
+   "tries": 1
   },
   {
    "id": "caa02a311140",
    "date": "2026-11-12",
    "title": "Receita anuncia programa de conformidade da Reforma Tributária para 2027 - Portal Contabeis",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQelNrVElsUmtXM1pIclhYNWZlaExLelVZUjYzQ0JCQVdiUDhadjk0M2p4RnBab2trRnBVYzRGelNySUN3SjBiWmFtcUJaLWVPdzg1cDVEenlwVXd1azVZdU04TWRSNVdDSnlGaHlydERHOG1oOWptR2J0bENHUGs1aVhyVmw0LTFidldCV3BWVWMzanZYRHhGdVdyUUpNOWNldDJiVFQ1ZE5INThGVUdMYm5DSVpMLUNq?oc=5",
+   "resumo": "Programa prevê orientação e correção preventiva de erros sem penalidades durante a transição para as regras da CBS e do IBS.",
+   "link": "https://www.contabeis.com.br/noticias/80801/receita-anuncia-programa-de-conformidade-da-reforma-tributaria-para-2027/",
    "source": "Portal Contabeis",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-12T15:47:59Z"
+   "addedAt": "2026-11-12T15:47:59Z",
+   "tries": 1
   },
   {
    "id": "b46820288428",
    "date": "2026-11-12",
    "title": "COMITÊ GESTOR DO IMPOSTO SOBRE BENS E SERVIÇOS – CGIBS RESOLUÇÃO CGIBS Nº 19, DE 12 DE NOVEMBRO DE 2026 Dispõe, em cará - Comitê Gestor do IBS",
    "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObm9oLXZtQXJIMWQ2Nlp6SlF6REYtNjVoSGU2MnFBbUlwaVNzYVNENFVVd0dnSjB1Q2ZZenMyQTd3ZzdCVlJiYldhNWZfV2h0enF1blJzWURJUFJ1NnUzTkpBcXBMV1h4ZnpzSEFJNjI2UnhsRmJoNTdpWVJ3NGw0YTFIQUhDUGRjaUZoRzdMbmJaZGc1V0dOdkp3bzdDRzU3aTd6UUZpWUZVbXc?oc=5",
+   "link": "https://www.cgibs.gov.br/upload/arquivos/202611/12101846-resolucao-cgibs-n-19-de-12-de-novembro-de-2026.pdf",
    "source": "Comitê Gestor do IBS",
    "official": false,
    "category": "lei",
    "tag": "Legislação",
-   "addedAt": "2026-11-12T15:47:59Z"
+   "addedAt": "2026-11-12T15:47:59Z",
+   "tries": 1
   },
   {
    "id": "d9e0a23c18e0",
    "date": "2026-11-12",
    "title": "CBS e IBS: novos impostos da reforma tributária começam a valer em janeiro de 2027; entenda o que muda - CBN",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPeGNTWF9IdnVNRjNhdnRBUi1xbUNWSFdybXd6NWNlWWR3N3ZzUEdJUXN1UVB1cUt3M094TWpGN1hBd212VG04NG5FUVRST0I4ZVVybEVPZjBteGdqdnNuVHQxcXZ6UjEtYnR6VWoyRExQNnNGSjRFOFFFZmNaU0xUWFVaVWhVUk5wM1A2MktXNldoc0JBVFBrZUFHMjFXZjllT2NTcFV0VXBqRGN5UENQQlZuS3VHS0xHYVNIUGVHcXkwTXZTdGdOQW91QjR2NjZESTctcl9zQy1hRFY4dUk4NzdQTmFGWVJxZ2JFQWFPRmlIYTllSkxyd004aTFHTXFoTkVtQdIBkwJBVV95cUxOcER1RldhUGlqTERuUnF2SVBIdkE4d2ljYmNFMmNkNjIxTnAyMktTMzc4bDJ3Znp3dWt3SUpRQ2cwUjFlMEY5UXJYRG5EeUV0SGtSNVdjQ1lDcVUzVFluSmhCYmVhN1VURFQydXJlZEc3R3l2R1pfbUhzX252UVBIaFBpcGNQMmVUUVEzSk42ZThwN0o0YWo2SWdyT1h5SWtaYkRIdmp3T2NTLVJWaGEwXzdteGxodmhrSWpvSm9TYkF5MDJfT05RemZpR3RFUThqaW56RmtNOHk3UkNOajBrU1N3UGFBN2JzeGZDN3RCVmljQ2k1STQyc2h4UThtcFFJbmsxVVR5LWQ3c0JHdWVoOVFLSQ?oc=5",
+   "resumo": "O sócio-líder de Tributos Indiretos da EY Brasil, Patrick Seixas, em entrevista ao Jornal da CBN, ajuda a esclarecer as dúvidas sobre os novos tributos.",
+   "link": "https://cbn.globo.com/programas/jornal-da-cbn/entrevista/2026/11/12/cbs-e-ibs-novos-impostos-da-reforma-tributaria-comecam-a-valer-em-janeiro-de-2027-entenda-o-que-muda.ghtml",
    "source": "CBN",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-12T12:30:16Z"
+   "addedAt": "2026-11-12T12:30:16Z",
+   "tries": 1
   },
   {
    "id": "a8ecc85f7f1a",
    "date": "2026-11-12",
    "title": "Reforma Tributária: se Senado reduzir CBS, governo terá de cortar gastos, diz relator - InfoMoney",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQWZTZ2toUlhTMnZ4WTZqc2t3cWdzMGJLdkkzWEFBTXVpVUk1dTVJckZ5VjJLTktQVUt3Y3BwU2MtWnk5MWlNRkJhb1A5UWYwQzBQTGVFa1B4TXNlYl9LR0NNRGJOa2FlSE1pUGZ6Q1NhTUs4djAzMkVXQ05EOWVOakR4S3JXNW53SGxKVk0wWFRpQlBQei1haDdvMnlOMUNubEdnZlE0YnVVT1pfU2dyOVR2ZzVXQWFqQkViUHRn0gHDAUFVX3lxTE9QWnpKMjJ5ajR5N0xmN2hYRUJQdlJTZWdSVEx1YmhhMEJlOGdWY3dnUVRJU1ZMSHh0dEdNTm94NWR2cmdacTlQVkRhR2xlMTJEZ1VtTzlPQzhiUVNXTURrYjZXcVctOFl3SWJqUnl4OGhzc0wyLV85M2UySWVfZ3JvYnlLbjIzTmoyX0tiODltX01tcUNlUmUyS2IySlBxQmdCRm5oaFIyTDFNbGhBSXZ2amthWGI4d1EyOVFfTHBRNl9mTQ?oc=5",
+   "resumo": "Aguinaldo Ribeiro relativiza alíquota de 11,3% calculada pelo TCU e cita conta da Fazenda que aponta média efetiva de 8,5%; senadores discutem mudar o percentual até 15 de dezembro",
+   "link": "https://www.infomoney.com.br/politica/reforma-tributaria-se-senado-reduzir-cbs-governo-tera-de-cortar-gastos-diz-relator/",
    "source": "InfoMoney",
    "official": false,
    "category": "lei",
    "tag": "Legislação",
-   "addedAt": "2026-11-12T11:23:46Z"
+   "addedAt": "2026-11-12T11:23:46Z",
+   "tries": 1
   },
   {
    "id": "ae93f9fb6e4e",
    "date": "2026-11-12",
    "title": "Receita Federal propõe adiar em um mês pagamento definitivo da CBS - Congresso em Foco",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLWRTcE9rVEVnUlF3Y2NXOG1mQUNwb0lWNkVMYXVXOGtFdUdDSG92UDJxNUhRQ04zN1FweThBVWpiZWhKRERfRmZ0eWc4ZmU0UUdOSDRBajlGaTNOUzhxaWZfTUVBTFlSbmdaSy15MFpQeVBtazJVVnNma3VTcU5mODFzX00wWVhkeG11cjEyMFRzdFlLbklYaFNrOGZyZ0QwNzdzdWtfVlRvdFpsMEdKNVlJS2hXWEE?oc=5",
+   "resumo": "Empresas poderão recolher a CBS por estimativa em fevereiro e fazer o acerto definitivo em março; proposta depende de aprovação do Congresso.",
+   "link": "https://www.congressoemfoco.com.br/noticia/131535/receita-federal-propoe-adiar-em-um-mes-pagamento-definitivo-da-cbs",
    "source": "Congresso em Foco",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-12T10:40:54Z"
+   "addedAt": "2026-11-12T10:40:54Z",
+   "tries": 1
   },
   {
    "id": "eadd8c4e4cbf",
    "date": "2026-11-12",
    "title": "Fundações imunes vão pagar CBS e IBS? - JOTA Info",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR2Z6dzJZZUNzSG0tdkV0b01UUGNLNERsN0JJak9yVFVLY1FOR1pkb0kwZUpoVjk3NDRLTWJlWWxENDZMQW1sbnBpMDQ0X1hkZTRjakVHN25td1ZsZHpBazFwSFR1d0N2UUpkVVZYSXlORDdTci1mRUpDVkxoSTNlY1JhT1JuRFhSSFJRRA?oc=5",
+   "resumo": "A reforma tributária não suprimiu a imunidade das fundações e entidades do Terceiro Setor, mas alterou o seu alcance econômico.",
+   "link": "https://www.jota.info/opiniao-e-analise/artigos/fundacoes-imunes-vao-pagar-cbs-e-ibs",
    "source": "JOTA Info",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-12T06:51:42Z"
+   "addedAt": "2026-11-12T06:51:42Z",
+   "tries": 1
   },
   {
    "id": "1536c408f308",
    "date": "2026-11-12",
    "title": "Reforma Tributária: entenda a proposta que dá 30 dias a mais para empresas pagarem a CBS em 2027 - O GLOBO",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNXRlTDRfZGRkaUE0Y0ZzZWV4ZGcySllHcEJBTGtJN1N1V0VaYThMQU5EMEhNcktHV0xoY3I5NGdMejl5dWxzOTUwWnRxb2t0cU91T0F6QXRJcFVoTlZVS2I5UVA4dTRsZHZQMU5aMDl3QWtHaTFicEZDaTRjWmhSSzY2MlI0d3UtRWJxcUl6ZHUtTDdMNnBuSmVBaHJSY1FpcHZpSkRESVlwdFVaN0V1WEM5LWVXN0lTLWJ5T1JSTldObk5BUEFrRUdsX1BOTVJCN1F5aFZLQnJJcnNNOF9tal9NV3p4YVR0d1HSAfgBQVVfeXFMTTZ3U0NublNBY0lIOFZMRGZwTjBFbTVFbGNJTkYwaG1HZVh0SWFyeEpRMG5JNGdTd2JSRnhMeEdBazJOQW4wS1RmR3ZUMDB4SlNpeDNXbEI1WXNjUDlwYXpPOTVIcDlLd25oVUJoRWFfZThub3RSbUtFZEVtV1pIWC1nNV9feUFzMDFJTXIzZEcyMFE5VDlBNHBnS1NkRmpRcGdCbDBkd0FLVkNuYjJ5QkNlSFhXcjV2Y2xLWE9ETTQwVkNfM0VVeXd4dG9JN0twUkljNTJzWXVCdzdiQldQQVpDQ05YVkVRMWhBYlVFQjVxa0tlVUpfU3M?oc=5",
+   "resumo": "Recolhimento será feito em duas etapas no primeiro ano da reforma; mudança depende de aprovação do Congresso",
+   "link": "https://oglobo.globo.com/economia/noticia/2026/11/12/reforma-tributaria-entenda-a-proposta-que-da-30-dias-a-mais-para-empresas-pagarem-a-cbs-em-2027.ghtml",
    "source": "O GLOBO",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-12T03:00:00Z"
+   "addedAt": "2026-11-12T03:00:00Z",
+   "tries": 1
+  },
+  {
+   "id": "1ff27df71eb0",
+   "date": "2026-11-11",
+   "title": "CNPJ técnico não significa abertura de empresa; entenda a regra",
+   "resumo": "Inscrição será exigida de pessoas físicas contribuintes do IBS e da CBS a partir de 2027, mas não transforma autônomos e profissionais liberais em empresas. Leia mais em…",
+   "link": "https://www.contabeis.com.br/noticias/80790/cnpj-tecnico-nao-significa-abertura-de-empresa-entenda-a-regra/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-12T17:35:38Z"
+  },
+  {
+   "id": "abd4dbc8525d",
+   "date": "2026-11-11",
+   "title": "Bancos pedem remuneração maior pelo split payment",
+   "resumo": "Instituições financeiras consideram insuficientes os R$ 0,39 por operação estudados pelo governo para remunerar o processamento do split payment. Leia mais em https://www.contabeis.com.br/noticias/80777/bancos-pedem-remuneracao-maior-pelo-split-payment/",
+   "link": "https://www.contabeis.com.br/noticias/80777/bancos-pedem-remuneracao-maior-pelo-split-payment/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "pag",
+   "tag": "Split payment",
+   "addedAt": "2026-11-12T17:35:38Z"
+  },
+  {
+   "id": "e7bdeac8193e",
+   "date": "2026-11-11",
+   "title": "Imposto Seletivo 2027: veja como fica o preço dos carros com a reforma",
+   "resumo": "Saiba como o novo Imposto Seletivo mudará o preço dos veículos em 2027. Modelos a diesel e gasolina terão alta carga tributária com a reforma.",
+   "link": "https://www.gazetadopovo.com.br/economia/reforma-tributaria-eleva-custo-de-carros-movidos-a-gasolina-e-diesel-no-brasil/",
+   "source": "Gazeta do Povo",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-12T17:35:38Z",
+   "tries": 1
   },
   {
    "id": "d9d6d819f243",
    "date": "2026-11-11",
    "title": "TJ-SP suspende decisões sobre IBS e CBS na base do ICMS - Portal Contabeis",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYzh5S1cwdkFGVjdIZmZBVzA4N1FDQ01uaGE2T0pnUmxOZTVOZWE5UmkwTkh6OUtWQ21xdDRqZnRjZTFXMTVvWTFIcnRfUGJ0RG9QbzZ3b1loakxOcDNndWdpdGQtU3NrQ1RrTGRjQURBNG1yMkxkc2NOV2RwUzZFS3pjUkhLYVFTejJKM3pJWFF0cWk3cTdNdHZtLXR2SWh6SlE?oc=5",
+   "resumo": "Estado estima impacto de R$ 10,2 bilhões em 2027.",
+   "link": "https://www.contabeis.com.br/noticias/80793/tj-sp-suspende-decisoes-sobre-ibs-e-cbs-na-base-do-icms/",
    "source": "Portal Contabeis",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-12T15:47:59Z"
+   "addedAt": "2026-11-12T15:47:59Z",
+   "tries": 1
   },
   {
    "id": "5f0a8167bb6e",
    "date": "2026-11-11",
    "title": "Para Richard Dotoli, líder da área tributária e sócio de SiqueiraCastro Advogados, um dos maiores escritórios de advocacia do Brasil, as tão esperadas definições da reforma tributária sobre as alíquotas da CBS (Contribui",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpOHlVajR3dUxIRWRRTWRKdlpZb1l4c2VRNkM5LVhpa2V0bXNVb1ZNTlpfQmRlSThfc0h2Um93T0hEb2J2ZUl0czRoaE1ySVU0MlE?oc=5",
+   "resumo": "77 likes, 130 comments - estadao no November 11, 2026: \"Para Richard Dotoli, líder da área tributária e sócio de SiqueiraCastro Advogados, um dos maiores escritórios de advocacia do Brasil, as tão esperadas definições da reforma tributária sobre as alíquotas…",
+   "link": "https://www.instagram.com/p/Dfn_KlLl-Nb/",
    "source": "Instagram",
    "official": false,
    "category": "aliq",
    "tag": "Alíquotas",
-   "addedAt": "2026-11-12T02:30:23Z"
+   "addedAt": "2026-11-12T02:30:23Z",
+   "tries": 1
   },
   {
    "id": "344e8d527fe3",
    "date": "2026-11-11",
    "title": "Governo federal propõe adiar início do pagamento da CBS - G1",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPd1lQekk0WjRHaHYzU2gtdmRscGFFMGU2bE5rWW1oX2FCNmFhVmZFRmlubzVfNWt0X3lsU0t5UklWbHRnd2laelZNM1VyZFNvbl9PclR4OE5vOU81OXBCcWNfQUJxbnMtTTBYdGRJZkRxVy0zeDFvRFFCVUNtQW9Ed1N0QUhrZGxiYWppbjctNW81WUlEblJMTnhqeUU1LWdsRThoZTlkZDJYYWduRm9fVkRKdkc0VVZX0gHHAUFVX3lxTE5jMU1RcjJySlVVZ1NVekR0Ukh5dTdvOWZycHRqdGYyTDRSaHRpVmlJdTRDc3NvZ3haZk5UbzNvdDN0UjA4bGhlNDlxQ204UVNQTHBMZzZORXc5WmxyR3NjWWdDRGVGcE4yTkdmcnJzRXlXNl9TazgzTzNBd2R3X0FNcXR1ZkFDdW8wN3pSMnJWMTFrYXpkRHpQb3NfdlRfdWVDZXN4cXJLNi0xZ0NmYmhxQ0k3cS1DbmxVVmZFZDYxbThnSWw0UTA?oc=5",
+   "resumo": "Contribuição Sobre Bens e Serviços é parte da Reforma Tributária e entra em vigor no dia 1º de janeiro de 2027.",
+   "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/11/governo-federal-propoe-adiar-inicio-do-pagamento-da-cbs.ghtml",
    "source": "G1",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-12T00:00:07Z"
+   "addedAt": "2026-11-12T00:00:07Z",
+   "tries": 1
   },
   {
    "id": "97e8d127c2f5",
    "date": "2026-11-11",
    "title": "Empresas poderão usar cálculo estimado da CBS no início de 2027, se o Congresso aprovar regra de transição - A Crítica de Campo Grande",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTV9LTDR2dG1UcHQ4V0xMNzNpaDNkNjRIbE1oY095OWZMWENhNTgzYWN2enNneDNIaUVqQlR6UGUtMTdERVBtNllaVVZQdF8wZk1LcGt6N0EzZHgyX1VDa2hyM0N0Nzlpc19zZUtobVctblNxU3o2MmJXcy1SdkU3Rk1McW9EeFN1SWhKLVIyajVYNFh3b05tQ1BPeDZ3V2ZTc01wcjNhVHMxZG1PRmJ4Rw?oc=5",
+   "resumo": "Governo propõe que empresas apurem a CBS de forma provisória nos primeiros meses de 2027, com correção no mês seguinte e adesão opcional, durante a adaptação à reforma tributária.",
+   "link": "https://acritica.net/economia/governo-propoe-calculo-estimado-da-cbs-para-facilitar-reforma-tributaria-em-2027/",
    "source": "A Crítica de Campo Grande",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-12T00:00:00Z"
+   "addedAt": "2026-11-12T00:00:00Z",
+   "tries": 1
   },
   {
    "id": "73bdb7b5820d",
    "date": "2026-11-11",
    "title": "Reforma tributária: Fenacor pede adiamento da CBS - Fenacor",
    "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZnd4R2R2UHhRZ2ZRaWplYzktRUdwLVBETUtJek8yd1lKbTJOcElyZzZFaHNSWllZTGxkQ1pBWllYMnc2dE91S1hFMGN2akR4WVlMNUhRUVg3ZjRTb1lfcUpIWUYyVkNocnF4OERFbGxLN25ONWpod0dxYXRkOWMwNXR4QnR2dUU?oc=5",
+   "link": "https://www.fenacor.org.br/noticias/reforma-tributaria-fenacor-pede-adiamento-da",
    "source": "Fenacor",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-11T22:29:09Z"
+   "addedAt": "2026-11-11T22:29:09Z",
+   "tries": 1
   },
   {
    "id": "30acaa02813c",
    "date": "2026-11-11",
    "title": "CBS em 2027: cobrança segue prevista para janeiro - Portal Contabeis",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRDRUMm9ZMG1nWkxuODd4djVYMUtQdFFZeEZvUkhNMkpwZmtfQXZuYTNsRWlLUlRhN001MXpwdllkMFE4Ni15V0prbzk0Q2I5dHdFMjQteUxUSUlVNmpmbTc3ZXA4WDQ1cmZQTG9qY1E5WnZDMExtZWFJVTFnTkgxUURpM2I4QllmTzF3elQtQTV6VDg0V1VoRg?oc=5",
+   "resumo": "A CBS em 2027 tem cobrança prevista para janeiro. Governo avalia flexibilizar prazos de informações acessórias e penalidades, sem adiar o calendário.",
+   "link": "https://www.contabeis.com.br/noticias/80779/cbs-em-2027-cobranca-segue-prevista-para-janeiro/",
    "source": "Portal Contabeis",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-11T22:00:01Z"
+   "addedAt": "2026-11-11T22:00:01Z",
+   "tries": 1
   },
   {
    "id": "67905bd91146",
    "date": "2026-11-11",
    "title": "Receita quer ampliar em 30 dias prazo para pagamento definitivo da CBS da reforma tributária - Jornal do Comércio",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNenI1c2JObnJxTkZjMlAwbGRoNGNKZlhJblE2UVp1TlZJendNVFI1U01RUmE5cllFOEhxOEp5X1d5dXpDRkpaYzVzVWtyZjd4LUZWUThyRU5qSHNuT25MNzVMdEtOb3V4S1FMRzZEZ3NXS2ZUTGJRX3hqWjF1Vzdac092dWl0aFRkOU9KUm5MXzhQUkxCZzFFdjlIcWpGYjlrRTIzXzMyY1lwWHFVaGxzamN5bThIbkRkNUVNRTJyUDZqOTdUb0dlSVg2RXl6LXdvS3JhclVURG16R0FRSGt0M1pDR3hzRVktX2lR?oc=5",
+   "resumo": "O secretário especial da Receita Federal, Robinson Barreirinhas, anunciou o envio do projeto nesta quarta-feira",
+   "link": "https://www.jornaldocomercio.com/economia/2026/11/1270153-receita-quer-ampliar-em-30-dias-prazo-para-pagamento-definitivo-da-cbs-da-reforma-tributaria.html",
    "source": "Jornal do Comércio",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-11T21:47:23Z"
+   "addedAt": "2026-11-11T21:47:23Z",
+   "tries": 1
   },
   {
    "id": "276fd48b2629",
    "date": "2026-11-11",
    "title": "Split payment exige adaptação das APIs de pagamento - Portal Contabeis",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNczVVekY3U3lNZ1FkMWp2R1JyZU1qRkQ4cHFlYWNXUmRzSVdpVjA5VGFjX3VwOTBVSVUtYWFKcFBrSlE3NXlHeFRpVEMyaGJLUTNScTNZeW1VdEdEeVhZNG82Qk41YkVEOUtRTFY3UklvdmNtYU1jbVhFT1pOb0NnLWEwSV9EazdXS2toTEJTWlB4aXZtZ2ctam53aWM?oc=5",
+   "resumo": "Fintechs e instituições de pagamento adaptam APIs ao split payment, que separa IBS e CBS na liquidação. Testes começaram em ambiente controlado.",
+   "link": "https://www.contabeis.com.br/noticias/80776/split-payment-exige-adaptacao-das-apis-de-pagamento/",
    "source": "Portal Contabeis",
    "official": false,
    "category": "pag",
    "tag": "Split payment",
-   "addedAt": "2026-11-11T21:30:01Z"
+   "addedAt": "2026-11-11T21:30:01Z",
+   "tries": 1
   },
   {
    "id": "89913c9f8a1c",
    "date": "2026-11-11",
    "title": "Reforma tributária: Existe, sim, risco de aumento de impostos, diz tributarista - Estadão",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWkpIM3ZueDYwSVZVamJneElabUk5VklZMmVERXBRZ0lxMVlfOWpnRU1IWnJjVlJnbjFNSFJoY0g0YjNkUkczVmpPQnFvdlBVaG54RkE3OTd1MEdEeDhXV2NzdE5SVm51VjZkWGhUS050TDg4QTUwVXo5SEctdWhMdnBabFhJZFZvWDhmNmd4Zi1lTlN6V19uQ1NmUFUyN0tUUU1LcGFjNkNXOGlaekRzanBR0gG3AUFVX3lxTE9wVEh5Y0VjTDhPTzExUzVQeEFPQ1ByYnlXbE41OHpPcFd5dHZScWhGcGVCRjlBUEhRZUxtMzVPVV80NkNrMkJSOUpXbjM5RG5rcGFkS09tbHE1QVgwU29MN0JjWVNXOW41LXZMdXR6V2MxOWE2TE01T1lnbDhJZWNtd0kxQUI5TnZkdVdPLUhLMFRYd25QcmQyc2FrdHpjTVVjRTVENmloVjNfQldjc1g1Z0U3TGt3OA?oc=5",
+   "resumo": "Richard Dotoli, do SiqueiraCastro, foi surpreendido negativamente com a divulgação das alíquotas de CBS e do ‘Imposto do Pecado’",
+   "link": "https://www.estadao.com.br/economia/reforma-tributaria-existe-sim-risco-de-aumento-de-impostos-diz-tributarista/",
    "source": "Estadão",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-11T21:03:00Z"
+   "addedAt": "2026-11-11T21:03:00Z",
+   "tries": 1
   },
   {
    "id": "998ab9db20e5",
    "date": "2026-11-11",
    "title": "75 entidades empresariais pedem adiamento da reforma tributária - Correio Braziliense",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVjdWQ3cteDlJdzZXeXpWNmYyZ1UwaTVQMlM1bDU4RUN6Qmh5V3VQUUxiUW9Ma3lMaW9ZQ3BEVEFSY04tM0FyVTdBT012dE4wYXBpTl9sQ1hBcmRQWGZ6Uk8yYnBBQkRkUXRjOC1DUXB4TXN4dHY2S1A1d2RqeEJlbGlPemM4RTBRVHNGRS1kMW5WS3l1S0dCUGpfX2FLQWZGYjlXUWRPWlVTMDhnV2c3SDBkaE9FelpWaGVnRWphMHpMUHVD?oc=5",
+   "resumo": "Setor produtivo afirma ser inviável ajustes até 31 de dezembro e defende cobrança dos novos tributos em 2028. Governo federal reafirmou hoje que não pretende prorrogar prazo. “Mas não vamos penalizar erros de boa fé”, diz Receita Por SAMANTA SALLUM Em carta…",
+   "link": "https://blogs.correiobraziliense.com.br/capital-sa/2026/11/11/75-entidades-empresariais-pedem-adiamento-da-reforma-tributaria/",
    "source": "Correio Braziliense",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-11T19:52:20Z"
+   "addedAt": "2026-11-11T19:52:20Z",
+   "tries": 1
   },
   {
    "id": "72b58690eff6",
    "date": "2026-11-11",
    "title": "Reforma Tributária: estudos do Sincor-SP embasam manifesto da Fenacor pelo adiamento da CBS - CQCS",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZXhTMFdqVV93TUN6Y1pwM1VGVXVhcFJ2UUlqblNJQkF3Nk1WQ2ZIQnk0eVJEOEdsNWZWWHdIZHdxSzJBQ0UzaGRQVzhUVEl2UHVReVpVQ2RKd0pKb2hJdTVGa0FPdUJZcWJBNTdsYUJnU01WbExQVmM1SFdSN3VfbnlTTlZxa0JTSG5nRG1ibjVhNkZydUJEZnRvTnhaYjIyVEZVakw4Zm9tYmIzck1Nb1hQOFNsdlhuOG80?oc=5",
+   "resumo": "A Federação Nacional dos Corretores de Seguros (Fenacor) encaminhou, nesta sexta-feira (6 de novembro), ao Ministério da Fazenda um manifesto institucional, fundamentado nos estudos técnicos sobre a Reforma Tributária produzidos pelo Comitê Contábil e…",
+   "link": "https://cqcs.com.br/noticia/reforma-tributaria-estudos-do-sincor-sp-embasam-manifesto-da-fenacor-pelo-adiamento-da-cbs/",
    "source": "CQCS",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-11T19:37:45Z"
+   "addedAt": "2026-11-11T19:37:45Z",
+   "tries": 1
   },
   {
    "id": "e7a6d2de7564",
    "date": "2026-11-11",
    "title": "Reforma tributária: o que muda em 2027 com a CBS e como se preparar - InvestNews",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KR0FpRTRPWGxveHR6RzR3Z1BjWWdoZzZIOVZuZ0NwaklvWnZ1YmxLbkJEVlgtaFdHN29fXzN6VHVlZTh2MjByVENXUVoxbldRd2hNb2FHeGdMWmgwN0liRg?oc=5",
+   "resumo": "CBS substitui PIS e Cofins em 2027. Veja o cronograma da reforma tributária e o que muda para consumidores e empresas",
+   "link": "https://investnews.com.br/guias/reforma-tributaria/",
    "source": "InvestNews",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-11T19:37:17Z"
+   "addedAt": "2026-11-11T19:37:17Z",
+   "tries": 1
   },
   {
    "id": "40611ebd88f9",
    "date": "2026-11-11",
    "title": "CNI propõe reduzir alíquota da CBS para cerca de 10,3% - Portal Contabeis",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNR0tjU0daVl9ISUtOaUViNzdzejZ1OUFyazdVVnV3Rk94MjhqZTN3Zi14TXhIUW1aM3h3TW9RQ3MxSnBjY1Y4bU52dE9BVGRMRkgxc1NVdy1hWG5hdDEtWEk4em9hYWZFS0JSTE1Idngxc0VhbnlNSERhVjhLOVVaNXFDWEU1aFB5MkNyT3B5OXZ4bktHVDB4LVBUV1RPSE0?oc=5",
+   "resumo": "Entidade defende atualizar o período de referência da reforma tributária. Mudança poderia reduzir em 1 ponto percentual a estimativa da CBS.",
+   "link": "https://www.contabeis.com.br/noticias/80792/cni-propoe-reduzir-aliquota-da-cbs-para-cerca-de-10-3/",
    "source": "Portal Contabeis",
    "official": false,
    "category": "aliq",
    "tag": "Alíquotas",
-   "addedAt": "2026-11-11T19:00:02Z"
+   "addedAt": "2026-11-11T19:00:02Z",
+   "tries": 1
   },
   {
    "id": "becb1e3e8c3f",
    "date": "2026-11-11",
    "title": "CBS e IBS: entenda os novos impostos da reforma tributária e o que muda em 2027 - G1",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdkptUEVQY1U0Vkt5STNhNzVkLU5sZDNKLUxvd0hLMENsMWpvam5qUXhhMTdlN2tRclNscUxGR0d2bFhhazNrQzZlM2czUVctclhEWDdJZXQ0N3duY2QyQ3lJbnFZLUpaZmxhdGhyVjhrTmtSWVZwekNBRlo0bEs5TmY0aWVfNkJlaTlBckRsMG80NW9kVDFlZHR0QTlQVE9oMkxoblhTdkY0UE5XeG5IMk9R0gHAAUFVX3lxTE9hZzVkUGY1N2JzWmY4aW1CWnVudjVodk4wVmdlejV5QXhTTlBramVGT1IyZTVIRkNWa2cyd2ZrWEp2RFJhaUVXWVFmSmRtQjdXWVEyN3Z1cmpLRUppaFAxclYtSGlZdVJHVzY2SnZjLU5BRmhuVmtaTTZBQXBleFdYYmVjSHdEcExTcVFHZUpqeDBlMEdvV3pnVVRjZGpCeVJ4VUNJLUVjUXZGbG9VOWhPMXFzdDlwWWNUN2JUck1CRQ?oc=5",
+   "resumo": "Novos tributos vão substituir impostos federais, estaduais e municipais sobre o consumo. Governo propõe adiar para fevereiro de 2027 o primeiro recolhimento da CBS, que começa a valer em janeiro.",
+   "link": "https://g1.globo.com/economia/noticia/2026/11/11/cbs-e-ibs-entenda-os-novos-impostos-da-reforma-tributaria.ghtml",
    "source": "G1",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-11T18:39:57Z"
+   "addedAt": "2026-11-11T18:39:57Z",
+   "tries": 1
   },
   {
    "id": "bf90c3b65a82",
    "date": "2026-11-11",
    "title": "O que muda para as concessionárias de rodovias com a reforma tributária - Migalhas",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOamxpOEFHTGtkRWlONlJoQjkwbmZxVE5PR2t3bWFCR0dqX0E4M3lMS2M3aC11bFNlRVc5RWVMbDBnYU54akNTUVpTeXlyRTFyRW1Pbjlrenp3NVlNRUhoS1d4enRzNjgyOGlsRUZrRHRqZHdKemxJMDNUZWZ0bEdBUzJNdll5LVlBd0Zqc3JQNFYwQ29pZGZzZ1l6bko4QlhubExfb01tM0RSSXF4OGtn?oc=5",
+   "resumo": "Por Adauto Lúcio S. Dutra. IBS e CBS mudam a tributação dos pedágios e exigem atenção aos créditos e contratos de concessão rodoviária.",
+   "link": "https://www.migalhas.com.br/depeso/468323/o-que-muda-para-concessionarias-de-rodovias-com-a-reforma-tributaria",
    "source": "Migalhas",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-11T18:30:55Z"
+   "addedAt": "2026-11-11T18:30:55Z",
+   "tries": 1
   },
   {
    "id": "474119dfa3f7",
@@ -754,6 +982,18 @@
    "category": "pag",
    "tag": "Split payment",
    "addedAt": "2026-11-11T03:00:00Z"
+  },
+  {
+   "id": "4f7f659ac746",
+   "date": "2026-11-10",
+   "title": "PEC 22/2026 propõe manter IPI até início do Imposto Seletivo",
+   "resumo": "",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdlhuZUlTdmVlUkV6bTJOYXR4MUF1Q3pjNjV5LWcxcFMtWUlvQVdnbThpRTVLaUw5YXNnSHA5WmpYczRkTEpNNnlkV3NfRFpRVlZ4QTJfakVoVGdzaG9wVERVcEpxMG42TWtMTEFHSW5UdkZ1TWxORmVNYVFmemstNVVWLWpTdjJ6OXEtcVA5c09aREQ4UENhY0c2RnBwS3hZM2ZPZUFya3o?oc=5",
+   "source": "Portal Contabeis",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-12T17:35:38Z"
   },
   {
    "id": "49c09e00abe3",

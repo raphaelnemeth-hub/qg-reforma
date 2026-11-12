@@ -1,13 +1,13 @@
 {
- "lastCheckAt": "2026-11-12T17:35:38Z",
- "lastCheckBr": "12/11/2026 14:35",
- "added": 16,
+ "lastCheckAt": "2026-11-12T17:43:50Z",
+ "lastCheckBr": "12/11/2026 14:43",
+ "added": 0,
  "feeds": [
   {
    "name": "Agência Senado",
    "ok": true,
    "found": 1,
-   "new": 1
+   "new": 0
   },
   {
    "name": "Agência Câmara",
@@ -31,7 +31,7 @@
    "name": "Portal Contábeis",
    "ok": true,
    "found": 15,
-   "new": 10
+   "new": 0
   },
   {
    "name": "InfoMoney",
@@ -43,7 +43,7 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 96,
-   "new": 5
+   "new": 0
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -172,7 +172,7 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-12T17:35:38Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "3aabee77ab7f",
@@ -276,7 +276,7 @@
    "category": "lei",
    "tag": "Legislação",
    "addedAt": "2026-11-12T15:47:59Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "d9e0a23c18e0",
@@ -443,7 +443,7 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-11T22:29:09Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "30acaa02813c",
@@ -579,445 +579,482 @@
    "id": "474119dfa3f7",
    "date": "2026-11-11",
    "title": "Reforma tributária: Alíquotas e créditos para empresas de tecnologia - Migalhas",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMnNEbGdMbDJUYUtZR1Z1alFPQkpCOHRVcHlLMy1WSHpLc21ZcTJoTlVxdFFwVzdhbks1ckZfUTExOThLcnFaUGNoLVl2aHlRNVl5cXdacTRydEh0enhFQjdMZFI5Q2p5eFJxek1JeDBTTVBHVkFCUHp5S0ZsZExOamsxUDdIZ3U0aGh5NE1DOE1QVzZvcHBMd0lPT0VLazRTZjg2VUhtaTU1RU1leEE?oc=5",
+   "resumo": "Por Aurélio Longo Guerzoni. A substituição do PIS/Cofins e do ISS pela CBS e pelo IBS elevará a tributação nominal dos serviços, mas ampliará o direito aos créditos.",
+   "link": "https://www.migalhas.com.br/depeso/466556/reforma-tributaria-aliquotas-e-creditos-para-empresas-de-tecnologia",
    "source": "Migalhas",
    "official": false,
    "category": "aliq",
    "tag": "Alíquotas",
-   "addedAt": "2026-11-11T17:20:26Z"
+   "addedAt": "2026-11-11T17:20:26Z",
+   "tries": 1
   },
   {
    "id": "e63c91d710b2",
    "date": "2026-11-11",
    "title": "CFC e Fenacon apresentam propostas à Receita Federal para a transição da Reforma Tributária em 2027 - Conselho Regional de Contabilidade do Maranhão",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNlBzY3U3QlNHODlCRGR4SHNIZDNJVUVYVlJsOU9ocjg3SFM3aW9FSmRSWmRBd0dMRVRmWXBOTWtLejVKNlhjbDI4dVY5RmJxWGNKNkxDeFlvLTl1RVMyWGNpM3Mzdy1kUVQ0VFFFTkVYclhVQVRwa0FpSm5QYnRHeUtYaE1YRk1VaTVsVWhOdkJKdjVqeUFXMjdCZ1ZlRGlpYnR1NmxFdGtzdE1vR053ajdFZEdNN1kyUUFhM1ZlRFRpUHRXZTdreg?oc=5",
+   "resumo": "O Conselho Federal de Contabilidade (CFC) e a Federação Nacional das Empresas de Serviços Contábeis e das Empresas de Assessoramento, Perícias, Informações e Pe",
+   "link": "https://crcma.org.br/noticias/cfc-e-fenacon-apresentam-propostas-a-receita-federal-para-a-transicao-da-reforma-tributaria-em-2027",
    "source": "Conselho Regional de Contabilidade do Maranhão",
    "official": false,
    "category": "cont",
    "tag": "Contabilidade",
-   "addedAt": "2026-11-11T17:19:15Z"
+   "addedAt": "2026-11-11T17:19:15Z",
+   "tries": 1
   },
   {
    "id": "3116f4557e89",
    "date": "2026-11-11",
    "title": "Governo vai propor adiamento da cobrança da CBS para fevereiro - Poder360",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRGg2bFA3cnpVcVNZTUdjQ3I3cEdRMWR0VlNTbjJuTksxNGxpVWRScUxneE1NZFdncFFJam56UElNLVhKVXpUUXFnVFN5c1g4YmZ4Vl85ckpBSzBqSWN3bW5JUUxuSmd1Si1qbElReVFfTDdjcnF5aWlmcEpZLVNObWhfWmlyLXBrV3B3Z3NmMm15NFBnSEJyMWpZbXpjRG9aZlBnb2FmSmpzZw?oc=5",
+   "resumo": "O TCU fixou o imposto em 11,3% em 2027; a taxa pode resultar em R$ 147 bilhões a mais de arrecadação do que o estimado. Leia no Poder360.",
+   "link": "https://www.poder360.com.br/poder-economia/governo-vai-propor-adiamento-da-cobranca-da-cbs-para-fevereiro/",
    "source": "Poder360",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-11T16:49:36Z"
+   "addedAt": "2026-11-11T16:49:36Z",
+   "tries": 1
   },
   {
    "id": "77f8a411faaf",
    "date": "2026-11-11",
    "title": "CBS: Receita diz não vai multar empresa que agir de 'boa-fé' - InvestNews",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWXNZY0lpYkRqOHE3V2VEaWRlS1dPWkwzZkhFaGdTbHVhbXo1bGRkVUktUUpWLWdKRGl3ZDNMTWFfLVRQT2c4MW8wS3h1OXhnc1VLVC00cFB2eG1Hd1ozblc3NndvTHFOUkNKOWJNMmpTUFhEbjRxSzZLT2sxRWlLWVJSRdIBiAFBVV95cUxNTUY4M1JyRGNIOUN5ZnhVb3dLN0hkaXAtUV84U01iRmdabzFJNEh1XzVaSHZkMjhJc3g3c19PV2JiOVQ3ckxNVDJuRmhLV256Sy1VVmZnOXZYNnJnUU5uVko0dFpaVFFBV3NWVDN1eU00YjhFRGV2ME5XT2F2NU1UY1MyUUZCN3pN?oc=5",
+   "resumo": "Secretário da Receita diz que adiar a reforma tributária não resolve e apresenta prazos para regras, sistemas e notas",
+   "link": "https://investnews.com.br/economia/receita-mantem-reforma-tributaria-em-2027/",
    "source": "InvestNews",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-11T16:41:44Z"
+   "addedAt": "2026-11-11T16:41:44Z",
+   "tries": 1
   },
   {
    "id": "de768007103f",
    "date": "2026-11-11",
    "title": "Receita Federal fala em início imediato da reforma tributária - Poder360",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN2ctRTBudVEyS3NvQk1WejZRdHY2UDBIQURDSlA1bmFOb25odEVFcTJyamNQdHNqODMtckNVYmNPM1lIMmhDZDZveTlYaW9vWWYxanQtUFh2ZElPQWI0TWI3UGdSX0tkTExwWmEwUVh5Rkt5SnZoOEdsYkI4VFB1TDlaMTdtazVaYlpQN3NEZldod1g4TzJEc29IaXY3a19pRlA3M1VnaU0?oc=5",
+   "resumo": "Agentes econômicos pressionam pelo adiamento do calendário de implementação; CBS entra em vigor em 1º de janeiro. Leia no Poder360.",
+   "link": "https://www.poder360.com.br/poder-economia/receita-federal-fala-em-inicio-imediato-da-reforma-tributaria/",
    "source": "Poder360",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-11T16:26:05Z"
+   "addedAt": "2026-11-11T16:26:05Z",
+   "tries": 1
   },
   {
    "id": "fefcec3860a1",
    "date": "2026-11-11",
    "title": "Governo descarta adiamento da reforma tributária - G1",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZU5nNWVnOVBoUzBaQmVZN1FucUJYc0lBWC1VSW9BUmhaRzVGcWtJUmZUWGd0UGNCM0pSY1JkWmV0WVV4QUQxTFJPb1llNVk5N21zSndaWERMMTVpbXQ2cnVZZkY0NUpzbUt2WHoxSjdsZktCTmFYVXN6eUxxekMtQ3Q4MzFKYUlLQzg0WDRvZlpnQy1aXzRESzUxZXpGT0Jpb0V5ZlRhVkR1SUVJNlM1SU1aRmzSAcMBQVVfeXFMUDRQMjdpOGdkWmRRV1B3bGtyZ01CUy1qWGNJVVEtTGFwdkpsbzBqeklZTEtMRWZNTjZ6MVFTU014V2RfZjg5RmRUVXBhcU8tSkRPTDkzSUowTXBnTTE1TTc3ZXNWNGNkMmNXS1p4R0VubUZBTUE4YjI0MnRfeGs5anhsMlFfVzF3ajJ5X213Q05vOVRPRjdtbTNJTmxhRlY1U1dOYU00MGZiX2pFdkJMZFF1M21CZUFKY3pWc3RndDFpTlFZ?oc=5",
+   "resumo": "A reforma tributária começa em janeiro com um período de seis meses sem multas para empresas e a manutenção do Split Payment para reduzir a sonegação fiscal.",
+   "link": "https://g1.globo.com/economia/blog/ana-flor/post/2026/11/11/governo-descarta-adiamento-da-reforma-tributaria.ghtml",
    "source": "G1",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-11T16:25:56Z"
+   "addedAt": "2026-11-11T16:25:56Z",
+   "tries": 1
   },
   {
    "id": "21f46529b073",
    "date": "2026-11-11",
    "title": "Reforma tributária: governo adia para março emissão de notas fiscais do Simples Nacional, exceto de prestação de serviço - G1",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQQzhOTE1iY3V1UUtWb3BFWE05RkdFTVhLdnJZYzdnOGI2RENnUlN3SXF6ZHI4Nm8xX0dBNGtQR0FDeXQxODVtanhkVXpEQXNkMUlScXJkaDh4dzBHbTVVSWktUmdSdEFlYkdBT3FZZ0RsSEZFZFdYQURIS1JDa2tMVnlTcWRBZHBZZU5DWkFwNnlXem1UWGhJT0hUWWFhckZOQmJlbDM3ZVU1NjQ5QXRXUHNNLUZCUkRMaVNTeV96LTNaS011Q3FkaTlQbFZMekJnUG04WmYyNjhYeWc2UFJKd2VET01CZEo3bVQ4SkhrUFRvTV96RlV0Tl94UmxGR2VjaFVR0gGSAkFVX3lxTE5SVlEySUdjcUtxbC1USFN2NkRvZURiZmVlVUxNN0NxZkd2RmRIVkNlbkZHTFVhbXZBbmo1cVUteXhudFhjV21WOFZUbFppOVlJeUJzRWMwTU5ZSU83M1FHVlZPWEdTeEhzNzk2bnpXeVpHRXdfdHJlMnIxTG9jeUF1c21JMDNfTkJ6NU1TOXllMFVlRzh2OHlWQjJjXy1SYlpDTnpqTTJyaGxvaG9iQWZSR1JMbzkydzg3WUNzcEoxVVV6alY5WnJMXzFndFRnZXBPQV9IVW94RFdUVHcxbjBBWUtJQk9JMnNjUUhuZ0JtcGd3SHYtbmlMOG5ELTRULTY0ZTVuTTFfMnJUYXlqVkl6elE?oc=5",
+   "resumo": "MEIs continuam dispensados de emitir nota fiscal eletrônica para pessoas físicas. Nanoempreendedores, por sua vez, não precisam emitir nota nem se inscrever no Cadastro Nacional da Pessoa Jurídica (CNPJ), sem prazo definido para o fim da dispensa.",
+   "link": "https://g1.globo.com/economia/noticia/2026/11/11/reforma-tributaria-governo-adia-para-marco-emissao-de-notas-fiscais-do-simples-nacional-exceto-de-prestacao-de-servico.ghtml",
    "source": "G1",
    "official": false,
    "category": "simples",
    "tag": "Simples",
-   "addedAt": "2026-11-11T15:55:45Z"
+   "addedAt": "2026-11-11T15:55:45Z",
+   "tries": 1
   },
   {
    "id": "63d3147146e9",
    "date": "2026-11-11",
    "title": "Receita anuncia medidas para facilitar transição da reforma tributária - Estadão",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZFpTN3VNU01JZHBwSzY1LUpjcHlaeUxXMW1FR0FST2wtOFd1bWZWTkRHQm9iZEZ4VVV6WXZPOEVrX3lVM0hOVWZ4NEYwNkN6MTFhRng4UUVTQ2s3WWZnYlJUS2JmaUhzLTJpUzY4eElUWW10TDZ3UktETWtER2JEWFB4TEZ4S2t2aUhyaUdrZTVsa0nSAZgBQVVfeXFMUHVNWHkxT3dDSVRuQ3Ywa3RQZUJQc3RGNHVNeDd6X2NuLThadnFOSm9zdzlIZXRHY0Fhb0lpb1BUVkNUUjl6czU4YzREVUZVVXQ4OHd6Y1dDS1pINWlSU1NJVDdsYUV3dEt2NDhNanpRaVR4d3NtNW1NNElzdUQ0SFd2OEFTRkhNbTQzTFRTQlNsUXZMSncwTEE?oc=5",
+   "resumo": "Entre os pontos anunciados está o prazo extra de 30 dias para o recolhimento da Contribuição sobre Bens e Serviços (CBS)",
+   "link": "https://www.estadao.com.br/economia/receita-federal-medidas-transicao-reforma-tributaria/",
    "source": "Estadão",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-11T15:45:00Z"
+   "addedAt": "2026-11-11T15:45:00Z",
+   "tries": 1
   },
   {
    "id": "129ad4070657",
    "date": "2026-11-11",
    "title": "Receita Federal e órgãos parceiros detalham próximos passos da Reforma Tributária — Ministério da Fazenda - Governo Federal",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUmlvb2YybXQ2QzBRWW9hbmhiUEVWU1ltQWdxQlNTRUNCbndjTUpud2ktd0V3XzBCcVVqc195V21hamt3OUJIMHlBY2ljS0NCUndZcHNRSVpJLTVIRnI3SGFocWc2SnUycXdJZ0VDcXZOMGp6cm8ySHZIX3E2TTZKX3dfaVVFV2xSb3BoUGdKajlqd19xTHUwVFppT1Y1VGRvUU5XdldxbVg5Qm5QakdRczBKcXpRMm1oal9YSDhiamNaYllsbzNBS01pUUdDd3E4WUtzRG5hZDN5VzNyMHhv?oc=5",
+   "resumo": "O foco é promover transparência na divulgação das ações que dão prosseguimento à migração do país para o novo modelo de tributação do consumo",
+   "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/receita-federal-e-orgaos-parceiros-detalham-proximos-passos-da-reforma-tributaria",
    "source": "Governo Federal",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-11T15:26:00Z"
+   "addedAt": "2026-11-11T15:26:00Z",
+   "tries": 1
   },
   {
    "id": "a60e593363bd",
    "date": "2026-11-11",
    "title": "Reforma Tributária: governo quer ampliar em 30 dias prazo para pagamento definitivo de imposto - O GLOBO",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPLXFlYWh3cVNmUjJHSjdEa21CVWd5Q0NFTF9uNWJzMjFDWWMyRC0zamdjRWtwTHRYdk5KOVk3TWt0NDRiUGRveE9nUDhkTmh3a0FfUmxNTnB6NU1HcFR1VlVQMlRrX2drVkcwXzhNMGdDeEV6R3lVUW9wTXFIY3VfcDVJVVFtZVhYazhRbTM0UFh5RG9SNy1UdFpZX3FPYjY1LVJ1TlNJa2NSVVFXOVIzTloxZXFndkVFX2pFLXhxYXJpV0hTREttZklXMTJ5RWlUS2tqbjYxa01LcDZxX002allMcnlQT2fSAfYBQVVfeXFMTTlqdk5mVnM2QWhkYVU3UHNIclN4RGdVZXBrdm1iNkh1VWZqckh0bzFleko1TUdmcU5hUzZ4X0tUc0U2RGE2SG1PbTFLNVlSMW1TZnJ3YnA4LS1saUxhY2FEZ19yY3NTYnYwMTJpQnRVNGNDNUYzMUhURzhDOUYyOU5ZZ0w1MG41bTVBVVNlaFhKTnBETVVtNDNTQkVERWdkWWhRS1dLLUt1UU91VjN3U1NNTkJYdHhjVzZNeDBHeHJyNTA2azZKUk9heThNU3dfVXhVQUVWS2pRa3JTXzg4cWh5b0dfUFFHN3ZTVHdNcVlrbFFqR3Fn?oc=5",
+   "resumo": "Uma empresa que realizar vendas em janeiro poderá fazer um recolhimento estimado da CBS em fevereiro e concluir o acerto em março",
+   "link": "https://oglobo.globo.com/economia/noticia/2026/11/11/reforma-tributaria-governo-quer-ampliar-em-30-dias-prazo-para-pagamento-definitivo-de-imposto.ghtml",
    "source": "O GLOBO",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-11T15:18:19Z"
+   "addedAt": "2026-11-11T15:18:19Z",
+   "tries": 1
   },
   {
    "id": "4e150b00f559",
    "date": "2026-11-11",
    "title": "Receita confirma reforma tributária em 2027 e promete não multar erros de boa-fé - InfoMoney",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYnRKVDJFUnJFN2xXQWFVZ0lHZ0ZiMnFXODFhUnVfem8tUWhPc1hNaV83NVVKMlg3bE0tdWN6QmwtWTdSYmgyUWNBa0NFN2U5TkN6YWN3WHhPQXR5d19ncnRrNzRHX3luNXl2VXRUb1JSR1piM19sSlRramI1cFo2c0huajNBTWk1UDZXQk1fbzV3d2M3WDJoZUhTTTRaMUFVNmxUODB6a1NHRU9TQjh5cFRqY1liMUJjTThV0gHAAUFVX3lxTFBXY2VYWFFIdUdpb1J2c1h3bFQ5SnNsRlhnLXZNRFlzaVFwaXlaYVN6dzgwX05yejlKYWNfTER5VjdZYzN2WGF1S21fNVhlazdmdHZfZ0YzN2ZqbkMwblRTcHlXWndrRmJDWFkwYmo5dFlZdTExUnZ5cW1wbUhaVS1OMGRQY1YwY2loSFJ1V2xmREFWbXV4enZOZ3ZMdms5NmVFZVZLaWlNc2hZMllyRUJBX2VUaWdJSWF1SjdqSkl1eQ?oc=5",
+   "resumo": "Secretário Robinson Barreirinhas descarta adiamento da reforma tributária e anuncia tolerância a falhas justificadas durante a adaptação ao novo sistema",
+   "link": "https://www.infomoney.com.br/politica/receita-confirma-reforma-tributaria-em-2027-e-promete-nao-multar-erros-de-boa-fe/",
    "source": "InfoMoney",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-11T15:11:00Z"
+   "addedAt": "2026-11-11T15:11:00Z",
+   "tries": 1
   },
   {
    "id": "8a48d2aff6e9",
    "date": "2026-11-11",
    "title": "Reforma Tributária: Vivo se diz pronta, mas admite que alíquota da CBS ficou acima do esperado - ConvergenciaDigital",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZmhQMERLUUFGbGpJbVlqM3A1eDhwbmlmNW95UUw3R01jbUJsQm9ETDBCVjFmWWJZMnFRN0htYUhOS25EMlBoUnZidHRNRTJFVkt3bm9Kdkt1dHBtb3BNTE9TVGQ3dkpTNE1Mel9BeDF5RFdlQi1wVkFKYmdZY2xuVUdqamJTRkVWcHRxbnFhMkJOdXVSZThJZEtvd3Q2dUZYbXlRdEhzMGpIb05vbkMxT1hzeXFXV0xFQVVacDdPalBvZUM1SndIV1k0Z1U5dklEaEE?oc=5",
+   "resumo": "A Vivo se disse pronta para a vigência da Reforma Tributária a partir de janeiro de 2027, mas admite",
+   "link": "https://convergenciadigital.com.br/governo/reforma-tributaria-vivo-se-diz-pronta-mas-admite-que-aliquota-da-cbs-ficou-acima-do-esperado/",
    "source": "ConvergenciaDigital",
    "official": false,
    "category": "aliq",
    "tag": "Alíquotas",
-   "addedAt": "2026-11-11T14:39:02Z"
+   "addedAt": "2026-11-11T14:39:02Z",
+   "tries": 1
   },
   {
    "id": "487ddc564016",
    "date": "2026-11-11",
    "title": "Impactos da reforma tributária no mercado imobiliário - TAGD Advogados",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQTU1ckNmVnNXTnk0LUptTTNlbVBUY2djY0M1Xy14NUt4VGRWaDNIMFBIOUNfR2stNmR3MzZIZE5jOXR6V3I5OFNad0hSanpnZlBkM1dZaUR3X2lMaFM1NVNFemxBLUVieDlfSlhrYnlNUWIyTURYZC05SnZQOWp1aUljSQ?oc=5",
+   "resumo": "Tema 1: Redutor de ajuste: a escolha entre valor de aquisição e valor de referência O que é o redutor de ajuste? A Lei Complementar nº 214/2025, que regulamenta a Reforma Tributária do Consumo, criou regras próprias de IBS e CBS para a venda de imóveis. Uma…",
+   "link": "https://tagdlaw.com.br/impactos-da-reforma-tributaria-no-mercado-imobiliario/",
    "source": "TAGD Advogados",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-11T14:35:53Z"
+   "addedAt": "2026-11-11T14:35:53Z",
+   "tries": 1
   },
   {
    "id": "6022dc057357",
    "date": "2026-11-11",
    "title": "Governo descarta adiar reforma tributária para 2028 e promete adaptação sem multas - InfoMoney",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOR1hpd2p0bTN6N0xQbnhrcU9ObnE3SlJhcTRMVHUyN05fcGN0WjloNjIyVnA3bmZaYWlOWGt5eHhfeUM4UER2eTVIb0VQT2dNZjBEYWI4TFpIWGtqRkNkd1hDdF83TmxhMk05QWxEMnd5eEhTY2twaDFQeUtIbUFIRzg1Y2U4Z0tyS0QtQk1teVRQTUJaVWNMT0lpOHhfN1A4R1QxMV96d2pXZ3FaV21YdEVIbERHQmNCLUxPQlRn0gHDAUFVX3lxTE9HbnY2Y3lTa05QRGdtQ1lvajhyM0s4NlpOUVM3bzhBbUtMaUlUV3Jpb1F5Nk1WQXdFdXl2eVQweUl3ckdzOTY1UmJTSzVXekItTk02NTVjWmh4R040U1NNaXZrQkRCMGJwdFo0ekJTbTI4OHJVTDAwa2hnN0Etbk1JOXFMR3pjNTk3a0l0anZGWGxCTW1nODF0QUdjeFMwLThZR3RiZnBHOVVmWVNzY2hpV1JZay1INHJXbHhGTkx4aVpZVQ?oc=5",
+   "resumo": "Fazenda mantém cobrança da CBS a partir de janeiro de 2027, apesar da pressão empresarial",
+   "link": "https://www.infomoney.com.br/politica/governo-descarta-adiar-reforma-tributaria-para-2028-e-promete-adaptacao-sem-multas/",
    "source": "InfoMoney",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-11T14:34:00Z"
+   "addedAt": "2026-11-11T14:34:00Z",
+   "tries": 1
   },
   {
    "id": "1e22155fe960",
    "date": "2026-11-11",
    "title": "Governo vai propor regra para adiar recolhimento definitivo da CBS em 1 mês - CNN Brasil",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWEt6XzNJQzhhdEZqbFNRdU9hME1BeFJqME5wTUY3WGdzNGVLek9SQmNDZE5RZkJfLS1Wc0JVRGdGS25vM2poMElrNktYdkhMNHJjOE1FVlNxRzBSRTBXYWdhdjY3RkRHQVRQSmxDODlCX3NjUFdnRjZvbkF2aDRtdDZickpQM0wzaUpzaTNNblVDaUNhRTNqbXJ5QjVJMlNzMmdaalM4R0xDY2NSY210RFNweDY4M3VJc3NHMFlMOUJrZXhPeVZod1RjM0ZPNVE?oc=5",
+   "resumo": "Adesão do contribuinte é opcional; mudança na implementação da reforma tributária depende de aprovação do Congresso Nacional",
+   "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/governo-vai-propor-regra-para-adiar-recolhimento-definitivo-da-cbs-em-1-mes/",
    "source": "CNN Brasil",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-11T14:33:26Z"
+   "addedAt": "2026-11-11T14:33:26Z",
+   "tries": 1
   },
   {
    "id": "aafab4e68fdd",
    "date": "2026-11-11",
    "title": "Receita quer ampliar em 30 dias prazo para pagamento definitivo da CBS da reforma tributária - Folha de S.Paulo",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOb1N6Vi05VFJGQk16eGpLVWFzSVJGZzVGWXpQaEdINTdGUS1POFRfSE1yMjd4VFZIdXh5clZoaC1xNkFCeDBleGxDT3d4bl8xUDN4R2xMWEVOeU5XLTBqUkMwMTA3bnhBUGhObElPdThET2tLd3hNY29QVl8yWVRnSlRYb1Z2WlZ0NTZMX2g3eUotcGdUTmZXUHZmaGxXZUVxaXB4MTRDcmc2UVZGRmlJdHBqNk1DZVBLWWc?oc=5",
+   "resumo": "Proposta prevê recolhimento provisório com base em estimativa de créditos gerados por fornecedores",
+   "link": "https://www1.folha.uol.com.br/mercado/2026/11/governo-vai-propor-regra-de-ajuste-do-pagamento-da-cbs-diz-receita.shtml",
    "source": "Folha de S.Paulo",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-11T14:28:00Z"
+   "addedAt": "2026-11-11T14:28:00Z",
+   "tries": 1
   },
   {
    "id": "a326c5a69c9a",
    "date": "2026-11-11",
    "title": "Reforma tributária: Receita vai adiar exigência do novo modelo de notas fiscais para dois setores - Valor Econômico",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPX0Rkc1JxQWRUcEpNYkVWcmpNRFpVdE53RzhQcDB5MF9tSmh0NkJQVW9FMlFhS3hCc1dEQV9FQUZmNWMwMzNUSjkyN0hsWjYwRDRQWVEzX2RqbFlYZ3p0Q3dOMDkweUh4X3FNZ2dEZER5Q2FXR3JIMUc5VmkxYWpWNXUyUXpCdGo4WjhXWC1ESHF1YnIwS1ZxT21RR2VTZFdjY2tjMmhjMHc2X2NEU1kwamd1V0ViZHd6RGhOczdDRTBiVXhJX2ZaQ1d4c3d1dUdTN0FMeklIQW40di1DaXJmQVZVM1BzdEXSAfYBQVVfeXFMT3A2eTB6QkNlcE8yRmlZNnRoRk5Qc2swdmhlTUxVVk1iNWMyTlhEM3ZUMm5KZ1IzN3VWemNtNmZFZlpVaVdXT01MTWQ5cU40TktJVEw2SURoQnhmdkw3MFZwVFNQRnFONjJZTWFRSWk3WlhhV0NaYzJya003QnVHUThsSkhmTWwwN0F2aWNER3ZMeHNKUlpMQzdVRWx5VU1HeDBnLXZMM3VfcnNMWGdLVkh3YWZneTY3aWtUQXlOY3MyNjRXOVZTdzJCa3RqbXVLUEJ2SG44d1dSSWpwMkNaMm4yNTVFaUo0MDRkZTBOaE9DVURvQ0dn?oc=5",
+   "resumo": "Empresas de plataforma digital e do Simples Nacional não prestador de serviços ganham prazo até março",
+   "link": "https://valor.globo.com/brasil/noticia/2026/11/11/reforma-tributaria-receita-vai-adiar-exigencia-do-novo-modelo-de-notas-fiscais-para-dois-setores.ghtml",
    "source": "Valor Econômico",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-11T14:06:17Z"
+   "addedAt": "2026-11-11T14:06:17Z",
+   "tries": 1
   },
   {
    "id": "44ab8c8280fb",
    "date": "2026-11-11",
    "title": "Reforma Tributária: Atualização do Ambiente Beta da DeRE - Contadores.cnt.br",
    "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQnhQbVZmVW1HUXl2TVhyeHJ6VzFnZG9EZUdPdm9Kc0c2d3FpNVVhUUNwbDJMTXdnZjQ3Q0FjQ0VTTU83VjBaSTlLbDA2MWRPYWVmM2sxQzNwUng0YlBMZElkdkZDWVhXNXZsRTVxNXpONmV0eXN5elRwQjdqV3dwOWwwNTZXVk00TzBMd0NsZnBMcXZLdm5MWGlQNlVMWlRUdzNvU09YdDRvUkVsYnlVSjFnSS1qakJZVkVN?oc=5",
+   "link": "https://www.contadores.cnt.br/noticias/tecnicas/2026/11/11/reforma-tributaria-atualizacao-do-ambiente-beta-da-dere.html",
    "source": "Contadores.cnt.br",
    "official": false,
    "category": "cont",
    "tag": "Contabilidade",
-   "addedAt": "2026-11-11T13:33:00Z"
+   "addedAt": "2026-11-11T13:33:00Z",
+   "tries": 1
   },
   {
    "id": "131c12cf2f7a",
    "date": "2026-11-11",
    "title": "Simples Nacional: deputados pedem mudanças no acesso a créditos de IBS e CBS - Portal Contabeis",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOXhRbFFHX3pfTVphWXBpekJOOGRtLW5paUVFaFBFQndBYko5RUN6YUVWX2wwbVgwa3hjM2FSbXN1YUllY191Y25fVlE0MnBqaDB1NXVxanl6ZnJVWlg2MnhEM0FzcGUzOVRwQzFYSGctM2w4MURWajZJNVJHRFVWYjdzNXdjLWRBVGpCSGZnN2IwXzFnTk9pcHNmUU5Ub3kwX2YzNmkxM25BYVVHUnZhMEFKSy13dktrdWZXSg?oc=5",
+   "resumo": "Parlamentares pedem à Fazenda alternativas para facilitar o acesso de empresas do Simples Nacional aos créditos de IBS e CBS.",
+   "link": "https://www.contabeis.com.br/noticias/80765/simples-nacional-deputados-pedem-mudancas-no-acesso-a-creditos-de-ibs-e-cbs/",
    "source": "Portal Contabeis",
    "official": false,
    "category": "simples",
    "tag": "Simples",
-   "addedAt": "2026-11-11T13:30:01Z"
+   "addedAt": "2026-11-11T13:30:01Z",
+   "tries": 1
   },
   {
    "id": "2c3e80efb231",
    "date": "2026-11-11",
    "title": "Reforma Tributária: SVRS detalha testes de IBS e CBS da NT 2026.004 - Contadores.cnt.br",
    "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaE40VU9GeTE0YnZUQkI1MEpaZmYyV1RpWDFiRzRuUXFxWU5nTkhKMTIzSVU3SDRxU1A2VFM4bUU2U3JMMjNrSU5FT2hMM1NDcW0zRmtTRXA4b3V2TGp2a2otZjlUUTYzT1pPMjJsY0pZT25kOXF1dHB4YlJqM2dOdVRyaVlnUmR6d3N3U0dzS1BDV1JXbGpkenZ3VE1yY1VIWkI1dG5EZGNPWkI0OVB6ZWx5UFhmWmhrLXVkR3FPeUZHeE1CWlQ2N0N3?oc=5",
+   "link": "https://www.contadores.cnt.br/noticias/tecnicas/2026/11/11/reforma-tributaria-svrs-detalha-testes-de-ibs-e-cbs-da-nt-2026-004.html",
    "source": "Contadores.cnt.br",
    "official": false,
    "category": "nt",
    "tag": "Nota técnica",
-   "addedAt": "2026-11-11T13:24:00Z"
+   "addedAt": "2026-11-11T13:24:00Z",
+   "tries": 1
   },
   {
    "id": "676ceff0aeae",
    "date": "2026-11-11",
    "title": "Governo mantém reforma tributária em 2027 e avalia flexibilizar multas - Portal Contabeis",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQX2tMem5ldFVoVnFaWVUwTGhnZVFvWUNHbEhLbVJwWTlRU0xrUklqQll0bWY3N0tFNkVWYjRPVTBiMC1VbWVUT3VyaDVkN0MyRkxJMmxHMFh0Y0sxV0Z3U1l0RlNIWGxnMERIRS1JNVV5RDhsUFlFbUxDYzROWXhUaVQ0NDZyZVRtOEFZZ2pZVmdQTk1qN3J2THZfU2NYenlpZEtuMFVHU2JVUzhvby1kd0lJR1lTQQ?oc=5",
+   "resumo": "Entenda o cronograma de split payment projetado para 2027 e a diferença entre o piloto com empresas e os testes técnicos já anunciados.",
+   "link": "https://www.contabeis.com.br/noticias/80762/governo-mantem-reforma-tributaria-em-2027-e-avalia-flexibilizar-multas/",
    "source": "Portal Contabeis",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-11T13:15:02Z"
+   "addedAt": "2026-11-11T13:15:02Z",
+   "tries": 1
   },
   {
    "id": "fcfe4a38bab1",
    "date": "2026-11-11",
    "title": "Reforma tributária: governo vai propor que primeiro pagamento da CBS seja feito em fevereiro, diz secretário da Receita Federal - G1",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNZGNKS2VsYkNaWlhoSjhtVGs1OElnVmc1REU4U3FtdmlxREtoZmdWakd6bFJMdDJxNTExMFpPclh2V3BxNVR3NmRGNVhHXzBmMG5SaFJ6aTdiMlA4T2xHcHVQS0w3N2dzdk9uT0FDbi0yRks0czdBaXVualJxUThUazRjN2wwbjJwbHRCSXI4RnhYQzJqWmtEbFJ0NnI1UnVCTWJaOFA1Mjh4Z3JGdk9LUDNhYXpHdlRLT0xSLXN2RmI2MGhZdkEtMWVsS0tzc1hYSU5pVlR2a1EtdVpLbXk2SExtQ3FuVU9sZGlqUllkNjVISGVFczM2QlBkZ2xodjVqcUZxM00tMkhDNHAtUzhn0gGeAkFVX3lxTE01X1pmRi1OOExrd0RocWRLbW54b2J0eUFnTy1UNjd5QjJjN3RlTW10cnAzY0JqcDgtRGtOQ2t5VkZLbTVRNmRaMGtUUXNqUmh4UnVFbkJMM0NidkxSeUxndjdTeS1MZUUwMnRJZXlhOE5aaU93RGZSMWZYUlpiWE01WHJoeVV4ZUpQQ0QxZS11ak1JWm9TblR6am5scm9FRzQxOG1IdkNCdWRhVVBfN2RaLTYzcFdXZW5XRkNDVl92Q2pDNnBxdU81ZXpiRXU3YzY1dkhtdEd6NkdhMHJDWVZUZmE1TXVFaUxJUks1bTVFb00xdTYyTlYtMWxmVS1sUzQ4dGt6a0h1eXdLSi02S0tGWl9HLU91Q3NmeHBneEE?oc=5",
+   "resumo": "Novo imposto federal sobre o consumo continuará valendo a partir de janeiro de 2027, mas empresas poderão ganhar um mês a mais para fazer o primeiro recolhimento. Mudança ainda depende de aprovação do Congresso.",
+   "link": "https://g1.globo.com/economia/noticia/2026/11/11/reforma-tributaria-receita-confirma-inicio-da-cbs-em-janeiro-de-2027-e-diz-que-contribuinte-que-agir-de-boa-fe-nao-sera-multado.ghtml",
    "source": "G1",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-11T13:11:46Z"
+   "addedAt": "2026-11-11T13:11:46Z",
+   "tries": 1
   },
   {
    "id": "4b2f2daa4d3a",
    "date": "2026-11-11",
    "title": "CFC e Fenacon entregam à Receita nove propostas para a reforma tributária - ::Conselho Federal de Contabilidade:: |",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNN1g5aUR5R005V0xQN01weG9PcUYxYjNBQy00d0pKemZVM2lzQ2N2b2NITlM3WGVCRWpBV1kwYjZQbHdVWXp3ZmRtWnlGRG84YTR1Tm9PbnEtVWxUTlFQZXdlQ1NnclI3a1I3cEkxMlJ0VGlSaVBKa2ptc0FMcWNPMHE0ZnVoSjJTX3JRb0dzaVhYc2hQRWdMNlEycVVNS0wybmMwWg?oc=5",
+   "resumo": "O Conselho Federal de Contabilidade (CFC) entregou nesta terça-feira (10) ao secretário especial da Receita Federal, Robinson Barreirinhas, uma manifestação técnica conjunta com a Fenacon, federação que representa empresas de contabilidade e assessoramento. O…",
+   "link": "https://cfc.org.br/noticias/cfc-e-fenacon-entregam-a-receita-nove-propostas-para-a-reforma-tributaria/",
    "source": "::Conselho Federal de Contabilidade:: |",
    "official": false,
    "category": "cont",
    "tag": "Contabilidade",
-   "addedAt": "2026-11-11T13:00:30Z"
+   "addedAt": "2026-11-11T13:00:30Z",
+   "tries": 1
   },
   {
    "id": "ede2654a76ac",
    "date": "2026-11-11",
    "title": "Receita pode flexibilizar multas da CBS em 2027 - Portal Contabeis",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTWgybnk2aWFMOTdoZllWbWtERWpIcFdNbTVOU0pSc0NfajVPNzJTOW1VbzJXUWVFQ0N0Q0VIcHNhUDNKd1d3Rm9RYWdpS1FTWHVZQXpEcjd6ZkY5UEtITFVjenRzSXg1SHNxQllENTR4U3RhU2NaTlJCWnJib2haTm1IdUQ5YlF5cUw4NWFZQzk0OFpvZ3Nr?oc=5",
+   "resumo": "Receita Federal deve anunciar medidas para ampliar prazos e flexibilizar penalidades durante a adaptação à CBS, prevista para janeiro de 2027.",
+   "link": "https://www.contabeis.com.br/noticias/80767/receita-pode-flexibilizar-multas-da-cbs-em-2027/",
    "source": "Portal Contabeis",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-11T13:00:01Z"
+   "addedAt": "2026-11-11T13:00:01Z",
+   "tries": 1
   },
   {
    "id": "8a6d0d8be9bd",
    "date": "2026-11-11",
    "title": "TCU apresenta ao Senado proposta de alíquota de 11,3% para CBS, novo tributo — Senado Notícias - Senado",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYV9NekFGVlA5MnV3WGptSU9qRms3WXg1aUtUOWV5WlhzLUFqUG9ybmhGTFZIZ1ZqYi1pUW9LSnZVdnFDaVFZbnhJSzJwWW5KLWJ6cVJkNmVDQi1JaTRmU1FtYjhwbHNWMXo2N3MtQzlBaU5zUkZ1c1h1QlRlZEJvTExnM2Q0YUNkQmtoS2djNTc0a1poQmk2NjZSU09qYU8zdTd6MWJnX25MZG5XZVZnN3diWUhwc1hPRzZxa3pKR1NVQkI3?oc=5",
+   "resumo": "O presidente do Tribunal de Contas da União (TCU), ministro Vital do Rêgo, entregou nesta terça-feira (10) ao presidente do Senado, Davi Alcolumbre (União-AP), relatório técnico que recomenda uma alíquota de 11,3% para a Contribuição Social sobre Bens e…",
+   "link": "https://www12.senado.leg.br/noticias/videos/2026/11/tcu-apresenta-ao-senado-proposta-de-aliquota-de-11-3-para-cbs-novo-tributo",
    "source": "Senado",
    "official": false,
    "category": "aliq",
    "tag": "Alíquotas",
-   "addedAt": "2026-11-11T12:58:42Z"
+   "addedAt": "2026-11-11T12:58:42Z",
+   "tries": 1
   },
   {
    "id": "70b80ea33475",
    "date": "2026-11-11",
    "title": "Reforma Tributária: nota fiscal terá novos campos obrigatórios. Veja o que muda - Contadores.cnt.br",
    "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUWZnNi00SlVMRlJKcHIyOEp3aUJ2akM4ZDUweV80T3ZZS1V0d1ZnU2FCMFR4ZUxyNTBfeHZmRUNhOGVZVXNiaF9HWTdqbkhBTlBDMkc1N0NhQ1R6Tm9MZVN6Q01DVXM0bW81ai1aNkdBZTZzcVc3NnB0eFA4RTE5STF0dkltMHdVbGR2S2ZSUjhTZ1F5dk9ldmc0ZEM5OWoxWEZCYVdsWmxjNUtfd25qOXJOQVUybzNPczNpZFBnQ0JBeWZMbXlfdHJncENMREVzWWtSdFVPaEY?oc=5",
+   "link": "https://www.contadores.cnt.br/noticias/tecnicas/2026/11/11/reforma-tributaria-nota-fiscal-tera-novos-campos-obrigatorios-veja-o-que-muda.html",
    "source": "Contadores.cnt.br",
    "official": false,
    "category": "cont",
    "tag": "Contabilidade",
-   "addedAt": "2026-11-11T12:49:00Z"
+   "addedAt": "2026-11-11T12:49:00Z",
+   "tries": 1
   },
   {
    "id": "a25f393029bc",
    "date": "2026-11-11",
    "title": "Senado ouvirá Durigan e Vital do Rêgo na próxima semana sobre CBS - Congresso em Foco",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORXJmaEVWUmNRWmFHbTJLVkNNbjFjSXBYbDg4Yzd5XzdmRVdIY3BYcm93aVEwbG9sNTdra0pXcWZySzBkckkwSGN1TmowTk5pZDVZOGtKOFJ2eEtuREdNaE9sYllXVzlJdGxQWGdNLWtMeml4bkFkeFg5cmF1d3FHeFpOV3BpYkFVTGxIZlYtTHphSFNwSFpQQzNUSUZLaF9QVnhHX1E5aEtxbGUwZGE3ZE5aRXV1Zw?oc=5",
+   "resumo": "Audiências nos dias 17 e 18, na Comissão de Assuntos Econômicos, discutirão percentual da contribuição que substituirá PIS e Cofins em 2027. Relator questiona cálculo do TCU.",
+   "link": "https://www.congressoemfoco.com.br/noticia/131494/senado-ouvira-durigan-e-vital-do-rego-na-proxima-semana-sobre-cbs",
    "source": "Congresso em Foco",
    "official": false,
    "category": "lei",
    "tag": "Legislação",
-   "addedAt": "2026-11-11T12:46:24Z"
+   "addedAt": "2026-11-11T12:46:24Z",
+   "tries": 1
   },
   {
    "id": "dbf47d3604a7",
    "date": "2026-11-11",
    "title": "Aluguel de imóveis com nota fiscal: o que muda na reforma tributária - Consultor Jurídico",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ0JtNzFtMjJMcGlibnkwN0xQU05jWWt1eDZvaDBZUWtmalVHdTVNSHRYMDZGUHhzT1E5dE9ib0dmdG1xY1lXNTduOFpEcW9SRnprMGNobTkydEwzV0VIRnNVbkJPX19uVW9nM3hTZlFweTBxUUw5bW1XNmpOTDdUWUFWTmNueFVUNm1MOFl2aG9HUmxFRE1kZDYwb1RSNUxuUU1NbA?oc=5",
+   "resumo": "A LC 214/2025 colocou a locação, a cessão onerosa e o arrendamento de imóveis no campo de incidência do IBS e da CBS",
+   "link": "https://conjur.com.br/2026-nov-11/aluguel-de-imoveis-com-nota-fiscal-o-que-muda-na-reforma-tributaria/",
    "source": "Consultor Jurídico",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-11T09:01:41Z"
+   "addedAt": "2026-11-11T09:01:41Z",
+   "tries": 1
   },
   {
    "id": "dbb2ae6515f3",
    "date": "2026-11-11",
    "title": "Série de pendências na reforma tributária preocupa empresas - Valor Econômico",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZXJ0cmcxUkFHSDNqUDAwQ2NIQU0yQk5KZE1wNzllYkVPV3RmYzlIZTgzSEtfTWZHd0oxaHk2eGpTVzRVZWVuZXlCVEhpUVRGQ1VST0YwM2xMRWM2RmdqNFh2VUIyM3J6bmk1Q2VScFlkZTFGdERuT1lpak40dVhGMm9ULWphYWYtOTJIYlkxVHp1d3hmMzZ3UDB6WGFSZE12WnBaWE04VEhZcFdjQ1pGM0NDbDM4ZjVnWE040gHKAUFVX3lxTFBrXzdmTFlIa00xMXBRRk5LLTc0OUFDMjN0azhrZDVydXUxcWZZTV9FT0oyWTM2UURRdmxENjNUMXRMdHNfUF9iOFU0X2YxS0VEY0ZPUk9BYzMtSnVneVZlenMwU25iS0VRUDRkWmtldFRYOVVPRTh4bFByeGoxemRRSXBBaWlseXFPQVBIUHlDUjhxTG5LbjVhUGRDcjdpZUQzTU95RG41UTliLWJqR2tqN0JKZW5uQkFQcFVWYnRhZ3NfUFBkSFg1SlE?oc=5",
+   "resumo": "Contribuintes esperam definições sobre notas fiscais e créditos tributários, entre outras",
+   "link": "https://valor.globo.com/legislacao/noticia/2026/11/11/serie-de-pendencias-na-reforma-tributaria-preocupa-empresas.ghtml",
    "source": "Valor Econômico",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-11T08:00:01Z"
+   "addedAt": "2026-11-11T08:00:01Z",
+   "tries": 1
   },
   {
    "id": "6fd281be63cc",
    "date": "2026-11-11",
    "title": "Reforma tributária e concessões: o desafio de preservar o equilíbrio dos contratos - JOTA Info",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNS3dvalRxaGNMSkhMcEl2VjhDWVBMS0E3YVNsS3BKLU1qZ2thQzA3dEhmdHpEYUhhT1N0dmNBZUt1c0NlclR0WHBUdHA3Z2RIbm1HbzBabGpHMk9MNmxEX1Q0ODd4eGFlV0hpSTVOQm1tQ1VVWmFrOTNCWDJ2V0Zqai04YzRkSkpGMUh1ZlY3XzdvdVNjMFdQVzdFalYyaTN5WWMyNzJydlg2MEh3MENSeWtYOEdkWTJaR1NLczhCdEJxekQ0RUhzLQ?oc=5",
+   "resumo": "Êxito da Reforma depende de atuação coordenada entre poder concedente, agências reguladoras, órgãos de controle e concessionárias",
+   "link": "https://www.jota.info/opiniao-e-analise/artigos/reforma-tributaria-e-concessoes-o-desafio-de-preservar-o-equilibrio-dos-contratos",
    "source": "JOTA Info",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-11T07:49:10Z"
+   "addedAt": "2026-11-11T07:49:10Z",
+   "tries": 1
   },
   {
    "id": "30755c3fc0c7",
    "date": "2026-11-11",
    "title": "O imbróglio da reforma tributária fica maior a cada dia - Money Report",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQmJ6N0M3X2VZOWlZU2RMbEd1Y3JpdTl3NE5UNUNveGxQU3lWTTBfUDhxZU9rcG15VHNOalMxa1lkQTRWRU1WUUszclpId2haWUgtOWNockxueExTSk9FNzFZZS1JQkxjalUwY3BxWnd4TUdueWRPdEJDa3NzVUxiMl9mb0dyUmdPUTkxNlBaeTZjeXUxZkNRMFJ0dEtfRHZXWnVLdA?oc=5",
+   "resumo": "Faltam 51 dias para 2027 e, em tese, para o início da implementação de alguns pontos cruciais da reforma tributária. O que se prevê nesta primeira fase é aumento de preços e até desabastecimento. Tomemos a questão dos aluguéis. A partir do ano que vem, boa…",
+   "link": "https://www.moneyreport.com.br/agenda-lideres/o-imbroglio-da-reforma-tributaria-fica-maior-a-cada-dia/",
    "source": "Money Report",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-11T03:03:40Z"
+   "addedAt": "2026-11-11T03:03:40Z",
+   "tries": 1
   },
   {
    "id": "9994269ae7d4",
    "date": "2026-11-11",
    "title": "Expressão Nacional | Regulamentação da Reforma tributária: Imposto seletivo - Portal da Câmara dos Deputados",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMVhOVWJQM3FyU1MwbklKTmV5LXdoOFktckh5eFdabFloZHE1V3I0U05LeVB4YnVrR2tlSXd5ME04TWloYno3ZkRNMTdKQlZGMVBmTG1WQWQtWmhMUGtkaTd4N2swX1BTYTA3RkxXcnhsNWtYSlBobVBDX1RPNFFYM2xRa1RpeHBoY0JxdzZULWVvZVRGNC1heWJRaVdmODVYNHA3RkZFZGJWZmgxLWRrUm1aWDYzbUpfSHNvVnhSLUJtUEJ2RXFv?oc=5",
+   "resumo": "A partir de 2027, as mudanças da Reforma Tributária começam a se tornar realidade na rotina dos brasileiros. Um dos movimentos centrais dessa transição é o fim progressivo do tradicional Imposto sobre Produtos Industrializados (IPI) — que terá sua alíquota…",
+   "link": "https://www.camara.leg.br/tv/expressao-nacional/1317829-expressao-nacional-regulamentacao-da-reforma-tributaria-imposto-seletivo",
    "source": "Portal da Câmara dos Deputados",
    "official": false,
    "category": "aliq",
    "tag": "Alíquotas",
-   "addedAt": "2026-11-11T03:00:00Z"
+   "addedAt": "2026-11-11T03:00:00Z",
+   "tries": 1
   },
   {
    "id": "0120ff42956e",
    "date": "2026-11-11",
    "title": "Pressão para adiar implementação da reforma tributária cresce, mas deputados descartam mudança no calendário - G1",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQX0pDX2c2dnBiYmdHSFRDNnpkRVFQbUJZN1lNY2RDcGhRb0JCWW1SZXk1MmF1YWIxektIVjNqLVNtZTg4b2ppRko2dm0zLVI5ZmxTSVlfWEtNUHppOW8tenl5M2I3V1BTUlcwU2FFRG8yeEdIY2UzY25sMG9zZGlGNjg3a3lvWFdMdWZYQlV0NkxHVTBDV1NNZEdHbkNGeml3YWp2SmRqaGd0N1UtRTFkTHI1WGo2NDc0Nk54SzBWUmo4WnI1VFlQRnRYTDJ3ak5BdDFQWXBSODNlMDZQWnhEVWtMOG1iR0thMThRWElVMVRpaEVX0gGDAkFVX3lxTFB0VUY0ZWtkSEFyMy03VHA3UTNnb1dYbmNtaHJPM3NZVE1feHhQUlJGcy1BZlNGYjB3NUVKYlVILVh3SGxKZkRFQWxOMkl1aVBlbVZlQzNQel9mVVhsNzJaSEw3Y2hfMEQyN1J1dTY4blJkYUd4TmtFZUthcUpRelpqendTcjBmRHBzNU9VVUtIRmJ0NEh3YnVSZEo0Tld6RHpBQXR6T2lQYl9aSDV2THJnTmRJMWdwX09PNV9STUhjS0RnQkxPMGJmZ0pGMUUxbEF1U01Vd0owbU1URkJYWld1TGFJQXRUYnFnaDVSeFpWZUdhMTlQTWdBTm8zODR1U21oTkE?oc=5",
+   "resumo": "Parlamentares se reuniram com ministro Dario Durigan nesta terça-feira (10) e reafirmaram compromisso de iniciar implementação do novo sistema em janeiro de 2027.",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/11/pressao-para-adiar-implementacao-da-reforma-tributaria-cresce-mas-deputados-descartam-mudanca-no-calendario.ghtml",
    "source": "G1",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-11T03:00:00Z"
+   "addedAt": "2026-11-11T03:00:00Z",
+   "tries": 1
   },
   {
    "id": "9940ad591bf9",
    "date": "2026-11-11",
    "title": "Você sabe o que é 'split payment'? Entenda mecanismo que separa imposto em pagamentos previsto para outubro de 2027 - O GLOBO",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNUjV3bVdXVmZEcExNdmdGbUpkUTZCUWNxdnpWMmZ0RmREaHBNYXdDdG1zZ1NaZVpQOG5YbnpZbVUtNUdrbWFsbDc1SXR6OEpkR2oteXM5MHdjSU1hM1BWd2hLNDljVnJYN1BEQ0lveXhCa01ONW43dW5KRkhaLXJhQl9GZjJlSUpLbTEtdHZ0WHlEWkw3OE5pemtwMi1kUnNTenhiYTdLdUs4a2o2R3hFRXpENkc5Q1lQbjBZdWhCU3Vab1dkZ3Q2ZmRoTkIxdzZpYmJPcEZCUldTU3VXT29uTjBmTW1NQTUzbmU0dG5GZHpadTlrSE44ZUljRkk4VVNt0gGPAkFVX3lxTE1RaUNyT3pIakp4LUdUa3VwNEFLLTlyNVJOd3AyYkNScmFOYnlDZ0RIWGJ3TzN5NU9VX2xjM2tnZy1LTmFpTkxiZEtzNkZ0QkJJVmc4RjJVRG90a3FrWjZJSXpXUUQybEtyY3liaEhMQldyNVJwekE3Vlo3MWZsNGtNaXlNU1kzbjJfWFZ2bTRlUjVkQXE1RHlNWURWWHBtTEFLT0YzNjRNdXZYTUxTUWFOX0dPQm5FUGRyZ1FIeGJ1Q2tWLUxhd1NlS3dVeC1JbWR2SFBVbk9abnVHdGctWjdXTVNaQjR2cGd1cXRDUjNJY2ZXekZwczVYWTNsUG9pUWxfRHp5NW5xQXFjbmVqYm8?oc=5",
+   "resumo": "Sistema definido na Reforma Tributária para reduzir sonegação em transações comerciais começa a ser testado em março e entra por etapas",
+   "link": "https://oglobo.globo.com/economia/noticia/2026/11/11/voce-sabe-o-que-e-split-payment-entenda-mecanismo-que-separa-imposto-em-pagamentos-previsto-para-outubro-de-2027.ghtml",
    "source": "O GLOBO",
    "official": false,
    "category": "pag",
    "tag": "Split payment",
-   "addedAt": "2026-11-11T03:00:00Z"
+   "addedAt": "2026-11-11T03:00:00Z",
+   "tries": 1
   },
   {
    "id": "4f7f659ac746",
    "date": "2026-11-10",
    "title": "PEC 22/2026 propõe manter IPI até início do Imposto Seletivo",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdlhuZUlTdmVlUkV6bTJOYXR4MUF1Q3pjNjV5LWcxcFMtWUlvQVdnbThpRTVLaUw5YXNnSHA5WmpYczRkTEpNNnlkV3NfRFpRVlZ4QTJfakVoVGdzaG9wVERVcEpxMG42TWtMTEFHSW5UdkZ1TWxORmVNYVFmemstNVVWLWpTdjJ6OXEtcVA5c09aREQ4UENhY0c2RnBwS3hZM2ZPZUFya3o?oc=5",
+   "resumo": "PEC 22/2026 propõe manter o IPI sobre bens sujeitos ao Imposto Seletivo até o início da cobrança do novo tributo, previsto para 2 de fevereiro de 2027.",
+   "link": "https://www.contabeis.com.br/noticias/80725/pec-22-2026-propoe-manter-ipi-ate-inicio-do-imposto-seletivo/",
    "source": "Portal Contabeis",
    "official": false,
    "category": "aliq",
    "tag": "Alíquotas",
-   "addedAt": "2026-11-12T17:35:38Z"
+   "addedAt": "2026-11-12T17:35:38Z",
+   "tries": 1
   },
   {
    "id": "49c09e00abe3",
    "date": "2026-11-10",
    "title": "Split payment e reforma tributária: impacto de R$ 117 bilhões nas empresas - Gazeta do Povo",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVEVndjVEb0pfWkF5Q3RmeU9XWl9kY1VsMWZXVEtWRmJjTG9YZFBwbkJlQlpma2VxYXo3OERVejRLZ3NRRzFYRHhRNzUtNmNPYk44dFNTR011SF9Ib3lZMDZyTVBNU3VTRkNNaDc3TnRtZE1uNEZkTzhlQzE4a1d3aWRCMmdOakh6SnZNemVtQXNTaDJvSTNIMkxMdE1oZlBfc3o4cGNDV2lPT0hfQUJoMmstVWk0Rlk?oc=5",
+   "resumo": "Entenda como o split payment na reforma tributária retém impostos na hora da venda e pode retirar R$ 117 bilhões do capital de giro das empresas brasileiras.",
+   "link": "https://www.gazetadopovo.com.br/economia/reforma-tributaria-ameaca-o-capital-de-giro-de-quase-um-milhao-de-empresas/",
    "source": "Gazeta do Povo",
    "official": false,
    "category": "pag",
    "tag": "Split payment",
-   "addedAt": "2026-11-11T00:44:00Z"
+   "addedAt": "2026-11-11T00:44:00Z",
+   "tries": 1
   },
   {
    "id": "9a5c7f9c5975",
    "date": "2026-11-10",
    "title": "IMPOSTO DO PECADO 💰 O empresariado teve muito o que discutir nas últimas duas semanas. No dia 28 de outubro, o Tribunal de Contas da União (TCU) finalmente divulgou o cálculo proposto para a CBS (Contribuição sobre Bens ",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1icWpETWtPcW40aXAzOXZpZ1RZWGxFQnVZTGhSZGd3cDdjeWFJYjNTVVBCY0ZoSjFLQi1XWWNQT0U4TWxRZ2NndThWeldOeldBTFE?oc=5",
+   "resumo": "190 likes, 8 comments - estadao no November 10, 2026: \"IMPOSTO DO PECADO 💰 O empresariado teve muito o que discutir nas últimas duas semanas. No dia 28 de outubro, o Tribunal de Contas da União (TCU) finalmente divulgou o cálculo proposto para a CBS…",
+   "link": "https://www.instagram.com/p/DflC481l0zf/",
    "source": "Instagram",
    "official": false,
    "category": "aliq",
    "tag": "Alíquotas",
-   "addedAt": "2026-11-10T23:05:21Z"
+   "addedAt": "2026-11-10T23:05:21Z",
+   "tries": 1
   },
   {
    "id": "bba5622ae348",

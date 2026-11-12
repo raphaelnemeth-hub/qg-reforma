@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-12T12:57:55Z",
- "lastCheckBr": "12/11/2026 09:57",
- "added": 0,
+ "lastCheckAt": "2026-11-12T13:02:10Z",
+ "lastCheckBr": "12/11/2026 10:02",
+ "added": 3,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -13,7 +13,7 @@
    "name": "Agência Câmara",
    "ok": true,
    "found": 1,
-   "new": 1
+   "new": 0
   },
   {
    "name": "Receita Federal",
@@ -25,13 +25,13 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 95,
-   "new": 95
+   "new": 3
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
    "ok": true,
    "found": 3,
-   "new": 3
+   "new": 0
   }
  ],
  "items": [
@@ -960,6 +960,18 @@
    "addedAt": "2026-11-10T03:00:01Z"
   },
   {
+   "id": "a4793f0f3e21",
+   "date": "2026-11-09",
+   "title": "Ato Técnico nº 10/2026: veja as versões fiscais aprovadas para IBS e CBS - Portal Contabeis",
+   "resumo": "",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUmItb1NLSldvQkozVUNld0ZwUkJUcHhWWklqMjJkVzNrTmVvUmhUb2VERXJrQmdXNzROb1JKU24tVnNJOHBtMHhTamJza2ItQ2ZqaFIwYjRwcEhpbTgxZWxZYW9wRWhaVHBwZmt4RWowbkZJNm5HNXZzeFg3dWdlTEVoc3lHRnFQUVpuQjA0MFBkRXVNekpjMURaODFsTHA3YXhGU0l2enBwTFAwOTcycElfdVdHbzA?oc=5",
+   "source": "Portal Contabeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-12T13:02:10Z"
+  },
+  {
    "id": "6daf46f129da",
    "date": "2026-11-09",
    "title": "Petrobras diz ter dúvidas sobre reforma tributária e pede período sem multas - JOTA Info",
@@ -1114,6 +1126,30 @@
    "category": "aliq",
    "tag": "Alíquotas",
    "addedAt": "2026-11-07T11:00:00Z"
+  },
+  {
+   "id": "e95f0b9f211a",
+   "date": "2026-11-06",
+   "title": "Prefeitura integra Comitê Gestor da Reforma Tributária do Governo Federal - Portal do Município de Piracicaba",
+   "resumo": "",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTGU3RXZLVExzSUl1aFd6ZS1ieVp5VWxoVkRLN3NBd0JJUHhGWk84UXZoYXI0eXRoc0pBWUVibW56SHBINC1QSEhsQUlsbXNEb285WWtYdjJjQXJWT1Zoem1oWlh5SFpyLVZWQWFnU1JkdWRNZmpPNEdVMU5iTGlZcDctSTN2ZHBxYlZDbEJBeXoxMi1xY2lFSHppMFFnYjJzb1VyQ01HQkdycXJmQmUzR21B?oc=5",
+   "source": "Portal do Município de Piracicaba",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-12T13:02:10Z"
+  },
+  {
+   "id": "02cad2dd60c7",
+   "date": "2026-11-06",
+   "title": "Funrural e reforma tributária: o IBS e a CBS não integram a base de cálculo - Consultor Jurídico",
+   "resumo": "",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWDZUdWJoV2xSMGVfU0lPNlQ4Qk9YV3BxZndMSW1OXzNEVk5CaVdVMDl5UFNZbk9kQ2ZtazBZWDVQTmFBcVFaUmdPRldSUFVnUmxNOWJSaXBpZ0otd1VkV0hhTFQ0YWVXVEhpYm9Fc2g4UTE4dDhIVE1IQXZYZlR0Q01zVVpfNHhfbldyMmpRUDhlWkdtaWJCRl8zN2tiUlpFU2FqUk9oMzRYQThCR0E?oc=5",
+   "source": "Consultor Jurídico",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-12T13:02:10Z"
   },
   {
    "id": "3b0459b1cd05",

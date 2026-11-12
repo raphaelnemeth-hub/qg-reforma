@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-12T13:02:10Z",
- "lastCheckBr": "12/11/2026 10:02",
- "added": 3,
+ "lastCheckAt": "2026-11-12T15:47:59Z",
+ "lastCheckBr": "12/11/2026 12:47",
+ "added": 8,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -24,17 +24,89 @@
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 95,
-   "new": 3
+   "found": 96,
+   "new": 7
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
    "ok": true,
-   "found": 3,
-   "new": 0
+   "found": 4,
+   "new": 1
   }
  ],
  "items": [
+  {
+   "id": "6b0c9bbc57bc",
+   "date": "2026-11-12",
+   "title": "Fisco adia para março de 2027 exigências da reforma tributária para empresas do Simples - Sistema FENACON",
+   "resumo": "",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbjZwcXo0TzVvQTVmazhVVHFualFzT1REYzdWUlM1cU1YQUZrTjZaa2s5bVpHMlZSdGxWOUYwbENnNFA4M0owRVNNVGxEUUZvS1c5QW1QWDhWdnZDSkZVd1pJUzhEZXlCN1AyLTNxcW1DelNMZi1UYTU1czFVR3NBeXZmT2Vsd2ZxRXVIWDlPWnJfdTZSVlJyR2VnMEltVkFCSXViUExhb01waV9EclE4VGR5c1JIVkpRMnpibg?oc=5",
+   "source": "Sistema FENACON",
+   "official": false,
+   "category": "simples",
+   "tag": "Simples",
+   "addedAt": "2026-11-12T15:47:59Z"
+  },
+  {
+   "id": "9b9f44c64a9d",
+   "date": "2026-11-12",
+   "title": "Imposto seletivo puxa pra baixo avaliação da reforma tributária - JOTA Info",
+   "resumo": "",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWE5PUHYwUXFDUmE2UmNqQ05hQjlHRFk4QXJ3R0JWbEZvcUZwSEltb0h5aDI4TE52RUhSVkliRE1fajR5WFRwR1Z5YWsyYVo5WHZzLTJmWjRobGJaOUJiNmRrWnAyVURDMTB1eHNTNmg0c0x4clFvUWY5cW5iRHd2SWR6WEFPbUg5UU0tYTUtOURpUWRhZEdoRlNXN0l6T0pTMXZSVzlEQjY4WWZuZXgxUQ?oc=5",
+   "source": "JOTA Info",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-12T15:47:59Z"
+  },
+  {
+   "id": "527fdd6f46ee",
+   "date": "2026-11-12",
+   "title": "Reforma Tributária: se Senado reduzir CBS, governo terá de cortar gastos, diz relator - O GLOBO",
+   "resumo": "",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTjM2WDJCci1FYzUzRWNBU3paR1FWUThJMkU4SkVSdURicUx1ampsakZnNnJ5aUVPVk0zVGJRVFZQQVh3TDBQLWd4ZE55X0NQdmd4enJFTUp3QUoxSzRSdkh3QXd3ZTlZeGZXTGx0NUtaOE16UThHOTFObHVRbFNfUzZzdXY1SEx3UVNzdk9NNnR0WGhYaEV1Z2kyTGZGRlI5dkliWUo2S2FockUyeVZSZGo3WS1CLXdHOE1RZ3NSZUZneVhIX0M3TVBPMFNtcGxKbVBfUlpiOWjSAecBQVVfeXFMT0FzX3RJQ2VuZS04aUZvclhQN1BLN1JUZmdMRjZsaW1Rb3pXN25fYzVMdXFEdFR2ejg2NU1NY05EZEtFV0RvT1pZc1pESnRGUEFCZFB3NUlYaS1MMnMxeEZlYkFhRHN0anFicE95NmFfN2NQeHFIVjVnNGtnUEpfSXd2cUJBMWhWMFJDTkZMOEE0cnlOUS03bnExWERPY2plNG5iVzREa2pyR0wzd3M1MTdBSlN3Smo1MjZKQ1FEWUdqZXlaZWlHa0lVdUU4aUU5RmtOUEZIRGludkhDR2N0X2tqY1A1ZGlZ?oc=5",
+   "source": "O GLOBO",
+   "official": false,
+   "category": "lei",
+   "tag": "Legislação",
+   "addedAt": "2026-11-12T15:47:59Z"
+  },
+  {
+   "id": "a76f7f1c29f0",
+   "date": "2026-11-12",
+   "title": "Governo enviará PL para adiar em um mês pagamento definitivo da CBS - Migalhas",
+   "resumo": "",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZDdHdzFKVnZmejlYeVNFXzJjaUxTZ01YU3lyYVU2MFlpc1FDVGo0dk9LMVF5R1pEWjZBZFdqVVduWkZmZk9VX2tOaGxxWnQyaU95YjhoR21IV0xRRDZ3QktPak15M1NxRlhVRi1NVEFmNWFnT1ZXTWJiWkhoNkFwMElrNWtIUHg2MmhXRXpESTgyQV83bTZseE5GXzdvaTN4Wk5aaEp4X19KVGx6c1Rz?oc=5",
+   "source": "Migalhas",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-12T15:47:59Z"
+  },
+  {
+   "id": "caa02a311140",
+   "date": "2026-11-12",
+   "title": "Receita anuncia programa de conformidade da Reforma Tributária para 2027 - Portal Contabeis",
+   "resumo": "",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQelNrVElsUmtXM1pIclhYNWZlaExLelVZUjYzQ0JCQVdiUDhadjk0M2p4RnBab2trRnBVYzRGelNySUN3SjBiWmFtcUJaLWVPdzg1cDVEenlwVXd1azVZdU04TWRSNVdDSnlGaHlydERHOG1oOWptR2J0bENHUGs1aVhyVmw0LTFidldCV3BWVWMzanZYRHhGdVdyUUpNOWNldDJiVFQ1ZE5INThGVUdMYm5DSVpMLUNq?oc=5",
+   "source": "Portal Contabeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-12T15:47:59Z"
+  },
+  {
+   "id": "b46820288428",
+   "date": "2026-11-12",
+   "title": "COMITÊ GESTOR DO IMPOSTO SOBRE BENS E SERVIÇOS – CGIBS RESOLUÇÃO CGIBS Nº 19, DE 12 DE NOVEMBRO DE 2026 Dispõe, em cará - Comitê Gestor do IBS",
+   "resumo": "",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObm9oLXZtQXJIMWQ2Nlp6SlF6REYtNjVoSGU2MnFBbUlwaVNzYVNENFVVd0dnSjB1Q2ZZenMyQTd3ZzdCVlJiYldhNWZfV2h0enF1blJzWURJUFJ1NnUzTkpBcXBMV1h4ZnpzSEFJNjI2UnhsRmJoNTdpWVJ3NGw0YTFIQUhDUGRjaUZoRzdMbmJaZGc1V0dOdkp3bzdDRzU3aTd6UUZpWUZVbXc?oc=5",
+   "source": "Comitê Gestor do IBS",
+   "official": false,
+   "category": "lei",
+   "tag": "Legislação",
+   "addedAt": "2026-11-12T15:47:59Z"
+  },
   {
    "id": "d9e0a23c18e0",
    "date": "2026-11-12",
@@ -94,6 +166,18 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-12T03:00:00Z"
+  },
+  {
+   "id": "d9d6d819f243",
+   "date": "2026-11-11",
+   "title": "TJ-SP suspende decisões sobre IBS e CBS na base do ICMS - Portal Contabeis",
+   "resumo": "",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYzh5S1cwdkFGVjdIZmZBVzA4N1FDQ01uaGE2T0pnUmxOZTVOZWE5UmkwTkh6OUtWQ21xdDRqZnRjZTFXMTVvWTFIcnRfUGJ0RG9QbzZ3b1loakxOcDNndWdpdGQtU3NrQ1RrTGRjQURBNG1yMkxkc2NOV2RwUzZFS3pjUkhLYVFTejJKM3pJWFF0cWk3cTdNdHZtLXR2SWh6SlE?oc=5",
+   "source": "Portal Contabeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-12T15:47:59Z"
   },
   {
    "id": "5f0a8167bb6e",
@@ -958,6 +1042,18 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-10T03:00:01Z"
+  },
+  {
+   "id": "0214e4c9f796",
+   "date": "2026-11-09",
+   "title": "Justiça de São Paulo permite excluir IBS e CBS do cálculo do ISS Decisão provisória impede que novos tributos da Reforma Tributária sejam incluídos na base de cálculo do ISS de uma empresa, evitando um possível aumento d",
+   "resumo": "",
+   "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPakwxeFFSUXdCd1VGMWJpc29NNi1fdk80NjFzQWJHSnNleUc1Zk0wdUl6R1dDRERNUF83M1B6NXJnVTA1SHZ6XzJHS09VYzdwV1kzU1U0cnZBTUVBaWRJbzZlVUVZWkR1NFROVHpsM2lWVElBcmI2WExXajR1MHpxYndadVRvSXVPRE8tb2xNTEtoRjQ3X0F2NzlzTzVRUWRaNkRzeHV1cENaUGw4M01FdDU1YncxQk1NamlDQVFyOFhYcHVmcEFNcnU5Ynlyd1ZDSGo2bVNvalNrSXEzTW4tSWFNZmk4QVM0SWhsRHFJeWFndHdDc3lBVTIyeG9ONXI4amVEaDZhVXJhVllSVkhhc3VpajJGNVU4enlfd2xCS0IwM09WOEt5Zm5HalFpQVk1MEQyM0UwODVaTG8xc2VYdVF3Q2NkYWJKV01aRg?oc=5",
+   "source": "HONDATAR Advogados",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-12T15:47:59Z"
   },
   {
    "id": "a4793f0f3e21",

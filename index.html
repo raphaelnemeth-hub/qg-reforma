@@ -844,6 +844,7 @@ footer a{color:var(--gold)}footer b{color:#fff}
   function saveVisit(){try{localStorage.setItem('qg_last_visit',new Date().toISOString())}catch(e){}}
   var BLOCK=/instagram|facebook|youtube|tiktok|linkedin|twitter|x\.com|kwai|pinterest/i;
   function cleanTitle(it){var t=String(it.title||'');var s=it.source||'';if(s&&t.toLowerCase().slice(-(s.length+3))===(' - '+s).toLowerCase())t=t.slice(0,-(s.length+3));return t}
+  function ago(iso){var t=Date.parse(iso||'');if(!t)return '';var m=Math.max(0,Math.round((Date.now()-t)/60000));if(m<1)return 'agora há pouco';if(m<60)return 'há '+m+' min';var h=Math.floor(m/60);return h<24?'há '+h+' h':'há '+Math.floor(h/24)+' dia(s)'}
   function isFresh(id){return QG.fresh.indexOf(id)>-1}
   function buildItem(it){
     var fr=isFresh(it.id);
@@ -853,7 +854,7 @@ footer a{color:var(--gold)}footer b{color:#fff}
     if(fr)b.appendChild(el('span','tag new','Novo'));
     b.appendChild(el('span','tag gold',it.tag||'Atualização'));
     b.appendChild(el('h3',null,cleanTitle(it)));
-    b.appendChild(el('p',null,it.resumo||'Resumo não disponível na fonte. Abra a matéria para os detalhes.'));
+    if(it.resumo)b.appendChild(el('p',null,it.resumo));
     var m=el('div','meta',(it.official?'Fonte oficial':'Veículo de imprensa')+': '+(it.source||'—')+' · captado automaticamente');b.appendChild(m);
     if(okUrl(it.link)){var x=el('a','src','Ler matéria ↗');x.href=it.link;x.target='_blank';x.rel='noopener noreferrer';b.appendChild(x)}
     a.appendChild(w);a.appendChild(b);return a}
@@ -872,7 +873,8 @@ footer a{color:var(--gold)}footer b{color:#fff}
         items.forEach(function(it){if(!QG.known[it.id]){QG.known[it.id]=1;QG.fresh.push(it.id)}});
       }
       for(var i=items.length-1;i>=0;i--){feed.insertBefore(buildItem(items[i]),feed.firstChild)}
-      txt.textContent='Ao vivo: última verificação automática em '+(d.lastCheckBr||'—')+' · '+items.length+' notícia(s) captada(s) · '+QG.fresh.length+' nova(s) desde a sua última visita.';
+      txt.textContent='Ao vivo: última verificação automática '+ago(d.lastCheckAt)+' ('+(d.lastCheckBr||'—')+') · '+items.length+' notícia(s) · '+QG.fresh.length+' nova(s) desde a sua última visita. ';
+      if(!document.getElementById('liveFeed')){var fa=el('a','src','Assinar alertas (RSS) ↗');fa.id='liveFeed';fa.href='feed.xml';fa.rel='noopener noreferrer';fa.style.marginLeft='6px';live.appendChild(fa)}
       live.classList.add('on');
     }else{
       txt.textContent='Modo offline: exibindo os dados embutidos até 12/11/2026. Abra pelo endereço publicado (GitHub Pages) para ver as atualizações automáticas.';
@@ -902,9 +904,9 @@ footer a{color:var(--gold)}footer b{color:#fff}
     if(r.ok){
       var d=r.data,byId={};(d.items||[]).forEach(function(it){byId[it.id]=it});
       var nw=QG.fresh.map(function(id){return byId[id]}).filter(Boolean).sort(function(a,b){return (b.date||'').localeCompare(a.date||'')});
-      p.textContent=nw.length?nw.length+' novidade(s) inserida(s) · última verificação automática em '+(d.lastCheckBr||'—')+'.':'Painel em dia · última verificação automática em '+(d.lastCheckBr||'—')+'.';
+      p.textContent=nw.length?nw.length+' novidade(s) inserida(s) · última verificação '+ago(d.lastCheckAt)+' ('+(d.lastCheckBr||'—')+').':'Sem novidades novas: as matérias já foram adicionadas recentemente. Última verificação '+ago(d.lastCheckAt)+' ('+(d.lastCheckBr||'—')+').';
       l.innerHTML='';
-      if(!nw.length){var li=el('li');li.appendChild(el('b',null,'Em dia · '));li.appendChild(document.createTextNode('Nenhuma notícia nova desde a sua última visita.'));l.appendChild(li)}
+      if(!nw.length){var li=el('li');li.appendChild(el('b',null,'Em dia · '));li.appendChild(document.createTextNode('Nenhuma matéria nova desde a sua última visita. O painel é verificado automaticamente a cada 30 minutos.'));l.appendChild(li)}
       nw.slice(0,4).forEach(function(it){
         var li=el('li','nw'),dl=dlabel(it.date);
         li.appendChild(el('b',null,'NOVO · '+dl.d+'/'+dl.m.split('/')[0]+' · '));li.appendChild(document.createTextNode(cleanTitle(it)));
@@ -912,7 +914,7 @@ footer a{color:var(--gold)}footer b{color:#fff}
         l.appendChild(li)});
       if(nw.length>4){var m=el('li');m.appendChild(el('b',null,'+ '+(nw.length-4)+' · '));m.appendChild(document.createTextNode('veja as demais em Novidades.'));l.appendChild(m)}
       var fd=d.feeds||[],ok=fd.filter(function(x){return x.ok}).length;
-      s.textContent=ok+' de '+fd.length+' fontes responderam na última rodada. As novidades são captadas automaticamente de feeds públicos (Senado, Câmara, Receita e imprensa) e exibidas com título, resumo da fonte e link; confira sempre no texto original.';
+      s.textContent=ok+' de '+fd.length+' fontes responderam na última rodada. Verificação automática a cada 30 minutos em feeds públicos (Senado, Câmara, Receita, Agência Brasil e imprensa especializada); confira sempre no texto original.';
     }else{
       p.textContent='Não foi possível carregar as novidades automáticas.';
       s.textContent='Arquivo de novidades indisponível (abra pelo endereço publicado, não pelo arquivo local). Exibindo os dados embutidos até 12/11/2026.';

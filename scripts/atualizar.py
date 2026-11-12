@@ -2,6 +2,7 @@
 """Atualiza novidades.json com noticias da reforma tributaria (feeds RSS publicos).
 Somente biblioteca padrao. Rodado pelo GitHub Actions."""
 import hashlib, html, json, os, re, sys, urllib.request, urllib.parse
+from xml.sax.saxutils import escape as xesc
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone, timedelta
 from email.utils import parsedate_to_datetime
@@ -10,7 +11,7 @@ from zoneinfo import ZoneInfo
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, "novidades.json")
 MAX_ITEMS = 150
-ENRICH_PER_RUN = 30
+ENRICH_PER_RUN = 40
 MIN_DATE = datetime(2025, 1, 1, tzinfo=timezone.utc)
 UA = "Mozilla/5.0 (compatible; QG-Reforma-Tributaria/1.0)"
 
@@ -189,6 +190,40 @@ def enrich(item):
         pass
 
 
+SITE = "https://raphaelnemeth-hub.github.io/qg-reforma/"
+
+
+def write_feed(items, now_iso):
+    """Gera feed.xml (Atom) para assinatura no Outlook, Feedly etc."""
+    out = ['<?xml version="1.0" encoding="utf-8"?>',
+           '<feed xmlns="http://www.w3.org/2005/Atom">',
+           "<title>QG da Reforma Tributária: novidades</title>",
+           f'<link href="{SITE}feed.xml" rel="self"/><link href="{SITE}"/>',
+           f"<id>{SITE}</id><updated>{now_iso}</updated>"]
+    for i in items[:50]:
+        out.append("<entry><title>%s</title><link href=\"%s\"/><id>%s</id><updated>%s</updated><summary>%s</summary></entry>" % (
+            xesc(i["title"]), xesc(i["link"], {'"': "&quot;"}), xesc(i["link"]), i.get("addedAt", now_iso),
+            xesc((i.get("resumo") or "") + " (" + (i.get("source") or "") + ")")))
+    out.append("</feed>")
+    with open(os.path.join(ROOT, "feed.xml"), "w", encoding="utf-8") as f:
+        f.write("\n".join(out))
+
+
+def write_alert(new_items):
+    """Gera novos.md (corpo do alerta por e-mail via Issue do GitHub). Vazio = sem arquivo."""
+    path = os.path.join(ROOT, "novos.md")
+    if not new_items:
+        if os.path.exists(path):
+            os.remove(path)
+        return
+    lines = [f"**{len(new_items)} nova(s) matéria(s) captada(s)** — painel: {SITE}", ""]
+    for i in sorted(new_items, key=lambda x: x["date"], reverse=True)[:15]:
+        sub = f"\n  {i['resumo']}" if i.get("resumo") else ""
+        lines.append(f"- {i['date'][8:]}/{i['date'][5:7]} · [{i['title']}]({i['link']}) ({i['source']}){sub}")
+    with open(path, "w", encoding="utf-8") as f:
+        f.write("\n".join(lines))
+
+
 def main():
     try:
         old = json.load(open(OUT, encoding="utf-8"))
@@ -256,6 +291,7 @@ def main():
             filled += 1
 
     items = sorted(by_id.values(), key=lambda x: (x["date"], x["addedAt"]), reverse=True)[:MAX_ITEMS]
+    new_items = [i for i in items if i.get("addedAt") == now_iso]
     br = now.astimezone(ZoneInfo("America/Sao_Paulo"))
     out = {
         "lastCheckAt": now_iso,
@@ -266,6 +302,8 @@ def main():
     }
     with open(OUT, "w", encoding="utf-8") as f:
         json.dump(out, f, ensure_ascii=False, indent=1)
+    write_feed(items, now_iso)
+    write_alert([] if first_run else new_items)
     print(f"ok: {added} novo(s); resumos preenchidos {filled}/{len(todo)}; total {len(items)}; feeds: " + ", ".join(
         f"{x['name']}={'ok' if x['ok'] else 'ERRO'}({x['found']})" for x in feeds))
     if not any(x["ok"] for x in feeds):

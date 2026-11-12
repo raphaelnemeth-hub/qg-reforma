@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-12T20:39:37Z",
- "lastCheckBr": "12/11/2026 17:39",
- "added": 3,
+ "lastCheckAt": "2026-11-12T21:36:53Z",
+ "lastCheckBr": "12/11/2026 18:36",
+ "added": 5,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -31,28 +31,66 @@
    "name": "Portal Contábeis",
    "ok": true,
    "found": 15,
-   "new": 1
+   "new": 0
   },
   {
    "name": "InfoMoney",
    "ok": true,
-   "found": 0,
-   "new": 0
+   "found": 1,
+   "new": 1
   },
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 95,
-   "new": 0
+   "found": 94,
+   "new": 3
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
    "ok": true,
-   "found": 6,
-   "new": 2
+   "found": 7,
+   "new": 1
   }
  ],
  "items": [
+  {
+   "id": "620a1742fb6d",
+   "date": "2026-11-12",
+   "title": "Reforma tributária: exigência às empresas do Simples Nacional é adiada para 2027",
+   "resumo": "Foto de Jakub Żerdzicki na Unsplash \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2026/11/Reforma-tributaria.png?fit=1169%2C780&quality=70&strip=all\" />Adiamento é voltado para negócios que vendem produtos e emitem NF-e ou NFC-e…",
+   "link": "https://www.infomoney.com.br/brasil/reforma-tributaria-exigencia-as-empresas-do-simples-nacional-e-adiada-para-2027/",
+   "source": "InfoMoney",
+   "official": false,
+   "category": "nt",
+   "tag": "Nota técnica",
+   "addedAt": "2026-11-12T21:36:53Z"
+  },
+  {
+   "id": "bdde23bd676b",
+   "date": "2026-11-12",
+   "title": "Imposto Seletivo ganha regras e complexidade evidencia necessidade de prorrogação da fase de transição da Reforma Tributária",
+   "resumo": "Empresas terão que atualizar cadastros de fornecedores e produtos, além de sistemas operacionais, o que pode afetar o capital de giro",
+   "link": "https://fecomercio.com.br/tributario/imposto-seletivo-ganha-regras-e-complexidade-evidencia-necessidade-de-prorrogacao-da-fase-de-transicao-da-reforma-tributaria/",
+   "source": "FecomercioSP",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-12T21:36:53Z",
+   "tries": 1
+  },
+  {
+   "id": "49aa06566ce5",
+   "date": "2026-11-12",
+   "title": "REFORMA TRIBUTÁRIA | IBRAM assina manifesto que pede testes durante todo 2027 e cobrança da CBS só em 2028",
+   "resumo": "Documento com outras 71 entidades do setor produtivo aponta pendências nos sistemas de apuração, nos documentos fiscais e no split payment entre empresas.",
+   "link": "https://brasilmineral.com.br/noticias/ibram-assina-manifesto-que-pede-testes-durante-todo-2027-e-cobranca-da-cbs-so-em-2028",
+   "source": "Brasil Mineral",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-12T21:36:53Z",
+   "tries": 1
+  },
   {
    "id": "36cda1991785",
    "date": "2026-11-12",
@@ -417,6 +455,19 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-12T03:00:00Z",
+   "tries": 1
+  },
+  {
+   "id": "403d678a0912",
+   "date": "2026-11-11",
+   "title": "\"Trabalhavam com a CBS de 2033, esquecendo que seria mais alta em 2027\", diz criador da reforma tributária sobre surpresa com alíquota",
+   "resumo": "Economista Bernard Appy, \"cérebro\" da proposta, deu entrevista ao \"Gaúcha Atualidade\", da Rádio Gaúcha",
+   "link": "https://gauchazh.clicrbs.com.br/colunistas/giane-guerra/noticia/2026/11/trabalhavam-com-a-cbs-de-2033-esquecendo-que-seria-mais-alta-em-2027-diz-criador-da-reforma-tributaria-sobre-surpresa-com-aliquota-cmwc6ky5k00x7015e6fcyrq7y.html",
+   "source": "GZH",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-12T21:36:53Z",
    "tries": 1
   },
   {
@@ -1120,6 +1171,19 @@
    "tries": 1
   },
   {
+   "id": "149722bb7e09",
+   "date": "2026-11-10",
+   "title": "ato técnico conjunto rfb/suana/cgibs/diretoria-executiva nº 11, de 10 de novembro de",
+   "resumo": "",
+   "link": "https://www.cgibs.gov.br/upload/arquivos/202611/12145422-ato-tecnico-conjunto-11-duimp.pdf",
+   "source": "Comitê Gestor do IBS",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-12T21:36:53Z",
+   "tries": 1
+  },
+  {
    "id": "a83bca4c1e15",
    "date": "2026-11-10",
    "title": "ato técnico conjunto rfb/suana/cgibs/diretoria-executiva nº 12, de 10 de novembro de",
@@ -1130,7 +1194,7 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-12T20:39:37Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "92168f24e266",

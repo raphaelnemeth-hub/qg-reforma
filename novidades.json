@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-12T18:40:50Z",
- "lastCheckBr": "12/11/2026 15:40",
- "added": 5,
+ "lastCheckAt": "2026-11-12T19:43:46Z",
+ "lastCheckBr": "12/11/2026 16:43",
+ "added": 3,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -30,8 +30,8 @@
   {
    "name": "Portal Contábeis",
    "ok": true,
-   "found": 16,
-   "new": 1
+   "found": 15,
+   "new": 0
   },
   {
    "name": "InfoMoney",
@@ -43,7 +43,7 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 95,
-   "new": 4
+   "new": 3
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -53,6 +53,32 @@
   }
  ],
  "items": [
+  {
+   "id": "1dbeacd317e5",
+   "date": "2026-11-12",
+   "title": "Reforma tributária: Fenacor pede adiamento da CBS e alerta para impacto nas pequenas corretoras de seguros",
+   "resumo": "A Federação Nacional dos Corretores de Seguros (Fenacor) encaminhou ao Ministério da Fazenda",
+   "link": "https://www.revistacobertura.com.br/noticias/instituicoes/reforma-tributaria-fenacor-pede-adiamento-da-cbs-e-alerta-para-impacto-nas-pequenas-corretoras-de-seguros/",
+   "source": "Revista Cobertura",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-12T19:43:46Z",
+   "tries": 1
+  },
+  {
+   "id": "0f3226154d47",
+   "date": "2026-11-12",
+   "title": "Exclusão de IBS e CBS da base do ISS ganha força como ‘filhote’ de discussão do ICMS",
+   "resumo": "Na Justiça, contribuintes argumentam que IBS e CBS não constituem receita, apenas transitam pelo caixa das empresas até serem repassados ao Fisco",
+   "link": "https://dcomercio.com.br/publicacao/s/exclusao-de-ibs-e-cbs-da-base-do-iss-ganha-forca-como-filhote-de-discussao-do-icms",
+   "source": "Diário do Comércio SP",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-12T19:43:46Z",
+   "tries": 1
+  },
   {
    "id": "1d7f2b02f9b1",
    "date": "2026-11-12",
@@ -369,6 +395,19 @@
    "tries": 1
   },
   {
+   "id": "e1f37e7dd9e5",
+   "date": "2026-11-11",
+   "title": "Reforma Tributária: 'Alguém vai ter que pagar a conta' se Congresso reduzir alíquota da CBS, diz chefe da Receita",
+   "resumo": "Barreirinhas afirma que eventual redução da alíquota de 11,3% calculada pelo TCU exigirá revisão de isenções e benefícios tributários para manter a arrecadação",
+   "link": "https://oglobo.globo.com/economia/noticia/2026/11/11/alguem-vai-ter-que-pagar-a-conta-se-congresso-reduzir-aliquota-da-cbs-diz-chefe-da-receita.ghtml",
+   "source": "O GLOBO",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-12T19:43:46Z",
+   "tries": 1
+  },
+  {
    "id": "305ccd7485b2",
    "date": "2026-11-11",
    "title": "Reforma tributária: Receita perdoará multa de empresa de 'boa-fé' em 2027",
@@ -379,7 +418,7 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-12T18:40:50Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "1ff27df71eb0",
@@ -1118,7 +1157,7 @@
    "category": "lei",
    "tag": "Legislação",
    "addedAt": "2026-11-10T22:39:49Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "21d7bc152130",
@@ -1300,7 +1339,7 @@
    "category": "cont",
    "tag": "Contabilidade",
    "addedAt": "2026-11-10T13:29:00Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "8b7d63408c67",
@@ -1553,121 +1592,131 @@
    "id": "28cef829379e",
    "date": "2026-11-09",
    "title": "Sem adiamento: CBS começa em janeiro de 2027 - Portal Contabeis",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUzZuem1jcW82ZGs3WU1YQXhBRU1HYmdxMVc1RHRFTy1JS2dLQkdPSlJaVDFiR0k4VVNuS3ZSTjZOR1NqakpoajhuaDhuOVlpMDhuZDN6R1JwVFlqaFVsbWhxZEFRemc2TDBuVHZpNGFZd1lSY2lWalJvdUpob1UzTWtYNV9DQmh4X2FPbVJnUERHZw?oc=5",
+   "resumo": "Receita Federal e Ministério da Fazenda mantêm previsão de cobrança integral da CBS em janeiro de 2027, apesar dos pedidos de adiamento.",
+   "link": "https://www.contabeis.com.br/noticias/80689/sem-adiamento-cbs-comeca-em-janeiro-de-2027/",
    "source": "Portal Contabeis",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-09T12:00:02Z"
+   "addedAt": "2026-11-09T12:00:02Z",
+   "tries": 1
   },
   {
    "id": "bcdb97fdda6b",
    "date": "2026-11-09",
    "title": "Medida provisória regulamenta o Imposto Seletivo para 2027 - Portal da Câmara dos Deputados",
    "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNc0FxTnJ0OWpzVUZCcmp1di13MUhtWDVQVmN1UkR3WlVCZjNlSnRrZTI4VFBwN25sd2xqS1M4UW1KY0JjTkNZNU5sS1ByTnJadUNrdWFNSVFqRDZ2aXV3LWJnaV9Dc3RvTmlYcXZ2azJzZzRoYUV1ck9wTkhPZER6TzZfaGhCcnFxVDNzS2Jkc1FiMXRrNmYtcGFhNHlpbUlvdWVn?oc=5",
+   "link": "https://www.camara.leg.br/noticias/1316363-medida-provisoria-regulamenta-o-imposto-seletivo-para-2027",
    "source": "Portal da Câmara dos Deputados",
    "official": false,
    "category": "aliq",
    "tag": "Alíquotas",
-   "addedAt": "2026-11-09T08:00:00Z"
+   "addedAt": "2026-11-09T08:00:00Z",
+   "tries": 1
   },
   {
    "id": "5c00ec2634c2",
    "date": "2026-11-07",
    "title": "As alíquotas do Imposto Seletivo e a reforma tributária levada a sério - 07/11/2026 - Opinião - Folha de S.Paulo",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOGEwRVJiaW0zOHhPUGpJV055WlEycDNCcHdKM195alhoMGVSWHpwZGlQVmVLZnIyV1VwVWtyaW5xLV9tclY1cnZyZVkwMHcydnVGWXdKZnlfY2pIRlBFTVRrTE5pU3RHQUdud3o4NlNKSEhsQzduc09KNXU4NWFZd3JNNFBZcmxYVnBVNEFwSkVCMGhGUHN5czZjakU3Q2hiN3B6ZEdWNXR0ZHhqVE02cUZIS0VFUGl4NnJjTTlkUQ?oc=5",
+   "resumo": "Não há outro caminho senão onerar as atividades nocivas de modo mais elevado do que no regime pretérito",
+   "link": "https://www1.folha.uol.com.br/opiniao/2026/11/as-aliquotas-do-imposto-seletivo-e-a-reforma-tributaria-levada-a-serio.shtml",
    "source": "Folha de S.Paulo",
    "official": false,
    "category": "aliq",
    "tag": "Alíquotas",
-   "addedAt": "2026-11-07T11:00:00Z"
+   "addedAt": "2026-11-07T11:00:00Z",
+   "tries": 1
   },
   {
    "id": "5bfa549f4916",
    "date": "2026-11-06",
    "title": "Reforma tributária: Seis cláusulas contratuais para revisar antes de 2027",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ3NEbEpkeXd6V3ZhRFZBbkJEdEFMVXVobDZocFRtdG02WC1XVk1yYzl5dnBGdmpVamg4RnJIQVFJOUxadGN3RzU3eVZkS05FVkdrdkhtQzJoTWZWTmliZmhBc29Xekd0N2lsRzNZczRfclVqeHhZZ3dHcnZoOVZqM2hlU0J4azJQMUphbnBab2ZkNlpWRDl3RDVzbHFMS1VGblE?oc=5",
+   "resumo": "Por Luigi Ribeiro. A transição para IBS e CBS exige rever preço, créditos e pagamentos. Seis cláusulas ajudam a distribuir riscos e negociar ajustes com base no impacto efetivo de cada contrato.",
+   "link": "https://www.migalhas.com.br/depeso/467451/reforma-tributaria-seis-clausulas-contratuais-para-revisar",
    "source": "Migalhas",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-12T18:40:50Z"
+   "addedAt": "2026-11-12T18:40:50Z",
+   "tries": 1
   },
   {
    "id": "e95f0b9f211a",
    "date": "2026-11-06",
    "title": "Prefeitura integra Comitê Gestor da Reforma Tributária do Governo Federal - Portal do Município de Piracicaba",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTGU3RXZLVExzSUl1aFd6ZS1ieVp5VWxoVkRLN3NBd0JJUHhGWk84UXZoYXI0eXRoc0pBWUVibW56SHBINC1QSEhsQUlsbXNEb285WWtYdjJjQXJWT1Zoem1oWlh5SFpyLVZWQWFnU1JkdWRNZmpPNEdVMU5iTGlZcDctSTN2ZHBxYlZDbEJBeXoxMi1xY2lFSHppMFFnYjJzb1VyQ01HQkdycXJmQmUzR21B?oc=5",
+   "resumo": "Participação técnica de Piracicaba permitirá acompanhar a implementação do IBS, antecipar impactos na arrecadação e preparar a administração municipal para as mudanças",
+   "link": "https://piracicaba.sp.gov.br/noticias/prefeitura-integra-comite-gestor-da-reforma-tributaria-do-governo-federal/",
    "source": "Portal do Município de Piracicaba",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-12T13:02:10Z"
+   "addedAt": "2026-11-12T13:02:10Z",
+   "tries": 1
   },
   {
    "id": "02cad2dd60c7",
    "date": "2026-11-06",
    "title": "Funrural e reforma tributária: o IBS e a CBS não integram a base de cálculo - Consultor Jurídico",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWDZUdWJoV2xSMGVfU0lPNlQ4Qk9YV3BxZndMSW1OXzNEVk5CaVdVMDl5UFNZbk9kQ2ZtazBZWDVQTmFBcVFaUmdPRldSUFVnUmxNOWJSaXBpZ0otd1VkV0hhTFQ0YWVXVEhpYm9Fc2g4UTE4dDhIVE1IQXZYZlR0Q01zVVpfNHhfbldyMmpRUDhlWkdtaWJCRl8zN2tiUlpFU2FqUk9oMzRYQThCR0E?oc=5",
+   "resumo": "Nossa conclusão é a de que o IBS e a CBS não integram a base do Funrural e da contribuição ao Senar, por três razões",
+   "link": "https://conjur.com.br/2026-nov-06/funrural-e-reforma-tributaria-o-ibs-e-a-cbs-nao-integram-a-base-de-calculo/",
    "source": "Consultor Jurídico",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-12T13:02:10Z"
+   "addedAt": "2026-11-12T13:02:10Z",
+   "tries": 1
   },
   {
    "id": "3b0459b1cd05",
    "date": "2026-11-06",
    "title": "NF-e: IBS e CBS ficam fora do campo vProd - Portal Contabeis",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMDNxOFd0aEZGc2F5aHMxaFpCNi10akprc1M2cDVjbEZBNnM0bXB5bGR1S0pXemtnQy1PMk9wNDBtS0FsaTg2c3c1UC1mc2RvN3A5VDhIeWNtUWtfWm1wbHdyUmxtMG4wdVZVUmx4NUExZndjbkUydVA2SGd0amM1QlZkYUVPcEdFSmR4UkxR?oc=5",
+   "resumo": "Nota Técnica 2026.008 define que IBS, CBS e IS não entram no campo vProd da NF-e. Veja os campos alterados, prazos e impactos para as empresas.",
+   "link": "https://www.contabeis.com.br/noticias/80671/nf-e-ibs-e-cbs-ficam-fora-do-campo-vprod/",
    "source": "Portal Contabeis",
    "official": false,
    "category": "nt",
    "tag": "Nota técnica",
-   "addedAt": "2026-11-06T20:00:02Z"
+   "addedAt": "2026-11-06T20:00:02Z",
+   "tries": 1
   },
   {
    "id": "2a0809a0d97f",
    "date": "2026-11-06",
    "title": "Estado e municípios alinham atuação do fisco para a Reforma Tributária em Aracaju - Prefeitura de Aracaju",
    "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObnZFTDF1a2RENl8tXzJkRk1VOXdrRm56cTYtVHcwdFlXcENtLW5nYjI3dXJ0WWhRQktMZlJnWFhOUURLcHM1U1NGYWNPUWozbEtVMkZGV1pWTHZ6b1JJLXE5NzhoNHhzUmczSk1hQ1NheEoxS3pXZlBEZ0w4ZktjYkxhc0ktZUMwZmtINnl3aHMzNUYyUlFXV2dmRHNTRGU0cmFCTXVqQkdZV2dhVENIVDFqUWo1YmY0TXVpSVJjUlI0cjJrckE?oc=5",
+   "link": "https://www.aracaju.se.gov.br/noticias/120276/estado-e-municipios-alinham-atuacao-do-fisco-para-a-reforma-tributaria-em-aracaju",
    "source": "Prefeitura de Aracaju",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-06T14:43:31Z"
+   "addedAt": "2026-11-06T14:43:31Z",
+   "tries": 1
   },
   {
    "id": "a58bc4e5f7fc",
    "date": "2026-11-05",
    "title": "Deputada Any Ortiz busca apoio para PEC que adia reforma tributária - JOTA Info",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOM3NvNTNzanRQYVhqWTBuM1ZUaS1FYkdWTm8zV1VqdEozc1pCNk9sUVhqdzRhUGo4UUxIVGlLNjN2akxhcWJ1cE40OFRvNFRodzN6TWZrMnQ2SFZWSUdsNE4zaU1ybGZ4M2MwNVhUUVlFaTBUREhpRE1HNnFWa1J1RkNFLU92NU9teFJPRHN4bGRTX3hTNU9COGhJZ1lpTE9jZzVYS3BqR2ZWN0dxR2c5WmhnZkRQQ1VuaTZ6cmlMSmhZNHU2c1E?oc=5",
+   "resumo": "Proposta de Any Ortiz (PP-RS) estende para 2027 a alíquota-teste de CBS e IBS e precisa de 171 assinaturas para começar a tramitar",
+   "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/deputada-any-ortiz-busca-apoio-para-pec-que-adia-reforma-tributaria",
    "source": "JOTA Info",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-05T18:18:35Z"
+   "addedAt": "2026-11-05T18:18:35Z",
+   "tries": 1
   },
   {
    "id": "fdb041c8eb56",
    "date": "2026-11-05",
    "title": "MP define as alíquotas do Imposto Seletivo para 2027 - Senado",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRGU2ZUdZVmhTWlhPNnVteHN2WEgxekJreThHUlNnWG1BU0JYV2lSQjlaWkdKYXQ3NG9NWUJmblcyX0szZ3IwTUV3ZXdVZ3pYeFVzeXNVMmdzbDlZTkR1TEFKVmNzbE1vLTMwSVJpel9RbFRTOVF1eFVmdE81Z3R3NmNrNW01ZDBZcUM2d1p2Mmk2U0p3TGFJV21saGh1d3F5TFVqSXpCRU8wUDJTeFE?oc=5",
+   "resumo": "Aprovado no âmbito da reforma tributária, o Imposto Seletivo (IS) teve suas alíquotas e regras de cobrança estabelecidas por medida provisória ( MP 1.399/2026 ) publicada nesta quarta-feira (4) no Diário Oficial da União. Conhecido como “imposto do pecado”, o…",
+   "link": "https://www12.senado.leg.br/noticias/materias/2026/11/05/mp-define-as-aliquotas-do-imposto-seletivo-para-2027",
    "source": "Senado",
    "official": false,
    "category": "aliq",
    "tag": "Alíquotas",
-   "addedAt": "2026-11-05T15:29:24Z"
+   "addedAt": "2026-11-05T15:29:24Z",
+   "tries": 1
   },
   {
    "id": "46c43de9336b",
@@ -1685,49 +1734,53 @@
    "id": "5b4a1f7e347d",
    "date": "2026-11-05",
    "title": "Reforma Tributária: governo define alíquotas do Imposto Seletivo para 2027 - IOB Notícias",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE52TVFrODd2bWUxOUFhUXNRWDRwMEVfVDdpOGI2NEFKczN0ZW9IQ1NORlFoLVNEaTF3UWRGaFkwUFVoQ3Ryeno5NnRzV2Nwd2tBTEtIV3pmNm9ZMUtUWHI1UDNRSUIwQQ?oc=5",
+   "resumo": "MP nº 1.399/2026 define as alíquotas do Imposto Seletivo para 2027: de 0,5% a 66,7% por produto. Veja tabela e quando passam a valer.",
+   "link": "https://noticias.iob.com.br/imposto-seletivo-aliquotas/",
    "source": "IOB Notícias",
    "official": false,
    "category": "aliq",
    "tag": "Alíquotas",
-   "addedAt": "2026-11-05T13:08:32Z"
+   "addedAt": "2026-11-05T13:08:32Z",
+   "tries": 1
   },
   {
    "id": "3f2fcad68baa",
    "date": "2026-11-04",
    "title": "Conselho Superior elege presidente e vices para a gestão do Comitê Gestor até 2027 - Comitê Gestor do IBS",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeXNFckRNN3R3dFd1cXZWcllNMWlFeHN3V3JyR1ZWbHVEdFVzWXJDUUNBZVlRSGhhWUszMGhpYmlSWEVtOGlGdHoxRWJqbk4tLUJyR0ZjTTBIQW1yZEpBQnFNZTRMZzlvY1NEWmlXamRoVVU4ZE94YmtJOVJsYVNJOVhreC0wWkdDMHBaVjRqemc2ZnJiTF9vNGkwOGFBZ3pBTDR0Y3AwMXNXb1E?oc=5",
+   "resumo": "O Conselho Superior do Comitê Gestor do Imposto sobre Bens e Serviços (CGIBS) ratificou, por unanimidade, o secretário de Fazenda de Mato Grosso do Sul, Flávio César Mendes de Oliveira, para a presidência da entidade até março de 2027. Na mesma reunião, ta...",
+   "link": "https://www.cgibs.gov.br/conselho-superior-elege-presidente-e-vices-para-a-gestao-do-comite-gestor-ate-2027",
    "source": "Comitê Gestor do IBS",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-04T04:07:29Z"
+   "addedAt": "2026-11-04T04:07:29Z",
+   "tries": 1
   },
   {
    "id": "6cd312f311c5",
    "date": "2026-11-03",
    "title": "Reforma Tributária do Consumo – Adequações NF-e / NFC-e - Portal da Nota Fiscal Eletrônica",
    "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeXNsTUZXZU9ScnJWOEYtSjRNQTNWa1o0SkJQaVVQdXQzTTZaVnBhWTNuOTVtb1pVZUFaV0pSdnZlZlBXZWZsXzA3UVJ4dGRhSDZJNzhFOVd4WTdtYWRZWnRFbVRfNkcyR214RUNoaDdPYkhJdHVwRHFLSjlBaTZWWG9UbHQ?oc=5",
+   "link": "https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo",
    "source": "Portal da Nota Fiscal Eletrônica",
    "official": false,
    "category": "nt",
    "tag": "Nota técnica",
-   "addedAt": "2026-11-03T08:00:00Z"
+   "addedAt": "2026-11-03T08:00:00Z",
+   "tries": 1
   },
   {
    "id": "ea8d7bfcb4b9",
    "date": "2026-11-03",
    "title": "Reforma Tributária do Consumo – Vinculação com a Transação de Pagamento do DF-e - Portal da Nota Fiscal Eletrônica",
    "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbG5jSGwtMVFKaE1TVDhidWgtdTBfYXRhRF9Xdk5YamVWd0l3RnMwM3hRczEyM3ByYllLY3ZWU0Jta2FjRk5JN0FXZ0N0TUZPZHQ5U2UwYmt6VGg0RmpsZ0cyZkVtTGpnOV9wbU51SnRzOHNHZ0ZJUVgzRkhqRWRuTUNYLVQ?oc=5",
+   "link": "https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo",
    "source": "Portal da Nota Fiscal Eletrônica",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-03T08:00:00Z"
+   "addedAt": "2026-11-03T08:00:00Z",
+   "tries": 1
   }
  ]
 }

@@ -10,6 +10,7 @@ from zoneinfo import ZoneInfo
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, "novidades.json")
 MAX_ITEMS = 150
+ENRICH_PER_RUN = 30
 MIN_DATE = datetime(2025, 1, 1, tzinfo=timezone.utc)
 UA = "Mozilla/5.0 (compatible; QG-Reforma-Tributaria/1.0)"
 
@@ -20,11 +21,14 @@ def gnews(q):
 
 
 SOURCES = [
-    {"name": "Agência Senado", "url": "https://www12.senado.leg.br/noticias/rss", "tag": "Senado", "official": True},
-    {"name": "Agência Câmara", "url": "https://www.camara.leg.br/noticias/rss/dinamico/ECONOMIA", "tag": "Câmara", "official": True},
-    {"name": "Receita Federal", "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS", "tag": "Receita", "official": True},
-    {"name": "Imprensa (Google Notícias)", "url": gnews('"reforma tributária" (CBS OR IBS OR "split payment" OR "imposto seletivo") when:7d'), "tag": "Imprensa", "official": False},
-    {"name": "CGIBS / NF-e (Google Notícias)", "url": gnews('(site:cgibs.gov.br OR site:nfe.fazenda.gov.br OR site:gov.br/receitafederal) (IBS OR CBS) when:14d'), "tag": "Fonte oficial", "official": True},
+    {"name": "Agência Senado", "url": "https://www12.senado.leg.br/noticias/rss", "official": True},
+    {"name": "Agência Câmara", "url": "https://www.camara.leg.br/noticias/rss/dinamico/ECONOMIA", "official": True},
+    {"name": "Receita Federal", "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS", "official": True},
+    {"name": "Agência Brasil", "url": "https://agenciabrasil.ebc.com.br/rss/economia/feed.xml", "official": True},
+    {"name": "Portal Contábeis", "url": "https://www.contabeis.com.br/rss/noticias/", "official": False},
+    {"name": "InfoMoney", "url": "https://www.infomoney.com.br/feed/", "official": False},
+    {"name": "Imprensa (Google Notícias)", "url": gnews('"reforma tributária" (CBS OR IBS OR "split payment" OR "imposto seletivo") when:7d'), "official": False},
+    {"name": "CGIBS / NF-e (Google Notícias)", "url": gnews('(site:cgibs.gov.br OR site:nfe.fazenda.gov.br OR site:gov.br/receitafederal) (IBS OR CBS) when:14d'), "official": True},
 ]
 
 KEY = re.compile(
@@ -77,10 +81,15 @@ def parse_date(s):
     return d.astimezone(timezone.utc)
 
 
-def fetch(url):
-    req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "application/rss+xml, application/xml, text/xml, */*"})
-    with urllib.request.urlopen(req, timeout=30) as r:
-        return r.read()
+def http(url, data=None, headers=None, timeout=25, limit=600000):
+    h = {"User-Agent": UA, "Accept-Language": "pt-BR,pt;q=0.9"}
+    h.update(headers or {})
+    req = urllib.request.Request(url, data=data, headers=h)
+    with urllib.request.urlopen(req, timeout=timeout) as r:
+        raw = r.read(limit)
+        ctype = r.headers.get("Content-Type", "")
+        m = re.search(r"charset=([\w-]+)", ctype)
+        return raw, (m.group(1) if m else "utf-8"), r.geturl()
 
 
 def categorize(title, body):
@@ -89,6 +98,16 @@ def categorize(title, body):
         if re.search(rx, t, re.I):
             return cat, tag
     return "outros", "Atualização"
+
+
+def norm(t):
+    return re.sub(r"\W+", "", (t or "").lower())
+
+
+def strip_suffix(title, src):
+    if src and title.lower().endswith((" - " + src).lower()):
+        return title[: -(len(src) + 3)].strip()
+    return title
 
 
 def entries(raw):
@@ -110,12 +129,73 @@ def entries(raw):
         yield title, link.strip(), date, desc, src
 
 
+# ---------- resumo: resolve link do Google Noticias e le a descricao da materia ----------
+def decode_gnews(url):
+    """Converte link news.google.com/rss/articles/<id> no endereco real da materia."""
+    m = re.search(r"/articles/([^/?]+)", url)
+    if not m:
+        return None
+    aid = m.group(1)
+    raw, cs, _ = http(f"https://news.google.com/rss/articles/{aid}", timeout=20)
+    page = raw.decode(cs, "replace")
+    sg = re.search(r'data-n-a-sg="([^"]+)"', page)
+    ts = re.search(r'data-n-a-ts="([^"]+)"', page)
+    if not (sg and ts):
+        return None
+    inner = json.dumps([
+        "garturlreq",
+        [["X", "X", ["X", "X"], None, None, 1, 1, "US:en", None, 1, None, None, None, None, None, 0, 1],
+         "X", "X", 1, [1, 1, 1], 1, 1, None, 0, 0, None, 0],
+        aid, int(ts.group(1)), sg.group(1)])
+    body = urllib.parse.urlencode({"f.req": json.dumps([[["Fbv4je", inner, None, "generic"]]])}).encode()
+    raw, cs, _ = http("https://news.google.com/_/DotsSplashUi/data/batchexecute", data=body,
+                      headers={"Content-Type": "application/x-www-form-urlencoded;charset=UTF-8"}, timeout=20)
+    resp = raw.decode(cs, "replace")
+    m2 = re.search(r'garturlres\\",\\"(https?:[^"\\]+)', resp)
+    return m2.group(1) if m2 else None
+
+
+def meta_desc(page):
+    for pat in (
+        r'<meta[^>]+property=["\']og:description["\'][^>]+content=["\']([^"\']+)',
+        r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+property=["\']og:description["\']',
+        r'<meta[^>]+name=["\']description["\'][^>]+content=["\']([^"\']+)',
+        r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+name=["\']description["\']',
+        r'<meta[^>]+name=["\']twitter:description["\'][^>]+content=["\']([^"\']+)',
+    ):
+        m = re.search(pat, page, re.I)
+        if m:
+            d = clean(m.group(1), 260)
+            if len(d) >= 40:
+                return d
+    return ""
+
+
+def enrich(item):
+    """Preenche resumo (e o link direto) de um item sem resumo. Falhas sao ignoradas."""
+    link = item.get("link", "")
+    try:
+        if "news.google.com" in link:
+            real = decode_gnews(link)
+            if not real:
+                return
+            item["link"] = real
+            link = real
+        raw, cs, final = http(link, timeout=20, limit=400000)
+        d = meta_desc(raw.decode(cs, "replace"))
+        if d and norm(d)[:40] != norm(item.get("title"))[:40]:
+            item["resumo"] = d
+    except Exception:
+        pass
+
+
 def main():
     try:
         old = json.load(open(OUT, encoding="utf-8"))
     except Exception:
         old = {"items": []}
     by_id = {i["id"]: i for i in old.get("items", [])}
+    seen = {norm(strip_suffix(i.get("title", ""), i.get("source", ""))) for i in by_id.values()}
     first_run = not by_id
     now = datetime.now(timezone.utc)
     now_iso = now.strftime("%Y-%m-%dT%H:%M:%SZ")
@@ -124,7 +204,7 @@ def main():
     for s in SOURCES:
         st = {"name": s["name"], "ok": False, "found": 0, "new": 0}
         try:
-            raw = fetch(s["url"])
+            raw, _, _ = http(s["url"], timeout=30)
             for title, link, date, desc, src in entries(raw):
                 if not title or not link.startswith("https://"):
                     continue
@@ -134,23 +214,26 @@ def main():
                 if not KEY.search(f"{title} {body}"):
                     continue
                 st["found"] += 1
-                iid = hashlib.sha1(re.sub(r"\W+", "", title.lower()).encode()).hexdigest()[:12]
-                if iid in by_id:
-                    continue
+                iid = hashlib.sha1(norm(title).encode()).hexdigest()[:12]
                 gn = "news.google.com" in s["url"]
-                resumo = "" if gn else clean(desc, 260)
-                if resumo.lower().startswith(title.lower()[:40]):
-                    resumo = ""
-                cat, tag = categorize(title, body)
                 veic = clean(src) if src else s["name"]
+                shown = strip_suffix(title, veic) if gn else title
+                n = norm(shown)
+                if iid in by_id or n in seen:
+                    continue
+                seen.add(n)
+                resumo = "" if gn else clean(desc, 260)
+                if resumo and norm(resumo)[:40] == n[:40]:
+                    resumo = ""
+                cat, tag = categorize(shown, body)
                 by_id[iid] = {
                     "id": iid,
                     "date": date.astimezone(ZoneInfo("America/Sao_Paulo")).strftime("%Y-%m-%d"),
-                    "title": title[:220],
+                    "title": shown[:220],
                     "resumo": resumo,
                     "link": link,
                     "source": veic,
-                    "official": s["official"] and not (gn and src and "gov.br" not in src.lower()),
+                    "official": bool(s["official"] and not (gn and src and "gov.br" not in src.lower())),
                     "category": cat,
                     "tag": tag,
                     "addedAt": date.strftime("%Y-%m-%dT%H:%M:%SZ") if first_run else now_iso,
@@ -161,6 +244,16 @@ def main():
         except Exception as e:
             st["error"] = type(e).__name__
         feeds.append(st)
+
+    # resumos: itens mais recentes sem resumo (ate ENRICH_PER_RUN por rodada)
+    todo = sorted([i for i in by_id.values() if not i.get("resumo") and i.get("tries", 0) < 2],
+                  key=lambda x: (x["date"], x["addedAt"]), reverse=True)[:ENRICH_PER_RUN]
+    filled = 0
+    for it in todo:
+        it["tries"] = it.get("tries", 0) + 1
+        enrich(it)
+        if it.get("resumo"):
+            filled += 1
 
     items = sorted(by_id.values(), key=lambda x: (x["date"], x["addedAt"]), reverse=True)[:MAX_ITEMS]
     br = now.astimezone(ZoneInfo("America/Sao_Paulo"))
@@ -173,7 +266,7 @@ def main():
     }
     with open(OUT, "w", encoding="utf-8") as f:
         json.dump(out, f, ensure_ascii=False, indent=1)
-    print(f"ok: {added} novo(s); total {len(items)}; feeds: " + ", ".join(
+    print(f"ok: {added} novo(s); resumos preenchidos {filled}/{len(todo)}; total {len(items)}; feeds: " + ", ".join(
         f"{x['name']}={'ok' if x['ok'] else 'ERRO'}({x['found']})" for x in feeds))
     if not any(x["ok"] for x in feeds):
         sys.exit(1)

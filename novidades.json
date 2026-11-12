@@ -1,6 +1,6 @@
 {
- "lastCheckAt": "2026-11-12T19:43:46Z",
- "lastCheckBr": "12/11/2026 16:43",
+ "lastCheckAt": "2026-11-12T20:39:37Z",
+ "lastCheckBr": "12/11/2026 17:39",
  "added": 3,
  "feeds": [
   {
@@ -31,7 +31,7 @@
    "name": "Portal Contábeis",
    "ok": true,
    "found": 15,
-   "new": 0
+   "new": 1
   },
   {
    "name": "InfoMoney",
@@ -43,16 +43,41 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 95,
-   "new": 3
+   "new": 0
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
    "ok": true,
-   "found": 4,
-   "new": 0
+   "found": 6,
+   "new": 2
   }
  ],
  "items": [
+  {
+   "id": "36cda1991785",
+   "date": "2026-11-12",
+   "title": "Planejamento tributário: o que revisar para 2027",
+   "resumo": "Empresas devem revisar regimes tributários, créditos e impostos pagos para se preparar para a Reforma Tributária e evitar custos inesperados em 2027. Leia mais em https://www.contabeis.com.br/noticias/80757/planejamento-tributario-o-que-revisar-para-2027/",
+   "link": "https://www.contabeis.com.br/noticias/80757/planejamento-tributario-o-que-revisar-para-2027/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-12T20:39:37Z"
+  },
+  {
+   "id": "142d6a0d211a",
+   "date": "2026-11-12",
+   "title": "CGIBS aprova ajustes ao Regulamento do IBS e prorroga a DeRE em reunião em Joinville",
+   "resumo": "Conselheiros aprovaram ainda o ato conjunto sobre a inscrição no CNPJ do produtor rural pessoa física e do transportador autônomo de cargas, a minuta de fluxos e atos normativos e o plano de contratação do Comitê, durante o encontro em Santa Catarina",
+   "link": "https://www.cgibs.gov.br/cgibs-aprova-ajustes-ao-regulamento-do-ibs-e-prorroga-a-dere-em-reuniao-em-joinville",
+   "source": "Comitê Gestor do IBS",
+   "official": false,
+   "category": "lei",
+   "tag": "Legislação",
+   "addedAt": "2026-11-12T20:39:37Z",
+   "tries": 1
+  },
   {
    "id": "1dbeacd317e5",
    "date": "2026-11-12",
@@ -1095,6 +1120,19 @@
    "tries": 1
   },
   {
+   "id": "a83bca4c1e15",
+   "date": "2026-11-10",
+   "title": "ato técnico conjunto rfb/suana/cgibs/diretoria-executiva nº 12, de 10 de novembro de",
+   "resumo": "",
+   "link": "https://www.cgibs.gov.br/upload/arquivos/202611/12154837-ato-tecnico-conjunto-12-dir.pdf",
+   "source": "Comitê Gestor do IBS",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-12T20:39:37Z",
+   "tries": 1
+  },
+  {
    "id": "92168f24e266",
    "date": "2026-11-10",
    "title": "Davi Alcolumbre recebe do presidente do TCU relatório sobre alíquota da CBS para 2027",
@@ -1612,7 +1650,7 @@
    "category": "aliq",
    "tag": "Alíquotas",
    "addedAt": "2026-11-09T08:00:00Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "5c00ec2634c2",
@@ -1690,7 +1728,7 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-06T14:43:31Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "a58bc4e5f7fc",
@@ -1767,7 +1805,7 @@
    "category": "nt",
    "tag": "Nota técnica",
    "addedAt": "2026-11-03T08:00:00Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "ea8d7bfcb4b9",
@@ -1780,7 +1818,7 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-03T08:00:00Z",
-   "tries": 1
+   "tries": 2
   }
  ]
 }

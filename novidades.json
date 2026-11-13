@@ -1,13 +1,13 @@
 {
- "lastCheckAt": "2026-11-13T13:39:44Z",
- "lastCheckBr": "13/11/2026 10:39",
- "added": 7,
+ "lastCheckAt": "2026-11-13T14:43:15Z",
+ "lastCheckBr": "13/11/2026 11:43",
+ "added": 10,
  "feeds": [
   {
    "name": "Agência Senado",
    "ok": true,
-   "found": 0,
-   "new": 0
+   "found": 1,
+   "new": 1
   },
   {
    "name": "Agência Câmara",
@@ -30,7 +30,7 @@
   {
    "name": "Portal Contábeis",
    "ok": true,
-   "found": 12,
+   "found": 9,
    "new": 0
   },
   {
@@ -43,7 +43,7 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 96,
-   "new": 4
+   "new": 6
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -53,6 +53,70 @@
   }
  ],
  "items": [
+  {
+   "id": "20502cc06b64",
+   "date": "2026-11-13",
+   "title": "Áudio: Benefício tributário a entidades filantrópicas é aprovado pela CAS",
+   "resumo": "A Comissão de Assuntos Sociais (CAS) aprovou na quarta-feira (11) projeto que permite a entidades filantrópicas de educação, saúde e assistência social manterem os créditos dos tributos pagos na compra de bens e serviços após a reforma tributária (PLP…",
+   "link": "https://www12.senado.leg.br/noticias/audios/2026/11/beneficio-tributario-a-entidades-filantropicas-e-aprovado-pela-cas",
+   "source": "Senado Federal",
+   "official": true,
+   "category": "lei",
+   "tag": "Legislação",
+   "addedAt": "2026-11-13T14:43:15Z"
+  },
+  {
+   "id": "2eba66e3fe23",
+   "date": "2026-11-13",
+   "title": "Reforma Tributária: Receita e Comitê Gestor publicam novo cronograma de emissão de documentos fiscais do IBS e da CBS",
+   "resumo": "O ato já está em vigor. As obrigações começam em dezembro de 2026 e vão até março de 2027, de acordo com a atividade de cada empresa",
+   "link": "https://www.martinelli.adv.br/reforma-tributaria-receita-e-comite-gestor-publicam-novo-cronograma-de-emissao-de-documentos-fiscais-do-ibs-e-da-cbs/",
+   "source": "www.martinelli.adv.br",
+   "official": false,
+   "category": "lei",
+   "tag": "Legislação",
+   "addedAt": "2026-11-13T14:43:15Z",
+   "tries": 1
+  },
+  {
+   "id": "aa44f6e52e90",
+   "date": "2026-11-13",
+   "title": "Reforma: quando deve ser recolhido CBS sobre combustíveis?",
+   "resumo": "A CBS sobre combustíveis monofásicos começa a ser cobrada em 8/1/2027, com alíquotas por litro. Veja o novo leiaute da nota e os prazos.",
+   "link": "https://noticias.iob.com.br/reforma-cbs-sobre-combustiveis/",
+   "source": "IOB Notícias",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-13T14:43:15Z",
+   "tries": 1
+  },
+  {
+   "id": "dd1bd8be3efb",
+   "date": "2026-11-13",
+   "title": "Split payment: problemas de constitucionalidade e design",
+   "resumo": "O split payment, conquanto auspicioso para uma abordagem combativa à sonegação fiscal, não pode ser implementado à revelia dos valores constitucionais",
+   "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/split-payment-problemas-de-constitucionalidade-e-design",
+   "source": "JOTA Info",
+   "official": false,
+   "category": "pag",
+   "tag": "Split payment",
+   "addedAt": "2026-11-13T14:43:15Z",
+   "tries": 1
+  },
+  {
+   "id": "28b71f97347e",
+   "date": "2026-11-13",
+   "title": "Empresa do DF obtém exclusão de IBS e CBS da base de cálculo do ICMS",
+   "resumo": "Juíza de Brasília considerou que falta de previsão legal impede incidência dos tributos durante o período de transição da reforma tributária",
+   "link": "https://conjur.com.br/2026-nov-13/empresa-do-df-obtem-exclusao-de-ibs-e-cbs-da-base-de-calculo-do-icms/",
+   "source": "Consultor Jurídico",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-13T14:43:15Z",
+   "tries": 1
+  },
   {
    "id": "1bb001f29926",
    "date": "2026-11-13",
@@ -1921,71 +1985,6 @@
    "tag": "Alíquotas",
    "addedAt": "2026-11-09T08:00:00Z",
    "tries": 2
-  },
-  {
-   "id": "5c00ec2634c2",
-   "date": "2026-11-07",
-   "title": "As alíquotas do Imposto Seletivo e a reforma tributária levada a sério - 07/11/2026 - Opinião - Folha de S.Paulo",
-   "resumo": "Não há outro caminho senão onerar as atividades nocivas de modo mais elevado do que no regime pretérito",
-   "link": "https://www1.folha.uol.com.br/opiniao/2026/11/as-aliquotas-do-imposto-seletivo-e-a-reforma-tributaria-levada-a-serio.shtml",
-   "source": "Folha de S.Paulo",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-07T11:00:00Z",
-   "tries": 1
-  },
-  {
-   "id": "fc5d363d378b",
-   "date": "2026-11-06",
-   "title": "Reforma Tributária: governo define regras de transição do Imposto Seletivo para 2027",
-   "resumo": "O Governo Federal publicou a Medida Provisória (MPV) nº 1.399/2026, que estabelece as alíquotas e as regras complementares do Imposto Seletivo (IS) para 2027. A medida foi divulgada em edição extra do Diário Oficial da União desta quarta-feira (4) e prevê uma…",
-   "link": "https://cbic.org.br/reforma-tributaria-governo-define-regras-de-transicao-do-imposto-seletivo-para-2027/",
-   "source": "CBIC - Câmara Brasileira da Indústria da Construção",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-13T06:54:37Z",
-   "tries": 1
-  },
-  {
-   "id": "5bfa549f4916",
-   "date": "2026-11-06",
-   "title": "Reforma tributária: Seis cláusulas contratuais para revisar antes de 2027",
-   "resumo": "Por Luigi Ribeiro. A transição para IBS e CBS exige rever preço, créditos e pagamentos. Seis cláusulas ajudam a distribuir riscos e negociar ajustes com base no impacto efetivo de cada contrato.",
-   "link": "https://www.migalhas.com.br/depeso/467451/reforma-tributaria-seis-clausulas-contratuais-para-revisar",
-   "source": "Migalhas",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-12T18:40:50Z",
-   "tries": 1
-  },
-  {
-   "id": "e95f0b9f211a",
-   "date": "2026-11-06",
-   "title": "Prefeitura integra Comitê Gestor da Reforma Tributária do Governo Federal - Portal do Município de Piracicaba",
-   "resumo": "Participação técnica de Piracicaba permitirá acompanhar a implementação do IBS, antecipar impactos na arrecadação e preparar a administração municipal para as mudanças",
-   "link": "https://piracicaba.sp.gov.br/noticias/prefeitura-integra-comite-gestor-da-reforma-tributaria-do-governo-federal/",
-   "source": "Portal do Município de Piracicaba",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-12T13:02:10Z",
-   "tries": 1
-  },
-  {
-   "id": "02cad2dd60c7",
-   "date": "2026-11-06",
-   "title": "Funrural e reforma tributária: o IBS e a CBS não integram a base de cálculo - Consultor Jurídico",
-   "resumo": "Nossa conclusão é a de que o IBS e a CBS não integram a base do Funrural e da contribuição ao Senar, por três razões",
-   "link": "https://conjur.com.br/2026-nov-06/funrural-e-reforma-tributaria-o-ibs-e-a-cbs-nao-integram-a-base-de-calculo/",
-   "source": "Consultor Jurídico",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-12T13:02:10Z",
-   "tries": 1
   }
  ]
 }

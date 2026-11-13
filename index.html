@@ -22,6 +22,7 @@ a{color:var(--blue);text-decoration:none;font-weight:600}a:hover{text-decoration
 .hero{position:relative;color:#fff;background:radial-gradient(1200px 500px at 85% -10%,#1d5fa8 0,transparent 60%),linear-gradient(160deg,#071a33,#0b2545 55%,#12396f);padding:46px 0 0;overflow:hidden}
 .hero:before{content:"";position:absolute;inset:0;background-image:linear-gradient(rgba(255,255,255,.045) 1px,transparent 1px),linear-gradient(90deg,rgba(255,255,255,.045) 1px,transparent 1px);background-size:44px 44px;mask-image:linear-gradient(to bottom,#000 30%,transparent 95%)}
 .hero .wrap{position:relative}
+.hero-live{margin-top:8px;font-size:13px;color:#cfe0f7}.hero-live b{color:var(--gold);font-weight:700}
 .eyebrow{display:inline-flex;align-items:center;gap:8px;font-size:12px;letter-spacing:1.4px;text-transform:uppercase;color:var(--gold);font-weight:700}
 .eyebrow i{width:8px;height:8px;border-radius:50%;background:var(--gold);box-shadow:0 0 0 4px rgba(201,162,75,.25)}
 h1{font-size:44px;line-height:1.08;margin:12px 0 10px;letter-spacing:-1px;font-weight:800}
@@ -237,7 +238,8 @@ footer a{color:var(--gold)}footer b{color:#fff}
 <body>
 
 <header class="hero"><div class="wrap">
-  <span class="eyebrow"><i></i>Quartel-General · Atualizado em 12/11/2026</span>
+  <span class="eyebrow"><i></i>Quartel-General · Conteúdo editorial revisado em 12/11/2026</span>
+  <div class="hero-live" id="heroLive" hidden></div>
   <h1>QG da <em>Reforma Tributária</em></h1>
   <p class="sub">Tudo em um só lugar: o que já saiu, o que está para sair, cronograma até 2033, notas técnicas, calculadoras, guia de dúvidas, especialistas e cursos. Apenas fontes oficiais e veículos identificados.</p>
 
@@ -508,7 +510,7 @@ footer a{color:var(--gold)}footer b{color:#fff}
 
 <!-- LUCRO REAL -->
 <section id="lucro-real">
-  <div class="sh"><div><div class="n">08</div><h2>Lucro Real: apuração e impactos contábeis</h2><p class="lead">Roteiro para quem apura IRPJ e CSLL pelo Lucro Real, organizado a partir da ementa do curso de Apuração do Lucro Real 2026 (Treinario, 22 e 23/10/2026) que você anexou, cruzada com a Orientação Técnica CFC nº 1/2026 e artigos de contadores.</p></div></div>
+  <div class="sh"><div><div class="n">08</div><h2>Lucro Real: apuração e impactos contábeis</h2><p class="lead">Roteiro para quem apura IRPJ e CSLL pelo Lucro Real, organizado a partir da ementa do curso de Apuração do Lucro Real 2026 (Treinario, 22 e 23/10/2026), cruzada com a Orientação Técnica CFC nº 1/2026 e artigos de contadores.</p></div></div>
   <div class="grid">
     <div class="card"><span class="tag ok">Contabilidade</span><h3>O que não muda</h3>
       <ul><li>IRPJ e CSLL continuam apurados sobre o lucro contábil ajustado por adições e exclusões, com LALUR/LACS (e-LALUR), estimativa mensal ou trimestral e ajuste anual.</li>
@@ -695,7 +697,7 @@ footer a{color:var(--gold)}footer b{color:#fff}
     <div class="card"><span class="tag ok">Oficial · gratuito</span><h3>Módulo 13 · Bens imóveis (CFC)</h3><p>Aula específica sobre operações com bens imóveis, parte do curso RFB/CFC.</p><a class="go" href="https://www.youtube.com/watch?v=esA8WZsj7O8" target="_blank" rel="noopener noreferrer">Abrir vídeo ↗</a></div>
     <div class="card"><span class="tag ok">Oficial</span><h3>Série "Diálogos – Entendendo a Reforma Tributária"</h3><p>Série da Receita Federal sobre a LC 214/2025 (14 de 17 episódios na época do lançamento), com Appy e Barreirinhas. O link abre direto o episódio indicado na playlist oficial.</p><a class="go" href="https://www.youtube.com/watch?v=doRL2krvTkE&list=PL7zsee2Wcyb4NShpfArt0soZ1_jprxT6g" target="_blank" rel="noopener noreferrer">Abrir aula ↗</a></div>
     <div class="card"><span class="tag ok">Oficial · gratuito</span><h3>Curso Enap · Escola Virtual de Governo</h3><p>Curso "Reforma Tributária" da Enap com Sefaz-CE, Comsefaz e FNP, com certificação.</p><a class="go" href="https://www.escolavirtual.gov.br/curso/1425" target="_blank" rel="noopener noreferrer">Abrir página do curso ↗</a></div>
-    <div class="card"><span class="tag">Indicado por você</span><h3>Reforma Tributária na Prática: como proteger margens e fluxo de caixa</h3><p>Vídeo do canal ASIS Tax Tech sobre efeitos da reforma em margem e caixa.</p><a class="go" href="https://www.youtube.com/watch?v=leYXle7o2xU" target="_blank" rel="noopener noreferrer">Assistir ↗</a></div>
+    <div class="card"><span class="tag">Indicado</span><h3>Reforma Tributária na Prática: como proteger margens e fluxo de caixa</h3><p>Vídeo do canal ASIS Tax Tech sobre efeitos da reforma em margem e caixa.</p><a class="go" href="https://www.youtube.com/watch?v=leYXle7o2xU" target="_blank" rel="noopener noreferrer">Assistir ↗</a></div>
     <div class="card"><span class="tag">Prática</span><h3>Como calcular IBS e CBS em 2026 e como sai na nota</h3><p>Canal Fiscal na Prática; foco em cálculo e preenchimento da NF-e.</p><a class="go" href="https://www.youtube.com/watch?v=E8m29yDGzz4" target="_blank" rel="noopener noreferrer">Assistir ↗</a></div>
     <div class="card"><span class="tag">Prática</span><h3>Super Live: IBS e CBS na prática</h3><p>Professor Fellipe Guerra, tributarista; transmissão sobre a entrada de 2026.</p><a class="go" href="https://www.youtube.com/watch?v=OYJoDKYylmo" target="_blank" rel="noopener noreferrer">Assistir ↗</a></div>
     <div class="card"><span class="tag">Entrevista</span><h3>O que muda com a reforma, com Bernard Appy</h3><p>Entrevista do Valor Econômico com um dos formuladores do modelo.</p><a class="go" href="https://www.youtube.com/watch?v=XKXSNKXxsUo" target="_blank" rel="noopener noreferrer">Assistir ↗</a></div>
@@ -827,7 +829,7 @@ footer a{color:var(--gold)}footer b{color:#fff}
         <li><b>Em breve</b> · 2ª versão dos regulamentos de CBS e IBS "nos próximos dias" (ainda sem publicação confirmada).</li>
         <li><b>20/07</b> · Orientação Técnica CFC nº 1/2026 incorporada, com nova seção de Lucro Real.</li>
       </ul>
-      <small id="ufinS">Este arquivo funciona offline e não consulta a internet sozinho: a busca real é feita por Claude quando você pede a revisão do painel.</small>
+      <small id="ufinS">As novidades são verificadas automaticamente a cada 30 minutos em feeds públicos; confira sempre no texto original.</small>
       <button class="go" id="uok" type="button">Acessar o QG</button>
     </div>
   </div>
@@ -876,7 +878,9 @@ footer a{color:var(--gold)}footer b{color:#fff}
       txt.textContent='Ao vivo: última verificação automática '+ago(d.lastCheckAt)+' ('+(d.lastCheckBr||'—')+') · '+items.length+' notícia(s) · '+QG.fresh.length+' nova(s) desde a sua última visita. ';
       
       live.classList.add('on');
+      var hl=document.getElementById('heroLive');if(hl){hl.textContent='';hl.appendChild(el('b',null,'Novidades verificadas em '));hl.appendChild(document.createTextNode((d.lastCheckBr||'—')+' · '+ago(d.lastCheckAt)+' · automático, a cada 30 minutos'));hl.hidden=false}
     }else{
+      var hl2=document.getElementById('heroLive');if(hl2)hl2.hidden=true;
       txt.textContent='Modo offline: exibindo os dados embutidos até 12/11/2026. Abra pelo endereço publicado (GitHub Pages) para ver as atualizações automáticas.';
       live.classList.add('off');
     }
@@ -983,7 +987,14 @@ footer a{color:var(--gold)}footer b{color:#fff}
   var tb=document.getElementById('topBtn');
   tb.addEventListener('click',function(){window.scrollTo({top:0,behavior:'smooth'})});
   window.addEventListener('scroll',function(){tb.classList.toggle('show',window.scrollY>400)},{passive:true});
-  document.getElementById('updBtn').addEventListener('click',run);
+  function quick(){
+    reset();document.body.style.overflow='hidden';upd.classList.add('done');
+    var p=document.getElementById('ufinP'),l=document.getElementById('ufinL'),s2=document.getElementById('ufinS');
+    if(p)p.textContent='Verificando novidades…';if(l)l.innerHTML='';if(s2)s2.textContent='';
+    var go=function(){if(window.QG)window.QG.fillFinish();timers.push(setTimeout(close,8000))};
+    if(window.QG)window.QG.load().then(go,go);else go();
+  }
+  document.getElementById('updBtn').addEventListener('click',quick);
   document.getElementById('uskip').addEventListener('click',finish);
   document.getElementById('uok').addEventListener('click',close);
   document.addEventListener('keydown',function(e){if(e.key==='Escape'&&upd.classList.contains('done'))close()});

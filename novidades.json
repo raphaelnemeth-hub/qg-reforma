@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-13T05:49:51Z",
- "lastCheckBr": "13/11/2026 02:49",
- "added": 0,
+ "lastCheckAt": "2026-11-13T06:54:37Z",
+ "lastCheckBr": "13/11/2026 03:54",
+ "added": 1,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -43,7 +43,7 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 95,
-   "new": 0
+   "new": 1
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -1804,6 +1804,19 @@
    "category": "aliq",
    "tag": "Alíquotas",
    "addedAt": "2026-11-07T11:00:00Z",
+   "tries": 1
+  },
+  {
+   "id": "fc5d363d378b",
+   "date": "2026-11-06",
+   "title": "Reforma Tributária: governo define regras de transição do Imposto Seletivo para 2027",
+   "resumo": "O Governo Federal publicou a Medida Provisória (MPV) nº 1.399/2026, que estabelece as alíquotas e as regras complementares do Imposto Seletivo (IS) para 2027. A medida foi divulgada em edição extra do Diário Oficial da União desta quarta-feira (4) e prevê uma…",
+   "link": "https://cbic.org.br/reforma-tributaria-governo-define-regras-de-transicao-do-imposto-seletivo-para-2027/",
+   "source": "CBIC - Câmara Brasileira da Indústria da Construção",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-13T06:54:37Z",
    "tries": 1
   },
   {

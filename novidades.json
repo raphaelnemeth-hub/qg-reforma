@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-13T15:37:40Z",
- "lastCheckBr": "13/11/2026 12:37",
- "added": 2,
+ "lastCheckAt": "2026-11-13T16:42:42Z",
+ "lastCheckBr": "13/11/2026 13:42",
+ "added": 11,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -31,7 +31,7 @@
    "name": "Portal Contábeis",
    "ok": true,
    "found": 9,
-   "new": 2
+   "new": 0
   },
   {
    "name": "InfoMoney",
@@ -41,20 +41,57 @@
   },
   {
    "name": "Imprensa (Google Notícias)",
-   "ok": false,
-   "found": 0,
-   "new": 0,
-   "error": "HTTPError"
+   "ok": true,
+   "found": 95,
+   "new": 7
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
-   "ok": false,
-   "found": 0,
-   "new": 0,
-   "error": "HTTPError"
+   "ok": true,
+   "found": 8,
+   "new": 4
   }
  ],
  "items": [
+  {
+   "id": "78adf3c1d169",
+   "date": "2026-11-13",
+   "title": "Nota fiscal e split payment avançam na reforma tributária, mas adaptação de municípios preocupa",
+   "resumo": "Comitê formado por dez especialistas reconhece avanços na implementação, mas aponta gargalos operacionais ainda a superar",
+   "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/nota-fiscal-e-split-payment-avancam-na-reforma-tributaria-mas-adaptacao-de-municipios-preocupa",
+   "source": "JOTA Info",
+   "official": false,
+   "category": "pag",
+   "tag": "Split payment",
+   "addedAt": "2026-11-13T16:42:42Z",
+   "tries": 1
+  },
+  {
+   "id": "fa217eb0880d",
+   "date": "2026-11-13",
+   "title": "PGDAS-D é atualizado para atender à Reforma Tributária a partir de novembro de 2026 — Receita Federal",
+   "resumo": "Mudanças na apuração do Simples Nacional incluem o fim da escolha do regime de caixa ou competência e a obrigatoriedade de informar a folha de salários dos últimos 12 meses.",
+   "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/pgdas-d-e-atualizado-para-atender-a-reforma-tributaria-a-partir-de-novembro-de-2026",
+   "source": "Governo Federal",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-13T16:42:42Z",
+   "tries": 1
+  },
+  {
+   "id": "fee519dc4b36",
+   "date": "2026-11-13",
+   "title": "Simples Nacional na Reforma Tributária: o que a alíquota de 11,3% da CBS significa para a sua empresa médica",
+   "resumo": "O TCU calculou a alíquota de referência da CBS para 2027 acima do que o mercado esperava",
+   "link": "https://www.apm.org.br/simples-nacional-na-reforma-tributaria-o-que-a-aliquota-de-113-da-cbs-significa-para-a-sua-empresa-medica/",
+   "source": "APM - Associação Paulista de Medicina",
+   "official": false,
+   "category": "simples",
+   "tag": "Simples",
+   "addedAt": "2026-11-13T16:42:42Z",
+   "tries": 1
+  },
   {
    "id": "5a65d28b89b6",
    "date": "2026-11-13",
@@ -712,6 +749,19 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-12T03:00:00Z",
+   "tries": 1
+  },
+  {
+   "id": "bf9fec955f9f",
+   "date": "2026-11-11",
+   "title": "Ato Conjunto RFB/CGIBS nº 7, de 11 de novembro de 2026",
+   "resumo": "",
+   "link": "https://cgibs.gov.br/upload/arquivos/202611/13061456-ato-conjunto-7-rfb-cgibs-alteracao-ato-4.pdf",
+   "source": "Comitê Gestor do IBS",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-13T16:42:42Z",
    "tries": 1
   },
   {
@@ -1831,6 +1881,19 @@
    "tries": 1
   },
   {
+   "id": "28cef829379e",
+   "date": "2026-11-09",
+   "title": "Sem adiamento: CBS começa em janeiro de 2027",
+   "resumo": "Receita Federal e Ministério da Fazenda mantêm previsão de cobrança integral da CBS em janeiro de 2027, apesar dos pedidos de adiamento.",
+   "link": "https://www.contabeis.com.br/noticias/80689/sem-adiamento-cbs-comeca-em-janeiro-de-2027/",
+   "source": "Portal Contabeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-13T16:42:42Z",
+   "tries": 1
+  },
+  {
    "id": "0214e4c9f796",
    "date": "2026-11-09",
    "title": "Justiça de São Paulo permite excluir IBS e CBS do cálculo do ISS Decisão provisória impede que novos tributos da Reforma Tributária sejam incluídos na base de cálculo do ISS de uma empresa, evitando um possível aumento d",
@@ -1919,71 +1982,6 @@
    "category": "aliq",
    "tag": "Alíquotas",
    "addedAt": "2026-11-09T19:42:30Z",
-   "tries": 1
-  },
-  {
-   "id": "fb18896bb830",
-   "date": "2026-11-09",
-   "title": "Reforma Tributária: guia completo sobre IBS, CBS e o que muda de 2026 a 2033 - InfoMoney",
-   "resumo": "Saiba tudo sobre a Reforma Tributária: IBS, CBS, alíquotas, créditos tributários, split payment, cashback e as principais mudanças até 2033.",
-   "link": "https://www.infomoney.com.br/guias/reforma-tributaria-guia-completo-sobre-ibs-cbs-e-o-que-muda/",
-   "source": "InfoMoney",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-09T19:30:00Z",
-   "tries": 1
-  },
-  {
-   "id": "c32d885c8044",
-   "date": "2026-11-09",
-   "title": "NF-e sem ICMS: veja as regras para IBS e CBS - Portal Contabeis",
-   "resumo": "Empresas que não recolhem ICMS, mas estão sujeitas ao IBS e à CBS, terão novas regras para emitir NF-e a partir de dezembro.",
-   "link": "https://www.contabeis.com.br/noticias/80708/nf-e-sem-icms-veja-as-regras-para-ibs-e-cbs/",
-   "source": "Portal Contabeis",
-   "official": false,
-   "category": "nt",
-   "tag": "Nota técnica",
-   "addedAt": "2026-11-09T18:15:01Z",
-   "tries": 1
-  },
-  {
-   "id": "0bf7938c5af8",
-   "date": "2026-11-09",
-   "title": "Izalci Lucas quer debater alíquota da CBS e impactos da Reforma Tributária - Senado",
-   "resumo": "Senador Izalci Lucas (PL-DF) fala sobre a audiência pública da Comissão de Assuntos Econômicos (CAE) que vai discutir o cálculo da alíquota da Contribuição de Bens e Serviços (CBS), prevista na Reforma Tributária, e os possíveis impactos para os…",
-   "link": "https://www12.senado.leg.br/tv/programas/argumento/2026/11/izalci-lucas-quer-debater-aliquota-da-cbs-e-impactos-da-reforma-tributaria",
-   "source": "Senado",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-09T16:16:24Z",
-   "tries": 1
-  },
-  {
-   "id": "6ed133c1c2b5",
-   "date": "2026-11-09",
-   "title": "Medida provisória não pode dispor sobre Imposto Seletivo, CBS e IBS - JOTA Info",
-   "resumo": "Uma lei é uma lei; uma medida provisória é uma medida provisória. Confundi-las para fixar as alíquotas do Imposto Seletivo repete o velho hábito brasileiro de deixar à míngua a casa do povo",
-   "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/medida-provisoria-nao-pode-dispor-sobre-imposto-seletivo-cbs-e-ibs",
-   "source": "JOTA Info",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-09T13:44:19Z",
-   "tries": 1
-  },
-  {
-   "id": "70fdcfab56fc",
-   "date": "2026-11-09",
-   "title": "Adiamento da reforma tributária esbarra na resistência do governo - JOTA Info",
-   "resumo": "Parlamentares ouvidos pelo JOTA dizem que PEC para adiar vigência dependeria do Planalto, que sinaliza em sentido oposto",
-   "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/adiamento-da-reforma-tributaria-esbarra-na-resistencia-do-governo",
-   "source": "JOTA Info",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-09T13:12:25Z",
    "tries": 1
   }
  ]

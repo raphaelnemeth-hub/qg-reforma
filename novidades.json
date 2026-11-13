@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-13T16:42:42Z",
- "lastCheckBr": "13/11/2026 13:42",
- "added": 11,
+ "lastCheckAt": "2026-11-13T17:40:05Z",
+ "lastCheckBr": "13/11/2026 14:40",
+ "added": 9,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -30,7 +30,7 @@
   {
    "name": "Portal Contábeis",
    "ok": true,
-   "found": 9,
+   "found": 8,
    "new": 0
   },
   {
@@ -43,13 +43,13 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 95,
-   "new": 7
+   "new": 6
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
    "ok": true,
    "found": 8,
-   "new": 4
+   "new": 3
   }
  ],
  "items": [
@@ -762,7 +762,7 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-13T16:42:42Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "0a2559395aab",
@@ -1881,6 +1881,45 @@
    "tries": 1
   },
   {
+   "id": "fb18896bb830",
+   "date": "2026-11-09",
+   "title": "Reforma Tributária: guia completo sobre IBS, CBS e o que muda de 2026 a 2033",
+   "resumo": "Saiba tudo sobre a Reforma Tributária: IBS, CBS, alíquotas, créditos tributários, split payment, cashback e as principais mudanças até 2033.",
+   "link": "https://www.infomoney.com.br/guias/reforma-tributaria-guia-completo-sobre-ibs-cbs-e-o-que-muda/",
+   "source": "InfoMoney",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-13T17:40:05Z",
+   "tries": 1
+  },
+  {
+   "id": "0bf7938c5af8",
+   "date": "2026-11-09",
+   "title": "Izalci Lucas quer debater alíquota da CBS e impactos da Reforma Tributária",
+   "resumo": "Senador Izalci Lucas (PL-DF) fala sobre a audiência pública da Comissão de Assuntos Econômicos (CAE) que vai discutir o cálculo da alíquota da Contribuição de Bens e Serviços (CBS), prevista na Reforma Tributária, e os possíveis impactos para os…",
+   "link": "https://www12.senado.leg.br/tv/programas/argumento/2026/11/izalci-lucas-quer-debater-aliquota-da-cbs-e-impactos-da-reforma-tributaria",
+   "source": "Senado",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-13T17:40:05Z",
+   "tries": 1
+  },
+  {
+   "id": "70fdcfab56fc",
+   "date": "2026-11-09",
+   "title": "Adiamento da reforma tributária esbarra na resistência do governo",
+   "resumo": "Parlamentares ouvidos pelo JOTA dizem que PEC para adiar vigência dependeria do Planalto, que sinaliza em sentido oposto",
+   "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/adiamento-da-reforma-tributaria-esbarra-na-resistencia-do-governo",
+   "source": "JOTA Info",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-13T17:40:05Z",
+   "tries": 1
+  },
+  {
    "id": "28cef829379e",
    "date": "2026-11-09",
    "title": "Sem adiamento: CBS começa em janeiro de 2027",
@@ -1943,45 +1982,6 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-09T21:15:01Z",
-   "tries": 1
-  },
-  {
-   "id": "053d04579a5f",
-   "date": "2026-11-09",
-   "title": "Brasscom: Adiar Reforma Tributária pune quem investiu até agora, mas defende foco do governo 100% na CBS - ConvergenciaDigital",
-   "resumo": "A Brasscom - Associação das Empresas de Tecnologia da Informação e Comunicação (TIC) e de Tecnologia",
-   "link": "https://convergenciadigital.com.br/governo/brasscom-adiar-reforma-tributaria-pune-quem-investiu-ate-agora-mas-defende-foco-do-governo-100-na-cbs/",
-   "source": "ConvergenciaDigital",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-09T20:59:18Z",
-   "tries": 1
-  },
-  {
-   "id": "902383e70b44",
-   "date": "2026-11-09",
-   "title": "Receita Federal libera acesso às novas APIs de apuração da CBS - Governo Federal",
-   "resumo": "Nova versão permite consultas incrementais de débitos e créditos apurados.",
-   "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-libera-acesso-as-novas-apis-de-apuracao-da-cbs",
-   "source": "Governo Federal",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-09T19:57:00Z",
-   "tries": 1
-  },
-  {
-   "id": "ca6367156af2",
-   "date": "2026-11-09",
-   "title": "Cesta básica terá alíquota zero, mas Reforma Tributária preocupa setor de abastecimento - FecomercioSP",
-   "resumo": "Conselho da FecomercioSP debate os reflexos das novas regras sobre o comércio de alimentos",
-   "link": "https://fecomercio.com.br/tributario/cesta-basica-tera-aliquota-zero-mas-reforma-tributaria-preocupa-setor-de-abastecimento/",
-   "source": "FecomercioSP",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-09T19:42:30Z",
    "tries": 1
   }
  ]

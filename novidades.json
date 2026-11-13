@@ -1,13 +1,13 @@
 {
- "lastCheckAt": "2026-11-13T19:43:58Z",
- "lastCheckBr": "13/11/2026 16:43",
- "added": 12,
+ "lastCheckAt": "2026-11-13T20:43:23Z",
+ "lastCheckBr": "13/11/2026 17:43",
+ "added": 11,
  "feeds": [
   {
    "name": "Agência Senado",
    "ok": true,
-   "found": 2,
-   "new": 1
+   "found": 1,
+   "new": 0
   },
   {
    "name": "Agência Câmara",
@@ -31,7 +31,7 @@
    "name": "Portal Contábeis",
    "ok": true,
    "found": 7,
-   "new": 2
+   "new": 0
   },
   {
    "name": "InfoMoney",
@@ -43,16 +43,29 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 95,
-   "new": 6
+   "new": 8
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
    "ok": true,
-   "found": 8,
+   "found": 9,
    "new": 3
   }
  ],
  "items": [
+  {
+   "id": "38c5cd2aac9e",
+   "date": "2026-11-13",
+   "title": "Reforma Tributária: como precificar serviços",
+   "resumo": "Entenda como CBS e IBS afetam os preços de serviços e o que avaliar sobre clientes, créditos tributários e regime da empresa.",
+   "link": "https://www.contabeis.com.br/artigos/80843/reforma-tributaria-como-precificar-servicos/",
+   "source": "Portal Contabeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-13T20:43:23Z",
+   "tries": 1
+  },
   {
    "id": "8456d543ba1c",
    "date": "2026-11-13",
@@ -1955,29 +1968,16 @@
    "tries": 1
   },
   {
-   "id": "1d064cc128d7",
+   "id": "fb18896bb830",
    "date": "2026-11-09",
-   "title": "Adubo, semente e defensivo vão ficar mais caros com a reforma tributária?",
-   "resumo": "Diferimento pode aliviar a compra, mas o imposto pode voltar no preço da produção",
-   "link": "https://www.contabeis.com.br/artigos/80685/adubo-semente-e-defensivo-vao-ficar-mais-caros-com-a-reforma-tributaria/",
-   "source": "Portal Contabeis",
+   "title": "Reforma Tributária: guia completo sobre IBS, CBS e o que muda de 2026 a 2033",
+   "resumo": "Saiba tudo sobre a Reforma Tributária: IBS, CBS, alíquotas, créditos tributários, split payment, cashback e as principais mudanças até 2033.",
+   "link": "https://www.infomoney.com.br/guias/reforma-tributaria-guia-completo-sobre-ibs-cbs-e-o-que-muda/",
+   "source": "InfoMoney",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-13T19:43:58Z",
-   "tries": 1
-  },
-  {
-   "id": "ca6367156af2",
-   "date": "2026-11-09",
-   "title": "Cesta básica terá alíquota zero, mas Reforma Tributária preocupa setor de abastecimento",
-   "resumo": "Conselho da FecomercioSP debate os reflexos das novas regras sobre o comércio de alimentos",
-   "link": "https://fecomercio.com.br/tributario/cesta-basica-tera-aliquota-zero-mas-reforma-tributaria-preocupa-setor-de-abastecimento/",
-   "source": "FecomercioSP",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-13T18:39:02Z",
+   "addedAt": "2026-11-13T20:43:23Z",
    "tries": 1
   }
  ]

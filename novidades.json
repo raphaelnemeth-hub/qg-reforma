@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-13T01:56:31Z",
- "lastCheckBr": "12/11/2026 22:56",
- "added": 0,
+ "lastCheckAt": "2026-11-13T02:40:14Z",
+ "lastCheckBr": "12/11/2026 23:40",
+ "added": 2,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -43,16 +43,42 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 95,
-   "new": 0
+   "new": 1
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
    "ok": true,
    "found": 7,
-   "new": 0
+   "new": 1
   }
  ],
  "items": [
+  {
+   "id": "3c1e3577a218",
+   "date": "2026-11-12",
+   "title": "Inflação e Reforma Tributária mudam a conta das empresas",
+   "resumo": "Segundo o CEO da Rumo Brasil, Rafael Brito, conhecer a estrutura real de custos passa a ser uma condição para proteger a rentabilidade e sustentar o crescimento nesse cenário",
+   "link": "https://mundologistica.com.br/noticias/inflacao-reforma-tributaria-conta-das-empresas",
+   "source": "Mundo Logística",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-13T02:40:14Z",
+   "tries": 1
+  },
+  {
+   "id": "b87285315789",
+   "date": "2026-11-12",
+   "title": "CGIBS aprova ajustes ao Regulamento do Imposto Sobre Bens e Serviços e prorroga a DeRE em Reunião Ordinária",
+   "resumo": "Conselheiros aprovaram ainda o ato conjunto sobre a inscrição no CNPJ do produtor rural pessoa física e do transportador autônomo de cargas, a minuta de fluxos e atos normativos e o plano de contratação do Comitê, durante o encontro em Santa Catarina",
+   "link": "https://cgibs.gov.br/cgibs-aprova-ajustes-ao-regulamento-do-ibs-e-prorroga-a-dere-em-reuniao-em-joinville",
+   "source": "Comitê Gestor do IBS",
+   "official": false,
+   "category": "lei",
+   "tag": "Legislação",
+   "addedAt": "2026-11-13T02:40:14Z",
+   "tries": 1
+  },
   {
    "id": "667e371ac328",
    "date": "2026-11-12",

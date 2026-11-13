@@ -1,6 +1,6 @@
 {
- "lastCheckAt": "2026-11-13T06:54:37Z",
- "lastCheckBr": "13/11/2026 03:54",
+ "lastCheckAt": "2026-11-13T08:11:02Z",
+ "lastCheckBr": "13/11/2026 05:11",
  "added": 1,
  "feeds": [
   {
@@ -53,6 +53,19 @@
   }
  ],
  "items": [
+  {
+   "id": "ef34e75af7f6",
+   "date": "2026-11-13",
+   "title": "Reforma Tributária: O efeito do Split Payment Na Sua Empresa",
+   "resumo": "Previsto para 2027, o recolhimento automático de IBS e CBS pode pressionar o capital de giro das empresas",
+   "link": "https://forbes.com.br/forbes-money/2026/11/split-payment-impactos-empresas/",
+   "source": "Forbes Brasil",
+   "official": false,
+   "category": "pag",
+   "tag": "Split payment",
+   "addedAt": "2026-11-13T08:11:02Z",
+   "tries": 1
+  },
   {
    "id": "3c1e3577a218",
    "date": "2026-11-12",

@@ -1,6 +1,6 @@
 {
- "lastCheckAt": "2026-11-13T22:35:19Z",
- "lastCheckBr": "13/11/2026 19:35",
+ "lastCheckAt": "2026-11-13T23:30:31Z",
+ "lastCheckBr": "13/11/2026 20:30",
  "added": 13,
  "feeds": [
   {
@@ -31,7 +31,7 @@
    "name": "Portal Contábeis",
    "ok": true,
    "found": 10,
-   "new": 1
+   "new": 0
   },
   {
    "name": "InfoMoney",
@@ -43,7 +43,7 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 95,
-   "new": 9
+   "new": 10
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -1614,6 +1614,32 @@
    "tries": 1
   },
   {
+   "id": "01bb5d4b4463",
+   "date": "2026-11-10",
+   "title": "Que imposto é esse: Coautor da reforma tributária rejeita adiamento da CBS para 2028",
+   "resumo": "Eurico Marcos Diniz de Santi diz que prorrogação encurta aprendizado das empresas",
+   "link": "https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/11/coautor-da-reforma-tributaria-rejeita-adiamento-da-cbs-para-2028.shtml",
+   "source": "Folha de S.Paulo",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-13T23:30:31Z",
+   "tries": 1
+  },
+  {
+   "id": "05c3c4146caf",
+   "date": "2026-11-10",
+   "title": "Reforma tributária e imposto seletivo para 2027",
+   "resumo": "Por Ricardo Pontes Vivacqua. O texto analisa a MP 1.399/26, a fixação de alíquotas e suas regras de implementação.",
+   "link": "https://www.migalhas.com.br/depeso/468179/reforma-tributaria-e-imposto-seletivo-para-2027",
+   "source": "Migalhas",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-13T23:30:31Z",
+   "tries": 1
+  },
+  {
    "id": "d973a5466d30",
    "date": "2026-11-10",
    "title": "Reforma tributária muda regras para renda com aluguel; veja como fica para pessoas físicas e jurídicas",
@@ -1949,32 +1975,6 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-10T12:15:13Z",
-   "tries": 1
-  },
-  {
-   "id": "b241785bed79",
-   "date": "2026-11-10",
-   "title": "Receita libera APIs para consultar débitos e créditos da CBS - Portal Contabeis",
-   "resumo": "Nova versão das APIs da CBS permite consultas incrementais e integração com sistemas das empresas; contribuintes precisam gerar novas credenciais.",
-   "link": "https://www.contabeis.com.br/noticias/80723/receita-libera-apis-para-consultar-debitos-e-creditos-da-cbs/",
-   "source": "Portal Contabeis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-10T12:00:01Z",
-   "tries": 1
-  },
-  {
-   "id": "131a19ac9d54",
-   "date": "2026-11-10",
-   "title": "Reforma Tributária: Atualização do Ambiente Beta da DeRE — Receita Federal - Governo Federal",
-   "resumo": "A atualização será realizada sem interrupção dos serviços.",
-   "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/reforma-tributaria-atualizacao-do-ambiente-beta-da-dere",
-   "source": "Governo Federal",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-10T11:16:06Z",
    "tries": 1
   }
  ]

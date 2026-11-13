@@ -1,13 +1,13 @@
 {
- "lastCheckAt": "2026-11-13T18:39:02Z",
- "lastCheckBr": "13/11/2026 15:39",
- "added": 9,
+ "lastCheckAt": "2026-11-13T19:43:58Z",
+ "lastCheckBr": "13/11/2026 16:43",
+ "added": 12,
  "feeds": [
   {
    "name": "Agência Senado",
    "ok": true,
-   "found": 1,
-   "new": 0
+   "found": 2,
+   "new": 1
   },
   {
    "name": "Agência Câmara",
@@ -30,8 +30,8 @@
   {
    "name": "Portal Contábeis",
    "ok": true,
-   "found": 6,
-   "new": 1
+   "found": 7,
+   "new": 2
   },
   {
    "name": "InfoMoney",
@@ -43,16 +43,65 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 95,
-   "new": 5
+   "new": 6
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
    "ok": true,
-   "found": 7,
+   "found": 8,
    "new": 3
   }
  ],
  "items": [
+  {
+   "id": "8456d543ba1c",
+   "date": "2026-11-13",
+   "title": "CAE: ministro da Fazenda debate alíquota da CBS na terça-feira",
+   "resumo": "O ministro da Fazenda, Dario Durigan, participa nesta terça-feira (17) de audiência pública na Comissão de Assuntos Econômicos do Senado (CAE). O objetivo é discutir o cálculo da alíquota de referência da Contribuição Social sobre Bens e Serviços (CBS) para o…",
+   "link": "https://www12.senado.leg.br/noticias/materias/2026/11/13/cae-ministro-da-fazenda-debate-aliquota-da-cbs-na-terca-feira",
+   "source": "Senado Federal",
+   "official": true,
+   "category": "cap",
+   "tag": "Capacitação",
+   "addedAt": "2026-11-13T19:43:58Z"
+  },
+  {
+   "id": "12573eee8428",
+   "date": "2026-11-13",
+   "title": "Câmara debate CBS, Imposto Seletivo e créditos tributários",
+   "resumo": "Audiência em 18 de novembro terá participação da Receita Federal e discutirá alíquotas da CBS , Imposto Seletivo e impactos para pequenas empresas. Leia mais em…",
+   "link": "https://www.contabeis.com.br/noticias/80873/camara-debate-cbs-imposto-seletivo-e-creditos-tributarios/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-13T19:43:58Z"
+  },
+  {
+   "id": "f41e886281e5",
+   "date": "2026-11-13",
+   "title": "CGIBS anuncia dispensa de CNPJ para produtor rural e autônomo",
+   "resumo": "CGIBS anuncia dispensa de CNPJ para produtores rurais e transportadores autônomos de cargas em 2027 e 2028. Veja quem poderá continuar usando o CPF. Leia mais em…",
+   "link": "https://www.contabeis.com.br/noticias/80866/cgibs-anuncia-dispensa-de-cnpj-para-produtor-rural-e-autonomo/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-13T19:43:58Z"
+  },
+  {
+   "id": "08eea2bdb760",
+   "date": "2026-11-13",
+   "title": "Empresas cobram definições da reforma tributária a menos de dois meses da CBS em 2027",
+   "resumo": "13/11/2026 A menos de dois meses do início de uma nova etapa da reforma tributária do consumo, empresas e entidades empresariais ainda cobram definições regulatórias e operacionais necessárias para adaptar sistemas, documentos fiscais e procedimentos internos…",
+   "link": "https://tagdlaw.com.br/empresas-cobram-definicoes-da-reforma-tributaria-a-menos-de-dois-meses-da-cbs-em-2027/",
+   "source": "TAGD Advogados",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-13T19:43:58Z",
+   "tries": 1
+  },
   {
    "id": "5389334a1b1e",
    "date": "2026-11-13",
@@ -280,6 +329,19 @@
    "category": "pag",
    "tag": "Split payment",
    "addedAt": "2026-11-13T08:11:02Z",
+   "tries": 1
+  },
+  {
+   "id": "35adcded8c0d",
+   "date": "2026-11-12",
+   "title": "Receita Federal anuncia medidas para transição da Reforma Tributária em 2027, mas desafios persistem para a construção civil",
+   "resumo": "A Receita Federal anunciou, nesta quarta-feira (11), um conjunto de medidas para facilitar a implementação da Reforma Tributária do Consumo em 2027. Apresentadas em conjunto com o Conselho Federal de Contabilidade (CFC), a Fenacon e o Sebrae, as iniciativas…",
+   "link": "https://cbic.org.br/receita-federal-anuncia-medidas-para-transicao-da-reforma-tributaria-em-2027-mas-desafios-persistem-para-a-construcao-civil/",
+   "source": "CBIC - Câmara Brasileira da Indústria da Construção",
+   "official": false,
+   "category": "lei",
+   "tag": "Legislação",
+   "addedAt": "2026-11-13T19:43:58Z",
    "tries": 1
   },
   {
@@ -1893,6 +1955,19 @@
    "tries": 1
   },
   {
+   "id": "1d064cc128d7",
+   "date": "2026-11-09",
+   "title": "Adubo, semente e defensivo vão ficar mais caros com a reforma tributária?",
+   "resumo": "Diferimento pode aliviar a compra, mas o imposto pode voltar no preço da produção",
+   "link": "https://www.contabeis.com.br/artigos/80685/adubo-semente-e-defensivo-vao-ficar-mais-caros-com-a-reforma-tributaria/",
+   "source": "Portal Contabeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-13T19:43:58Z",
+   "tries": 1
+  },
+  {
    "id": "ca6367156af2",
    "date": "2026-11-09",
    "title": "Cesta básica terá alíquota zero, mas Reforma Tributária preocupa setor de abastecimento",
@@ -1903,84 +1978,6 @@
    "category": "aliq",
    "tag": "Alíquotas",
    "addedAt": "2026-11-13T18:39:02Z",
-   "tries": 1
-  },
-  {
-   "id": "902383e70b44",
-   "date": "2026-11-09",
-   "title": "Receita Federal libera acesso às novas APIs de apuração da CBS",
-   "resumo": "Nova versão permite consultas incrementais de débitos e créditos apurados.",
-   "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-libera-acesso-as-novas-apis-de-apuracao-da-cbs",
-   "source": "Governo Federal",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-13T18:39:02Z",
-   "tries": 1
-  },
-  {
-   "id": "fb18896bb830",
-   "date": "2026-11-09",
-   "title": "Reforma Tributária: guia completo sobre IBS, CBS e o que muda de 2026 a 2033",
-   "resumo": "Saiba tudo sobre a Reforma Tributária: IBS, CBS, alíquotas, créditos tributários, split payment, cashback e as principais mudanças até 2033.",
-   "link": "https://www.infomoney.com.br/guias/reforma-tributaria-guia-completo-sobre-ibs-cbs-e-o-que-muda/",
-   "source": "InfoMoney",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-13T17:40:05Z",
-   "tries": 1
-  },
-  {
-   "id": "0bf7938c5af8",
-   "date": "2026-11-09",
-   "title": "Izalci Lucas quer debater alíquota da CBS e impactos da Reforma Tributária",
-   "resumo": "Senador Izalci Lucas (PL-DF) fala sobre a audiência pública da Comissão de Assuntos Econômicos (CAE) que vai discutir o cálculo da alíquota da Contribuição de Bens e Serviços (CBS), prevista na Reforma Tributária, e os possíveis impactos para os…",
-   "link": "https://www12.senado.leg.br/tv/programas/argumento/2026/11/izalci-lucas-quer-debater-aliquota-da-cbs-e-impactos-da-reforma-tributaria",
-   "source": "Senado",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-13T17:40:05Z",
-   "tries": 1
-  },
-  {
-   "id": "70fdcfab56fc",
-   "date": "2026-11-09",
-   "title": "Adiamento da reforma tributária esbarra na resistência do governo",
-   "resumo": "Parlamentares ouvidos pelo JOTA dizem que PEC para adiar vigência dependeria do Planalto, que sinaliza em sentido oposto",
-   "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/adiamento-da-reforma-tributaria-esbarra-na-resistencia-do-governo",
-   "source": "JOTA Info",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-13T17:40:05Z",
-   "tries": 1
-  },
-  {
-   "id": "28cef829379e",
-   "date": "2026-11-09",
-   "title": "Sem adiamento: CBS começa em janeiro de 2027",
-   "resumo": "Receita Federal e Ministério da Fazenda mantêm previsão de cobrança integral da CBS em janeiro de 2027, apesar dos pedidos de adiamento.",
-   "link": "https://www.contabeis.com.br/noticias/80689/sem-adiamento-cbs-comeca-em-janeiro-de-2027/",
-   "source": "Portal Contabeis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-13T16:42:42Z",
-   "tries": 1
-  },
-  {
-   "id": "0214e4c9f796",
-   "date": "2026-11-09",
-   "title": "Justiça de São Paulo permite excluir IBS e CBS do cálculo do ISS Decisão provisória impede que novos tributos da Reforma Tributária sejam incluídos na base de cálculo do ISS de uma empresa, evitando um possível aumento d",
-   "resumo": "Uma decisão da Justiça de São Paulo autorizou uma empresa a não incluir os […]",
-   "link": "https://www.hondatar.com.br/justica-de-sao-paulo-permite-excluir-ibs-e-cbs-do-calculo-do-iss-decisao-provisoria-impede-que-novos-tributos-da-reforma-tributaria-sejam-incluidos-na-base-de-calculo-do-iss-de-uma-empresa-evitando-u/",
-   "source": "HONDATAR Advogados",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-12T15:47:59Z",
    "tries": 1
   }
  ]

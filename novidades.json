@@ -1,6 +1,6 @@
 {
- "lastCheckAt": "2026-11-13T17:40:05Z",
- "lastCheckBr": "13/11/2026 14:40",
+ "lastCheckAt": "2026-11-13T18:39:02Z",
+ "lastCheckBr": "13/11/2026 15:39",
  "added": 9,
  "feeds": [
   {
@@ -30,8 +30,8 @@
   {
    "name": "Portal Contábeis",
    "ok": true,
-   "found": 8,
-   "new": 0
+   "found": 6,
+   "new": 1
   },
   {
    "name": "InfoMoney",
@@ -43,16 +43,28 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 95,
-   "new": 6
+   "new": 5
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
    "ok": true,
-   "found": 8,
+   "found": 7,
    "new": 3
   }
  ],
  "items": [
+  {
+   "id": "5389334a1b1e",
+   "date": "2026-11-13",
+   "title": "APIs da CBS exigem nova credencial para consulta de débitos e créditos",
+   "resumo": "Receita Federal orienta usuários das APIs da CBS a cancelar a credencial antiga e emitir outra para acessar as funcionalidades da versão 2.0. Leia mais em…",
+   "link": "https://www.contabeis.com.br/noticias/80864/apis-da-cbs-exigem-nova-credencial-para-consulta-de-debitos-e-creditos/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-13T18:39:02Z"
+  },
   {
    "id": "78adf3c1d169",
    "date": "2026-11-13",
@@ -1881,6 +1893,32 @@
    "tries": 1
   },
   {
+   "id": "ca6367156af2",
+   "date": "2026-11-09",
+   "title": "Cesta básica terá alíquota zero, mas Reforma Tributária preocupa setor de abastecimento",
+   "resumo": "Conselho da FecomercioSP debate os reflexos das novas regras sobre o comércio de alimentos",
+   "link": "https://fecomercio.com.br/tributario/cesta-basica-tera-aliquota-zero-mas-reforma-tributaria-preocupa-setor-de-abastecimento/",
+   "source": "FecomercioSP",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-13T18:39:02Z",
+   "tries": 1
+  },
+  {
+   "id": "902383e70b44",
+   "date": "2026-11-09",
+   "title": "Receita Federal libera acesso às novas APIs de apuração da CBS",
+   "resumo": "Nova versão permite consultas incrementais de débitos e créditos apurados.",
+   "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-libera-acesso-as-novas-apis-de-apuracao-da-cbs",
+   "source": "Governo Federal",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-13T18:39:02Z",
+   "tries": 1
+  },
+  {
    "id": "fb18896bb830",
    "date": "2026-11-09",
    "title": "Reforma Tributária: guia completo sobre IBS, CBS e o que muda de 2026 a 2033",
@@ -1943,45 +1981,6 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-12T15:47:59Z",
-   "tries": 1
-  },
-  {
-   "id": "a4793f0f3e21",
-   "date": "2026-11-09",
-   "title": "Ato Técnico nº 10/2026: veja as versões fiscais aprovadas para IBS e CBS - Portal Contabeis",
-   "resumo": "Receita e CGIBS aprovaram versões para NF-e, NFC-e, CT-e e outros documentos fiscais, além da tabela cClassTrib 1.71. Confira a lista.",
-   "link": "https://www.contabeis.com.br/noticias/80686/ato-tecnico-no-10-2026-veja-as-versoes-fiscais-aprovadas-para-ibs-e-cbs/",
-   "source": "Portal Contabeis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-12T13:02:10Z",
-   "tries": 1
-  },
-  {
-   "id": "6daf46f129da",
-   "date": "2026-11-09",
-   "title": "Petrobras diz ter dúvidas sobre reforma tributária e pede período sem multas - JOTA Info",
-   "resumo": "Magda Chambriard afirmou que a estatal tem dúvidas a respeito da implantação da reforma tributária e defendeu que haja um período de transição com diálogo e sem multas",
-   "link": "https://www.jota.info/tributos/petrobras-diz-ter-duvidas-sobre-reforma-tributaria-e-pede-periodo-sem-multas",
-   "source": "JOTA Info",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-09T22:28:57Z",
-   "tries": 1
-  },
-  {
-   "id": "1d064cc128d7",
-   "date": "2026-11-09",
-   "title": "Adubo, semente e defensivo vão ficar mais caros com a reforma tributária? - Portal Contabeis",
-   "resumo": "Diferimento pode aliviar a compra, mas o imposto pode voltar no preço da produção",
-   "link": "https://www.contabeis.com.br/artigos/80685/adubo-semente-e-defensivo-vao-ficar-mais-caros-com-a-reforma-tributaria/",
-   "source": "Portal Contabeis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-09T21:15:01Z",
    "tries": 1
   }
  ]

@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-13T11:22:25Z",
- "lastCheckBr": "13/11/2026 08:22",
- "added": 2,
+ "lastCheckAt": "2026-11-13T12:20:43Z",
+ "lastCheckBr": "13/11/2026 09:20",
+ "added": 5,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -30,8 +30,8 @@
   {
    "name": "Portal Contábeis",
    "ok": true,
-   "found": 15,
-   "new": 0
+   "found": 14,
+   "new": 1
   },
   {
    "name": "InfoMoney",
@@ -42,17 +42,42 @@
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 95,
-   "new": 1
+   "found": 96,
+   "new": 2
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
    "ok": true,
    "found": 7,
-   "new": 1
+   "new": 2
   }
  ],
  "items": [
+  {
+   "id": "9e50918ddfeb",
+   "date": "2026-11-13",
+   "title": "Projeto prevê redução da alíquota da CBS se arrecadação superar limite",
+   "resumo": "PLP 282/2026 propõe antecipar a verificação de excesso de arrecadação da CBS e prevê ajustes anuais na alíquota entre 2029 e 2033. Leia mais em https://www.contabeis.com.br/noticias/80847/projeto-preve-reducao-da-aliquota-da-cbs-se-arrecadacao-superar-limite/",
+   "link": "https://www.contabeis.com.br/noticias/80847/projeto-preve-reducao-da-aliquota-da-cbs-se-arrecadacao-superar-limite/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-13T12:20:43Z"
+  },
+  {
+   "id": "746af56237e8",
+   "date": "2026-11-13",
+   "title": "Propostas da Receita não resolvem desafios da reforma tributária",
+   "resumo": "Especialistas ponderam que o alcance das propostas da Receita sobre a reforma ainda depende da formalização das medidas",
+   "link": "https://conjur.com.br/2026-nov-13/propostas-da-receita-nao-resolvem-desafios-estruturais-da-tributaria-dizem-especialistas/",
+   "source": "Consultor Jurídico",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-13T12:20:43Z",
+   "tries": 1
+  },
   {
    "id": "3098d16ab35a",
    "date": "2026-11-13",
@@ -1274,6 +1299,19 @@
    "tries": 1
   },
   {
+   "id": "896efffa840c",
+   "date": "2026-11-10",
+   "title": "Reforma Tributária: Ato Técnico nº 10 aprova versões para nove modelos de documentos fiscais",
+   "resumo": "",
+   "link": "https://www.contadores.cnt.br/noticias/tecnicas/2026/11/10/reforma-tributaria-ato-tecnico-no-10-aprova-versoes-para-nove-modelos-de-documentos-fiscais.html",
+   "source": "Contadores.cnt.br",
+   "official": false,
+   "category": "cont",
+   "tag": "Contabilidade",
+   "addedAt": "2026-11-13T12:20:43Z",
+   "tries": 1
+  },
+  {
    "id": "9a243cc39424",
    "date": "2026-11-10",
    "title": "IBS e CBS: A controvérsia sobre a exportação de serviços",
@@ -1947,44 +1985,6 @@
    "category": "aliq",
    "tag": "Alíquotas",
    "addedAt": "2026-11-05T15:29:24Z",
-   "tries": 1
-  },
-  {
-   "id": "46c43de9336b",
-   "date": "2026-11-05",
-   "title": "Medida provisória regulamenta o Imposto Seletivo para 2027",
-   "resumo": "Governo afirma que alíquotas foram calculadas para manter a carga tributária atual durante o primeiro ano de cobrança",
-   "link": "https://www.camara.leg.br/noticias/1316363-medida-provisoria-regulamenta-o-imposto-seletivo-para-2027",
-   "source": "Agência Câmara",
-   "official": true,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-05T15:16:00Z"
-  },
-  {
-   "id": "5b4a1f7e347d",
-   "date": "2026-11-05",
-   "title": "Reforma Tributária: governo define alíquotas do Imposto Seletivo para 2027 - IOB Notícias",
-   "resumo": "MP nº 1.399/2026 define as alíquotas do Imposto Seletivo para 2027: de 0,5% a 66,7% por produto. Veja tabela e quando passam a valer.",
-   "link": "https://noticias.iob.com.br/imposto-seletivo-aliquotas/",
-   "source": "IOB Notícias",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-05T13:08:32Z",
-   "tries": 1
-  },
-  {
-   "id": "3f2fcad68baa",
-   "date": "2026-11-04",
-   "title": "Conselho Superior elege presidente e vices para a gestão do Comitê Gestor até 2027 - Comitê Gestor do IBS",
-   "resumo": "O Conselho Superior do Comitê Gestor do Imposto sobre Bens e Serviços (CGIBS) ratificou, por unanimidade, o secretário de Fazenda de Mato Grosso do Sul, Flávio César Mendes de Oliveira, para a presidência da entidade até março de 2027. Na mesma reunião, ta...",
-   "link": "https://www.cgibs.gov.br/conselho-superior-elege-presidente-e-vices-para-a-gestao-do-comite-gestor-ate-2027",
-   "source": "Comitê Gestor do IBS",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-04T04:07:29Z",
    "tries": 1
   }
  ]

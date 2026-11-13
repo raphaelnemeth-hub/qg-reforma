@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-13T12:20:43Z",
- "lastCheckBr": "13/11/2026 09:20",
- "added": 5,
+ "lastCheckAt": "2026-11-13T13:39:44Z",
+ "lastCheckBr": "13/11/2026 10:39",
+ "added": 7,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -30,8 +30,8 @@
   {
    "name": "Portal Contábeis",
    "ok": true,
-   "found": 14,
-   "new": 1
+   "found": 12,
+   "new": 0
   },
   {
    "name": "InfoMoney",
@@ -43,16 +43,55 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 96,
-   "new": 2
+   "new": 4
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
    "ok": true,
    "found": 7,
-   "new": 2
+   "new": 3
   }
  ],
  "items": [
+  {
+   "id": "1bb001f29926",
+   "date": "2026-11-13",
+   "title": "Reforma Tributária: Receita Federal e CGIBS adiam para 2027 a obrigatoriedade de emissão de documentos fiscais com IBS e CBS",
+   "resumo": "Agilize decisões seguras. Legislação, Comentários e Consultoria nas áreas de IR e Contribuições, ICMS, IPI, ISS, Contabilidade e Societário, Simples Nacional, Trabalhista e Previdenciária. Cálculos e Tabelas de Substituição Tributária. Agenda Tributária…",
+   "link": "https://www.legisweb.com.br/noticia/?id",
+   "source": "LegisWeb",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-13T13:39:44Z",
+   "tries": 1
+  },
+  {
+   "id": "a4adbef9fe50",
+   "date": "2026-11-13",
+   "title": "Propostas da Receita não enfrentam pontos críticos da reforma tributária",
+   "resumo": "Especialistas ponderam que o alcance das propostas da Receita sobre a reforma ainda depende da formalização das medidas",
+   "link": "https://conjur.com.br/2026-nov-13/propostas-da-receita-nao-resolvem-desafios-estruturais-da-tributaria-dizem-especialistas/",
+   "source": "Consultor Jurídico",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-13T13:39:44Z",
+   "tries": 1
+  },
+  {
+   "id": "614835a3e3c0",
+   "date": "2026-11-13",
+   "title": "Reforma Tributária: Receita quer adiar pagamento da CBS para fevereiro",
+   "resumo": "A chegada da Contribuição sobre Bens e Serviços (CBS), prevista para janeiro de 2027, poderá ter uma mudança importante no calend",
+   "link": "https://jornalcontabil.com.br/noticia/reforma-tributaria-receita-quer-adiar-pagamento-da-cbs-para-fevereiro/amp/",
+   "source": "Jornal Contábil",
+   "official": false,
+   "category": "cont",
+   "tag": "Contabilidade",
+   "addedAt": "2026-11-13T13:39:44Z",
+   "tries": 1
+  },
   {
    "id": "9e50918ddfeb",
    "date": "2026-11-13",
@@ -583,6 +622,19 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-12T03:00:00Z",
+   "tries": 1
+  },
+  {
+   "id": "0a2559395aab",
+   "date": "2026-11-11",
+   "title": "Reforma tributária: governo propõe regra de transição na CBS",
+   "resumo": "Reforma tributária: Receita vai propor ao Congresso regra opcional para empresas estimarem a CBS na primeira apuração e ajustarem no mês seguinte.",
+   "link": "https://esbrasil.com.br/reforma-tributaria-regra-transicao-cbs/",
+   "source": "ES Brasil",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-13T13:39:44Z",
    "tries": 1
   },
   {
@@ -1309,7 +1361,7 @@
    "category": "cont",
    "tag": "Contabilidade",
    "addedAt": "2026-11-13T12:20:43Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "9a243cc39424",
@@ -1933,58 +1985,6 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-12T13:02:10Z",
-   "tries": 1
-  },
-  {
-   "id": "3b0459b1cd05",
-   "date": "2026-11-06",
-   "title": "NF-e: IBS e CBS ficam fora do campo vProd - Portal Contabeis",
-   "resumo": "Nota Técnica 2026.008 define que IBS, CBS e IS não entram no campo vProd da NF-e. Veja os campos alterados, prazos e impactos para as empresas.",
-   "link": "https://www.contabeis.com.br/noticias/80671/nf-e-ibs-e-cbs-ficam-fora-do-campo-vprod/",
-   "source": "Portal Contabeis",
-   "official": false,
-   "category": "nt",
-   "tag": "Nota técnica",
-   "addedAt": "2026-11-06T20:00:02Z",
-   "tries": 1
-  },
-  {
-   "id": "2a0809a0d97f",
-   "date": "2026-11-06",
-   "title": "Estado e municípios alinham atuação do fisco para a Reforma Tributária em Aracaju - Prefeitura de Aracaju",
-   "resumo": "",
-   "link": "https://www.aracaju.se.gov.br/noticias/120276/estado-e-municipios-alinham-atuacao-do-fisco-para-a-reforma-tributaria-em-aracaju",
-   "source": "Prefeitura de Aracaju",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-06T14:43:31Z",
-   "tries": 2
-  },
-  {
-   "id": "a58bc4e5f7fc",
-   "date": "2026-11-05",
-   "title": "Deputada Any Ortiz busca apoio para PEC que adia reforma tributária - JOTA Info",
-   "resumo": "Proposta de Any Ortiz (PP-RS) estende para 2027 a alíquota-teste de CBS e IBS e precisa de 171 assinaturas para começar a tramitar",
-   "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/deputada-any-ortiz-busca-apoio-para-pec-que-adia-reforma-tributaria",
-   "source": "JOTA Info",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-05T18:18:35Z",
-   "tries": 1
-  },
-  {
-   "id": "fdb041c8eb56",
-   "date": "2026-11-05",
-   "title": "MP define as alíquotas do Imposto Seletivo para 2027 - Senado",
-   "resumo": "Aprovado no âmbito da reforma tributária, o Imposto Seletivo (IS) teve suas alíquotas e regras de cobrança estabelecidas por medida provisória ( MP 1.399/2026 ) publicada nesta quarta-feira (4) no Diário Oficial da União. Conhecido como “imposto do pecado”, o…",
-   "link": "https://www12.senado.leg.br/noticias/materias/2026/11/05/mp-define-as-aliquotas-do-imposto-seletivo-para-2027",
-   "source": "Senado",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-05T15:29:24Z",
    "tries": 1
   }
  ]

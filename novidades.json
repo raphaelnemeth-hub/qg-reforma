@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-13T20:43:23Z",
- "lastCheckBr": "13/11/2026 17:43",
- "added": 11,
+ "lastCheckAt": "2026-11-13T21:38:22Z",
+ "lastCheckBr": "13/11/2026 18:38",
+ "added": 13,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -30,8 +30,8 @@
   {
    "name": "Portal Contábeis",
    "ok": true,
-   "found": 7,
-   "new": 0
+   "found": 9,
+   "new": 2
   },
   {
    "name": "InfoMoney",
@@ -48,11 +48,35 @@
   {
    "name": "CGIBS / NF-e (Google Notícias)",
    "ok": true,
-   "found": 9,
+   "found": 8,
    "new": 3
   }
  ],
  "items": [
+  {
+   "id": "2c744bb64e69",
+   "date": "2026-11-13",
+   "title": "Projeto prevê uso de créditos da CBS para pagar tributos",
+   "resumo": "PLP 285/2026 propõe permitir o uso de determinados créditos da CBS para quitar outras obrigações com a Receita Federal. A proposta ainda tramita na Câmara. Leia mais em…",
+   "link": "https://www.contabeis.com.br/noticias/80882/projeto-preve-uso-de-creditos-da-cbs-para-pagar-tributos/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "lei",
+   "tag": "Legislação",
+   "addedAt": "2026-11-13T21:38:22Z"
+  },
+  {
+   "id": "f4f893c27fee",
+   "date": "2026-11-13",
+   "title": "IBS e CBS na base do ICMS: depósito judicial",
+   "resumo": "Empresas que contestam a inclusão do IBS e da CBS na base do ICMS podem avaliar o depósito judicial da diferença enquanto aguardam decisão. Leia mais em https://www.contabeis.com.br/noticias/80828/ibs-e-cbs-na-base-do-icms-deposito-judicial/",
+   "link": "https://www.contabeis.com.br/noticias/80828/ibs-e-cbs-na-base-do-icms-deposito-judicial/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-13T21:38:22Z"
+  },
   {
    "id": "38c5cd2aac9e",
    "date": "2026-11-13",
@@ -1952,32 +1976,6 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-10T07:00:00Z",
-   "tries": 1
-  },
-  {
-   "id": "d973a5466d30",
-   "date": "2026-11-10",
-   "title": "Reforma tributária muda regras para renda com aluguel; veja como fica para pessoas físicas e jurídicas - G1",
-   "resumo": "A CBS e o IBS passarão a incidir sobre rendimentos vindos do aluguel, com regras distintas para proprietários que são PJ e PF. A nova cobrança será gradual, com gatilhos e fase de transição até 2029.",
-   "link": "https://g1.globo.com/economia/noticia/2026/11/10/reforma-tributaria-muda-regras-para-renda-com-aluguel-veja-como-fica-para-pessoas-fisicas-e-juridicas.ghtml",
-   "source": "G1",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-10T03:00:01Z",
-   "tries": 1
-  },
-  {
-   "id": "fb18896bb830",
-   "date": "2026-11-09",
-   "title": "Reforma Tributária: guia completo sobre IBS, CBS e o que muda de 2026 a 2033",
-   "resumo": "Saiba tudo sobre a Reforma Tributária: IBS, CBS, alíquotas, créditos tributários, split payment, cashback e as principais mudanças até 2033.",
-   "link": "https://www.infomoney.com.br/guias/reforma-tributaria-guia-completo-sobre-ibs-cbs-e-o-que-muda/",
-   "source": "InfoMoney",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-13T20:43:23Z",
    "tries": 1
   }
  ]

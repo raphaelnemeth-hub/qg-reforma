@@ -7,6 +7,14 @@
 <meta name="referrer" content="no-referrer">
 <meta name="robots" content="noindex">
 <title>QG da Reforma Tributária</title>
+<meta name="description" content="Painel de consulta sobre a Reforma Tributária do Consumo (CBS, IBS e Imposto Seletivo): novidades verificadas a cada 30 minutos, cronograma, legislação, notas técnicas, glossário e calculadoras.">
+<meta name="theme-color" content="#0b2545">
+<meta property="og:type" content="website">
+<meta property="og:title" content="QG da Reforma Tributária">
+<meta property="og:description" content="Painel de consulta sobre a Reforma Tributária do Consumo (CBS, IBS e Imposto Seletivo): novidades verificadas a cada 30 minutos, cronograma, legislação, notas técnicas, glossário e calculadoras.">
+<meta property="og:locale" content="pt_BR">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230b2545'/%3E%3Ctext x='32' y='43' font-family='Arial' font-weight='800' font-size='28' text-anchor='middle' fill='%23c9a24b'%3EQG%3C/text%3E%3C/svg%3E">
+<script>try{var d=new Date(),k=d.getFullYear()+'-'+(d.getMonth()+1)+'-'+d.getDate();if(localStorage.getItem('qg_intro')===k||matchMedia('(prefers-reduced-motion:reduce)').matches)document.documentElement.className='noi'}catch(e){}</script>
 <style>
 :root{
   --ink:#0a1b33;--navy:#0b2545;--navy2:#0f3160;--blue:#1d5fa8;--sky:#e8f0fb;--gold:#c9a24b;--gold2:#f5e9c8;
@@ -34,14 +42,14 @@ h1 em{font-style:normal;color:var(--gold)}
 .count .digits{display:flex;gap:12px;margin-top:10px}
 .count .d{background:rgba(7,26,51,.6);border-radius:10px;padding:10px 14px;min-width:78px;text-align:center}
 .count .d b{display:block;font-size:30px;font-weight:800;line-height:1.1;font-variant-numeric:tabular-nums}
-.count .d span{font-size:11px;color:#b9c8df;text-transform:uppercase;letter-spacing:1px}
+.count .d span{font-size:12px;color:#b9c8df;text-transform:uppercase;letter-spacing:1px}
 .count p{margin:12px 0 0;color:#d6e0f0;font-size:13.5px}
 .alert{background:rgba(255,255,255,.07);border:1px solid rgba(255,255,255,.16);border-radius:var(--r);padding:18px 20px}
 .alert h4{margin:0 0 8px;font-size:13px;text-transform:uppercase;letter-spacing:1.2px;color:var(--gold)}
 .alert ul{margin:0;padding:0;list-style:none}
 .alert li{display:flex;gap:10px;padding:7px 0;border-top:1px solid rgba(255,255,255,.1);font-size:14px;color:#e5edf8}
 .alert li:first-child{border-top:0}
-.alert li b{min-width:62px;color:var(--gold);font-variant-numeric:tabular-nums}
+.alert li b{min-width:72px;white-space:nowrap;color:var(--gold);font-variant-numeric:tabular-nums}
 .hero{padding-bottom:30px}.count{display:flex;flex-direction:column;justify-content:center}
 .kpis{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin:26px 0 0;position:relative;z-index:2}
 .kpi{background:#fff;color:var(--ink);border-radius:var(--r);padding:16px 18px;box-shadow:var(--sh);border-top:4px solid var(--gold)}
@@ -70,7 +78,7 @@ h2{margin:2px 0 0;font-size:28px;letter-spacing:-.6px;color:var(--navy)}
 .card:hover{transform:translateY(-2px);box-shadow:0 2px 4px rgba(11,37,69,.08),0 14px 30px rgba(11,37,69,.1)}
 .card h3{margin:6px 0 6px;font-size:16.5px;color:var(--navy);line-height:1.3}
 .card p{margin:0 0 10px;color:#2d394b;font-size:14.5px}
-.tag{display:inline-block;font-size:10.5px;font-weight:800;padding:3px 9px;border-radius:99px;background:var(--sky);color:var(--navy2);letter-spacing:.6px;text-transform:uppercase;margin-right:4px}
+.tag{display:inline-block;font-size:12px;font-weight:800;padding:3px 9px;border-radius:99px;background:var(--sky);color:var(--navy2);letter-spacing:.6px;text-transform:uppercase;margin-right:4px}
 .tag.gold{background:var(--gold2);color:#6f5206}.tag.ok{background:var(--okbg);color:var(--ok)}.tag.warn{background:var(--warnbg);color:var(--warn)}
 .date{font-size:12.5px;font-weight:700;color:var(--mut);font-variant-numeric:tabular-nums}
 .src{font-size:13px;display:inline-block;margin-right:12px}
@@ -146,7 +154,7 @@ details .ans p{margin:0 0 8px}
 .az button.on{background:var(--navy);color:#fff}
 .gl{display:grid;grid-template-columns:repeat(auto-fill,minmax(340px,1fr));gap:12px}
 .gl article{background:#fff;border:1px solid var(--line);border-left:4px solid var(--gold);border-radius:12px;padding:13px 15px;box-shadow:var(--sh);break-inside:avoid}
-.gl h4{margin:0 0 2px;color:var(--navy);font-size:15px}.gl h4 small{font-weight:700;color:var(--mut);font-size:11px;letter-spacing:.7px;text-transform:uppercase;margin-left:6px}
+.gl h4{margin:0 0 2px;color:var(--navy);font-size:15px}.gl h4 small{font-weight:700;color:var(--mut);font-size:12px;letter-spacing:.7px;text-transform:uppercase;margin-left:6px}
 .gl p{margin:0;color:#2d394b;font-size:14px}
 .live{display:flex;align-items:center;gap:10px;background:#fff;border:1px solid var(--line);border-left:4px solid var(--gold);border-radius:12px;padding:10px 14px;margin:0 0 14px;font-size:13.5px;color:#2d394b;box-shadow:var(--sh)}
 .live .dot{width:9px;height:9px;border-radius:50%;background:#9aa7ba;flex:0 0 auto}
@@ -244,6 +252,17 @@ nav.top .gm a,nav.top .gm a:hover{display:block;padding:10px 12px;border-radius:
 nav.top .gm a:hover,nav.top .gm a.on{background:var(--sky)}
 .empty{padding:18px;text-align:center;color:var(--mut);background:#fff;border:1px dashed var(--line);border-radius:12px;font-size:14px;margin-top:12px;grid-column:1/-1}
 .warn{display:block;color:#8a4b00;font-size:12px;margin-top:3px}
+.noi .upd{display:none}
+.fw{position:relative;display:block}.fw input{width:100%}
+.fw .pf{position:absolute;left:12px;top:50%;transform:translateY(-50%);color:var(--mut);font-weight:700;font-size:14px;pointer-events:none}
+.fw.brl input{padding-left:40px}.fw.pct input{padding-right:34px}.fw .pf.r{left:auto;right:12px}
+.warn[hidden]{display:none}
+:focus-visible{outline:3px solid var(--gold);outline-offset:2px}
+.updbtn:focus-visible,.topbtn:focus-visible,.go:focus-visible{outline-color:var(--navy)}
+@media (prefers-reduced-motion:reduce){*,*:before,*:after{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important;scroll-behavior:auto!important}}
+.thint{display:none;margin:0 0 6px;font-size:12px;color:var(--mut)}
+@media(max-width:700px){.thint{display:block}.chip,.az button,.pre button,.go{min-height:40px}.az button{min-width:40px}.src{display:inline-flex;align-items:center;min-height:40px}}
+@media(min-width:900px){.count .digits{gap:16px}.count .d{padding:16px 22px;min-width:96px}.count .d b{font-size:44px}}
 </style>
 </head>
 <body>
@@ -385,6 +404,7 @@ nav.top .gm a:hover,nav.top .gm a.on{background:var(--sky)}
     <div class="yr"><b>2032</b><small>IBS 40%<br>ICMS/ISS 60%</small></div>
     <div class="yr"><b>2033</b><small>Vigência plena<br>ICMS/ISS extintos</small></div>
   </div>
+  <p class="thint">Deslize a tabela para o lado para ver todas as colunas →</p>
   <div class="scroll"><table>
     <tr><th>Ano</th><th>CBS (federal)</th><th>IBS (estados e municípios)</th><th>PIS/Cofins, ICMS, ISS, IPI</th><th>Imposto Seletivo</th></tr>
     <tr class="now"><td>2026</td><td>Destaque informativo 0,9%</td><td>Destaque informativo 0,1%</td><td>Mantidos; valores de teste compensados no PIS/Cofins</td><td>Não aplicado</td></tr>
@@ -553,6 +573,7 @@ nav.top .gm a:hover,nav.top .gm a.on{background:var(--sky)}
   </div>
 
   <h3 style="margin:22px 0 10px;color:var(--navy)">Comparativo de regimes após 2027</h3>
+  <p class="thint">Deslize a tabela para o lado para ver todas as colunas →</p>
   <div class="scroll"><table>
     <tr><th>Item</th><th>Lucro Real</th><th>Lucro Presumido</th><th>Simples Nacional</th></tr>
     <tr><td>IRPJ/CSLL</td><td>Lucro contábil ajustado (LALUR/LACS); permite compensar prejuízos</td><td>Percentual presumido sobre a receita bruta (ex.: 8% comércio, 32% serviços)</td><td>Dentro do DAS</td></tr>
@@ -898,7 +919,8 @@ nav.top .gm a:hover,nav.top .gm a.on{background:var(--sky)}
     var f=document.querySelector('#fchips .chip.on');if(f)f.click();
   }
   QG.load=function(){
-    return new Promise(function(resolve){
+    if(QG.pending)return QG.pending;
+    QG.pending=new Promise(function(resolve){
       var done=false;
       function fin(r){if(done)return;done=true;QG.last=r;render(r);resolve(r)}
       var t=setTimeout(function(){fin({ok:false,reason:'timeout'})},10000);
@@ -912,6 +934,8 @@ nav.top .gm a:hover,nav.top .gm a.on{background:var(--sky)}
         }).catch(function(){clearTimeout(t);fin({ok:false,reason:'rede'})});
       }catch(e){clearTimeout(t);fin({ok:false,reason:'erro'})}
     });
+    QG.pending.then(function(){QG.pending=null});
+    return QG.pending;
   };
   QG.fillFinish=function(){
     var r=QG.last,p=document.getElementById('ufinP'),l=document.getElementById('ufinL'),s=document.getElementById('ufinS');
@@ -935,7 +959,7 @@ nav.top .gm a:hover,nav.top .gm a.on{background:var(--sky)}
       s.textContent='Arquivo de novidades indisponível (abra pelo endereço publicado, não pelo arquivo local). Exibindo os dados embutidos até 12/11/2026.';
     }
   };
-  setTimeout(function(){QG.load()},400);
+  setTimeout(function(){if(!QG.last&&!QG.pending)QG.load()},1500);
 })();
 </script>
 <script>
@@ -999,7 +1023,7 @@ nav.top .gm a:hover,nav.top .gm a.on{background:var(--sky)}
   tb.addEventListener('click',function(){window.scrollTo({top:0,behavior:'smooth'})});
   window.addEventListener('scroll',function(){tb.classList.toggle('show',window.scrollY>400)},{passive:true});
   function quick(){
-    reset();document.body.style.overflow='hidden';upd.classList.add('done');
+    document.documentElement.classList.remove('noi');reset();document.body.style.overflow='hidden';upd.classList.add('done');
     var p=document.getElementById('ufinP'),l=document.getElementById('ufinL'),s2=document.getElementById('ufinS');
     if(p)p.textContent='Verificando novidades…';if(l)l.innerHTML='';if(s2)s2.textContent='';
     var go=function(){if(window.QG)window.QG.fillFinish();timers.push(setTimeout(close,8000))};
@@ -1009,7 +1033,8 @@ nav.top .gm a:hover,nav.top .gm a.on{background:var(--sky)}
   document.getElementById('uskip').addEventListener('click',finish);
   document.getElementById('uok').addEventListener('click',close);
   document.addEventListener('keydown',function(e){if(e.key==='Escape'&&upd.classList.contains('done'))close()});
-  run();
+  if(document.documentElement.classList.contains('noi')){if(window.QG)window.QG.load()}
+  else{try{var d=new Date();localStorage.setItem('qg_intro',d.getFullYear()+'-'+(d.getMonth()+1)+'-'+d.getDate())}catch(e){}run()}
 })();
 </script>
 <script>
@@ -1018,10 +1043,15 @@ nav.top .gm a:hover,nav.top .gm a.on{background:var(--sky)}
   var brl=function(n){return (isFinite(n)?n:0).toLocaleString('pt-BR',{style:'currency',currency:'BRL'})};
   var pct=function(n){return (isFinite(n)?n:0).toLocaleString('pt-BR',{minimumFractionDigits:2,maximumFractionDigits:2})+'%'};
   var num=function(i){var e=$(i),v=parseFloat(e.value);if(isNaN(v))return 0;var lo=e.min!==''?parseFloat(e.min):-Infinity,hi=e.max!==''?parseFloat(e.max):Infinity;return Math.min(hi,Math.max(lo,v))};
+  document.querySelectorAll('#calc label').forEach(function(l){var f=l.nextElementSibling;if(f&&/^(INPUT|SELECT)$/.test(f.tagName)&&f.id)l.htmlFor=f.id});
+  [['q','Filtrar notas técnicas'],['fq','Buscar dúvida'],['gq','Buscar termo no glossário']].forEach(function(x){var e=$(x[0]);if(e)e.setAttribute('aria-label',x[1])});
   document.querySelectorAll('#calc input[type=number]').forEach(function(e){
-    var lb=e.parentElement.querySelector('label'),pc=lb&&lb.textContent.indexOf('%')>-1;
+    var lb=document.querySelector('label[for="'+e.id+'"]')||e.parentElement.querySelector('label'),lt=lb?lb.textContent:'',pc=lt.indexOf('%')>-1,kind=lt.indexOf('(R$)')>-1?'brl':(pc?'pct':'');
     e.min='0';if(pc)e.max='100';
-    var w=document.createElement('small');w.className='warn';w.setAttribute('role','alert');w.hidden=true;e.parentNode.insertBefore(w,e.nextSibling);
+    if(kind){e.step='0.01';var wr=document.createElement('span');wr.className='fw '+kind;e.parentNode.insertBefore(wr,e);wr.appendChild(e);var ad=document.createElement('span');ad.className='pf'+(kind==='pct'?' r':'');ad.textContent=kind==='brl'?'R$':'%';ad.setAttribute('aria-hidden','true');wr.appendChild(ad);
+      var v0=parseFloat(e.value);if(!isNaN(v0))e.value=v0.toFixed(2);
+      e.addEventListener('blur',function(){var v=parseFloat(e.value);if(!isNaN(v))e.value=v.toFixed(2)})}
+    var w=document.createElement('small');w.className='warn';w.setAttribute('role','alert');w.hidden=true;var hostEl=e.closest('.fw')||e;hostEl.parentNode.insertBefore(w,hostEl.nextSibling);
     e.addEventListener('input',function(){var v=parseFloat(e.value);w.hidden=true;
       if(isNaN(v))return;
       if(v<0){w.textContent='O valor não pode ser negativo. Cálculo feito com 0.';w.hidden=false}
@@ -1041,8 +1071,9 @@ nav.top .gm a:hover,nav.top .gm a.on{background:var(--sky)}
 
   /* feed filter */
   var chips=document.querySelectorAll('#fchips .chip');
+  chips.forEach(function(x){x.setAttribute('aria-pressed',x.classList.contains('on')?'true':'false')});
   chips.forEach(function(c){c.addEventListener('click',function(){
-    chips.forEach(function(x){x.classList.remove('on')});c.classList.add('on');
+    chips.forEach(function(x){x.classList.remove('on');x.setAttribute('aria-pressed','false')});c.classList.add('on');c.setAttribute('aria-pressed','true');
     var f=c.getAttribute('data-f');
     document.querySelectorAll('#feed .item').forEach(function(it){
       it.style.display=(f==='all'||(' '+it.getAttribute('data-t')+' ').indexOf(' '+f+' ')>-1)?'':'none';
@@ -1109,9 +1140,9 @@ nav.top .gm a:hover,nav.top .gm a.on{background:var(--sky)}
     });
   });
   document.querySelectorAll('[data-c1]').forEach(function(b){b.addEventListener('click',function(){
-    var y=b.getAttribute('data-c1');$('c1c').value=y==='2026'?0.9:11.2;$('c1i').value=0.1;c1();})});
+    var y=b.getAttribute('data-c1');$('c1c').value=y==='2026'?'0.90':'11.20';$('c1i').value='0.10';c1();})});
   document.querySelectorAll('[data-c2]').forEach(function(b){b.addEventListener('click',function(){
-    var y=b.getAttribute('data-c2');$('c2a').value=y==='2026'?0.9:11.2;$('c2b').value=0.1;c2();})});
+    var y=b.getAttribute('data-c2');$('c2a').value=y==='2026'?'0.90':'11.20';$('c2b').value='0.10';c2();})});
   c1();c2();c3();c4();c5();c6();c7();
 
   /* glossary */
@@ -1245,6 +1276,7 @@ nav.top .gm a:hover,nav.top .gm a.on{background:var(--sky)}
     return '<article data-l="'+L+'"><h4>'+g[0]+'<small>'+g[1]+'</small></h4><p>'+g[2]+'</p></article>';
   }).join('');
   az.innerHTML='<button class="on" data-l="">Todos ('+G.length+')</button>'+Object.keys(letters).sort().map(function(l){return '<button data-l="'+l+'">'+l+'</button>'}).join('');
+  az.querySelectorAll('button').forEach(function(b){b.setAttribute('aria-pressed',b.classList.contains('on')?'true':'false')});
   var curL='';
   function gf(){
     var t=$('gq').value.toLowerCase();
@@ -1258,8 +1290,8 @@ nav.top .gm a:hover,nav.top .gm a.on{background:var(--sky)}
   }
   az.addEventListener('click',function(e){
     if(e.target.tagName!=='BUTTON')return;
-    az.querySelectorAll('button').forEach(function(b){b.classList.remove('on')});
-    e.target.classList.add('on');curL=e.target.getAttribute('data-l');gf();
+    az.querySelectorAll('button').forEach(function(b){b.classList.remove('on');b.setAttribute('aria-pressed','false')});
+    e.target.classList.add('on');e.target.setAttribute('aria-pressed','true');curL=e.target.getAttribute('data-l');gf();
   });
   $('gq').addEventListener('input',gf);
 

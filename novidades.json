@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-13T09:25:14Z",
- "lastCheckBr": "13/11/2026 06:25",
- "added": 0,
+ "lastCheckAt": "2026-11-13T10:25:54Z",
+ "lastCheckBr": "13/11/2026 07:25",
+ "added": 1,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -43,7 +43,7 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 95,
-   "new": 0
+   "new": 1
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -64,6 +64,19 @@
    "category": "pag",
    "tag": "Split payment",
    "addedAt": "2026-11-13T08:11:02Z",
+   "tries": 1
+  },
+  {
+   "id": "4a99e1166723",
+   "date": "2026-11-12",
+   "title": "Olinda antecipa implantação do Cadastro Imobiliário Brasileiro e se prepara para os impactos da Reforma Tributária",
+   "resumo": "Município já cadastrou aproximadamente 130 mil imóveis e concluiu a etapa antes do prazo estabelecido, fortalecendo a identificação dos bens",
+   "link": "https://olinda.pe.gov.br/noticias/olinda-antecipa-implantacao-do-cadastro-imobiliario-brasileiro-e-se-prepara-para-os-impactos-da-reforma-tributaria",
+   "source": "Prefeitura de Olinda",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-13T10:25:54Z",
    "tries": 1
   },
   {
@@ -1971,19 +1984,6 @@
    "official": false,
    "category": "nt",
    "tag": "Nota técnica",
-   "addedAt": "2026-11-03T08:00:00Z",
-   "tries": 2
-  },
-  {
-   "id": "ea8d7bfcb4b9",
-   "date": "2026-11-03",
-   "title": "Reforma Tributária do Consumo – Vinculação com a Transação de Pagamento do DF-e - Portal da Nota Fiscal Eletrônica",
-   "resumo": "",
-   "link": "https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo",
-   "source": "Portal da Nota Fiscal Eletrônica",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
    "addedAt": "2026-11-03T08:00:00Z",
    "tries": 2
   }

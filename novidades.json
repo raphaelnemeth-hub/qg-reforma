@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-13T02:40:14Z",
- "lastCheckBr": "12/11/2026 23:40",
- "added": 2,
+ "lastCheckAt": "2026-11-13T03:41:44Z",
+ "lastCheckBr": "13/11/2026 00:41",
+ "added": 1,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -49,7 +49,7 @@
    "name": "CGIBS / NF-e (Google Notícias)",
    "ok": true,
    "found": 7,
-   "new": 1
+   "new": 0
   }
  ],
  "items": [
@@ -1232,6 +1232,19 @@
    "category": "pag",
    "tag": "Split payment",
    "addedAt": "2026-11-11T03:00:00Z",
+   "tries": 1
+  },
+  {
+   "id": "9a243cc39424",
+   "date": "2026-11-10",
+   "title": "IBS e CBS: A controvérsia sobre a exportação de serviços",
+   "resumo": "Nova regra da reforma tributária abre espaço para diferentes interpretações sobre a tributação de serviços prestados no Brasil a clientes estrangeiros. A reform",
+   "link": "https://crcma.org.br/noticias/ibs-e-cbs-a-controversia-sobre-a-exportacao-de-servicos",
+   "source": "Conselho Regional de Contabilidade do Maranhão",
+   "official": false,
+   "category": "cont",
+   "tag": "Contabilidade",
+   "addedAt": "2026-11-13T03:41:44Z",
    "tries": 1
   },
   {

@@ -1,13 +1,13 @@
 {
- "lastCheckAt": "2026-11-13T14:43:15Z",
- "lastCheckBr": "13/11/2026 11:43",
- "added": 10,
+ "lastCheckAt": "2026-11-13T15:37:40Z",
+ "lastCheckBr": "13/11/2026 12:37",
+ "added": 2,
  "feeds": [
   {
    "name": "Agência Senado",
    "ok": true,
    "found": 1,
-   "new": 1
+   "new": 0
   },
   {
    "name": "Agência Câmara",
@@ -31,7 +31,7 @@
    "name": "Portal Contábeis",
    "ok": true,
    "found": 9,
-   "new": 0
+   "new": 2
   },
   {
    "name": "InfoMoney",
@@ -41,18 +41,44 @@
   },
   {
    "name": "Imprensa (Google Notícias)",
-   "ok": true,
-   "found": 96,
-   "new": 6
+   "ok": false,
+   "found": 0,
+   "new": 0,
+   "error": "HTTPError"
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
-   "ok": true,
-   "found": 7,
-   "new": 3
+   "ok": false,
+   "found": 0,
+   "new": 0,
+   "error": "HTTPError"
   }
  ],
  "items": [
+  {
+   "id": "5a65d28b89b6",
+   "date": "2026-11-13",
+   "title": "Sala de situação começa a discutir desafios da reforma tributária",
+   "resumo": "Sala de situação terá reuniões semanais para discutir problemas da reforma tributária , com prioridade para Simples Nacional e transição de PIS e Cofins . Leia mais em…",
+   "link": "https://www.contabeis.com.br/noticias/80861/sala-de-situacao-comeca-a-discutir-desafios-da-reforma-tributaria/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "simples",
+   "tag": "Simples",
+   "addedAt": "2026-11-13T15:37:40Z"
+  },
+  {
+   "id": "9c5dcf5b06bf",
+   "date": "2026-11-13",
+   "title": "IBS e CBS: Receita e CGIBS alteram prazos dos documentos fiscais",
+   "resumo": "Ato Conjunto nº 7/2026 muda os prazos da NFS-e, de outros documentos fiscais e da DeRE. Veja as datas e o calendário do Simples Nacional . Leia mais em https://www.contabeis.com.br/noticias/80858/ibs-e-cbs-receita-e-cgibs-alteram-prazos-dos-documentos-fiscais/",
+   "link": "https://www.contabeis.com.br/noticias/80858/ibs-e-cbs-receita-e-cgibs-alteram-prazos-dos-documentos-fiscais/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "simples",
+   "tag": "Simples",
+   "addedAt": "2026-11-13T15:37:40Z"
+  },
   {
    "id": "20502cc06b64",
    "date": "2026-11-13",
@@ -1959,32 +1985,6 @@
    "tag": "Atualização",
    "addedAt": "2026-11-09T13:12:25Z",
    "tries": 1
-  },
-  {
-   "id": "28cef829379e",
-   "date": "2026-11-09",
-   "title": "Sem adiamento: CBS começa em janeiro de 2027 - Portal Contabeis",
-   "resumo": "Receita Federal e Ministério da Fazenda mantêm previsão de cobrança integral da CBS em janeiro de 2027, apesar dos pedidos de adiamento.",
-   "link": "https://www.contabeis.com.br/noticias/80689/sem-adiamento-cbs-comeca-em-janeiro-de-2027/",
-   "source": "Portal Contabeis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-09T12:00:02Z",
-   "tries": 1
-  },
-  {
-   "id": "bcdb97fdda6b",
-   "date": "2026-11-09",
-   "title": "Medida provisória regulamenta o Imposto Seletivo para 2027 - Portal da Câmara dos Deputados",
-   "resumo": "",
-   "link": "https://www.camara.leg.br/noticias/1316363-medida-provisoria-regulamenta-o-imposto-seletivo-para-2027",
-   "source": "Portal da Câmara dos Deputados",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-09T08:00:00Z",
-   "tries": 2
   }
  ]
 }

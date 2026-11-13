@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-12T23:31:17Z",
- "lastCheckBr": "12/11/2026 20:31",
- "added": 0,
+ "lastCheckAt": "2026-11-13T00:42:57Z",
+ "lastCheckBr": "12/11/2026 21:42",
+ "added": 1,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -43,7 +43,7 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 95,
-   "new": 0
+   "new": 1
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -53,6 +53,19 @@
   }
  ],
  "items": [
+  {
+   "id": "667e371ac328",
+   "date": "2026-11-12",
+   "title": "Locadoras de veículos pedem adiamento da cobrança da CBS e do Imposto Seletivo para 2028",
+   "resumo": "12/11/2026 Entidades representativas do setor de locação de veículos defenderam o adiamento para 2028 do início da cobrança efetiva da Contribuição sobre Bens e Serviços (CBS) e do Imposto Seletivo (IS), previstos para entrar em vigor em 2027. A proposta foi…",
+   "link": "https://tagdlaw.com.br/locadoras-de-veiculos-pedem-adiamento-da-cobranca-da-cbs-e-do-imposto-seletivo-para-2028/",
+   "source": "TAGD Advogados",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-13T00:42:57Z",
+   "tries": 1
+  },
   {
    "id": "8a241c873a1e",
    "date": "2026-11-12",

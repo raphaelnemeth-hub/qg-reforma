@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-13T10:25:54Z",
- "lastCheckBr": "13/11/2026 07:25",
- "added": 1,
+ "lastCheckAt": "2026-11-13T11:22:25Z",
+ "lastCheckBr": "13/11/2026 08:22",
+ "added": 2,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -49,10 +49,23 @@
    "name": "CGIBS / NF-e (Google Notícias)",
    "ok": true,
    "found": 7,
-   "new": 0
+   "new": 1
   }
  ],
  "items": [
+  {
+   "id": "3098d16ab35a",
+   "date": "2026-11-13",
+   "title": "Reforma tributária: Governo vai propor ao Congresso regra de transição da CBS para facilitar adaptação das empresas",
+   "resumo": "O governo federal vai propor ao Congresso Nacional uma regra opcional de transição para a cobrança da CBS, permitindo que empresas estimem créditos tributários nos primeiros meses de 2027 e façam ajustes posteriores. A Receita Federal também prevê…",
+   "link": "https://jornalgrandebahia.com.br/2026/11/reforma-tributaria-governo-vai-propor-ao-congresso-regra-de-transicao-da-cbs-para-facilitar-adaptacao-das-empresas/",
+   "source": "Jornal Grande Bahia",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-13T11:22:25Z",
+   "tries": 1
+  },
   {
    "id": "ef34e75af7f6",
    "date": "2026-11-13",
@@ -1973,19 +1986,6 @@
    "tag": "Atualização",
    "addedAt": "2026-11-04T04:07:29Z",
    "tries": 1
-  },
-  {
-   "id": "6cd312f311c5",
-   "date": "2026-11-03",
-   "title": "Reforma Tributária do Consumo – Adequações NF-e / NFC-e - Portal da Nota Fiscal Eletrônica",
-   "resumo": "",
-   "link": "https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo",
-   "source": "Portal da Nota Fiscal Eletrônica",
-   "official": false,
-   "category": "nt",
-   "tag": "Nota técnica",
-   "addedAt": "2026-11-03T08:00:00Z",
-   "tries": 2
   }
  ]
 }

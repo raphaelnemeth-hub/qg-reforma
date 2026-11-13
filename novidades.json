@@ -1,6 +1,6 @@
 {
- "lastCheckAt": "2026-11-13T21:38:22Z",
- "lastCheckBr": "13/11/2026 18:38",
+ "lastCheckAt": "2026-11-13T22:35:19Z",
+ "lastCheckBr": "13/11/2026 19:35",
  "added": 13,
  "feeds": [
   {
@@ -30,8 +30,8 @@
   {
    "name": "Portal Contábeis",
    "ok": true,
-   "found": 9,
-   "new": 2
+   "found": 10,
+   "new": 1
   },
   {
    "name": "InfoMoney",
@@ -43,16 +43,28 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 95,
-   "new": 8
+   "new": 9
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
    "ok": true,
-   "found": 8,
+   "found": 9,
    "new": 3
   }
  ],
  "items": [
+  {
+   "id": "4e3a8b733eb3",
+   "date": "2026-11-13",
+   "title": "CBS em 2027: empresas cobram prazo para adaptação",
+   "resumo": "Com a CBS prevista para 2027, empresas e contadores pedem tempo para adaptar sistemas e rotinas diante de regras e ferramentas ainda pendentes. Leia mais em https://www.contabeis.com.br/noticias/80883/cbs-em-2027-empresas-cobram-prazo-para-adaptacao/",
+   "link": "https://www.contabeis.com.br/noticias/80883/cbs-em-2027-empresas-cobram-prazo-para-adaptacao/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "cont",
+   "tag": "Contabilidade",
+   "addedAt": "2026-11-13T22:35:19Z"
+  },
   {
    "id": "2c744bb64e69",
    "date": "2026-11-13",
@@ -1602,6 +1614,19 @@
    "tries": 1
   },
   {
+   "id": "d973a5466d30",
+   "date": "2026-11-10",
+   "title": "Reforma tributária muda regras para renda com aluguel; veja como fica para pessoas físicas e jurídicas",
+   "resumo": "A CBS e o IBS passarão a incidir sobre rendimentos vindos do aluguel, com regras distintas para proprietários que são PJ e PF. A nova cobrança será gradual, com gatilhos e fase de transição até 2029.",
+   "link": "https://g1.globo.com/economia/noticia/2026/11/10/reforma-tributaria-muda-regras-para-renda-com-aluguel-veja-como-fica-para-pessoas-fisicas-e-juridicas.ghtml",
+   "source": "G1",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-13T22:35:19Z",
+   "tries": 1
+  },
+  {
    "id": "896efffa840c",
    "date": "2026-11-10",
    "title": "Reforma Tributária: Ato Técnico nº 10 aprova versões para nove modelos de documentos fiscais",
@@ -1950,32 +1975,6 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-10T11:16:06Z",
-   "tries": 1
-  },
-  {
-   "id": "05c3c4146caf",
-   "date": "2026-11-10",
-   "title": "Reforma tributária e imposto seletivo para 2027 - Migalhas",
-   "resumo": "Por Ricardo Pontes Vivacqua. O texto analisa a MP 1.399/26, a fixação de alíquotas e suas regras de implementação.",
-   "link": "https://www.migalhas.com.br/depeso/468179/reforma-tributaria-e-imposto-seletivo-para-2027",
-   "source": "Migalhas",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-10T10:15:48Z",
-   "tries": 1
-  },
-  {
-   "id": "01bb5d4b4463",
-   "date": "2026-11-10",
-   "title": "Que imposto é esse: Coautor da reforma tributária rejeita adiamento da CBS para 2028 - Folha de S.Paulo",
-   "resumo": "Eurico Marcos Diniz de Santi diz que prorrogação encurta aprendizado das empresas",
-   "link": "https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/11/coautor-da-reforma-tributaria-rejeita-adiamento-da-cbs-para-2028.shtml",
-   "source": "Folha de S.Paulo",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-10T07:00:00Z",
    "tries": 1
   }
  ]

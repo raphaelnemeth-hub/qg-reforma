@@ -874,7 +874,7 @@ footer a{color:var(--gold)}footer b{color:#fff}
       }
       for(var i=items.length-1;i>=0;i--){feed.insertBefore(buildItem(items[i]),feed.firstChild)}
       txt.textContent='Ao vivo: última verificação automática '+ago(d.lastCheckAt)+' ('+(d.lastCheckBr||'—')+') · '+items.length+' notícia(s) · '+QG.fresh.length+' nova(s) desde a sua última visita. ';
-      if(!document.getElementById('liveFeed')){var fa=el('a','src','Assinar alertas (RSS) ↗');fa.id='liveFeed';fa.href='feed.xml';fa.rel='noopener noreferrer';fa.style.marginLeft='6px';live.appendChild(fa)}
+      
       live.classList.add('on');
     }else{
       txt.textContent='Modo offline: exibindo os dados embutidos até 12/11/2026. Abra pelo endereço publicado (GitHub Pages) para ver as atualizações automáticas.';

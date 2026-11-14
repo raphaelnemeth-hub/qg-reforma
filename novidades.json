@@ -1,6 +1,6 @@
 {
- "lastCheckAt": "2026-11-14T09:35:21Z",
- "lastCheckBr": "14/11/2026 06:35",
+ "lastCheckAt": "2026-11-14T10:30:07Z",
+ "lastCheckBr": "14/11/2026 07:30",
  "added": 12,
  "feeds": [
   {
@@ -42,7 +42,7 @@
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 95,
+   "found": 96,
    "new": 9
   },
   {

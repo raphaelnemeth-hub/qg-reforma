@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-14T04:41:50Z",
- "lastCheckBr": "14/11/2026 01:41",
- "added": 12,
+ "lastCheckAt": "2026-11-14T05:39:45Z",
+ "lastCheckBr": "14/11/2026 02:39",
+ "added": 14,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -43,7 +43,7 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 95,
-   "new": 9
+   "new": 11
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -1652,6 +1652,19 @@
    "tries": 1
   },
   {
+   "id": "103f9e28c8b9",
+   "date": "2026-11-10",
+   "title": "Reforma tributária: O custo da não cumulatividade nos serviços",
+   "resumo": "Por Irene Alves dos Santos. A narrativa da neutralidade fiscal cumpriu seu papel de viabilização política da EC 132/23, mas não resiste aos números reais.",
+   "link": "https://www.migalhas.com.br/depeso/467917/reforma-tributaria-o-custo-da-nao-cumulatividade-nos-servicos",
+   "source": "Migalhas",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-14T05:39:45Z",
+   "tries": 1
+  },
+  {
    "id": "42f283668a55",
    "date": "2026-11-10",
    "title": "Revisão da CBS pode gerar pressão sobre benefícios setoriais da reforma",
@@ -1961,19 +1974,6 @@
    "category": "pag",
    "tag": "Split payment",
    "addedAt": "2026-11-10T15:57:12Z",
-   "tries": 1
-  },
-  {
-   "id": "25e03a4e9dd8",
-   "date": "2026-11-10",
-   "title": "Fin prevê split payment em 98% das operações B2B até outubro de 2027 - Congresso em Foco",
-   "resumo": "Estimativa considera pagamentos entre empresas; primeira fase do sistema de recolhimento automático de impostos não afeta transações realizadas por pessoas físicas.",
-   "link": "https://www.congressoemfoco.com.br/noticia/131454/fin-preve-split-payment-em-98-das-operacoes-b2b-ate-outubro-de-2027",
-   "source": "Congresso em Foco",
-   "official": false,
-   "category": "pag",
-   "tag": "Split payment",
-   "addedAt": "2026-11-10T15:45:31Z",
    "tries": 1
   }
  ]

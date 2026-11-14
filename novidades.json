@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-14T00:36:39Z",
- "lastCheckBr": "13/11/2026 21:36",
- "added": 13,
+ "lastCheckAt": "2026-11-14T01:51:54Z",
+ "lastCheckBr": "13/11/2026 22:51",
+ "added": 12,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -31,7 +31,7 @@
    "name": "Portal Contábeis",
    "ok": true,
    "found": 11,
-   "new": 1
+   "new": 0
   },
   {
    "name": "InfoMoney",
@@ -1626,6 +1626,19 @@
    "tries": 1
   },
   {
+   "id": "42f283668a55",
+   "date": "2026-11-10",
+   "title": "Revisão da CBS pode gerar pressão sobre benefícios setoriais da reforma",
+   "resumo": "Alíquota de referência de 11,3% calculada pelo TCU surpreendeu parlamentares e setor privado, que falam em reduzir percentual",
+   "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/revisao-da-cbs-pode-gerar-pressao-sobre-beneficios-setoriais-da-reforma",
+   "source": "JOTA Info",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-14T01:51:54Z",
+   "tries": 1
+  },
+  {
    "id": "b241785bed79",
    "date": "2026-11-10",
    "title": "Receita libera APIs para consultar débitos e créditos da CBS",
@@ -1962,19 +1975,6 @@
    "tag": "Atualização",
    "addedAt": "2026-11-10T13:32:54Z",
    "tries": 1
-  },
-  {
-   "id": "a41601cb94b1",
-   "date": "2026-11-10",
-   "title": "Reforma Tributária na saúde: como clínicas devem se preparar - Contadores.cnt.br",
-   "resumo": "",
-   "link": "https://www.contadores.cnt.br/noticias/tecnicas/2026/11/10/reforma-tributaria-na-saude-como-clinicas-devem-se-preparar.html",
-   "source": "Contadores.cnt.br",
-   "official": false,
-   "category": "cont",
-   "tag": "Contabilidade",
-   "addedAt": "2026-11-10T13:29:00Z",
-   "tries": 2
   }
  ]
 }

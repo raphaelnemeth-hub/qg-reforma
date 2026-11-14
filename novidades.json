@@ -1,6 +1,6 @@
 {
- "lastCheckAt": "2026-11-14T15:06:42Z",
- "lastCheckBr": "14/11/2026 12:06",
+ "lastCheckAt": "2026-11-14T16:04:57Z",
+ "lastCheckBr": "14/11/2026 13:04",
  "added": 12,
  "feeds": [
   {
@@ -31,7 +31,7 @@
    "name": "Portal Contábeis",
    "ok": true,
    "found": 11,
-   "new": 1
+   "new": 0
   },
   {
    "name": "InfoMoney",
@@ -43,7 +43,7 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 96,
-   "new": 8
+   "new": 9
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",

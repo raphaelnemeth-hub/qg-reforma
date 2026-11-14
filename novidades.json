@@ -1,6 +1,6 @@
 {
- "lastCheckAt": "2026-11-13T23:30:31Z",
- "lastCheckBr": "13/11/2026 20:30",
+ "lastCheckAt": "2026-11-14T00:36:39Z",
+ "lastCheckBr": "13/11/2026 21:36",
  "added": 13,
  "feeds": [
   {
@@ -30,8 +30,8 @@
   {
    "name": "Portal Contábeis",
    "ok": true,
-   "found": 10,
-   "new": 0
+   "found": 11,
+   "new": 1
   },
   {
    "name": "InfoMoney",
@@ -43,7 +43,7 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 95,
-   "new": 10
+   "new": 9
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -53,6 +53,18 @@
   }
  ],
  "items": [
+  {
+   "id": "a410a443ca79",
+   "date": "2026-11-13",
+   "title": "Imóveis na holding: por que observar o prazo de 2026",
+   "resumo": "Entenda como a data de aquisição de imóveis na holding pode alterar o redutor de ajuste e a base de cálculo do IBS e da CBS em uma venda futura. Leia mais em https://www.contabeis.com.br/noticias/80839/imoveis-na-holding-por-que-observar-o-prazo-de-2026/",
+   "link": "https://www.contabeis.com.br/noticias/80839/imoveis-na-holding-por-que-observar-o-prazo-de-2026/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-14T00:36:39Z"
+  },
   {
    "id": "4e3a8b733eb3",
    "date": "2026-11-13",
@@ -1614,6 +1626,19 @@
    "tries": 1
   },
   {
+   "id": "b241785bed79",
+   "date": "2026-11-10",
+   "title": "Receita libera APIs para consultar débitos e créditos da CBS",
+   "resumo": "Nova versão das APIs da CBS permite consultas incrementais e integração com sistemas das empresas; contribuintes precisam gerar novas credenciais.",
+   "link": "https://www.contabeis.com.br/noticias/80723/receita-libera-apis-para-consultar-debitos-e-creditos-da-cbs/",
+   "source": "Portal Contabeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-14T00:36:39Z",
+   "tries": 1
+  },
+  {
    "id": "01bb5d4b4463",
    "date": "2026-11-10",
    "title": "Que imposto é esse: Coautor da reforma tributária rejeita adiamento da CBS para 2028",
@@ -1950,32 +1975,6 @@
    "tag": "Contabilidade",
    "addedAt": "2026-11-10T13:29:00Z",
    "tries": 2
-  },
-  {
-   "id": "8b7d63408c67",
-   "date": "2026-11-10",
-   "title": "Reforma tributária inclui aluguéis na cobrança de IBS e CBS a partir de 2027 - Termômetro da Política",
-   "resumo": "A reforma tributária vai incluir a renda de aluguéis na cobrança da Contribuição sobre Bens e Serviços (CBS) e do Imposto sobre Bens e ...",
-   "link": "https://www.termometrodapolitica.com.br/economia/noticia/2026/11/10/reforma-tributaria-inclui-alugueis-na-cobranca-de-ibs-e-cbs-a-partir-de-2027/",
-   "source": "Termômetro da Política",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-10T12:20:00Z",
-   "tries": 1
-  },
-  {
-   "id": "42f283668a55",
-   "date": "2026-11-10",
-   "title": "Revisão da CBS pode gerar pressão sobre benefícios setoriais da reforma - JOTA Info",
-   "resumo": "Alíquota de referência de 11,3% calculada pelo TCU surpreendeu parlamentares e setor privado, que falam em reduzir percentual",
-   "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/revisao-da-cbs-pode-gerar-pressao-sobre-beneficios-setoriais-da-reforma",
-   "source": "JOTA Info",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-10T12:15:13Z",
-   "tries": 1
   }
  ]
 }

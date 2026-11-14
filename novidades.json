@@ -1,6 +1,6 @@
 {
- "lastCheckAt": "2026-11-14T01:51:54Z",
- "lastCheckBr": "13/11/2026 22:51",
+ "lastCheckAt": "2026-11-14T02:39:34Z",
+ "lastCheckBr": "13/11/2026 23:39",
  "added": 12,
  "feeds": [
   {
@@ -390,6 +390,19 @@
    "category": "pag",
    "tag": "Split payment",
    "addedAt": "2026-11-13T08:11:02Z",
+   "tries": 1
+  },
+  {
+   "id": "c0a708fb2649",
+   "date": "2026-11-12",
+   "title": "Reforma Tributária: Receita anunciou trocas que afetam empresas em 2027",
+   "resumo": "Medidas incluem prazo adicional para ajuste da CBS, adiamento de documentos fiscais e novas regras para facilitar a adaptação",
+   "link": "https://jornalcontabil.com.br/noticia/reforma-tributaria-receita-anunciou-trocas-que-afetam-empresas-em-2027/",
+   "source": "Jornal Contábil",
+   "official": false,
+   "category": "cont",
+   "tag": "Contabilidade",
+   "addedAt": "2026-11-14T02:39:34Z",
    "tries": 1
   },
   {
@@ -1961,19 +1974,6 @@
    "category": "nt",
    "tag": "Nota técnica",
    "addedAt": "2026-11-10T14:06:55Z",
-   "tries": 1
-  },
-  {
-   "id": "884236f8d10a",
-   "date": "2026-11-10",
-   "title": "Reforma Tributária: Receita libera novas APIs para consulta da apuração da CBS - ConvergenciaDigital",
-   "resumo": "A Receita Federal liberou a versão 2.0 das interfaces de programação de aplicações (APIs) para consu",
-   "link": "https://convergenciadigital.com.br/governo/reforma-tributaria-receita-libera-novas-apis-para-consulta-da-apuracao-da-cbs/",
-   "source": "ConvergenciaDigital",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-10T13:32:54Z",
    "tries": 1
   }
  ]

@@ -1,6 +1,6 @@
 {
- "lastCheckAt": "2026-11-14T12:06:03Z",
- "lastCheckBr": "14/11/2026 09:06",
+ "lastCheckAt": "2026-11-14T13:22:49Z",
+ "lastCheckBr": "14/11/2026 10:22",
  "added": 13,
  "feeds": [
   {
@@ -30,8 +30,8 @@
   {
    "name": "Portal Contábeis",
    "ok": true,
-   "found": 12,
-   "new": 1
+   "found": 11,
+   "new": 0
   },
   {
    "name": "InfoMoney",
@@ -43,7 +43,7 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 96,
-   "new": 9
+   "new": 10
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -1664,6 +1664,19 @@
    "tries": 1
   },
   {
+   "id": "4eb79287069f",
+   "date": "2026-11-10",
+   "title": "Calendário dos bancos prevê pleno funcionamento do 'split payment' na Reforma Tributária a partir de outubro de 2027",
+   "resumo": "Mecanismo é visto pelo Fisco como fundamental para reduzir a sonegação",
+   "link": "https://oglobo.globo.com/google/amp/economia/fabio-graner/post/2026/11/calendario-dos-bancos-preve-pleno-funcionamento-do-split-payment-na-reforma-tributaria-a-partir-de-outubro-de-2027.ghtml",
+   "source": "O GLOBO",
+   "official": false,
+   "category": "pag",
+   "tag": "Split payment",
+   "addedAt": "2026-11-14T13:22:49Z",
+   "tries": 1
+  },
+  {
    "id": "103f9e28c8b9",
    "date": "2026-11-10",
    "title": "Reforma tributária: O custo da não cumulatividade nos serviços",
@@ -1960,19 +1973,6 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-10T16:40:00Z",
-   "tries": 1
-  },
-  {
-   "id": "e31a4b31b1e2",
-   "date": "2026-11-10",
-   "title": "TIM: Estamos prontos para a Reforma Tributária, mas faltam definições relevantes como a alíquota da CBS - ConvergenciaDigital",
-   "resumo": "A TIM disse ser indiferente ao adiamento ou não do começo da Reforma Tributária em janeiro de 2027.",
-   "link": "https://convergenciadigital.com.br/mercado/tim-estamos-prontos-para-a-reforma-tributaria-mas-faltam-definicoes-relevantes-como-a-aliquota-da-cbs/",
-   "source": "ConvergenciaDigital",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-10T16:08:50Z",
    "tries": 1
   }
  ]

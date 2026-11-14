@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-14T18:38:10Z",
- "lastCheckBr": "14/11/2026 15:38",
- "added": 13,
+ "lastCheckAt": "2026-11-14T19:33:02Z",
+ "lastCheckBr": "14/11/2026 16:33",
+ "added": 14,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -43,7 +43,7 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 96,
-   "new": 10
+   "new": 11
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -934,6 +934,19 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-12T03:00:00Z",
+   "tries": 1
+  },
+  {
+   "id": "792a6161c8c8",
+   "date": "2026-11-11",
+   "title": "Sabesp muda conta de água para se adequar à reforma tributária; veja o que muda",
+   "resumo": "Nova fatura discrimina CBS e IBS, tributos que entram no sistema de cobrança a partir de 2027",
+   "link": "https://www1.folha.uol.com.br/mercado/2026/11/sabesp-muda-conta-de-agua-para-se-adequar-a-reforma-tributaria-veja-o-que-muda.shtml",
+   "source": "Folha de S.Paulo",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-14T19:33:02Z",
    "tries": 1
   },
   {
@@ -1959,19 +1972,6 @@
    "category": "pag",
    "tag": "Split payment",
    "addedAt": "2026-11-10T18:21:00Z",
-   "tries": 1
-  },
-  {
-   "id": "91875e3a09c6",
-   "date": "2026-11-10",
-   "title": "Reforma tributária no aluguel: regras para pessoa física e jurídica - Portal Contabeis",
-   "resumo": "Entenda quando IBS e CBS incidem sobre aluguéis, como funciona o redutor residencial e quais contratos podem adotar o regime de 3,65%.",
-   "link": "https://www.contabeis.com.br/noticias/80736/reforma-tributaria-no-aluguel-regras-para-pessoa-fisica-e-juridica/",
-   "source": "Portal Contabeis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-10T17:30:02Z",
    "tries": 1
   }
  ]

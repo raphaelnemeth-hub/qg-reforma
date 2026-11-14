@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-14T14:13:07Z",
- "lastCheckBr": "14/11/2026 11:13",
- "added": 13,
+ "lastCheckAt": "2026-11-14T15:06:42Z",
+ "lastCheckBr": "14/11/2026 12:06",
+ "added": 12,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -31,7 +31,7 @@
    "name": "Portal Contábeis",
    "ok": true,
    "found": 11,
-   "new": 0
+   "new": 1
   },
   {
    "name": "InfoMoney",
@@ -43,7 +43,7 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 96,
-   "new": 10
+   "new": 8
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -53,6 +53,18 @@
   }
  ],
  "items": [
+  {
+   "id": "45de26d6a155",
+   "date": "2026-11-14",
+   "title": "Crédito de ICMS do imobilizado: prazo de homologação",
+   "resumo": "Veja quando pedir a homologação do crédito de ICMS de máquinas e equipamentos e como o saldo poderá ser compensado com o IBS . Leia mais em https://www.contabeis.com.br/noticias/80841/credito-de-icms-do-imobilizado-prazo-de-homologacao/",
+   "link": "https://www.contabeis.com.br/noticias/80841/credito-de-icms-do-imobilizado-prazo-de-homologacao/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-14T15:06:42Z"
+  },
   {
    "id": "0a58a560bad4",
    "date": "2026-11-14",
@@ -1960,19 +1972,6 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-10T17:30:02Z",
-   "tries": 1
-  },
-  {
-   "id": "89f01da723ee",
-   "date": "2026-11-10",
-   "title": "FIN e CNI cobram proteção contra multas na reforma tributária - Poder360",
-   "resumo": "Bancos alertam para falta de testes no split payment e discutem remuneração de R$ 0,39 por transação. Leia no Poder360.",
-   "link": "https://www.poder360.com.br/reforma-tributaria-2027/fin-e-cni-cobram-protecao-contra-multas-na-reforma-tributaria/",
-   "source": "Poder360",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-10T17:26:24Z",
    "tries": 1
   }
  ]

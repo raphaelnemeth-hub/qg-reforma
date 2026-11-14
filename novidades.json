@@ -1,6 +1,6 @@
 {
- "lastCheckAt": "2026-11-14T13:22:49Z",
- "lastCheckBr": "14/11/2026 10:22",
+ "lastCheckAt": "2026-11-14T14:13:07Z",
+ "lastCheckBr": "14/11/2026 11:13",
  "added": 13,
  "feeds": [
   {
@@ -922,6 +922,19 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-12T03:00:00Z",
+   "tries": 1
+  },
+  {
+   "id": "b714fb3c0378",
+   "date": "2026-11-11",
+   "title": "Indústria pede adiamento da reforma tributária para 2028 e alerta para falhas",
+   "resumo": "Manifesto entregue à Receita Federal aponta problemas nos testes, indefinições nas regras e risco de aumento de custos para empresas com início da cobrança em 2027",
+   "link": "https://www.infomoney.com.br/politica/industria-pede-adiamento-da-reforma-tributaria-para-2028-e-alerta-para-falhas/",
+   "source": "InfoMoney",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-14T14:13:07Z",
    "tries": 1
   },
   {
@@ -1960,19 +1973,6 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-10T17:26:24Z",
-   "tries": 1
-  },
-  {
-   "id": "5c9c400a4b59",
-   "date": "2026-11-10",
-   "title": "TJ-SP suspende decisões que afastavam IBS e CBS da base do ICMS - Consultor Jurídico",
-   "resumo": "Por risco de perda de arrecadação em 2027, presidente do TJ-SP atendeu pedido da Fazenda Estadual para manter IBS e a CBS da base do ICMS",
-   "link": "https://conjur.com.br/2026-nov-10/tj-sp-suspende-decisoes-que-afastavam-ibs-e-cbs-da-base-do-icms/",
-   "source": "Consultor Jurídico",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-10T16:40:00Z",
    "tries": 1
   }
  ]

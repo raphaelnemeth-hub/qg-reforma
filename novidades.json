@@ -1,6 +1,6 @@
 {
- "lastCheckAt": "2026-11-14T02:39:34Z",
- "lastCheckBr": "13/11/2026 23:39",
+ "lastCheckAt": "2026-11-14T03:39:17Z",
+ "lastCheckBr": "14/11/2026 00:39",
  "added": 12,
  "feeds": [
   {
@@ -53,6 +53,19 @@
   }
  ],
  "items": [
+  {
+   "id": "1ce1c44d270e",
+   "date": "2026-11-13",
+   "title": "Reforma Tributária exige preparo além dos sistemas fiscais",
+   "resumo": "A Reforma Tributária exige revisão de processos, créditos, preços e contratos, além da atualização dos sistemas fiscais para a chegada da CBS.",
+   "link": "https://www.contabeis.com.br/artigos/80817/reforma-tributaria-exige-preparo-alem-dos-sistemas-fiscais/",
+   "source": "Portal Contabeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-14T03:39:17Z",
+   "tries": 1
+  },
   {
    "id": "a410a443ca79",
    "date": "2026-11-13",
@@ -1961,19 +1974,6 @@
    "category": "pag",
    "tag": "Split payment",
    "addedAt": "2026-11-10T15:45:31Z",
-   "tries": 1
-  },
-  {
-   "id": "2c7047827fce",
-   "date": "2026-11-10",
-   "title": "'Split payment': 98% das operações entre empresas devem estar cobertas a partir de outubro de 2027, estima confederação - G1",
-   "resumo": "Mecanismo foi criado para viabilizar o pagamento dos tributos sobre o consumo em tempo real para União, estados e municípios, reduzindo a sonegação.",
-   "link": "https://g1.globo.com/economia/noticia/2026/11/10/split-payment-98percent-das-operacoes-devem-estar-cobertas-ate-outubro-de-2027-estima-confederacao-dos-bancos.ghtml",
-   "source": "G1",
-   "official": false,
-   "category": "nt",
-   "tag": "Nota técnica",
-   "addedAt": "2026-11-10T14:06:55Z",
    "tries": 1
   }
  ]

@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-14T11:26:14Z",
- "lastCheckBr": "14/11/2026 08:26",
- "added": 12,
+ "lastCheckAt": "2026-11-14T12:06:03Z",
+ "lastCheckBr": "14/11/2026 09:06",
+ "added": 13,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -30,8 +30,8 @@
   {
    "name": "Portal Contábeis",
    "ok": true,
-   "found": 11,
-   "new": 0
+   "found": 12,
+   "new": 1
   },
   {
    "name": "InfoMoney",
@@ -53,6 +53,18 @@
   }
  ],
  "items": [
+  {
+   "id": "0a58a560bad4",
+   "date": "2026-11-14",
+   "title": "NFS-e: adesão municipal e preenchimento de IBS e CBS",
+   "resumo": "Entenda por que a adesão do município à NFS-e Nacional não define o emissor nem a obrigação de preencher os campos de IBS e CBS . Leia mais em https://www.contabeis.com.br/noticias/80823/nfs-e-adesao-municipal-e-preenchimento-de-ibs-e-cbs/",
+   "link": "https://www.contabeis.com.br/noticias/80823/nfs-e-adesao-municipal-e-preenchimento-de-ibs-e-cbs/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-14T12:06:03Z"
+  },
   {
    "id": "1ce1c44d270e",
    "date": "2026-11-13",
@@ -1961,19 +1973,6 @@
    "category": "aliq",
    "tag": "Alíquotas",
    "addedAt": "2026-11-10T16:08:50Z",
-   "tries": 1
-  },
-  {
-   "id": "4eb79287069f",
-   "date": "2026-11-10",
-   "title": "Calendário dos bancos prevê pleno funcionamento do 'split payment' na Reforma Tributária a partir de outubro de 2027 - O GLOBO",
-   "resumo": "Mecanismo é visto pelo Fisco como fundamental para reduzir a sonegação",
-   "link": "https://oglobo.globo.com/economia/fabio-graner/post/2026/11/calendario-dos-bancos-preve-pleno-funcionamento-do-split-payment-na-reforma-tributaria-a-partir-de-outubro-de-2027.ghtml",
-   "source": "O GLOBO",
-   "official": false,
-   "category": "pag",
-   "tag": "Split payment",
-   "addedAt": "2026-11-10T15:57:12Z",
    "tries": 1
   }
  ]

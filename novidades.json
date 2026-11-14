@@ -1,6 +1,6 @@
 {
- "lastCheckAt": "2026-11-14T19:33:02Z",
- "lastCheckBr": "14/11/2026 16:33",
+ "lastCheckAt": "2026-11-14T20:27:13Z",
+ "lastCheckBr": "14/11/2026 17:27",
  "added": 14,
  "feeds": [
   {
@@ -1702,6 +1702,19 @@
    "tries": 1
   },
   {
+   "id": "91875e3a09c6",
+   "date": "2026-11-10",
+   "title": "Reforma tributária no aluguel: regras para pessoa física e jurídica",
+   "resumo": "Entenda quando IBS e CBS incidem sobre aluguéis, como funciona o redutor residencial e quais contratos podem adotar o regime de 3,65%.",
+   "link": "https://www.contabeis.com.br/noticias/80736/reforma-tributaria-no-aluguel-regras-para-pessoa-fisica-e-juridica/",
+   "source": "Portal Contabeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-14T20:27:13Z",
+   "tries": 1
+  },
+  {
    "id": "4eb79287069f",
    "date": "2026-11-10",
    "title": "Calendário dos bancos prevê pleno funcionamento do 'split payment' na Reforma Tributária a partir de outubro de 2027",
@@ -1959,19 +1972,6 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-10T18:35:48Z",
-   "tries": 1
-  },
-  {
-   "id": "edd8c6cebba1",
-   "date": "2026-11-10",
-   "title": "Tributária: Bancos preveem implementação do ‘split payment’ para empresas até outubro de 2027 - Estadão",
-   "resumo": "Mecanismo terá adesão voluntária para pessoas jurídicas e acontecerá em fases ao longo do ano que vem",
-   "link": "https://www.estadao.com.br/economia/tributaria-bancos-preveem-implementacao-do-split-payment-para-empresas-ate-outubro-de-2027/",
-   "source": "Estadão",
-   "official": false,
-   "category": "pag",
-   "tag": "Split payment",
-   "addedAt": "2026-11-10T18:21:00Z",
    "tries": 1
   }
  ]

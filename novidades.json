@@ -1,6 +1,6 @@
 {
- "lastCheckAt": "2026-11-15T03:41:26Z",
- "lastCheckBr": "15/11/2026 00:41",
+ "lastCheckAt": "2026-11-15T04:45:02Z",
+ "lastCheckBr": "15/11/2026 01:45",
  "added": 14,
  "feeds": [
   {
@@ -1728,6 +1728,19 @@
    "tries": 1
   },
   {
+   "id": "21d7bc152130",
+   "date": "2026-11-10",
+   "title": "Nem 11,3%, nem 2027: Congresso articula para mudar alíquota da CBS e adiar a reforma tributária",
+   "resumo": "Parlamentares questionam cálculo do TCU para tentar reduzir o imposto e colhem assinaturas para PEC que joga a vigência do novo sistema para 2028.",
+   "link": "https://neofeed.com.br/poder/nem-113-nem-2027-congresso-articula-para-mudar-aliquota-da-cbs-e-adiar-a-reforma-tributaria/",
+   "source": "NeoFeed",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-15T04:45:02Z",
+   "tries": 1
+  },
+  {
    "id": "0512a22428d4",
    "date": "2026-11-10",
    "title": "Senado recebe acórdão do TCU que propõe alíquota de 11,3% para a CBS — Senado Notícias",
@@ -1960,19 +1973,6 @@
    "tag": "Alíquotas",
    "addedAt": "2026-11-10T23:05:21Z",
    "tries": 1
-  },
-  {
-   "id": "bba5622ae348",
-   "date": "2026-11-10",
-   "title": "Após reunião com Durigan, Coutinho afirma que reforma tributária não será adiada - Republicanos 10",
-   "resumo": "",
-   "link": "https://republicanos10.org.br/noticia/coutinho-reforma-tributaria-nao-sera-adiada",
-   "source": "Republicanos 10",
-   "official": false,
-   "category": "lei",
-   "tag": "Legislação",
-   "addedAt": "2026-11-10T22:39:49Z",
-   "tries": 2
   }
  ]
 }

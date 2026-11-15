@@ -1,6 +1,6 @@
 {
- "lastCheckAt": "2026-11-15T17:07:14Z",
- "lastCheckBr": "15/11/2026 14:07",
+ "lastCheckAt": "2026-11-15T17:59:02Z",
+ "lastCheckBr": "15/11/2026 14:59",
  "added": 12,
  "feeds": [
   {
@@ -43,16 +43,29 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 97,
-   "new": 9
+   "new": 10
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
    "ok": true,
-   "found": 9,
-   "new": 3
+   "found": 8,
+   "new": 2
   }
  ],
  "items": [
+  {
+   "id": "dd734cb3e93c",
+   "date": "2026-11-15",
+   "title": "Empresas perdem primeira rodada na Justiça contra imposto sobre imposto na reforma tributária",
+   "resumo": "Maioria das ações sobre cálculo do ICMS está em São Paulo, em disputa de cerca de R$ 10 bi por ano",
+   "link": "https://www1.folha.uol.com.br/mercado/2026/11/empresas-perdem-primeira-rodada-na-justica-contra-imposto-sobre-imposto-na-reforma-tributaria.shtml",
+   "source": "Folha de S.Paulo",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-15T17:59:02Z",
+   "tries": 1
+  },
   {
    "id": "986a19904833",
    "date": "2026-11-15",
@@ -1959,19 +1972,6 @@
    "category": "aliq",
    "tag": "Alíquotas",
    "addedAt": "2026-11-12T17:35:38Z",
-   "tries": 1
-  },
-  {
-   "id": "49c09e00abe3",
-   "date": "2026-11-10",
-   "title": "Split payment e reforma tributária: impacto de R$ 117 bilhões nas empresas - Gazeta do Povo",
-   "resumo": "Entenda como o split payment na reforma tributária retém impostos na hora da venda e pode retirar R$ 117 bilhões do capital de giro das empresas brasileiras.",
-   "link": "https://www.gazetadopovo.com.br/economia/reforma-tributaria-ameaca-o-capital-de-giro-de-quase-um-milhao-de-empresas/",
-   "source": "Gazeta do Povo",
-   "official": false,
-   "category": "pag",
-   "tag": "Split payment",
-   "addedAt": "2026-11-11T00:44:00Z",
    "tries": 1
   }
  ]

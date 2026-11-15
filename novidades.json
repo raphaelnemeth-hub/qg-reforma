@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-15T01:55:40Z",
- "lastCheckBr": "14/11/2026 22:55",
- "added": 15,
+ "lastCheckAt": "2026-11-15T02:42:05Z",
+ "lastCheckBr": "14/11/2026 23:42",
+ "added": 14,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -43,7 +43,7 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 96,
-   "new": 12
+   "new": 11
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -1728,6 +1728,19 @@
    "tries": 1
   },
   {
+   "id": "5970255b01dc",
+   "date": "2026-11-10",
+   "title": "Alíquota de CBS? Imposto do Pecado? Entenda as discussões sobre a reforma tributária em 6 pontos",
+   "resumo": "Nos últimos dias, uma série de novidades impactou o empresariado, como uma alíquota de CBS muito maior do que o esperado, a divulgação do “Imposto do Pecado” e a discussão sobre um possível adiamento",
+   "link": "https://www.estadao.com.br/economia/aliquota-de-cbs-imposto-do-pecado-entenda-as-discussoes-sobre-a-reforma-tributaria-em-6-pontos/",
+   "source": "Estadão",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-15T02:42:05Z",
+   "tries": 1
+  },
+  {
    "id": "91875e3a09c6",
    "date": "2026-11-10",
    "title": "Reforma tributária no aluguel: regras para pessoa física e jurídica",
@@ -1959,19 +1972,6 @@
    "category": "aliq",
    "tag": "Alíquotas",
    "addedAt": "2026-11-10T21:13:00Z",
-   "tries": 1
-  },
-  {
-   "id": "0512a22428d4",
-   "date": "2026-11-10",
-   "title": "Senado recebe acórdão do TCU que propõe alíquota de 11,3% para a CBS — Senado Notícias - Senado",
-   "resumo": "O presidente do Tribunal de Contas da União (TCU), ministro Vital do Rêgo, entregou nesta terça-feira (10) ao presidente do Senado, Davi Alcolumbre, o acórdão da decisão que recomenda uma alíquota de 11,3% para a Contribuição Social sobre Bens e Serviços…",
-   "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/senado-recebe-acordao-do-tcu-que-propoe-aliquota-de-11-3-para-a-cbs",
-   "source": "Senado",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-10T21:11:18Z",
    "tries": 1
   }
  ]

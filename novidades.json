@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-15T18:39:22Z",
- "lastCheckBr": "15/11/2026 15:39",
- "added": 0,
+ "lastCheckAt": "2026-11-15T19:35:38Z",
+ "lastCheckBr": "15/11/2026 16:35",
+ "added": 13,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -11,9 +11,10 @@
   },
   {
    "name": "Agência Câmara",
-   "ok": true,
-   "found": 1,
-   "new": 0
+   "ok": false,
+   "found": 0,
+   "new": 0,
+   "error": "URLError"
   },
   {
    "name": "Receita Federal",
@@ -41,17 +42,15 @@
   },
   {
    "name": "Imprensa (Google Notícias)",
-   "ok": false,
-   "found": 0,
-   "new": 0,
-   "error": "HTTPError"
+   "ok": true,
+   "found": 97,
+   "new": 10
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
-   "ok": false,
-   "found": 0,
-   "new": 0,
-   "error": "HTTPError"
+   "ok": true,
+   "found": 9,
+   "new": 3
   }
  ],
  "items": [
@@ -1756,6 +1755,19 @@
    "tries": 1
   },
   {
+   "id": "49c09e00abe3",
+   "date": "2026-11-10",
+   "title": "Split payment e reforma tributária: impacto de R$ 117 bilhões nas empresas",
+   "resumo": "Entenda como o split payment na reforma tributária retém impostos na hora da venda e pode retirar R$ 117 bilhões do capital de giro das empresas brasileiras.",
+   "link": "https://www.gazetadopovo.com.br/economia/reforma-tributaria-ameaca-o-capital-de-giro-de-quase-um-milhao-de-empresas/",
+   "source": "Gazeta do Povo",
+   "official": false,
+   "category": "pag",
+   "tag": "Split payment",
+   "addedAt": "2026-11-15T19:35:38Z",
+   "tries": 1
+  },
+  {
    "id": "21d7bc152130",
    "date": "2026-11-10",
    "title": "Nem 11,3%, nem 2027: Congresso articula para mudar alíquota da CBS e adiar a reforma tributária",
@@ -1961,19 +1973,6 @@
    "category": "aliq",
    "tag": "Alíquotas",
    "addedAt": "2026-11-12T18:40:50Z",
-   "tries": 1
-  },
-  {
-   "id": "4f7f659ac746",
-   "date": "2026-11-10",
-   "title": "PEC 22/2026 propõe manter IPI até início do Imposto Seletivo",
-   "resumo": "PEC 22/2026 propõe manter o IPI sobre bens sujeitos ao Imposto Seletivo até o início da cobrança do novo tributo, previsto para 2 de fevereiro de 2027.",
-   "link": "https://www.contabeis.com.br/noticias/80725/pec-22-2026-propoe-manter-ipi-ate-inicio-do-imposto-seletivo/",
-   "source": "Portal Contabeis",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-12T17:35:38Z",
    "tries": 1
   }
  ]

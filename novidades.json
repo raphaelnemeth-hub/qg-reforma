@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-15T00:50:03Z",
- "lastCheckBr": "14/11/2026 21:50",
- "added": 13,
+ "lastCheckAt": "2026-11-15T01:55:40Z",
+ "lastCheckBr": "14/11/2026 22:55",
+ "added": 15,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -43,7 +43,7 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 96,
-   "new": 10
+   "new": 12
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -76,6 +76,19 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-14T12:06:03Z"
+  },
+  {
+   "id": "8ff64171913e",
+   "date": "2026-11-13",
+   "title": "Evento Interativo - Reforma Tributária: tire suas dúvidas e não caia em fake news :: Portal e-Cidadania",
+   "resumo": "Espaço institucional online de participação política disponibilizado pelo Senado Federal para que o cidadão brasileiro possa colaborar de forma mais direta e efetiva com o processo de atuação parlamentar e legislativa do Senado.",
+   "link": "https://www12.senado.leg.br/ecidadania/visualizacaoaudiencia?id",
+   "source": "Senado",
+   "official": false,
+   "category": "lei",
+   "tag": "Legislação",
+   "addedAt": "2026-11-15T01:55:40Z",
+   "tries": 1
   },
   {
    "id": "1ce1c44d270e",
@@ -934,6 +947,19 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-12T03:00:00Z",
+   "tries": 1
+  },
+  {
+   "id": "63dc5536da1c",
+   "date": "2026-11-11",
+   "title": "Reforma tributária: sem benefícios aprovados pelo Congresso, imposto do governo cairia de 11,3% para 8,5% em 2027, estima Receita",
+   "resumo": "Exceções para produtos e setores fazem alíquota padrão subir para compensar a tributação menor dos beneficiados. Senado deve definir até 15 de dezembro percentual que será cobrado em 2027.",
+   "link": "https://g1.globo.com/economia/noticia/2026/11/11/reforma-tributaria-sem-beneficios-aprovados-pelo-congresso-imposto-do-governo-cairia-de-113percent-para-85percent-estima-receita-federal.ghtml",
+   "source": "G1",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-15T01:55:40Z",
    "tries": 1
   },
   {
@@ -1946,32 +1972,6 @@
    "category": "aliq",
    "tag": "Alíquotas",
    "addedAt": "2026-11-10T21:11:18Z",
-   "tries": 1
-  },
-  {
-   "id": "5970255b01dc",
-   "date": "2026-11-10",
-   "title": "Alíquota de CBS? Imposto do Pecado? Entenda as discussões sobre a reforma tributária em 6 pontos - Estadão",
-   "resumo": "Nos últimos dias, uma série de novidades impactou o empresariado, como uma alíquota de CBS muito maior do que o esperado, a divulgação do “Imposto do Pecado” e a discussão sobre um possível adiamento",
-   "link": "https://www.estadao.com.br/amp/economia/aliquota-de-cbs-imposto-do-pecado-entenda-as-discussoes-sobre-a-reforma-tributaria-em-6-pontos/",
-   "source": "Estadão",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-10T19:53:00Z",
-   "tries": 1
-  },
-  {
-   "id": "1941ce82bb46",
-   "date": "2026-11-10",
-   "title": "Reforma tributária do aluguel: novas regras para PF e PJ - Acia Araçatuba",
-   "resumo": "A reforma tributária inclui a CBS e o IBS sobre rendimentos de aluguel, com regras diferentes para pessoas físicas e jurídicas. A transição será gradual, com gatilhos de receita e prazos até 2029.",
-   "link": "https://aciara.com.br/reforma-tributaria-do-aluguel-novas-regras-para-pf-pj/",
-   "source": "Acia Araçatuba",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-10T18:35:48Z",
    "tries": 1
   }
  ]

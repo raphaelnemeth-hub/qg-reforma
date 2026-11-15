@@ -1,6 +1,6 @@
 {
- "lastCheckAt": "2026-11-15T02:42:05Z",
- "lastCheckBr": "14/11/2026 23:42",
+ "lastCheckAt": "2026-11-15T03:41:26Z",
+ "lastCheckBr": "15/11/2026 00:41",
  "added": 14,
  "feeds": [
   {
@@ -42,7 +42,7 @@
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 96,
+   "found": 97,
    "new": 11
   },
   {
@@ -1728,6 +1728,19 @@
    "tries": 1
   },
   {
+   "id": "0512a22428d4",
+   "date": "2026-11-10",
+   "title": "Senado recebe acórdão do TCU que propõe alíquota de 11,3% para a CBS — Senado Notícias",
+   "resumo": "O presidente do Tribunal de Contas da União (TCU), ministro Vital do Rêgo, entregou nesta terça-feira (10) ao presidente do Senado, Davi Alcolumbre, o acórdão da decisão que recomenda uma alíquota de 11,3% para a Contribuição Social sobre Bens e Serviços…",
+   "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/senado-recebe-acordao-do-tcu-que-propoe-aliquota-de-11-3-para-a-cbs",
+   "source": "Senado",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-15T03:41:26Z",
+   "tries": 1
+  },
+  {
    "id": "5970255b01dc",
    "date": "2026-11-10",
    "title": "Alíquota de CBS? Imposto do Pecado? Entenda as discussões sobre a reforma tributária em 6 pontos",
@@ -1960,19 +1973,6 @@
    "tag": "Legislação",
    "addedAt": "2026-11-10T22:39:49Z",
    "tries": 2
-  },
-  {
-   "id": "21d7bc152130",
-   "date": "2026-11-10",
-   "title": "Nem 11,3%, nem 2027: Congresso articula para mudar alíquota da CBS e adiar a reforma tributária - NeoFeed",
-   "resumo": "Parlamentares questionam cálculo do TCU para tentar reduzir o imposto e colhem assinaturas para PEC que joga a vigência do novo sistema para 2028.",
-   "link": "https://neofeed.com.br/poder/nem-113-nem-2027-congresso-articula-para-mudar-aliquota-da-cbs-e-adiar-a-reforma-tributaria/",
-   "source": "NeoFeed",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-10T21:13:00Z",
-   "tries": 1
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
- "lastCheckAt": "2026-11-16T03:55:20Z",
- "lastCheckBr": "16/11/2026 00:55",
+ "lastCheckAt": "2026-11-16T05:22:58Z",
+ "lastCheckBr": "16/11/2026 02:22",
  "added": 14,
  "feeds": [
   {
@@ -1780,6 +1780,32 @@
    "tries": 1
   },
   {
+   "id": "01bb5d4b4463",
+   "date": "2026-11-10",
+   "title": "Que imposto é esse: Coautor da reforma tributária rejeita adiamento da CBS para 2028",
+   "resumo": "Eurico Marcos Diniz de Santi diz que prorrogação encurta aprendizado das empresas",
+   "link": "https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/11/coautor-da-reforma-tributaria-rejeita-adiamento-da-cbs-para-2028.shtml",
+   "source": "Folha de S.Paulo",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-16T05:22:58Z",
+   "tries": 1
+  },
+  {
+   "id": "05c3c4146caf",
+   "date": "2026-11-10",
+   "title": "Reforma tributária e imposto seletivo para 2027",
+   "resumo": "Por Ricardo Pontes Vivacqua. O texto analisa a MP 1.399/26, a fixação de alíquotas e suas regras de implementação.",
+   "link": "https://www.migalhas.com.br/depeso/468179/reforma-tributaria-e-imposto-seletivo-para-2027",
+   "source": "Migalhas",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-16T05:22:58Z",
+   "tries": 1
+  },
+  {
    "id": "131a19ac9d54",
    "date": "2026-11-10",
    "title": "Reforma Tributária: Atualização do Ambiente Beta da DeRE — Receita Federal",
@@ -1946,32 +1972,6 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-14T05:39:45Z",
-   "tries": 1
-  },
-  {
-   "id": "42f283668a55",
-   "date": "2026-11-10",
-   "title": "Revisão da CBS pode gerar pressão sobre benefícios setoriais da reforma",
-   "resumo": "Alíquota de referência de 11,3% calculada pelo TCU surpreendeu parlamentares e setor privado, que falam em reduzir percentual",
-   "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/revisao-da-cbs-pode-gerar-pressao-sobre-beneficios-setoriais-da-reforma",
-   "source": "JOTA Info",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-14T01:51:54Z",
-   "tries": 1
-  },
-  {
-   "id": "b241785bed79",
-   "date": "2026-11-10",
-   "title": "Receita libera APIs para consultar débitos e créditos da CBS",
-   "resumo": "Nova versão das APIs da CBS permite consultas incrementais e integração com sistemas das empresas; contribuintes precisam gerar novas credenciais.",
-   "link": "https://www.contabeis.com.br/noticias/80723/receita-libera-apis-para-consultar-debitos-e-creditos-da-cbs/",
-   "source": "Portal Contabeis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-14T00:36:39Z",
    "tries": 1
   }
  ]

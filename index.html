@@ -673,6 +673,20 @@ nav.top .gm a:hover,nav.top .gm a.on{background:var(--sky)}
       </div>
       <div class="res" id="c7o"></div>
       <p class="mini">Imposto da nota = valor ÷ (1 + alíquota) × alíquota. Fornecedor do Simples no DAS credita só o que pagou; informe o percentual aproximado.</p></div></div>
+
+    <div class="tool" id="c8"><header><h3>8 · Simulador CBS/IBS por item (regras da Receita Federal)</h3><p>Escolha a classificação (cClassTrib) e veja CBS e IBS com a redução aplicável</p></header><div class="body">
+      <div class="pre"><button data-c8="2026">Preset 2026</button><button data-c8="2027">Preset 2027</button></div>
+      <div class="f">
+        <div class="full"><label>Classificação tributária (cClassTrib)</label><select id="c8k"><option value="">Carregando…</option></select></div>
+        <div><label>Data do fato gerador</label><input id="c8d" type="date" value="2027-03-10" min="2026-01-01" max="2033-12-31"></div>
+        <div><label>Base de cálculo (R$)</label><input id="c8b" type="number" value="1200" step="0.01"></div>
+        <div class="c8r"><label>CBS %</label><input id="c8c" type="number" value="8.8" step="0.01"></div>
+        <div class="c8r"><label>IBS estadual %</label><input id="c8u" type="number" value="0.05" step="0.01"></div>
+        <div class="c8r full"><label>IBS municipal %</label><input id="c8m" type="number" value="0.05" step="0.01"></div>
+      </div>
+      <div class="res" id="c8o"></div>
+      <p class="mini" id="c8i"></p>
+      <p class="mini">Simulação com base nas regras e nos dados abertos do repositório oficial da Receita Federal (licença MIT; base V0059, de 30/09/2026), conferida com o exemplo da documentação. Em 2026 valem as alíquotas de referência (CBS 0,9% e IBS 0,1%); a partir de 2027 informe as alíquotas. Fora do escopo: Imposto Seletivo, monofasia, diferimento, desoneração, ajustes, compra governamental e validação de NCM/NBS. Não substitui a calculadora oficial.</p></div></div>
   </div>
   <div class="note">Ferramentas oficiais: <a href="https://piloto-cbs.tributos.gov.br/servico/calculadora-consumo/calculadora" target="_blank" rel="noopener noreferrer">Calculadora da Receita Federal (piloto CBS) ↗</a> · <a href="https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/publicacoes/apresentacoes/reforma-tributaria-do-consumo/faq-calculadora-v1-4.pdf" target="_blank" rel="noopener noreferrer">FAQ da calculadora (PDF) ↗</a></div>
   <h3 style="margin:22px 0 10px;color:var(--navy)">Calculadora de Tributos da Receita Federal: código aberto no GitHub</h3>
@@ -1344,6 +1358,142 @@ nav.top .gm a:hover,nav.top .gm a.on{background:var(--sky)}
     var on=items[gi];if(menu.scrollWidth>menu.clientWidth)menu.scrollTo({left:on.offsetLeft-menu.clientWidth/2+on.offsetWidth/2,behavior:'auto'});
   }
   window.addEventListener('scroll',spy,{passive:true});spy();
+})();
+</script>
+<script>
+(function(){
+  var $=function(i){return document.getElementById(i)},box=$('c8');if(!box)return;
+  (function(root){
+  'use strict';
+  var P10=function(n){return 10n**BigInt(n)};
+  function D(u,s){return {u:u,s:s}}
+  function parse(x){
+    x=String(x).trim();var neg=x[0]==='-';if(neg||x[0]==='+')x=x.slice(1);
+    var p=x.split('.'),s=(p[1]||'').length,u=BigInt((p[0]||'0')+(p[1]||''));
+    return D(neg?-u:u,s)}
+  function align(a,b){var s=Math.max(a.s,b.s);return [a.u*P10(s-a.s),b.u*P10(s-b.s),s]}
+  function add(a,b){var r=align(a,b);return D(r[0]+r[1],r[2])}
+  function sub(a,b){var r=align(a,b);return D(r[0]-r[1],r[2])}
+  function mul(a,b){return D(a.u*b.u,a.s+b.s)}
+  function divRound(n,d){ /* n/d inteiro, HALF_EVEN */
+    var q=n/d,r=n%d;if(r===0n)return q;
+    var neg=(n<0n)!==(d<0n),ar=r<0n?-r:r,ad=d<0n?-d:d,t=ar*2n;
+    var up=t>ad||(t===ad&&(q%2n!==0n));
+    return up?(neg?q-1n:q+1n):q}
+  function round(a,sc){ if(a.s<=sc)return D(a.u*P10(sc-a.s),sc); return D(divRound(a.u,P10(a.s-sc)),sc)}
+  function div(a,b){ if(b.u===0n)throw new Error('Divisão por zero'); var S=40;
+    return D(divRound(a.u*P10(S+b.s-a.s>=0?S+b.s-a.s:0)/(S+b.s-a.s>=0?1n:P10(-(S+b.s-a.s))),b.u),S)}
+  function toStr(a,sc){var r=round(a,sc),neg=r.u<0n,u=neg?-r.u:r.u,s=u.toString();
+    if(sc===0)return(neg?'-':'')+s;while(s.length<=sc)s='0'+s;
+    return (neg?'-':'')+s.slice(0,-sc)+'.'+s.slice(-sc)}
+  function isZero(a){return a.u===0n}
+  function toNum(a){return Number(toStr(a,8))}
+  /* avaliador de expressões (+ - * / parênteses, números, variáveis) */
+  function evalExpr(expr,vars){
+    var t=expr.match(/\d+\.?\d*|\.\d+|[A-Za-z_]\w*|[()+\-*/]/g)||[],i=0;
+    function peek(){return t[i]}
+    function prim(){var x=t[i++];
+      if(x==='('){var v=addp();if(t[i++]!==')')throw new Error('Expressão inválida');return v}
+      if(x==='-')return sub(D(0n,0),prim());
+      if(/^[\d.]/.test(x))return parse(x);
+      if(Object.prototype.hasOwnProperty.call(vars,x))return vars[x];
+      throw new Error('Variável não suportada: '+x)}
+    function mulp(){var v=prim();while(peek()==='*'||peek()==='/'){var o=t[i++],r=prim();v=o==='*'?mul(v,r):div(v,r)}return v}
+    function addp(){var v=mulp();while(peek()==='+'||peek()==='-'){var o=t[i++],r=mulp();v=o==='+'?add(v,r):sub(v,r)}return v}
+    var v=addp();if(i<t.length)throw new Error('Expressão inválida');
+    return round(v,8)}
+  function vig(list,data,iniK,fimK){ /* itens {ini,fim} ou arrays [v,ini,fim] */
+    for(var k=0;k<list.length;k++){var x=list[k],ini=Array.isArray(x)?x[1]:x[iniK],fim=Array.isArray(x)?x[2]:x[fimK];
+      if(ini<=data&&(!fim||data<=fim))return x}return null}
+  var TRIB=[['cbs','2','CBS'],['ibsuf','3','IBS UF'],['ibsmun','4','IBS Município']];
+  function classificar(dados,cd,data){
+    var l=dados.cl.filter(function(c){return c.cd===cd});
+    return vig(l,data,'ini','fim')}
+  function calcularItem(dados,inp){
+    var data=inp.data,cd=inp.cClassTrib,res={estado:'CALCULADO',erros:[],avisos:[]};
+    function erro(estado,msg){res.estado=estado;res.erros.push(msg);return res}
+    if(!/^\d{4}-\d{2}-\d{2}$/.test(data||''))return erro('INCONSISTENCIA_ENTRADA','Data do fato gerador inválida.');
+    var cl=classificar(dados,cd,data);
+    if(!cl)return erro('INCONSISTENCIA_ENTRADA','cClassTrib '+cd+' inexistente ou fora de vigência em '+data+'.');
+    res.cl=cl;
+    if(!cl.g){res.avisos.push('CST '+cl.cst+' não gera grupo de IBS/CBS: nada a calcular.');res.semGrupo=true;res.vBC='0.00';return res}
+    var tr=vig(cl.t.map(function(x){return {id:x[0],ini:x[1],fim:x[2]}}),data,'ini','fim');
+    if(!tr)return erro('INCONSISTENCIA_ENTRADA','Sem tratamento tributário vigente.');
+    var T=dados.trat[tr.id];res.trat=T.d;
+    if(T.aj||T.mono||T.des||T.dif)return erro('NAO_IMPLEMENTADO','Tratamento "'+T.d+'" ainda não é suportado nesta versão (ajuste, monofasia, desoneração ou diferimento).');
+    if(cl.tp==='Fixa'||cl.tp==='Uniforme setorial')return erro('NAO_IMPLEMENTADO','Alíquota do tipo "'+cl.tp+'" ainda não é suportada nesta versão.');
+    var base=inp.base;if(base===''||base==null||isNaN(Number(base)))return erro('INCONSISTENCIA_ENTRADA','Informe a base de cálculo.');
+    var b=parse(String(base));if(b.u<0n)return erro('INCONSISTENCIA_ENTRADA','Base de cálculo negativa.');
+    var ano=+data.slice(0,4),al={};
+    if(ano>=2027){
+      var a=inp.aliq||{};
+      if(cl.tp!=='Sem alíquota'){ if(a.cbs===''||a.cbs==null||a.ibsUF===''||a.ibsUF==null||a.ibsMun===''||a.ibsMun==null)return erro('INCONSISTENCIA_ENTRADA','A partir de 2027 as alíquotas nominais (CBS, IBS UF e IBS Município) são obrigatórias.');}
+      al.cbs=a.cbs!=null&&a.cbs!==''?String(a.cbs):'0';al.ibsuf=a.ibsUF!=null&&a.ibsUF!==''?String(a.ibsUF):'0';al.ibsmun=a.ibsMun!=null&&a.ibsMun!==''?String(a.ibsMun):'0';
+      res.avisos.push('Cálculo simulado com as alíquotas informadas.');
+    }else{
+      ['cbs','ibsuf','ibsmun'].forEach(function(k,j){var r=dados.ref.filter(function(x){return String(x[0])===TRIB[j][1]}).map(function(x){return [x[1],x[2],x[3]]});var v=vig(r,data,1,2);al[k]=v?String(v[0]):'0'});
+      res.avisos.push(('Alíquotas de referência de 2026 (CBS '+al.cbs+'%, IBS '+(+al.ibsuf+ +al.ibsmun)+'%).').replace(/(\d)\.(\d)/g,'$1,$2'));
+    }
+    var sem=cl.tp==='Sem alíquota';
+    res.vBC=null;var totBC=null;
+    TRIB.forEach(function(tb,j){
+      var k=tb[0],redL=cl.r[tb[1]]||[],rv=vig(redL,data,1,2),red=rv?rv[0]:0;
+      var aliqPct=sem?'0':al[k];
+      var vars={aliquota:round(div(parse(aliqPct),parse('100')),8),percentualReducao:round(div(parse(String(red)),parse('100')),8),
+        pRedutorCompraGov:D(0n,0),baseCalculoInformada:b,impostoSeletivoInformado:D(0n,0),impostoSeletivoCalculado:D(0n,0),quantidade:D(1n,0)};
+      try{
+        var ea=T.ea?evalExpr(T.ea,vars):vars.aliquota;vars.aliquota=ea;
+        var ee=evalExpr(T.eae||'aliquota',vars);vars.aliquotaEfetiva=ee;
+        var bc=evalExpr(T.eb,vars);if(bc.u<0n)bc=D(0n,8);vars.baseCalculo=bc;
+        var tc=evalExpr(T.ec,vars);vars.tributoCalculado=tc;
+        var td=evalExpr(T.ed,vars);
+        res[k]={p:mul(ea,D(100n,0)),pRed:parse(String(red)),pEfet:mul(ee,D(100n,0)),v:td,vCalc:tc};
+        totBC=bc;
+      }catch(e){erro('FALHA_TECNICA',tb[2]+': '+e.message)}
+    });
+    if(res.estado==='CALCULADO'){res.bc=totBC;
+      res.out={vBC:toStr(totBC,2),cbs:fmt(res.cbs),ibsuf:fmt(res.ibsuf),ibsmun:fmt(res.ibsmun),vIBS:toStr(add(res.ibsuf.v,res.ibsmun.v),2)}}
+    return res}
+  function fmt(x){return {p:toStr(x.p,2),pRed:toStr(x.pRed,2),pEfet:toStr(x.pEfet,2),v:toStr(x.v,2)}}
+  function totais(itens){var bc=D(0n,0),cbs=D(0n,0),ibs=D(0n,0);
+    itens.forEach(function(r){if(r.estado==='CALCULADO'&&r.bc){bc=add(bc,r.bc);cbs=add(cbs,r.cbs.v);ibs=add(ibs,add(r.ibsuf.v,r.ibsmun.v))}});
+    return {vBC:toStr(bc,2),vCBS:toStr(cbs,2),vIBS:toStr(ibs,2),vTotal:toStr(add(cbs,ibs),2)}}
+  var api={calcularItem:calcularItem,totais:totais,_d:{parse:parse,toStr:toStr,evalExpr:evalExpr}};
+  if(typeof module!=='undefined'&&module.exports)module.exports=api;else root.RTC=api;
+  })(typeof window!=='undefined'?window:globalThis);
+  
+  var D=null,busy=false;
+  var brl=function(n){return Number(n).toLocaleString('pt-BR',{style:'currency',currency:'BRL'})};
+  var pc=function(n){return Number(n).toLocaleString('pt-BR',{minimumFractionDigits:2,maximumFractionDigits:4})+'%'};
+  var row=function(a,b,c){return '<div'+(c?' class="big"':'')+'><span>'+a+'</span><span>'+b+'</span></div>'};
+  var esc=function(t){return String(t).replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})};
+  var val=function(i,max){var e=$(i),v=parseFloat(e.value);if(isNaN(v)||v<0)v=0;if(max&&v>max)v=max;return v.toFixed(4)};
+  function fill(){var sel=$('c8k'),seen={},cl=D.cl.slice().sort(function(a,b){return a.cd<b.cd?-1:a.cd>b.cd?1:0});sel.innerHTML='';
+    cl.forEach(function(c){if(seen[c.cd])return;seen[c.cd]=1;var o=document.createElement('option');o.value=c.cd;o.textContent=c.cd+' · CST '+c.cst+' · '+(c.d.length>80?c.d.slice(0,80)+'…':c.d);sel.appendChild(o)});
+    sel.value='200028'}
+  function run(){
+    var out=$('c8o');
+    if(!D){out.innerHTML=row('Carregando a base de dados…','');return}
+    var dt=$('c8d').value,ano=+String(dt).slice(0,4);
+    box.querySelectorAll('.c8r').forEach(function(e){e.hidden=!(ano>=2027)});
+    var r=RTC.calcularItem(D,{cClassTrib:$('c8k').value,data:dt,base:val('c8b'),aliq:{cbs:val('c8c',100),ibsUF:val('c8u',100),ibsMun:val('c8m',100)}});
+    $('c8i').textContent=r.cl?('Tratamento: '+(r.trat||'sem grupo IBS/CBS')+' · Alíquota: '+r.cl.tp+' · CST '+r.cl.cst):'';
+    if(r.estado!=='CALCULADO'){out.innerHTML=row('Não calculado',({NAO_IMPLEMENTADO:'não implementado',INCONSISTENCIA_ENTRADA:'inconsistência na entrada',FALHA_TECNICA:'falha técnica'}[r.estado]||r.estado),0)+'<div><span>'+esc(r.erros.join(' '))+'</span><span></span></div>';return}
+    if(r.semGrupo){out.innerHTML='<div><span>'+esc(r.avisos.join(' '))+'</span><span></span></div>';return}
+    var o=r.out,t=RTC.totais([r]);
+    out.innerHTML=row('Base de cálculo',brl(o.vBC))+row('CBS ('+pc(o.cbs.p)+', redução '+pc(o.cbs.pRed)+', efetiva '+pc(o.cbs.pEfet)+')',brl(o.cbs.v))
+      +row('IBS estadual ('+pc(o.ibsuf.p)+', efetiva '+pc(o.ibsuf.pEfet)+')',brl(o.ibsuf.v))+row('IBS municipal ('+pc(o.ibsmun.p)+', efetiva '+pc(o.ibsmun.pEfet)+')',brl(o.ibsmun.v))
+      +row('Total CBS + IBS',brl(t.vTotal),1)+'<div><span>'+esc(r.avisos.join(' '))+'</span><span></span></div>'}
+  function load(){
+    if(D||busy)return;busy=true;
+    fetch('rtc-dados.json',{cache:'no-cache'}).then(function(r){if(!r.ok)throw 0;return r.json()}).then(function(j){D=j;busy=false;fill();run()})
+      .catch(function(){busy=false;$('c8o').innerHTML='<div><span>Não foi possível carregar a base de dados do simulador. Recarregue a página.</span><span></span></div>'});
+  }
+  ['c8k','c8d','c8b','c8c','c8u','c8m'].forEach(function(i){$(i).addEventListener('input',run);$(i).addEventListener('change',run)});
+  box.querySelectorAll('[data-c8]').forEach(function(b){b.addEventListener('click',function(){
+    if(b.getAttribute('data-c8')==='2026'){$('c8d').value='2026-06-10'}else{$('c8d').value='2027-03-10';$('c8c').value='11.20';$('c8u').value='0.05';$('c8m').value='0.05'}run()})});
+  if('IntersectionObserver' in window){var io=new IntersectionObserver(function(e){if(e[0].isIntersecting){io.disconnect();load()}},{rootMargin:'400px'});io.observe(box)}else load();
+  run();
 })();
 </script>
 </body>

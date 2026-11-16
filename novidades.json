@@ -1,6 +1,6 @@
 {
- "lastCheckAt": "2026-11-16T00:08:15Z",
- "lastCheckBr": "15/11/2026 21:08",
+ "lastCheckAt": "2026-11-16T01:53:09Z",
+ "lastCheckBr": "15/11/2026 22:53",
  "added": 13,
  "feeds": [
   {
@@ -1754,6 +1754,19 @@
    "tries": 1
   },
   {
+   "id": "149722bb7e09",
+   "date": "2026-11-10",
+   "title": "ato técnico conjunto rfb/suana/cgibs/diretoria-executiva nº 11, de 10 de novembro de",
+   "resumo": "",
+   "link": "https://www.cgibs.gov.br/upload/arquivos/202611/12145422-ato-tecnico-conjunto-11-duimp.pdf",
+   "source": "Comitê Gestor do IBS",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-16T01:53:09Z",
+   "tries": 1
+  },
+  {
    "id": "a83bca4c1e15",
    "date": "2026-11-10",
    "title": "ato técnico conjunto rfb/suana/cgibs/diretoria-executiva nº 12, de 10 de novembro de",
@@ -1764,7 +1777,7 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-16T00:08:15Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "92168f24e266",
@@ -1960,19 +1973,6 @@
    "tag": "Contabilidade",
    "addedAt": "2026-11-13T12:20:43Z",
    "tries": 2
-  },
-  {
-   "id": "9a243cc39424",
-   "date": "2026-11-10",
-   "title": "IBS e CBS: A controvérsia sobre a exportação de serviços",
-   "resumo": "Nova regra da reforma tributária abre espaço para diferentes interpretações sobre a tributação de serviços prestados no Brasil a clientes estrangeiros. A reform",
-   "link": "https://crcma.org.br/noticias/ibs-e-cbs-a-controversia-sobre-a-exportacao-de-servicos",
-   "source": "Conselho Regional de Contabilidade do Maranhão",
-   "official": false,
-   "category": "cont",
-   "tag": "Contabilidade",
-   "addedAt": "2026-11-13T03:41:44Z",
-   "tries": 1
   }
  ]
 }

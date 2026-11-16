@@ -1,6 +1,6 @@
 {
- "lastCheckAt": "2026-11-16T02:45:31Z",
- "lastCheckBr": "15/11/2026 23:45",
+ "lastCheckAt": "2026-11-16T03:55:20Z",
+ "lastCheckBr": "16/11/2026 00:55",
  "added": 14,
  "feeds": [
   {
@@ -53,6 +53,19 @@
   }
  ],
  "items": [
+  {
+   "id": "4dc4503892aa",
+   "date": "2026-11-16",
+   "title": "A reforma tributária fomenta investimentos para as concessões de serviços públicos",
+   "resumo": "Com o desenho legal finalizado, desafio é a execução; as agências reguladoras precisam estar tecnicamente preparadas e ágeis para processar reequilíbrios com rigor e celeridade",
+   "link": "https://www.jota.info/opiniao-e-analise/colunas/coluna-da-abde/a-reforma-tributaria-fomenta-investimentos-para-as-concessoes-de-servicos-publicos",
+   "source": "JOTA Info",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-16T03:55:20Z",
+   "tries": 1
+  },
   {
    "id": "6410aba0e770",
    "date": "2026-11-15",
@@ -1767,6 +1780,19 @@
    "tries": 1
   },
   {
+   "id": "131a19ac9d54",
+   "date": "2026-11-10",
+   "title": "Reforma Tributária: Atualização do Ambiente Beta da DeRE — Receita Federal",
+   "resumo": "A atualização será realizada sem interrupção dos serviços.",
+   "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/reforma-tributaria-atualizacao-do-ambiente-beta-da-dere",
+   "source": "Governo Federal",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-16T03:55:20Z",
+   "tries": 1
+  },
+  {
    "id": "9a243cc39424",
    "date": "2026-11-10",
    "title": "IBS e CBS: A controvérsia sobre a exportação de serviços",
@@ -1946,32 +1972,6 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-14T00:36:39Z",
-   "tries": 1
-  },
-  {
-   "id": "01bb5d4b4463",
-   "date": "2026-11-10",
-   "title": "Que imposto é esse: Coautor da reforma tributária rejeita adiamento da CBS para 2028",
-   "resumo": "Eurico Marcos Diniz de Santi diz que prorrogação encurta aprendizado das empresas",
-   "link": "https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/11/coautor-da-reforma-tributaria-rejeita-adiamento-da-cbs-para-2028.shtml",
-   "source": "Folha de S.Paulo",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-13T23:30:31Z",
-   "tries": 1
-  },
-  {
-   "id": "05c3c4146caf",
-   "date": "2026-11-10",
-   "title": "Reforma tributária e imposto seletivo para 2027",
-   "resumo": "Por Ricardo Pontes Vivacqua. O texto analisa a MP 1.399/26, a fixação de alíquotas e suas regras de implementação.",
-   "link": "https://www.migalhas.com.br/depeso/468179/reforma-tributaria-e-imposto-seletivo-para-2027",
-   "source": "Migalhas",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-13T23:30:31Z",
    "tries": 1
   }
  ]

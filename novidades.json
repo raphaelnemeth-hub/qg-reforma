@@ -1,6 +1,6 @@
 {
- "lastCheckAt": "2026-11-16T05:22:58Z",
- "lastCheckBr": "16/11/2026 02:22",
+ "lastCheckAt": "2026-11-16T07:01:03Z",
+ "lastCheckBr": "16/11/2026 04:01",
  "added": 14,
  "feeds": [
   {
@@ -53,6 +53,19 @@
   }
  ],
  "items": [
+  {
+   "id": "b4cf2dbc35db",
+   "date": "2026-11-16",
+   "title": "Assistir às suas séries e filmes no streaming ficará mais caro pela Reforma Tributária?",
+   "resumo": "No streaming, há uma linha tênue entre o que é a prestação de serviço e o que seria a cessão/circulação de mercadorias",
+   "link": "https://www.jota.info/opiniao-e-analise/artigos/assistir-as-suas-series-e-filmes-no-streaming-ficara-mais-caro-pela-reforma-tributaria",
+   "source": "JOTA Info",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-16T07:01:03Z",
+   "tries": 1
+  },
   {
    "id": "4dc4503892aa",
    "date": "2026-11-16",
@@ -1780,6 +1793,19 @@
    "tries": 1
   },
   {
+   "id": "42f283668a55",
+   "date": "2026-11-10",
+   "title": "Revisão da CBS pode gerar pressão sobre benefícios setoriais da reforma",
+   "resumo": "Alíquota de referência de 11,3% calculada pelo TCU surpreendeu parlamentares e setor privado, que falam em reduzir percentual",
+   "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/revisao-da-cbs-pode-gerar-pressao-sobre-beneficios-setoriais-da-reforma",
+   "source": "JOTA Info",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-16T07:01:03Z",
+   "tries": 1
+  },
+  {
    "id": "01bb5d4b4463",
    "date": "2026-11-10",
    "title": "Que imposto é esse: Coautor da reforma tributária rejeita adiamento da CBS para 2028",
@@ -1946,32 +1972,6 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-14T20:27:13Z",
-   "tries": 1
-  },
-  {
-   "id": "4eb79287069f",
-   "date": "2026-11-10",
-   "title": "Calendário dos bancos prevê pleno funcionamento do 'split payment' na Reforma Tributária a partir de outubro de 2027",
-   "resumo": "Mecanismo é visto pelo Fisco como fundamental para reduzir a sonegação",
-   "link": "https://oglobo.globo.com/google/amp/economia/fabio-graner/post/2026/11/calendario-dos-bancos-preve-pleno-funcionamento-do-split-payment-na-reforma-tributaria-a-partir-de-outubro-de-2027.ghtml",
-   "source": "O GLOBO",
-   "official": false,
-   "category": "pag",
-   "tag": "Split payment",
-   "addedAt": "2026-11-14T13:22:49Z",
-   "tries": 1
-  },
-  {
-   "id": "103f9e28c8b9",
-   "date": "2026-11-10",
-   "title": "Reforma tributária: O custo da não cumulatividade nos serviços",
-   "resumo": "Por Irene Alves dos Santos. A narrativa da neutralidade fiscal cumpriu seu papel de viabilização política da EC 132/23, mas não resiste aos números reais.",
-   "link": "https://www.migalhas.com.br/depeso/467917/reforma-tributaria-o-custo-da-nao-cumulatividade-nos-servicos",
-   "source": "Migalhas",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-14T05:39:45Z",
    "tries": 1
   }
  ]

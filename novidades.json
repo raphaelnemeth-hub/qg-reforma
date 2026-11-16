@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-16T18:19:04Z",
- "lastCheckBr": "16/11/2026 15:19",
- "added": 23,
+ "lastCheckAt": "2026-11-16T19:26:37Z",
+ "lastCheckBr": "16/11/2026 16:26",
+ "added": 24,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -13,7 +13,7 @@
    "name": "Agência Câmara",
    "ok": true,
    "found": 1,
-   "new": 0
+   "new": 1
   },
   {
    "name": "Receita Federal",
@@ -31,7 +31,7 @@
    "name": "Portal Contábeis",
    "ok": true,
    "found": 12,
-   "new": 1
+   "new": 0
   },
   {
    "name": "InfoMoney",
@@ -43,7 +43,7 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 96,
-   "new": 17
+   "new": 18
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -53,6 +53,32 @@
   }
  ],
  "items": [
+  {
+   "id": "b221ccdd1050",
+   "date": "2026-11-16",
+   "title": "'Cashback' da reforma tributária: cerca de 70 milhões de pessoas começam a receber o benefício em janeiro; veja o que é preciso fazer",
+   "resumo": "",
+   "link": "https://www.contadores.cnt.br/noticias/tecnicas/2026/11/16/cashback-da-reforma-tributaria-cerca-de-70-milhoes-de-pessoas-comecam-a-receber-o-beneficio-em-janeiro-veja-o-que-e-preciso-fazer.html",
+   "source": "Contadores.cnt.br",
+   "official": false,
+   "category": "cont",
+   "tag": "Contabilidade",
+   "addedAt": "2026-11-16T19:26:37Z",
+   "tries": 1
+  },
+  {
+   "id": "e53088fcb9d1",
+   "date": "2026-11-16",
+   "title": "Sistema FIERGS defende PEC da deputada Any Ortiz para prorrogar início da vigência da CBS na reforma tributária",
+   "resumo": "Durante reunião na sede da Federação, lideranças industriais ressaltaram necessidade da medida em razão de dificuldades na adoção do novo sistema",
+   "link": "https://www.jornalbomdia.com.br/noticia/93303/sistema-fiergs-defende-pec-da-deputada-any-ortiz-para-prorrogar-inicio-da-vigencia-da-cbs-na-reforma-tributaria",
+   "source": "Jornal Bom Dia",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-16T19:26:37Z",
+   "tries": 1
+  },
   {
    "id": "5ca11055cae7",
    "date": "2026-11-16",
@@ -102,7 +128,7 @@
    "category": "cont",
    "tag": "Contabilidade",
    "addedAt": "2026-11-16T18:19:04Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "98a89d0d4b84",
@@ -115,7 +141,7 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-16T18:19:04Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "d5b71229c668",
@@ -128,7 +154,7 @@
    "category": "aliq",
    "tag": "Alíquotas",
    "addedAt": "2026-11-16T18:19:04Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "a94703eb6365",
@@ -324,6 +350,19 @@
    "tries": 1
   },
   {
+   "id": "f4d096585a3e",
+   "date": "2026-11-15",
+   "title": "CBS a 11,3% preocupa indústria por risco de aumento tributário",
+   "resumo": "",
+   "link": "https://www.capitalnews.com.br/nacional/cbs-a-113-preocupa-industria-por-risco-de-aumento-tributario/450047",
+   "source": "Capital News",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-16T19:26:37Z",
+   "tries": 1
+  },
+  {
    "id": "a853420b8346",
    "date": "2026-11-15",
    "title": "Cashback da reforma tributária: veja quem vai receber dinheiro de volta e como garantir o benefício",
@@ -454,6 +493,19 @@
    "tries": 1
   },
   {
+   "id": "658e8f3d5b8e",
+   "date": "2026-11-14",
+   "title": "Setor produtivo reforça pedido de adiamento para implementação da reforma tributária",
+   "resumo": "",
+   "link": "https://www.capitalnews.com.br/nacional/setor-produtivo-reforca-pedido-de-adiamento-para-implementacao-da-reforma-tributaria/450037",
+   "source": "Capital News",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-16T19:26:37Z",
+   "tries": 1
+  },
+  {
    "id": "45de26d6a155",
    "date": "2026-11-14",
    "title": "Crédito de ICMS do imobilizado: prazo de homologação",
@@ -476,6 +528,19 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-14T12:06:03Z"
+  },
+  {
+   "id": "6d04d7e25ff3",
+   "date": "2026-11-13",
+   "title": "Imposto Seletivo preocupa municípios produtores de tabaco",
+   "resumo": "Amprotabaco alerta para riscos à geração de empregos e à arrecadação, além do avanço do mercado ilegal no setor",
+   "link": "https://www.gaz.com.br/imposto-seletivo-preocupa-municipios-produtores-de-tabaco/",
+   "source": "GAZ",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-16T19:26:37Z",
+   "tries": 1
   },
   {
    "id": "b45d30458b5b",
@@ -971,6 +1036,18 @@
    "tag": "Split payment",
    "addedAt": "2026-11-13T08:11:02Z",
    "tries": 1
+  },
+  {
+   "id": "6784f11387cb",
+   "date": "2026-11-12",
+   "title": "Cancelado debate na Comissão de Finanças sobre regulamentação da reforma tributária",
+   "resumo": "Vinicius Loures / Câmara dos Deputados Deputado Hauly pediu a audiência com o secretário especial da Receita Federal Foi adiado o debate da Comissão de Finanças e Tributação da Câmara dos Deputados na quarta-feira (18) para discutir a regulamentação da…",
+   "link": "https://www.camara.leg.br/noticias/1319043-cancelado-debate-na-comissao-de-financas-sobre-regulamentacao-da-reforma-tributaria",
+   "source": "Agência Câmara",
+   "official": true,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-16T19:26:37Z"
   },
   {
    "id": "134bf5790b43",
@@ -1558,6 +1635,32 @@
    "tries": 1
   },
   {
+   "id": "becb1e3e8c3f",
+   "date": "2026-11-11",
+   "title": "CBS e IBS: entenda os novos impostos da reforma tributária e o que muda em 2027",
+   "resumo": "Novos tributos vão substituir impostos federais, estaduais e municipais sobre o consumo. Governo propõe adiar para fevereiro de 2027 o primeiro recolhimento da CBS, que começa a valer em janeiro.",
+   "link": "https://g1.globo.com/economia/noticia/2026/11/11/cbs-e-ibs-entenda-os-novos-impostos-da-reforma-tributaria.ghtml",
+   "source": "G1",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-16T19:26:37Z",
+   "tries": 1
+  },
+  {
+   "id": "474119dfa3f7",
+   "date": "2026-11-11",
+   "title": "Reforma tributária: Alíquotas e créditos para empresas de tecnologia",
+   "resumo": "Por Aurélio Longo Guerzoni. A substituição do PIS/Cofins e do ISS pela CBS e pelo IBS elevará a tributação nominal dos serviços, mas ampliará o direito aos créditos.",
+   "link": "https://www.migalhas.com.br/depeso/466556/reforma-tributaria-aliquotas-e-creditos-para-empresas-de-tecnologia",
+   "source": "Migalhas",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-16T19:26:37Z",
+   "tries": 1
+  },
+  {
    "id": "5efb927c282f",
    "date": "2026-11-11",
    "title": "Receita Federal e órgãos parceiros detalham próximos passos da Reforma Tributária — Ministério da Fazenda",
@@ -1866,110 +1969,6 @@
    "tag": "Atualização",
    "addedAt": "2026-11-11T22:29:09Z",
    "tries": 2
-  },
-  {
-   "id": "30acaa02813c",
-   "date": "2026-11-11",
-   "title": "CBS em 2027: cobrança segue prevista para janeiro - Portal Contabeis",
-   "resumo": "A CBS em 2027 tem cobrança prevista para janeiro. Governo avalia flexibilizar prazos de informações acessórias e penalidades, sem adiar o calendário.",
-   "link": "https://www.contabeis.com.br/noticias/80779/cbs-em-2027-cobranca-segue-prevista-para-janeiro/",
-   "source": "Portal Contabeis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-11T22:00:01Z",
-   "tries": 1
-  },
-  {
-   "id": "67905bd91146",
-   "date": "2026-11-11",
-   "title": "Receita quer ampliar em 30 dias prazo para pagamento definitivo da CBS da reforma tributária - Jornal do Comércio",
-   "resumo": "O secretário especial da Receita Federal, Robinson Barreirinhas, anunciou o envio do projeto nesta quarta-feira",
-   "link": "https://www.jornaldocomercio.com/economia/2026/11/1270153-receita-quer-ampliar-em-30-dias-prazo-para-pagamento-definitivo-da-cbs-da-reforma-tributaria.html",
-   "source": "Jornal do Comércio",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-11T21:47:23Z",
-   "tries": 1
-  },
-  {
-   "id": "276fd48b2629",
-   "date": "2026-11-11",
-   "title": "Split payment exige adaptação das APIs de pagamento - Portal Contabeis",
-   "resumo": "Fintechs e instituições de pagamento adaptam APIs ao split payment, que separa IBS e CBS na liquidação. Testes começaram em ambiente controlado.",
-   "link": "https://www.contabeis.com.br/noticias/80776/split-payment-exige-adaptacao-das-apis-de-pagamento/",
-   "source": "Portal Contabeis",
-   "official": false,
-   "category": "pag",
-   "tag": "Split payment",
-   "addedAt": "2026-11-11T21:30:01Z",
-   "tries": 1
-  },
-  {
-   "id": "89913c9f8a1c",
-   "date": "2026-11-11",
-   "title": "Reforma tributária: Existe, sim, risco de aumento de impostos, diz tributarista - Estadão",
-   "resumo": "Richard Dotoli, do SiqueiraCastro, foi surpreendido negativamente com a divulgação das alíquotas de CBS e do ‘Imposto do Pecado’",
-   "link": "https://www.estadao.com.br/economia/reforma-tributaria-existe-sim-risco-de-aumento-de-impostos-diz-tributarista/",
-   "source": "Estadão",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-11T21:03:00Z",
-   "tries": 1
-  },
-  {
-   "id": "998ab9db20e5",
-   "date": "2026-11-11",
-   "title": "75 entidades empresariais pedem adiamento da reforma tributária - Correio Braziliense",
-   "resumo": "Setor produtivo afirma ser inviável ajustes até 31 de dezembro e defende cobrança dos novos tributos em 2028. Governo federal reafirmou hoje que não pretende prorrogar prazo. “Mas não vamos penalizar erros de boa fé”, diz Receita Por SAMANTA SALLUM Em carta…",
-   "link": "https://blogs.correiobraziliense.com.br/capital-sa/2026/11/11/75-entidades-empresariais-pedem-adiamento-da-reforma-tributaria/",
-   "source": "Correio Braziliense",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-11T19:52:20Z",
-   "tries": 1
-  },
-  {
-   "id": "72b58690eff6",
-   "date": "2026-11-11",
-   "title": "Reforma Tributária: estudos do Sincor-SP embasam manifesto da Fenacor pelo adiamento da CBS - CQCS",
-   "resumo": "A Federação Nacional dos Corretores de Seguros (Fenacor) encaminhou, nesta sexta-feira (6 de novembro), ao Ministério da Fazenda um manifesto institucional, fundamentado nos estudos técnicos sobre a Reforma Tributária produzidos pelo Comitê Contábil e…",
-   "link": "https://cqcs.com.br/noticia/reforma-tributaria-estudos-do-sincor-sp-embasam-manifesto-da-fenacor-pelo-adiamento-da-cbs/",
-   "source": "CQCS",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-11T19:37:45Z",
-   "tries": 1
-  },
-  {
-   "id": "e7a6d2de7564",
-   "date": "2026-11-11",
-   "title": "Reforma tributária: o que muda em 2027 com a CBS e como se preparar - InvestNews",
-   "resumo": "CBS substitui PIS e Cofins em 2027. Veja o cronograma da reforma tributária e o que muda para consumidores e empresas",
-   "link": "https://investnews.com.br/guias/reforma-tributaria/",
-   "source": "InvestNews",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-11T19:37:17Z",
-   "tries": 1
-  },
-  {
-   "id": "40611ebd88f9",
-   "date": "2026-11-11",
-   "title": "CNI propõe reduzir alíquota da CBS para cerca de 10,3% - Portal Contabeis",
-   "resumo": "Entidade defende atualizar o período de referência da reforma tributária. Mudança poderia reduzir em 1 ponto percentual a estimativa da CBS.",
-   "link": "https://www.contabeis.com.br/noticias/80792/cni-propoe-reduzir-aliquota-da-cbs-para-cerca-de-10-3/",
-   "source": "Portal Contabeis",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-11T19:00:02Z",
-   "tries": 1
   }
  ]
 }

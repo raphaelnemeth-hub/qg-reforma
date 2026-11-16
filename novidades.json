@@ -1,6 +1,6 @@
 {
- "lastCheckAt": "2026-11-16T17:04:17Z",
- "lastCheckBr": "16/11/2026 14:04",
+ "lastCheckAt": "2026-11-16T18:19:04Z",
+ "lastCheckBr": "16/11/2026 15:19",
  "added": 23,
  "feeds": [
   {
@@ -30,7 +30,7 @@
   {
    "name": "Portal Contábeis",
    "ok": true,
-   "found": 11,
+   "found": 12,
    "new": 1
   },
   {
@@ -42,7 +42,7 @@
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 95,
+   "found": 96,
    "new": 17
   },
   {
@@ -53,6 +53,83 @@
   }
  ],
  "items": [
+  {
+   "id": "5ca11055cae7",
+   "date": "2026-11-16",
+   "title": "Cashback da Reforma Tributária começa em 2027; veja regras",
+   "resumo": "Benefício prevê descontos em contas de consumo e devolução de impostos para famílias inscritas no CadÚnico. Leia mais em https://www.contabeis.com.br/noticias/80900/cashback-da-reforma-tributaria-comeca-em-2027-veja-regras/",
+   "link": "https://www.contabeis.com.br/noticias/80900/cashback-da-reforma-tributaria-comeca-em-2027-veja-regras/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-16T18:19:04Z"
+  },
+  {
+   "id": "caa6139c87e4",
+   "date": "2026-11-16",
+   "title": "Receita Federal publica primeiro código-fonte aberto no GitHub e amplia transparência da Reforma Tributária",
+   "resumo": "Iniciativa fortalece a transparência, a segurança jurídica e a previsibilidade na implementação dos novos tributos sobre o consumo.",
+   "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
+   "source": "Governo Federal",
+   "official": false,
+   "category": "lei",
+   "tag": "Legislação",
+   "addedAt": "2026-11-16T18:19:04Z",
+   "tries": 1
+  },
+  {
+   "id": "4d7edc57b427",
+   "date": "2026-11-16",
+   "title": "Reforma tributária: Créditos sobre despesas de viagens e equipamentos de empregados",
+   "resumo": "Por Aurélio Longo Guerzoni. A reforma tributária permitirá créditos de IBS e CBS sobre determinadas despesas com viagens, transporte e equipamentos de empregados, mas manterá restrições para ...",
+   "link": "https://www.migalhas.com.br/depeso/466558/reforma-tributaria-creditos-sobre-despesas-de-viagens-e-equipamentos",
+   "source": "Migalhas",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-16T18:19:04Z",
+   "tries": 1
+  },
+  {
+   "id": "c99adcdce560",
+   "date": "2026-11-16",
+   "title": "Fisco oficializa novos prazos para exigência de documentos fiscais com CBS",
+   "resumo": "",
+   "link": "https://www.contadores.cnt.br/noticias/tecnicas/2026/11/16/fisco-oficializa-novos-prazos-para-exigencia-de-documentos-fiscais-com-cbs.html",
+   "source": "Contadores.cnt.br",
+   "official": false,
+   "category": "cont",
+   "tag": "Contabilidade",
+   "addedAt": "2026-11-16T18:19:04Z",
+   "tries": 1
+  },
+  {
+   "id": "98a89d0d4b84",
+   "date": "2026-11-16",
+   "title": "Interesse por ‘Imposto do Pecado’ dispara mais de 7.400% com Reforma Tributária",
+   "resumo": "",
+   "link": "https://www.brasil247.com/economia/interesse-por-imposto-do-pecado-dispara-mais-de-7-400-com-reforma-tributaria/",
+   "source": "Brasil 247",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-16T18:19:04Z",
+   "tries": 1
+  },
+  {
+   "id": "d5b71229c668",
+   "date": "2026-11-16",
+   "title": "Tarcísio defende que Senado reduza alíquota da CBS e diz que projeto de ajuste de Lula pune estados",
+   "resumo": "",
+   "link": "https://exame.com/brasil/tarcisio-defende-que-senado-reduza-aliquota-da-cbs-e-diz-que-projeto-de-ajuste-de-lula-pune-estados/",
+   "source": "Exame",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-16T18:19:04Z",
+   "tries": 1
+  },
   {
    "id": "a94703eb6365",
    "date": "2026-11-16",
@@ -89,7 +166,7 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-16T17:04:17Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "f3595ef7e511",
@@ -1481,6 +1558,19 @@
    "tries": 1
   },
   {
+   "id": "5efb927c282f",
+   "date": "2026-11-11",
+   "title": "Receita Federal e órgãos parceiros detalham próximos passos da Reforma Tributária — Ministério da Fazenda",
+   "resumo": "O foco é promover transparência na divulgação das ações que dão prosseguimento à migração do país para o novo modelo de tributação do consumo",
+   "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/receita-federal-e-orgaos-parceiros-detalham-proximos-passos-da-reforma-tributaria",
+   "source": "GOV.BR",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-16T18:19:04Z",
+   "tries": 1
+  },
+  {
    "id": "4b2f2daa4d3a",
    "date": "2026-11-11",
    "title": "CFC e Fenacon entregam à Receita nove propostas para a reforma tributária",
@@ -1517,7 +1607,7 @@
    "category": "nt",
    "tag": "Nota técnica",
    "addedAt": "2026-11-16T17:04:17Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "9994269ae7d4",
@@ -1879,97 +1969,6 @@
    "category": "aliq",
    "tag": "Alíquotas",
    "addedAt": "2026-11-11T19:00:02Z",
-   "tries": 1
-  },
-  {
-   "id": "becb1e3e8c3f",
-   "date": "2026-11-11",
-   "title": "CBS e IBS: entenda os novos impostos da reforma tributária e o que muda em 2027 - G1",
-   "resumo": "Novos tributos vão substituir impostos federais, estaduais e municipais sobre o consumo. Governo propõe adiar para fevereiro de 2027 o primeiro recolhimento da CBS, que começa a valer em janeiro.",
-   "link": "https://g1.globo.com/economia/noticia/2026/11/11/cbs-e-ibs-entenda-os-novos-impostos-da-reforma-tributaria.ghtml",
-   "source": "G1",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-11T18:39:57Z",
-   "tries": 1
-  },
-  {
-   "id": "bf90c3b65a82",
-   "date": "2026-11-11",
-   "title": "O que muda para as concessionárias de rodovias com a reforma tributária - Migalhas",
-   "resumo": "Por Adauto Lúcio S. Dutra. IBS e CBS mudam a tributação dos pedágios e exigem atenção aos créditos e contratos de concessão rodoviária.",
-   "link": "https://www.migalhas.com.br/depeso/468323/o-que-muda-para-concessionarias-de-rodovias-com-a-reforma-tributaria",
-   "source": "Migalhas",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-11T18:30:55Z",
-   "tries": 1
-  },
-  {
-   "id": "474119dfa3f7",
-   "date": "2026-11-11",
-   "title": "Reforma tributária: Alíquotas e créditos para empresas de tecnologia - Migalhas",
-   "resumo": "Por Aurélio Longo Guerzoni. A substituição do PIS/Cofins e do ISS pela CBS e pelo IBS elevará a tributação nominal dos serviços, mas ampliará o direito aos créditos.",
-   "link": "https://www.migalhas.com.br/depeso/466556/reforma-tributaria-aliquotas-e-creditos-para-empresas-de-tecnologia",
-   "source": "Migalhas",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-11T17:20:26Z",
-   "tries": 1
-  },
-  {
-   "id": "e63c91d710b2",
-   "date": "2026-11-11",
-   "title": "CFC e Fenacon apresentam propostas à Receita Federal para a transição da Reforma Tributária em 2027 - Conselho Regional de Contabilidade do Maranhão",
-   "resumo": "O Conselho Federal de Contabilidade (CFC) e a Federação Nacional das Empresas de Serviços Contábeis e das Empresas de Assessoramento, Perícias, Informações e Pe",
-   "link": "https://crcma.org.br/noticias/cfc-e-fenacon-apresentam-propostas-a-receita-federal-para-a-transicao-da-reforma-tributaria-em-2027",
-   "source": "Conselho Regional de Contabilidade do Maranhão",
-   "official": false,
-   "category": "cont",
-   "tag": "Contabilidade",
-   "addedAt": "2026-11-11T17:19:15Z",
-   "tries": 1
-  },
-  {
-   "id": "3116f4557e89",
-   "date": "2026-11-11",
-   "title": "Governo vai propor adiamento da cobrança da CBS para fevereiro - Poder360",
-   "resumo": "O TCU fixou o imposto em 11,3% em 2027; a taxa pode resultar em R$ 147 bilhões a mais de arrecadação do que o estimado. Leia no Poder360.",
-   "link": "https://www.poder360.com.br/poder-economia/governo-vai-propor-adiamento-da-cobranca-da-cbs-para-fevereiro/",
-   "source": "Poder360",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-11T16:49:36Z",
-   "tries": 1
-  },
-  {
-   "id": "77f8a411faaf",
-   "date": "2026-11-11",
-   "title": "CBS: Receita diz não vai multar empresa que agir de 'boa-fé' - InvestNews",
-   "resumo": "Secretário da Receita diz que adiar a reforma tributária não resolve e apresenta prazos para regras, sistemas e notas",
-   "link": "https://investnews.com.br/economia/receita-mantem-reforma-tributaria-em-2027/",
-   "source": "InvestNews",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-11T16:41:44Z",
-   "tries": 1
-  },
-  {
-   "id": "de768007103f",
-   "date": "2026-11-11",
-   "title": "Receita Federal fala em início imediato da reforma tributária - Poder360",
-   "resumo": "Agentes econômicos pressionam pelo adiamento do calendário de implementação; CBS entra em vigor em 1º de janeiro. Leia no Poder360.",
-   "link": "https://www.poder360.com.br/poder-economia/receita-federal-fala-em-inicio-imediato-da-reforma-tributaria/",
-   "source": "Poder360",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-11T16:26:05Z",
    "tries": 1
   }
  ]

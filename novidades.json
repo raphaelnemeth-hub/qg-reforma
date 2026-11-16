@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-16T01:53:09Z",
- "lastCheckBr": "15/11/2026 22:53",
- "added": 13,
+ "lastCheckAt": "2026-11-16T02:45:31Z",
+ "lastCheckBr": "15/11/2026 23:45",
+ "added": 14,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -43,16 +43,29 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 97,
-   "new": 9
+   "new": 11
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
    "ok": true,
    "found": 9,
-   "new": 4
+   "new": 3
   }
  ],
  "items": [
+  {
+   "id": "6410aba0e770",
+   "date": "2026-11-15",
+   "title": "Apuração assistida da CBS: simplificação ou risco ao contribuinte?",
+   "resumo": "Receita disponibilizou das versões 2.0 das interfaces de programação de aplicações para consulta de débitos e créditos da CBS",
+   "link": "https://conjur.com.br/2026-nov-15/apuracao-assistida-da-cbs/",
+   "source": "Consultor Jurídico",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-16T02:45:31Z",
+   "tries": 1
+  },
   {
    "id": "dd734cb3e93c",
    "date": "2026-11-15",
@@ -1754,6 +1767,19 @@
    "tries": 1
   },
   {
+   "id": "9a243cc39424",
+   "date": "2026-11-10",
+   "title": "IBS e CBS: A controvérsia sobre a exportação de serviços",
+   "resumo": "Nova regra da reforma tributária abre espaço para diferentes interpretações sobre a tributação de serviços prestados no Brasil a clientes estrangeiros. A reform",
+   "link": "https://crcma.org.br/noticias/ibs-e-cbs-a-controversia-sobre-a-exportacao-de-servicos",
+   "source": "Conselho Regional de Contabilidade do Maranhão",
+   "official": false,
+   "category": "cont",
+   "tag": "Contabilidade",
+   "addedAt": "2026-11-16T02:45:31Z",
+   "tries": 1
+  },
+  {
    "id": "149722bb7e09",
    "date": "2026-11-10",
    "title": "ato técnico conjunto rfb/suana/cgibs/diretoria-executiva nº 11, de 10 de novembro de",
@@ -1764,7 +1790,7 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-16T01:53:09Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "a83bca4c1e15",
@@ -1947,32 +1973,6 @@
    "tag": "Alíquotas",
    "addedAt": "2026-11-13T23:30:31Z",
    "tries": 1
-  },
-  {
-   "id": "d973a5466d30",
-   "date": "2026-11-10",
-   "title": "Reforma tributária muda regras para renda com aluguel; veja como fica para pessoas físicas e jurídicas",
-   "resumo": "A CBS e o IBS passarão a incidir sobre rendimentos vindos do aluguel, com regras distintas para proprietários que são PJ e PF. A nova cobrança será gradual, com gatilhos e fase de transição até 2029.",
-   "link": "https://g1.globo.com/economia/noticia/2026/11/10/reforma-tributaria-muda-regras-para-renda-com-aluguel-veja-como-fica-para-pessoas-fisicas-e-juridicas.ghtml",
-   "source": "G1",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-13T22:35:19Z",
-   "tries": 1
-  },
-  {
-   "id": "896efffa840c",
-   "date": "2026-11-10",
-   "title": "Reforma Tributária: Ato Técnico nº 10 aprova versões para nove modelos de documentos fiscais",
-   "resumo": "",
-   "link": "https://www.contadores.cnt.br/noticias/tecnicas/2026/11/10/reforma-tributaria-ato-tecnico-no-10-aprova-versoes-para-nove-modelos-de-documentos-fiscais.html",
-   "source": "Contadores.cnt.br",
-   "official": false,
-   "category": "cont",
-   "tag": "Contabilidade",
-   "addedAt": "2026-11-13T12:20:43Z",
-   "tries": 2
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-16T21:14:48Z",
- "lastCheckBr": "16/11/2026 18:14",
- "added": 18,
+ "lastCheckAt": "2026-11-16T22:14:40Z",
+ "lastCheckBr": "16/11/2026 19:14",
+ "added": 16,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -30,8 +30,8 @@
   {
    "name": "Portal Contábeis",
    "ok": true,
-   "found": 11,
-   "new": 1
+   "found": 10,
+   "new": 0
   },
   {
    "name": "InfoMoney",
@@ -43,7 +43,7 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 96,
-   "new": 12
+   "new": 11
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -53,6 +53,32 @@
   }
  ],
  "items": [
+  {
+   "id": "5ac14224014b",
+   "date": "2026-11-16",
+   "title": "Receita disponibiliza calculadoras de IBS e CBS",
+   "resumo": "",
+   "link": "https://monitormercantil.com.br/receita-disponibiliza-calculadoras-de-ibs-e-cbs/",
+   "source": "Monitor Mercantil",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-16T22:14:40Z",
+   "tries": 1
+  },
+  {
+   "id": "2be2827e83fb",
+   "date": "2026-11-16",
+   "title": "Reforma Tributária: o imposto muda de destino e o Tocantins pode ganhar novos caminhos para crescer",
+   "resumo": "Por Júlio Edstron Secundino Santos. Ex-secretário da Fazenda do Tocantins e Doutor em Direito pelo UniCEUB. Pesquisador do Centro Universitário de Brasília.",
+   "link": "https://www.luizarmandocosta.com.br/noticia/reforma-tributaria-o-imposto-muda-de-destino-e-o-tocantins-pode-ganhar-novos-caminhos-para-crescer/56043",
+   "source": "Luiz Armando Costa",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-16T22:14:40Z",
+   "tries": 1
+  },
   {
    "id": "c76d5f36390e",
    "date": "2026-11-16",
@@ -411,7 +437,7 @@
    "category": "aliq",
    "tag": "Alíquotas",
    "addedAt": "2026-11-16T21:14:48Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "f4d096585a3e",
@@ -567,7 +593,7 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-16T21:14:48Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "658e8f3d5b8e",
@@ -1944,32 +1970,6 @@
    "tag": "Alíquotas",
    "addedAt": "2026-11-12T21:36:53Z",
    "tries": 1
-  },
-  {
-   "id": "e1f37e7dd9e5",
-   "date": "2026-11-11",
-   "title": "Reforma Tributária: 'Alguém vai ter que pagar a conta' se Congresso reduzir alíquota da CBS, diz chefe da Receita",
-   "resumo": "Barreirinhas afirma que eventual redução da alíquota de 11,3% calculada pelo TCU exigirá revisão de isenções e benefícios tributários para manter a arrecadação",
-   "link": "https://oglobo.globo.com/economia/noticia/2026/11/11/alguem-vai-ter-que-pagar-a-conta-se-congresso-reduzir-aliquota-da-cbs-diz-chefe-da-receita.ghtml",
-   "source": "O GLOBO",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-12T19:43:46Z",
-   "tries": 1
-  },
-  {
-   "id": "305ccd7485b2",
-   "date": "2026-11-11",
-   "title": "Reforma tributária: Receita perdoará multa de empresa de 'boa-fé' em 2027",
-   "resumo": "",
-   "link": "https://economia.uol.com.br/noticias/redacao/2026/11/11/conformidade-da-reforma-tributaria.ghtm",
-   "source": "UOL Economia",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-12T18:40:50Z",
-   "tries": 2
   }
  ]
 }

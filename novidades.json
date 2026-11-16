@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-16T19:26:37Z",
- "lastCheckBr": "16/11/2026 16:26",
- "added": 24,
+ "lastCheckAt": "2026-11-16T20:17:49Z",
+ "lastCheckBr": "16/11/2026 17:17",
+ "added": 18,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -13,7 +13,7 @@
    "name": "Agência Câmara",
    "ok": true,
    "found": 1,
-   "new": 1
+   "new": 0
   },
   {
    "name": "Receita Federal",
@@ -30,7 +30,7 @@
   {
    "name": "Portal Contábeis",
    "ok": true,
-   "found": 12,
+   "found": 11,
    "new": 0
   },
   {
@@ -43,7 +43,7 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 96,
-   "new": 18
+   "new": 13
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -53,6 +53,32 @@
   }
  ],
  "items": [
+  {
+   "id": "a987fd1e8eed",
+   "date": "2026-11-16",
+   "title": "CBS: na dúvida, não ultrapasse",
+   "resumo": "Conforme as premissas, a mesma regra de neutralidade produz uma alíquota de referência da CBS entre 9,7% e 11,3%",
+   "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/cbs-na-duvida-nao-ultrapasse",
+   "source": "JOTA Info",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-16T20:17:49Z",
+   "tries": 1
+  },
+  {
+   "id": "7bc566be225a",
+   "date": "2026-11-16",
+   "title": "Reforma Tributária/RJ: Governo do Estado envia à Alerj projeto de lei que cria programa de negociação de créditos tributários com foco no crescimento da receita de ICMS em 2026 e nos próximos anos",
+   "resumo": "",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9vQ1Btdlh6bHdjTktpc3FZZGNvaU9zUTVhRWIxNEJOR1ZhWF9rcmF5ekoya1ZHbTZKQzR2QkNsVkdQcm96R0R3S2pxR0FJU0dxMDhMNFJrc0g?oc=5",
+   "source": "LegisWeb",
+   "official": false,
+   "category": "lei",
+   "tag": "Legislação",
+   "addedAt": "2026-11-16T20:17:49Z",
+   "tries": 1
+  },
   {
    "id": "b221ccdd1050",
    "date": "2026-11-16",
@@ -64,7 +90,7 @@
    "category": "cont",
    "tag": "Contabilidade",
    "addedAt": "2026-11-16T19:26:37Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "e53088fcb9d1",
@@ -360,7 +386,7 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-16T19:26:37Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "a853420b8346",
@@ -503,7 +529,7 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-16T19:26:37Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "45de26d6a155",
@@ -1635,6 +1661,32 @@
    "tries": 1
   },
   {
+   "id": "e7a6d2de7564",
+   "date": "2026-11-11",
+   "title": "Reforma tributária: o que muda em 2027 com a CBS e como se preparar",
+   "resumo": "",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KR0FpRTRPWGxveHR6RzR3Z1BjWWdoZzZIOVZuZ0NwaklvWnZ1YmxLbkJEVlgtaFdHN29fXzN6VHVlZTh2MjByVENXUVoxbldRd2hNb2FHeGdMWmgwN0liRg?oc=5",
+   "source": "InvestNews",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-16T20:17:49Z",
+   "tries": 1
+  },
+  {
+   "id": "276fd48b2629",
+   "date": "2026-11-11",
+   "title": "Split payment exige adaptação das APIs de pagamento",
+   "resumo": "Fintechs e instituições de pagamento adaptam APIs ao split payment, que separa IBS e CBS na liquidação. Testes começaram em ambiente controlado.",
+   "link": "https://www.contabeis.com.br/noticias/80776/split-payment-exige-adaptacao-das-apis-de-pagamento/",
+   "source": "Portal Contabeis",
+   "official": false,
+   "category": "pag",
+   "tag": "Split payment",
+   "addedAt": "2026-11-16T20:17:49Z",
+   "tries": 1
+  },
+  {
    "id": "becb1e3e8c3f",
    "date": "2026-11-11",
    "title": "CBS e IBS: entenda os novos impostos da reforma tributária e o que muda em 2027",
@@ -1917,58 +1969,6 @@
    "tag": "Atualização",
    "addedAt": "2026-11-12T15:47:59Z",
    "tries": 1
-  },
-  {
-   "id": "5f0a8167bb6e",
-   "date": "2026-11-11",
-   "title": "Para Richard Dotoli, líder da área tributária e sócio de SiqueiraCastro Advogados, um dos maiores escritórios de advocacia do Brasil, as tão esperadas definições da reforma tributária sobre as alíquotas da CBS (Contribui",
-   "resumo": "77 likes, 130 comments - estadao no November 11, 2026: \"Para Richard Dotoli, líder da área tributária e sócio de SiqueiraCastro Advogados, um dos maiores escritórios de advocacia do Brasil, as tão esperadas definições da reforma tributária sobre as alíquotas…",
-   "link": "https://www.instagram.com/p/Dfn_KlLl-Nb/",
-   "source": "Instagram",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-12T02:30:23Z",
-   "tries": 1
-  },
-  {
-   "id": "344e8d527fe3",
-   "date": "2026-11-11",
-   "title": "Governo federal propõe adiar início do pagamento da CBS - G1",
-   "resumo": "Contribuição Sobre Bens e Serviços é parte da Reforma Tributária e entra em vigor no dia 1º de janeiro de 2027.",
-   "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/11/governo-federal-propoe-adiar-inicio-do-pagamento-da-cbs.ghtml",
-   "source": "G1",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-12T00:00:07Z",
-   "tries": 1
-  },
-  {
-   "id": "97e8d127c2f5",
-   "date": "2026-11-11",
-   "title": "Empresas poderão usar cálculo estimado da CBS no início de 2027, se o Congresso aprovar regra de transição - A Crítica de Campo Grande",
-   "resumo": "Governo propõe que empresas apurem a CBS de forma provisória nos primeiros meses de 2027, com correção no mês seguinte e adesão opcional, durante a adaptação à reforma tributária.",
-   "link": "https://acritica.net/economia/governo-propoe-calculo-estimado-da-cbs-para-facilitar-reforma-tributaria-em-2027/",
-   "source": "A Crítica de Campo Grande",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-12T00:00:00Z",
-   "tries": 1
-  },
-  {
-   "id": "73bdb7b5820d",
-   "date": "2026-11-11",
-   "title": "Reforma tributária: Fenacor pede adiamento da CBS - Fenacor",
-   "resumo": "",
-   "link": "https://www.fenacor.org.br/noticias/reforma-tributaria-fenacor-pede-adiamento-da",
-   "source": "Fenacor",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-11T22:29:09Z",
-   "tries": 2
   }
  ]
 }

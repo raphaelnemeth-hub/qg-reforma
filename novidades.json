@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-16T11:20:32Z",
- "lastCheckBr": "16/11/2026 08:20",
- "added": 17,
+ "lastCheckAt": "2026-11-16T13:06:51Z",
+ "lastCheckBr": "16/11/2026 10:06",
+ "added": 30,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -30,8 +30,8 @@
   {
    "name": "Portal Contábeis",
    "ok": true,
-   "found": 11,
-   "new": 0
+   "found": 12,
+   "new": 1
   },
   {
    "name": "InfoMoney",
@@ -42,17 +42,94 @@
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 96,
-   "new": 14
+   "found": 97,
+   "new": 24
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
    "ok": true,
    "found": 8,
-   "new": 3
+   "new": 5
   }
  ],
  "items": [
+  {
+   "id": "fb883d00745c",
+   "date": "2026-11-16",
+   "title": "PGDAS-D muda em 2026 e exige atenção dos contadores",
+   "resumo": "Atualização do PGDAS-D adapta o Simples Nacional à Reforma Tributária e altera procedimentos de apuração a partir de novembro de 2026. Leia mais em https://www.contabeis.com.br/noticias/80892/pgdas-d-muda-em-2026-e-exige-atencao-dos-contadores/",
+   "link": "https://www.contabeis.com.br/noticias/80892/pgdas-d-muda-em-2026-e-exige-atencao-dos-contadores/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "simples",
+   "tag": "Simples",
+   "addedAt": "2026-11-16T13:06:51Z"
+  },
+  {
+   "id": "2041b91508e1",
+   "date": "2026-11-16",
+   "title": "'NÃO VOU PASSAR RAIVA SOZINHA' 🗣️Qual será o impacto da CBS no bolso do consumidor a partir de janeiro? No programa desta semana, a Duquesa de Tax explica como a reforma tributária pode afetar os preços e o que esperar d",
+   "resumo": "6 likes, 1 comments - estadao no November 16, 2026: \"'NÃO VOU PASSAR RAIVA SOZINHA' 🗣️Qual será o impacto da CBS no bolso do consumidor a partir de janeiro? No programa desta semana, a Duquesa de Tax explica como a reforma tributária pode afetar os preços e o…",
+   "link": "https://www.instagram.com/reel/DfzaccOCtI0/",
+   "source": "Instagram",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-16T13:06:51Z",
+   "tries": 1
+  },
+  {
+   "id": "7da3fc845e1a",
+   "date": "2026-11-16",
+   "title": "Como receber o cashback da reforma tributária? Veja quem tem direito e como funciona a devolução",
+   "resumo": "",
+   "link": "https://www.opiniaoce.com.br/brasil/2026/11/16/como-receber-o-cashback-da-reforma-tributaria-veja-quem-tem-direito-e-como-funciona-a-devolucao/",
+   "source": "OpiniãoCE",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-16T13:06:51Z",
+   "tries": 1
+  },
+  {
+   "id": "4a7032bf45d2",
+   "date": "2026-11-16",
+   "title": "Reforma Tributária pode afetar equilíbrio de concessões e PPPs",
+   "resumo": "da Agência iNFRA Estudar a fundo as regras da Reforma Tributária será fundamental para entender os impactos das mudanças fiscais nos projetos de infraestrutura no país. No painel “Reforma Tributária e o Setor de Infraestrutura”, do Fórum Nacional de PPPs…",
+   "link": "https://agenciainfra.com/blog/reforma-tributaria-pode-afetar-equilibrio-de-concessoes-e-ppps/",
+   "source": "Agência iNFRA",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-16T13:06:51Z",
+   "tries": 1
+  },
+  {
+   "id": "7dd8680510e9",
+   "date": "2026-11-16",
+   "title": "Luiz Barbosa | Reforma Tributária: o combinado não pode sair caro",
+   "resumo": "Brasil precisa respeitar pacto firmado no Congresso e abandonar a lógica tributária que limita a competitividade. Leia o artigo no Poder360.",
+   "link": "https://www.poder360.com.br/opiniao/reforma-tributaria-o-combinado-nao-pode-sair-caro/",
+   "source": "Poder360",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-16T13:06:51Z",
+   "tries": 1
+  },
+  {
+   "id": "3475b3f07e2c",
+   "date": "2026-11-16",
+   "title": "Qual será o impacto da CBS no bolso do consumidor a partir de janeiro?",
+   "resumo": "No programa ‘Não vou passar raiva sozinha’, a Duquesa de Tax explica como a reforma tributária pode afetar os preços e o que esperar da mudança",
+   "link": "https://www.estadao.com.br/economia/duquesa-de-tax/qual-impacto-cbs-bolso-consumidor-janeiro-2027/",
+   "source": "Estadão",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-16T13:06:51Z",
+   "tries": 1
+  },
   {
    "id": "bab4b163aa9c",
    "date": "2026-11-16",
@@ -90,6 +167,32 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-16T03:55:20Z",
+   "tries": 1
+  },
+  {
+   "id": "eb4b6cdcbc23",
+   "date": "2026-11-15",
+   "title": "Como receber o cashback da reforma tributária? Veja se você tem direito",
+   "resumo": "Devolução de parte dos impostos será destinada a famílias inscritas no CadÚnico, com renda mensal de até meio salário mínimo por pessoa",
+   "link": "https://www.cnnbrasil.com.br/economia/seu-bolso/meu-dinheiro/como-receber-o-cashback-da-reforma-tributaria-veja-se-voce-tem-direito/",
+   "source": "CNN Brasil",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-16T13:06:51Z",
+   "tries": 1
+  },
+  {
+   "id": "a101c759ff07",
+   "date": "2026-11-15",
+   "title": "CBS: os desafios da governança são maiores do que os da alíquota",
+   "resumo": "Integração entre Receita Federal, Estados e municípios será essencial para a administração dos novos tributos. Leia o artigo no Poder360.",
+   "link": "https://www.poder360.com.br/opiniao/cbs-os-desafios-da-governanca-sao-maiores-do-que-os-da-aliquota/",
+   "source": "Poder360",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-16T13:06:51Z",
    "tries": 1
   },
   {
@@ -156,6 +259,58 @@
    "addedAt": "2026-11-14T12:06:03Z"
   },
   {
+   "id": "ce9123f50faf",
+   "date": "2026-11-13",
+   "title": "A DeRE e a transposição do balancete para a apuração do IBS e da CBS",
+   "resumo": "Um dos desafios operacionais mais imediatos da reforma tributária ocorre neste domingo, 15 de novembro, quando vence o prazo para a primeira entrega mensal da Declaração de Regimes Específicos, a DeRE",
+   "link": "https://valorinveste.globo.com/blogs/alexandre-evaristo-pinto/coluna/a-dere-e-a-transposicao-do-balancete-para-a-apuracao-do-ibs-e-da-cbs.ghtml",
+   "source": "Valor Investe",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-16T13:06:51Z",
+   "tries": 1
+  },
+  {
+   "id": "041ba1548285",
+   "date": "2026-11-13",
+   "title": "Reforma tributária: CNC reforça pedido por ajustes no cronograma de implementação",
+   "resumo": "",
+   "link": "https://www.contadores.cnt.br/noticias/tecnicas/2026/11/13/reforma-tributaria-cnc-reforca-pedido-por-ajustes-no-cronograma-de-implementacao.html",
+   "source": "Contadores.cnt.br",
+   "official": false,
+   "category": "cont",
+   "tag": "Contabilidade",
+   "addedAt": "2026-11-16T13:06:51Z",
+   "tries": 1
+  },
+  {
+   "id": "e9df77ab0f90",
+   "date": "2026-11-13",
+   "title": "Mineradoras no Brasil pedem adiamento dos efeitos da reforma tributária",
+   "resumo": "A implementação da reforma tributária no Brasil tem gerado preocupação entre lideranças empresariais por diversos motivos.",
+   "link": "https://www.bnamericas.com/pt/noticias/mineradoras-no-brasil-pedem-adiamento-dos-efeitos-da-reforma-tributaria",
+   "source": "BNamericas",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-16T13:06:51Z",
+   "tries": 1
+  },
+  {
+   "id": "aedaa24579b9",
+   "date": "2026-11-13",
+   "title": "Imposto Seletivo: a seletividade entre a proteção e as escolhas - Crônica-ensaio XXIII da série Elementos da Reforma Tributária",
+   "resumo": "",
+   "link": "https://www.luizarmandocosta.com.br/noticia/imposto-seletivo-a-seletividade-entre-a-protecao-e-as-escolhas-cronica-ensaio-xxiii-da-serie-elementos-da-reforma-tributaria/56015",
+   "source": "Luiz Armando Costa",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-16T13:06:51Z",
+   "tries": 1
+  },
+  {
    "id": "d3b4960d0f33",
    "date": "2026-11-13",
    "title": "IVA de 30% e split payment: A crise da teoria tributária diante da arrecadação instantânea",
@@ -166,7 +321,7 @@
    "category": "pag",
    "tag": "Split payment",
    "addedAt": "2026-11-16T11:20:32Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "8ff64171913e",
@@ -534,6 +689,32 @@
    "tries": 1
   },
   {
+   "id": "2ef87d603faa",
+   "date": "2026-11-12",
+   "title": "Reforma tributária : quem terá que pagar CBS e IBS e o que muda para o produtor rural?",
+   "resumo": "Os dois novos impostos substituirão a cobrança de ICMS, ISS, IPI, Pis e Cofins de forma gradual , conforme estabelece e Reforma Tributária",
+   "link": "https://www.canalrural.com.br/economia/reforma-tributaria-quem-tera-que-pagar-cbs-e-ibs-e-o-que-muda-para-o-produtor-rural/",
+   "source": "Canal Rural",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-16T13:06:51Z",
+   "tries": 1
+  },
+  {
+   "id": "69b9ddc9e601",
+   "date": "2026-11-12",
+   "title": "CBS em 2027: o que a flexibilização na cobrança muda para as empresas?",
+   "resumo": "Reforma tributária 2027: governo propõe flexibilizar o cálculo da CBS. Entenda o que muda para as empresas e quais regras ainda dependem do Congresso.",
+   "link": "https://consumidormoderno.com.br/reforma-tributaria-2027-novas-regras-cbs/",
+   "source": "Consumidor Moderno",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-16T13:06:51Z",
+   "tries": 1
+  },
+  {
    "id": "96b3e5db2ed4",
    "date": "2026-11-12",
    "title": "Reforma Tributária: governo anuncia transição sem multas para atos de boa-fé e amplia prazos para pequenos negócios",
@@ -544,7 +725,7 @@
    "category": "cont",
    "tag": "Contabilidade",
    "addedAt": "2026-11-16T11:20:32Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "c0a708fb2649",
@@ -1051,6 +1232,32 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-12T03:00:00Z",
+   "tries": 1
+  },
+  {
+   "id": "130968a71227",
+   "date": "2026-11-11",
+   "title": "TCU pede que governo priorize normas 'críticas' da reforma tributária, incluindo split payment",
+   "resumo": "",
+   "link": "https://economia.uol.com.br/noticias/estadao-conteudo/2026/11/11/tcu-pede-que-governo-priorize-normas-criticas-da-reforma-tributaria-incluindo-split-payment.htm",
+   "source": "UOL Economia",
+   "official": false,
+   "category": "pag",
+   "tag": "Split payment",
+   "addedAt": "2026-11-16T13:06:51Z",
+   "tries": 1
+  },
+  {
+   "id": "61371c6a342f",
+   "date": "2026-11-11",
+   "title": "Reforma Tributária: deputados descartam adiamento da CBS para 2028",
+   "resumo": "Confira os desdobramentos da Reforma Tributária com a manutenção dos prazos oficiais e veja como antecipar o planejamento da sua empresa.",
+   "link": "https://www.omie.com.br/blog/deputados-descartam-adiamento-cbs-2028/",
+   "source": "Omie",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-16T13:06:51Z",
    "tries": 1
   },
   {
@@ -1764,214 +1971,6 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-11T09:01:41Z",
-   "tries": 1
-  },
-  {
-   "id": "dbb2ae6515f3",
-   "date": "2026-11-11",
-   "title": "Série de pendências na reforma tributária preocupa empresas - Valor Econômico",
-   "resumo": "Contribuintes esperam definições sobre notas fiscais e créditos tributários, entre outras",
-   "link": "https://valor.globo.com/legislacao/noticia/2026/11/11/serie-de-pendencias-na-reforma-tributaria-preocupa-empresas.ghtml",
-   "source": "Valor Econômico",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-11T08:00:01Z",
-   "tries": 1
-  },
-  {
-   "id": "6fd281be63cc",
-   "date": "2026-11-11",
-   "title": "Reforma tributária e concessões: o desafio de preservar o equilíbrio dos contratos - JOTA Info",
-   "resumo": "Êxito da Reforma depende de atuação coordenada entre poder concedente, agências reguladoras, órgãos de controle e concessionárias",
-   "link": "https://www.jota.info/opiniao-e-analise/artigos/reforma-tributaria-e-concessoes-o-desafio-de-preservar-o-equilibrio-dos-contratos",
-   "source": "JOTA Info",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-11T07:49:10Z",
-   "tries": 1
-  },
-  {
-   "id": "30755c3fc0c7",
-   "date": "2026-11-11",
-   "title": "O imbróglio da reforma tributária fica maior a cada dia - Money Report",
-   "resumo": "Faltam 51 dias para 2027 e, em tese, para o início da implementação de alguns pontos cruciais da reforma tributária. O que se prevê nesta primeira fase é aumento de preços e até desabastecimento. Tomemos a questão dos aluguéis. A partir do ano que vem, boa…",
-   "link": "https://www.moneyreport.com.br/agenda-lideres/o-imbroglio-da-reforma-tributaria-fica-maior-a-cada-dia/",
-   "source": "Money Report",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-11T03:03:40Z",
-   "tries": 1
-  },
-  {
-   "id": "9994269ae7d4",
-   "date": "2026-11-11",
-   "title": "Expressão Nacional | Regulamentação da Reforma tributária: Imposto seletivo - Portal da Câmara dos Deputados",
-   "resumo": "A partir de 2027, as mudanças da Reforma Tributária começam a se tornar realidade na rotina dos brasileiros. Um dos movimentos centrais dessa transição é o fim progressivo do tradicional Imposto sobre Produtos Industrializados (IPI) — que terá sua alíquota…",
-   "link": "https://www.camara.leg.br/tv/expressao-nacional/1317829-expressao-nacional-regulamentacao-da-reforma-tributaria-imposto-seletivo",
-   "source": "Portal da Câmara dos Deputados",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-11T03:00:00Z",
-   "tries": 1
-  },
-  {
-   "id": "0120ff42956e",
-   "date": "2026-11-11",
-   "title": "Pressão para adiar implementação da reforma tributária cresce, mas deputados descartam mudança no calendário - G1",
-   "resumo": "Parlamentares se reuniram com ministro Dario Durigan nesta terça-feira (10) e reafirmaram compromisso de iniciar implementação do novo sistema em janeiro de 2027.",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/11/pressao-para-adiar-implementacao-da-reforma-tributaria-cresce-mas-deputados-descartam-mudanca-no-calendario.ghtml",
-   "source": "G1",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-11T03:00:00Z",
-   "tries": 1
-  },
-  {
-   "id": "9940ad591bf9",
-   "date": "2026-11-11",
-   "title": "Você sabe o que é 'split payment'? Entenda mecanismo que separa imposto em pagamentos previsto para outubro de 2027 - O GLOBO",
-   "resumo": "Sistema definido na Reforma Tributária para reduzir sonegação em transações comerciais começa a ser testado em março e entra por etapas",
-   "link": "https://oglobo.globo.com/economia/noticia/2026/11/11/voce-sabe-o-que-e-split-payment-entenda-mecanismo-que-separa-imposto-em-pagamentos-previsto-para-outubro-de-2027.ghtml",
-   "source": "O GLOBO",
-   "official": false,
-   "category": "pag",
-   "tag": "Split payment",
-   "addedAt": "2026-11-11T03:00:00Z",
-   "tries": 1
-  },
-  {
-   "id": "6baf28f038bb",
-   "date": "2026-11-10",
-   "title": "MP 1.399/2026 institui Imposto Seletivo para 2027 com alíquotas de até 66,7% e redução da referência da CBS",
-   "resumo": "Medida provisória define a tributação de veículos, bebidas, fumígenos, minerais e prognósticos, com cobrança a partir de 2 de fevereiro de 2027",
-   "link": "https://comsefaz.org.br/novo/mp-1-399-2026-institui-imposto-seletivo-para-2027-com-aliquotas-de-ate-667-e-reducao-da-referencia-da-cbs/",
-   "source": "- Comsefaz",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-16T11:20:32Z",
-   "tries": 1
-  },
-  {
-   "id": "91875e3a09c6",
-   "date": "2026-11-10",
-   "title": "Reforma tributária no aluguel: regras para pessoa física e jurídica",
-   "resumo": "Entenda quando IBS e CBS incidem sobre aluguéis, como funciona o redutor residencial e quais contratos podem adotar o regime de 3,65%.",
-   "link": "https://www.contabeis.com.br/noticias/80736/reforma-tributaria-no-aluguel-regras-para-pessoa-fisica-e-juridica/",
-   "source": "Portal Contabeis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-16T11:20:32Z",
-   "tries": 1
-  },
-  {
-   "id": "5970255b01dc",
-   "date": "2026-11-10",
-   "title": "Alíquota de CBS? Imposto do Pecado? Entenda as discussões sobre a reforma tributária em 6 pontos",
-   "resumo": "Nos últimos dias, uma série de novidades impactou o empresariado, como uma alíquota de CBS muito maior do que o esperado, a divulgação do “Imposto do Pecado” e a discussão sobre um possível adiamento",
-   "link": "https://www.estadao.com.br/economia/aliquota-de-cbs-imposto-do-pecado-entenda-as-discussoes-sobre-a-reforma-tributaria-em-6-pontos/",
-   "source": "Estadão",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-16T11:20:32Z",
-   "tries": 1
-  },
-  {
-   "id": "4eb79287069f",
-   "date": "2026-11-10",
-   "title": "Calendário dos bancos prevê pleno funcionamento do 'split payment' na Reforma Tributária a partir de outubro de 2027",
-   "resumo": "Mecanismo é visto pelo Fisco como fundamental para reduzir a sonegação",
-   "link": "https://oglobo.globo.com/economia/fabio-graner/post/2026/11/calendario-dos-bancos-preve-pleno-funcionamento-do-split-payment-na-reforma-tributaria-a-partir-de-outubro-de-2027.ghtml",
-   "source": "O GLOBO",
-   "official": false,
-   "category": "pag",
-   "tag": "Split payment",
-   "addedAt": "2026-11-16T09:59:11Z",
-   "tries": 1
-  },
-  {
-   "id": "02b767aad441",
-   "date": "2026-11-10",
-   "title": "NT 2026.004: como testar IBS e CBS na SVRS",
-   "resumo": "Veja quais documentos entram nos testes da NT 2026.004 na SVRS e como conferir as alíquotas e o total do CT-e nos cenários de 2026 e 2027.",
-   "link": "https://www.contabeis.com.br/noticias/80735/nt-2026-004-como-testar-ibs-e-cbs-na-svrs/",
-   "source": "Portal Contabeis",
-   "official": false,
-   "category": "nt",
-   "tag": "Nota técnica",
-   "addedAt": "2026-11-16T09:59:11Z",
-   "tries": 1
-  },
-  {
-   "id": "42f283668a55",
-   "date": "2026-11-10",
-   "title": "Revisão da CBS pode gerar pressão sobre benefícios setoriais da reforma",
-   "resumo": "Alíquota de referência de 11,3% calculada pelo TCU surpreendeu parlamentares e setor privado, que falam em reduzir percentual",
-   "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/revisao-da-cbs-pode-gerar-pressao-sobre-beneficios-setoriais-da-reforma",
-   "source": "JOTA Info",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-16T07:01:03Z",
-   "tries": 1
-  },
-  {
-   "id": "01bb5d4b4463",
-   "date": "2026-11-10",
-   "title": "Que imposto é esse: Coautor da reforma tributária rejeita adiamento da CBS para 2028",
-   "resumo": "Eurico Marcos Diniz de Santi diz que prorrogação encurta aprendizado das empresas",
-   "link": "https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/11/coautor-da-reforma-tributaria-rejeita-adiamento-da-cbs-para-2028.shtml",
-   "source": "Folha de S.Paulo",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-16T05:22:58Z",
-   "tries": 1
-  },
-  {
-   "id": "05c3c4146caf",
-   "date": "2026-11-10",
-   "title": "Reforma tributária e imposto seletivo para 2027",
-   "resumo": "Por Ricardo Pontes Vivacqua. O texto analisa a MP 1.399/26, a fixação de alíquotas e suas regras de implementação.",
-   "link": "https://www.migalhas.com.br/depeso/468179/reforma-tributaria-e-imposto-seletivo-para-2027",
-   "source": "Migalhas",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-16T05:22:58Z",
-   "tries": 1
-  },
-  {
-   "id": "131a19ac9d54",
-   "date": "2026-11-10",
-   "title": "Reforma Tributária: Atualização do Ambiente Beta da DeRE — Receita Federal",
-   "resumo": "A atualização será realizada sem interrupção dos serviços.",
-   "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/reforma-tributaria-atualizacao-do-ambiente-beta-da-dere",
-   "source": "Governo Federal",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-16T03:55:20Z",
-   "tries": 1
-  },
-  {
-   "id": "9a243cc39424",
-   "date": "2026-11-10",
-   "title": "IBS e CBS: A controvérsia sobre a exportação de serviços",
-   "resumo": "Nova regra da reforma tributária abre espaço para diferentes interpretações sobre a tributação de serviços prestados no Brasil a clientes estrangeiros. A reform",
-   "link": "https://crcma.org.br/noticias/ibs-e-cbs-a-controversia-sobre-a-exportacao-de-servicos",
-   "source": "Conselho Regional de Contabilidade do Maranhão",
-   "official": false,
-   "category": "cont",
-   "tag": "Contabilidade",
-   "addedAt": "2026-11-16T02:45:31Z",
    "tries": 1
   }
  ]

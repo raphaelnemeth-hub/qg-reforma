@@ -1,6 +1,6 @@
 {
- "lastCheckAt": "2026-11-16T20:17:49Z",
- "lastCheckBr": "16/11/2026 17:17",
+ "lastCheckAt": "2026-11-16T21:14:48Z",
+ "lastCheckBr": "16/11/2026 18:14",
  "added": 18,
  "feeds": [
   {
@@ -31,7 +31,7 @@
    "name": "Portal Contábeis",
    "ok": true,
    "found": 11,
-   "new": 0
+   "new": 1
   },
   {
    "name": "InfoMoney",
@@ -43,7 +43,7 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 96,
-   "new": 13
+   "new": 12
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -53,6 +53,31 @@
   }
  ],
  "items": [
+  {
+   "id": "c76d5f36390e",
+   "date": "2026-11-16",
+   "title": "Justiça mantém IBS e CBS na base do ICMS em maioria das ações",
+   "resumo": "Levantamento aponta que 70% das decisões sobre a inclusão dos novos tributos na base do ICMS favoreceram os estados; disputa envolve a transição da reforma. Leia mais em…",
+   "link": "https://www.contabeis.com.br/noticias/80910/justica-mantem-ibs-e-cbs-na-base-do-icms-em-maioria-das-acoes/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-16T21:14:48Z"
+  },
+  {
+   "id": "7a41a7159c08",
+   "date": "2026-11-16",
+   "title": "Reforma tributária trava compra de R$ 60 milhões em Uberaba",
+   "resumo": "Uberaba estima perda anual de R$ 157 milhões no ICMS e trava compra de R$ 60 milhões em tecnologia por indefinição sobre a alíquota da CBS.",
+   "link": "https://www.ocafezinho.com/2026-11-16/reforma-tributaria-trava-compra-de-r-60-milhoes-em-uberaba/",
+   "source": "O Cafezinho",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-16T21:14:48Z",
+   "tries": 1
+  },
   {
    "id": "a987fd1e8eed",
    "date": "2026-11-16",
@@ -70,14 +95,14 @@
    "id": "7bc566be225a",
    "date": "2026-11-16",
    "title": "Reforma Tributária/RJ: Governo do Estado envia à Alerj projeto de lei que cria programa de negociação de créditos tributários com foco no crescimento da receita de ICMS em 2026 e nos próximos anos",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9vQ1Btdlh6bHdjTktpc3FZZGNvaU9zUTVhRWIxNEJOR1ZhWF9rcmF5ekoya1ZHbTZKQzR2QkNsVkdQcm96R0R3S2pxR0FJU0dxMDhMNFJrc0g?oc=5",
+   "resumo": "Agilize decisões seguras. Legislação, Comentários e Consultoria nas áreas de IR e Contribuições, ICMS, IPI, ISS, Contabilidade e Societário, Simples Nacional, Trabalhista e Previdenciária. Cálculos e Tabelas de Substituição Tributária. Agenda Tributária…",
+   "link": "https://www.legisweb.com.br/noticia/?id",
    "source": "LegisWeb",
    "official": false,
    "category": "lei",
    "tag": "Legislação",
    "addedAt": "2026-11-16T20:17:49Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "b221ccdd1050",
@@ -376,6 +401,19 @@
    "tries": 1
   },
   {
+   "id": "3ce70d97ae95",
+   "date": "2026-11-15",
+   "title": "Senado deve definir alíquota da CBS para 2027 até 15 de dezembro",
+   "resumo": "",
+   "link": "https://www.capitalnews.com.br/nacional/senado-deve-definir-aliquota-da-cbs-para-2027-ate-15-de-dezembro/450040",
+   "source": "Capital News",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-16T21:14:48Z",
+   "tries": 1
+  },
+  {
    "id": "f4d096585a3e",
    "date": "2026-11-15",
    "title": "CBS a 11,3% preocupa indústria por risco de aumento tributário",
@@ -516,6 +554,19 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-15T16:06:29Z",
+   "tries": 1
+  },
+  {
+   "id": "f4992c78e556",
+   "date": "2026-11-14",
+   "title": "Reforma Tributária: CACB e entidades pedem mais tempo para adequação às novas regras",
+   "resumo": "",
+   "link": "https://www.capitalnews.com.br/nacional/reforma-tributaria-cacb-e-entidades-pedem-mais-tempo-para-adequacao-as-novas-regras/450042",
+   "source": "Capital News",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-16T21:14:48Z",
    "tries": 1
   },
   {
@@ -1664,14 +1715,14 @@
    "id": "e7a6d2de7564",
    "date": "2026-11-11",
    "title": "Reforma tributária: o que muda em 2027 com a CBS e como se preparar",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KR0FpRTRPWGxveHR6RzR3Z1BjWWdoZzZIOVZuZ0NwaklvWnZ1YmxLbkJEVlgtaFdHN29fXzN6VHVlZTh2MjByVENXUVoxbldRd2hNb2FHeGdMWmgwN0liRg?oc=5",
+   "resumo": "CBS substitui PIS e Cofins em 2027. Veja o cronograma da reforma tributária e o que muda para consumidores e empresas",
+   "link": "https://investnews.com.br/guias/reforma-tributaria/",
    "source": "InvestNews",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-16T20:17:49Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "276fd48b2629",
@@ -1919,56 +1970,6 @@
    "tag": "Atualização",
    "addedAt": "2026-11-12T18:40:50Z",
    "tries": 2
-  },
-  {
-   "id": "1ff27df71eb0",
-   "date": "2026-11-11",
-   "title": "CNPJ técnico não significa abertura de empresa; entenda a regra",
-   "resumo": "Inscrição será exigida de pessoas físicas contribuintes do IBS e da CBS a partir de 2027, mas não transforma autônomos e profissionais liberais em empresas. Leia mais em…",
-   "link": "https://www.contabeis.com.br/noticias/80790/cnpj-tecnico-nao-significa-abertura-de-empresa-entenda-a-regra/",
-   "source": "Portal Contábeis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-12T17:35:38Z"
-  },
-  {
-   "id": "abd4dbc8525d",
-   "date": "2026-11-11",
-   "title": "Bancos pedem remuneração maior pelo split payment",
-   "resumo": "Instituições financeiras consideram insuficientes os R$ 0,39 por operação estudados pelo governo para remunerar o processamento do split payment. Leia mais em https://www.contabeis.com.br/noticias/80777/bancos-pedem-remuneracao-maior-pelo-split-payment/",
-   "link": "https://www.contabeis.com.br/noticias/80777/bancos-pedem-remuneracao-maior-pelo-split-payment/",
-   "source": "Portal Contábeis",
-   "official": false,
-   "category": "pag",
-   "tag": "Split payment",
-   "addedAt": "2026-11-12T17:35:38Z"
-  },
-  {
-   "id": "e7bdeac8193e",
-   "date": "2026-11-11",
-   "title": "Imposto Seletivo 2027: veja como fica o preço dos carros com a reforma",
-   "resumo": "Saiba como o novo Imposto Seletivo mudará o preço dos veículos em 2027. Modelos a diesel e gasolina terão alta carga tributária com a reforma.",
-   "link": "https://www.gazetadopovo.com.br/economia/reforma-tributaria-eleva-custo-de-carros-movidos-a-gasolina-e-diesel-no-brasil/",
-   "source": "Gazeta do Povo",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-12T17:35:38Z",
-   "tries": 1
-  },
-  {
-   "id": "d9d6d819f243",
-   "date": "2026-11-11",
-   "title": "TJ-SP suspende decisões sobre IBS e CBS na base do ICMS - Portal Contabeis",
-   "resumo": "Estado estima impacto de R$ 10,2 bilhões em 2027.",
-   "link": "https://www.contabeis.com.br/noticias/80793/tj-sp-suspende-decisoes-sobre-ibs-e-cbs-na-base-do-icms/",
-   "source": "Portal Contabeis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-12T15:47:59Z",
-   "tries": 1
   }
  ]
 }

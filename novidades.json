@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-16T09:59:11Z",
- "lastCheckBr": "16/11/2026 06:59",
- "added": 12,
+ "lastCheckAt": "2026-11-16T11:20:32Z",
+ "lastCheckBr": "16/11/2026 08:20",
+ "added": 17,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -42,8 +42,8 @@
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 97,
-   "new": 9
+   "found": 96,
+   "new": 14
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -53,6 +53,19 @@
   }
  ],
  "items": [
+  {
+   "id": "bab4b163aa9c",
+   "date": "2026-11-16",
+   "title": "Cresce pressão para adiamento do início efetivo da reforma tributária para 2028",
+   "resumo": "Entidades como a ABDF e a OAB se mobilizam para postergar a nova Contribuição sobre Bens e Serviços (CBS), prevista para substituir PIS e Cofins a partir de janeiro",
+   "link": "https://www.estadao.com.br/economia/cresce-pressao-para-adiantamento-do-inicio-efetivo-da-reforma-tributaria-para-2028/",
+   "source": "Estadão",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-16T11:20:32Z",
+   "tries": 1
+  },
   {
    "id": "b4cf2dbc35db",
    "date": "2026-11-16",
@@ -141,6 +154,19 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-14T12:06:03Z"
+  },
+  {
+   "id": "d3b4960d0f33",
+   "date": "2026-11-13",
+   "title": "IVA de 30% e split payment: A crise da teoria tributária diante da arrecadação instantânea",
+   "resumo": "",
+   "link": "https://www.contadores.cnt.br/noticias/tecnicas/2026/11/13/iva-de-30-e-split-payment-a-crise-da-teoria-tributaria-diante-da-arrecadacao-instantanea.html",
+   "source": "Contadores.cnt.br",
+   "official": false,
+   "category": "pag",
+   "tag": "Split payment",
+   "addedAt": "2026-11-16T11:20:32Z",
+   "tries": 1
   },
   {
    "id": "8ff64171913e",
@@ -505,6 +531,19 @@
    "category": "pag",
    "tag": "Split payment",
    "addedAt": "2026-11-13T08:11:02Z",
+   "tries": 1
+  },
+  {
+   "id": "96b3e5db2ed4",
+   "date": "2026-11-12",
+   "title": "Reforma Tributária: governo anuncia transição sem multas para atos de boa-fé e amplia prazos para pequenos negócios",
+   "resumo": "",
+   "link": "https://www.contadores.cnt.br/noticias/tecnicas/2026/11/12/reforma-tributaria-governo-anuncia-transicao-sem-multas-para-atos-de-boa-fe-e-amplia-prazos-para-pequenos-negocios.html",
+   "source": "Contadores.cnt.br",
+   "official": false,
+   "category": "cont",
+   "tag": "Contabilidade",
+   "addedAt": "2026-11-16T11:20:32Z",
    "tries": 1
   },
   {
@@ -1012,6 +1051,19 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-12T03:00:00Z",
+   "tries": 1
+  },
+  {
+   "id": "04764ccb2355",
+   "date": "2026-11-11",
+   "title": "CBS para supermercados: guia completo sobre alíquotas, créditos e impactos da Reforma Tributária em 2027",
+   "resumo": "Entenda a alíquota, os créditos tributários, a cesta básica, o split payment e como preparar sua operação para 2027.",
+   "link": "https://www.supervarejo.com.br/economia/cbs-para-supermercados-guia-completo-sobre-aliquotas-creditos-e-impactos-da-reforma-tributaria-em-2027",
+   "source": "SuperVarejo",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-16T11:20:32Z",
    "tries": 1
   },
   {
@@ -1793,6 +1845,45 @@
    "tries": 1
   },
   {
+   "id": "6baf28f038bb",
+   "date": "2026-11-10",
+   "title": "MP 1.399/2026 institui Imposto Seletivo para 2027 com alíquotas de até 66,7% e redução da referência da CBS",
+   "resumo": "Medida provisória define a tributação de veículos, bebidas, fumígenos, minerais e prognósticos, com cobrança a partir de 2 de fevereiro de 2027",
+   "link": "https://comsefaz.org.br/novo/mp-1-399-2026-institui-imposto-seletivo-para-2027-com-aliquotas-de-ate-667-e-reducao-da-referencia-da-cbs/",
+   "source": "- Comsefaz",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-16T11:20:32Z",
+   "tries": 1
+  },
+  {
+   "id": "91875e3a09c6",
+   "date": "2026-11-10",
+   "title": "Reforma tributária no aluguel: regras para pessoa física e jurídica",
+   "resumo": "Entenda quando IBS e CBS incidem sobre aluguéis, como funciona o redutor residencial e quais contratos podem adotar o regime de 3,65%.",
+   "link": "https://www.contabeis.com.br/noticias/80736/reforma-tributaria-no-aluguel-regras-para-pessoa-fisica-e-juridica/",
+   "source": "Portal Contabeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-16T11:20:32Z",
+   "tries": 1
+  },
+  {
+   "id": "5970255b01dc",
+   "date": "2026-11-10",
+   "title": "Alíquota de CBS? Imposto do Pecado? Entenda as discussões sobre a reforma tributária em 6 pontos",
+   "resumo": "Nos últimos dias, uma série de novidades impactou o empresariado, como uma alíquota de CBS muito maior do que o esperado, a divulgação do “Imposto do Pecado” e a discussão sobre um possível adiamento",
+   "link": "https://www.estadao.com.br/economia/aliquota-de-cbs-imposto-do-pecado-entenda-as-discussoes-sobre-a-reforma-tributaria-em-6-pontos/",
+   "source": "Estadão",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-16T11:20:32Z",
+   "tries": 1
+  },
+  {
    "id": "4eb79287069f",
    "date": "2026-11-10",
    "title": "Calendário dos bancos prevê pleno funcionamento do 'split payment' na Reforma Tributária a partir de outubro de 2027",
@@ -1881,97 +1972,6 @@
    "category": "cont",
    "tag": "Contabilidade",
    "addedAt": "2026-11-16T02:45:31Z",
-   "tries": 1
-  },
-  {
-   "id": "149722bb7e09",
-   "date": "2026-11-10",
-   "title": "ato técnico conjunto rfb/suana/cgibs/diretoria-executiva nº 11, de 10 de novembro de",
-   "resumo": "",
-   "link": "https://www.cgibs.gov.br/upload/arquivos/202611/12145422-ato-tecnico-conjunto-11-duimp.pdf",
-   "source": "Comitê Gestor do IBS",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-16T01:53:09Z",
-   "tries": 2
-  },
-  {
-   "id": "a83bca4c1e15",
-   "date": "2026-11-10",
-   "title": "ato técnico conjunto rfb/suana/cgibs/diretoria-executiva nº 12, de 10 de novembro de",
-   "resumo": "",
-   "link": "https://www.cgibs.gov.br/upload/arquivos/202611/12154837-ato-tecnico-conjunto-12-dir.pdf",
-   "source": "Comitê Gestor do IBS",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-16T00:08:15Z",
-   "tries": 2
-  },
-  {
-   "id": "92168f24e266",
-   "date": "2026-11-10",
-   "title": "Davi Alcolumbre recebe do presidente do TCU relatório sobre alíquota da CBS para 2027",
-   "resumo": "O documento apresenta o percentual de referência de 11,3% para 2027, aprovado pelo TCU em 28 de outubro. A CBS substituirá o PIS/Pasep e a Cofins e integra o novo modelo de tributação sobre o consumo, instituído pela reforma tributária aprovada pelo Congresso.",
-   "link": "https://www12.senado.leg.br/institucional/presidencia/noticia/semi-destaques/davi-alcolumbre-recebe-do-presidente-do-tcu-relatorio-sobre-aliquota-da-cbs-para-2027",
-   "source": "Senado",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-15T23:00:56Z",
-   "tries": 1
-  },
-  {
-   "id": "8582464eae20",
-   "date": "2026-11-10",
-   "title": "Casa JOTA debate implementação e próximos passos da reforma tributária",
-   "resumo": "Integrantes do Comitê Gestor do IBS e da Receita Federal discutem desafios operacionais e regulamentação do novo sistema em 19 de novembro",
-   "link": "https://www.jota.info/casa-jota/casa-jota-debate-implementacao-e-proximos-passos-da-reforma-tributaria",
-   "source": "JOTA Info",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-15T22:02:08Z",
-   "tries": 1
-  },
-  {
-   "id": "49c09e00abe3",
-   "date": "2026-11-10",
-   "title": "Split payment e reforma tributária: impacto de R$ 117 bilhões nas empresas",
-   "resumo": "Entenda como o split payment na reforma tributária retém impostos na hora da venda e pode retirar R$ 117 bilhões do capital de giro das empresas brasileiras.",
-   "link": "https://www.gazetadopovo.com.br/economia/reforma-tributaria-ameaca-o-capital-de-giro-de-quase-um-milhao-de-empresas/",
-   "source": "Gazeta do Povo",
-   "official": false,
-   "category": "pag",
-   "tag": "Split payment",
-   "addedAt": "2026-11-15T19:35:38Z",
-   "tries": 1
-  },
-  {
-   "id": "21d7bc152130",
-   "date": "2026-11-10",
-   "title": "Nem 11,3%, nem 2027: Congresso articula para mudar alíquota da CBS e adiar a reforma tributária",
-   "resumo": "Parlamentares questionam cálculo do TCU para tentar reduzir o imposto e colhem assinaturas para PEC que joga a vigência do novo sistema para 2028.",
-   "link": "https://neofeed.com.br/poder/nem-113-nem-2027-congresso-articula-para-mudar-aliquota-da-cbs-e-adiar-a-reforma-tributaria/",
-   "source": "NeoFeed",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-15T04:45:02Z",
-   "tries": 1
-  },
-  {
-   "id": "0512a22428d4",
-   "date": "2026-11-10",
-   "title": "Senado recebe acórdão do TCU que propõe alíquota de 11,3% para a CBS — Senado Notícias",
-   "resumo": "O presidente do Tribunal de Contas da União (TCU), ministro Vital do Rêgo, entregou nesta terça-feira (10) ao presidente do Senado, Davi Alcolumbre, o acórdão da decisão que recomenda uma alíquota de 11,3% para a Contribuição Social sobre Bens e Serviços…",
-   "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/senado-recebe-acordao-do-tcu-que-propoe-aliquota-de-11-3-para-a-cbs",
-   "source": "Senado",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-15T03:41:26Z",
    "tries": 1
   }
  ]

@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-16T07:01:03Z",
- "lastCheckBr": "16/11/2026 04:01",
- "added": 14,
+ "lastCheckAt": "2026-11-16T09:59:11Z",
+ "lastCheckBr": "16/11/2026 06:59",
+ "added": 12,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -43,12 +43,12 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 97,
-   "new": 11
+   "new": 9
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
    "ok": true,
-   "found": 9,
+   "found": 8,
    "new": 3
   }
  ],
@@ -1793,6 +1793,32 @@
    "tries": 1
   },
   {
+   "id": "4eb79287069f",
+   "date": "2026-11-10",
+   "title": "Calendário dos bancos prevê pleno funcionamento do 'split payment' na Reforma Tributária a partir de outubro de 2027",
+   "resumo": "Mecanismo é visto pelo Fisco como fundamental para reduzir a sonegação",
+   "link": "https://oglobo.globo.com/economia/fabio-graner/post/2026/11/calendario-dos-bancos-preve-pleno-funcionamento-do-split-payment-na-reforma-tributaria-a-partir-de-outubro-de-2027.ghtml",
+   "source": "O GLOBO",
+   "official": false,
+   "category": "pag",
+   "tag": "Split payment",
+   "addedAt": "2026-11-16T09:59:11Z",
+   "tries": 1
+  },
+  {
+   "id": "02b767aad441",
+   "date": "2026-11-10",
+   "title": "NT 2026.004: como testar IBS e CBS na SVRS",
+   "resumo": "Veja quais documentos entram nos testes da NT 2026.004 na SVRS e como conferir as alíquotas e o total do CT-e nos cenários de 2026 e 2027.",
+   "link": "https://www.contabeis.com.br/noticias/80735/nt-2026-004-como-testar-ibs-e-cbs-na-svrs/",
+   "source": "Portal Contabeis",
+   "official": false,
+   "category": "nt",
+   "tag": "Nota técnica",
+   "addedAt": "2026-11-16T09:59:11Z",
+   "tries": 1
+  },
+  {
    "id": "42f283668a55",
    "date": "2026-11-10",
    "title": "Revisão da CBS pode gerar pressão sobre benefícios setoriais da reforma",
@@ -1946,32 +1972,6 @@
    "category": "aliq",
    "tag": "Alíquotas",
    "addedAt": "2026-11-15T03:41:26Z",
-   "tries": 1
-  },
-  {
-   "id": "5970255b01dc",
-   "date": "2026-11-10",
-   "title": "Alíquota de CBS? Imposto do Pecado? Entenda as discussões sobre a reforma tributária em 6 pontos",
-   "resumo": "Nos últimos dias, uma série de novidades impactou o empresariado, como uma alíquota de CBS muito maior do que o esperado, a divulgação do “Imposto do Pecado” e a discussão sobre um possível adiamento",
-   "link": "https://www.estadao.com.br/economia/aliquota-de-cbs-imposto-do-pecado-entenda-as-discussoes-sobre-a-reforma-tributaria-em-6-pontos/",
-   "source": "Estadão",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-15T02:42:05Z",
-   "tries": 1
-  },
-  {
-   "id": "91875e3a09c6",
-   "date": "2026-11-10",
-   "title": "Reforma tributária no aluguel: regras para pessoa física e jurídica",
-   "resumo": "Entenda quando IBS e CBS incidem sobre aluguéis, como funciona o redutor residencial e quais contratos podem adotar o regime de 3,65%.",
-   "link": "https://www.contabeis.com.br/noticias/80736/reforma-tributaria-no-aluguel-regras-para-pessoa-fisica-e-juridica/",
-   "source": "Portal Contabeis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-14T20:27:13Z",
    "tries": 1
   }
  ]

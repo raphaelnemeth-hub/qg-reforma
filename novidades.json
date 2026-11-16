@@ -1,6 +1,6 @@
 {
- "lastCheckAt": "2026-11-15T23:00:56Z",
- "lastCheckBr": "15/11/2026 20:00",
+ "lastCheckAt": "2026-11-16T00:08:15Z",
+ "lastCheckBr": "15/11/2026 21:08",
  "added": 13,
  "feeds": [
   {
@@ -43,13 +43,13 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 97,
-   "new": 10
+   "new": 9
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
    "ok": true,
    "found": 9,
-   "new": 3
+   "new": 4
   }
  ],
  "items": [
@@ -1754,6 +1754,19 @@
    "tries": 1
   },
   {
+   "id": "a83bca4c1e15",
+   "date": "2026-11-10",
+   "title": "ato técnico conjunto rfb/suana/cgibs/diretoria-executiva nº 12, de 10 de novembro de",
+   "resumo": "",
+   "link": "https://www.cgibs.gov.br/upload/arquivos/202611/12154837-ato-tecnico-conjunto-12-dir.pdf",
+   "source": "Comitê Gestor do IBS",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-16T00:08:15Z",
+   "tries": 1
+  },
+  {
    "id": "92168f24e266",
    "date": "2026-11-10",
    "title": "Davi Alcolumbre recebe do presidente do TCU relatório sobre alíquota da CBS para 2027",
@@ -1960,19 +1973,6 @@
    "tag": "Contabilidade",
    "addedAt": "2026-11-13T03:41:44Z",
    "tries": 1
-  },
-  {
-   "id": "149722bb7e09",
-   "date": "2026-11-10",
-   "title": "ato técnico conjunto rfb/suana/cgibs/diretoria-executiva nº 11, de 10 de novembro de",
-   "resumo": "",
-   "link": "https://www.cgibs.gov.br/upload/arquivos/202611/12145422-ato-tecnico-conjunto-11-duimp.pdf",
-   "source": "Comitê Gestor do IBS",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-12T21:36:53Z",
-   "tries": 2
   }
  ]
 }

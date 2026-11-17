@@ -1,6 +1,6 @@
 {
- "lastCheckAt": "2026-11-17T09:29:02Z",
- "lastCheckBr": "17/11/2026 06:29",
+ "lastCheckAt": "2026-11-17T10:32:20Z",
+ "lastCheckBr": "17/11/2026 07:32",
  "added": 8,
  "feeds": [
   {
@@ -24,8 +24,8 @@
   {
    "name": "Agência Brasil",
    "ok": true,
-   "found": 0,
-   "new": 0
+   "found": 1,
+   "new": 1
   },
   {
    "name": "Portal Contábeis",
@@ -43,7 +43,7 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 94,
-   "new": 8
+   "new": 7
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -53,6 +53,18 @@
   }
  ],
  "items": [
+  {
+   "id": "b174a4068a94",
+   "date": "2026-11-17",
+   "title": "Durigan vai ao Senado explicar alíquota de 11,3% da CBS",
+   "resumo": "Em meio a questionamentos sobre a reforma tributária, o ministro da Fazenda, Dario Durigan, participa nesta terça-feira (17), às 10h, de audiência pública na Comissão de Assuntos Econômicos (CAE) do Senado para discutir a alíquota de referência da…",
+   "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/durigan-vai-ao-senado-explicar-aliquota-de-113-da-cbs",
+   "source": "Agência Brasil",
+   "official": true,
+   "category": "nt",
+   "tag": "Nota técnica",
+   "addedAt": "2026-11-17T10:32:20Z"
+  },
   {
    "id": "27b0d78662b2",
    "date": "2026-11-17",
@@ -1957,19 +1969,6 @@
    "tag": "Nota técnica",
    "addedAt": "2026-11-16T17:04:17Z",
    "tries": 2
-  },
-  {
-   "id": "9994269ae7d4",
-   "date": "2026-11-11",
-   "title": "Expressão Nacional | Regulamentação da Reforma tributária: Imposto seletivo",
-   "resumo": "A partir de 2027, as mudanças da Reforma Tributária começam a se tornar realidade na rotina dos brasileiros. Um dos movimentos centrais dessa transição é o fim progressivo do tradicional Imposto sobre Produtos Industrializados (IPI) — que terá sua alíquota…",
-   "link": "https://www.camara.leg.br/tv/expressao-nacional/1317829-expressao-nacional-regulamentacao-da-reforma-tributaria-imposto-seletivo",
-   "source": "Portal da Câmara dos Deputados",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-16T15:57:21Z",
-   "tries": 1
   }
  ]
 }

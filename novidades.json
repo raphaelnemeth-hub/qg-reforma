@@ -1,13 +1,13 @@
 {
- "lastCheckAt": "2026-11-17T20:43:03Z",
- "lastCheckBr": "17/11/2026 17:43",
- "added": 37,
+ "lastCheckAt": "2026-11-17T21:41:42Z",
+ "lastCheckBr": "17/11/2026 18:41",
+ "added": 32,
  "feeds": [
   {
    "name": "Agência Senado",
    "ok": true,
    "found": 2,
-   "new": 1
+   "new": 0
   },
   {
    "name": "Agência Câmara",
@@ -25,7 +25,7 @@
    "name": "Agência Brasil",
    "ok": true,
    "found": 5,
-   "new": 1
+   "new": 0
   },
   {
    "name": "Portal Contábeis",
@@ -42,8 +42,8 @@
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 96,
-   "new": 31
+   "found": 97,
+   "new": 28
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -53,6 +53,58 @@
   }
  ],
  "items": [
+  {
+   "id": "5015d82a92e5",
+   "date": "2026-11-17",
+   "title": "Planejamento e fiscalização são essenciais para a Reforma Tributária",
+   "resumo": "As apresentações da tarde evidenciaram que a Reforma Tributária não deve ser tratada apenas como uma alteração na legislação fiscal",
+   "link": "https://portalamm.org.br/noticias/planejamento-e-fiscalizacao-sao-essenciais-para-a-reforma-tributaria",
+   "source": "AMM | Associação Mineira de Municípios",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-17T21:41:42Z",
+   "tries": 1
+  },
+  {
+   "id": "8d716f43be80",
+   "date": "2026-11-17",
+   "title": "Reforma tributária e venda de imóveis: Por que 31 de dezembro de 2026 entrou no planejamento patrimonial",
+   "resumo": "Por Remo Higashi Battaglia. A titularidade do imóvel pode alterar o valor do redutor de ajuste e a tributação pelo IBS e pela CBS na venda por holdings.",
+   "link": "https://www.migalhas.com.br/depeso/468760/reforma-tributaria-e-venda-de-imoveis-por-que-31-de-dezembro-de-2026",
+   "source": "Migalhas",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-17T21:41:42Z",
+   "tries": 1
+  },
+  {
+   "id": "24b8d09cf802",
+   "date": "2026-11-17",
+   "title": "Nova API da Receita Federal automatiza recolhimento da CBS e agiliza créditos tributários",
+   "resumo": "Sistema do Recolhimento como Adquirente (RAD) já está disponível para desenvolvedores e empresas iniciarem a adaptação ao novo modelo de consumo",
+   "link": "https://agenciadcnews.com.br/publicacao/s/nova-api-da-receita-federal-automatiza-recolhimento-da-cbs-e-agiliza-creditos-tributarios",
+   "source": "DComercio",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-17T21:41:42Z",
+   "tries": 1
+  },
+  {
+   "id": "6f0620764f77",
+   "date": "2026-11-17",
+   "title": "Reforma tributária: Durigan estima alíquota média de 8,5%",
+   "resumo": "Reforma tributária: na CAE do Senado, Dario Durigan disse que a CBS terá teto de 11,3% e carga efetiva média de 8,5%, com revisão anual.",
+   "link": "https://esbrasil.com.br/reforma-tributaria-durigan-aliquota-media-8-5/",
+   "source": "ES Brasil",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-17T21:41:42Z",
+   "tries": 1
+  },
   {
    "id": "c710a96cd23c",
    "date": "2026-11-17",
@@ -153,7 +205,7 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-17T20:43:03Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "8e397f7dedbf",
@@ -975,6 +1027,19 @@
    "tries": 1
   },
   {
+   "id": "c04b79bcf7e1",
+   "date": "2026-11-16",
+   "title": "CBS em 2027: como se preparar para o impacto no caixa",
+   "resumo": "A CBS começa em janeiro de 2027. Veja como contratos, split payment e a transição do PIS e da Cofins podem afetar o caixa das empresas.",
+   "link": "https://www.contabeis.com.br/artigos/80913/cbs-em-2027-como-se-preparar-para-o-impacto-no-caixa/",
+   "source": "Portal Contabeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-17T21:41:42Z",
+   "tries": 1
+  },
+  {
    "id": "81efbe9b8f7f",
    "date": "2026-11-16",
    "title": "A CBS em 2027 e a tributação dos serviços: Os reflexos nos escritórios de advocacia",
@@ -1749,6 +1814,58 @@
    "addedAt": "2026-11-14T12:06:03Z"
   },
   {
+   "id": "78adf3c1d169",
+   "date": "2026-11-13",
+   "title": "Nota fiscal e split payment avançam na reforma tributária, mas adaptação de municípios preocupa",
+   "resumo": "",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVkgxUzJhcENZMlJRTm8taGE2bG5WemRnbFY1NDZTQnY3c0VHX1RqVGZRa3FwZG1ubWhGTGh4TG95UnNodXRTa3ZpU0U5Z2V4bURwcENodEptaVNqeHhUWnprVjJvcDNoRmFXdnBjSmJueC1CeEVpNUh3QzRZc2NEekp4REF1bXQ3N0kzOUhWNmpaTHlISzdjRlJCa19DNy1DX2JFY2hyVHg2ZW96ZHNzazNyYWlUYjZ0bUJ4VDNEcXRHWjUtcWdIOVNlV1dtc1BkR3RjZ2RWR0gzNVNPS1ZXWkFicmZILXgxZmc?oc=5",
+   "source": "JOTA Info",
+   "official": false,
+   "category": "pag",
+   "tag": "Split payment",
+   "addedAt": "2026-11-17T21:41:42Z",
+   "tries": 1
+  },
+  {
+   "id": "fee519dc4b36",
+   "date": "2026-11-13",
+   "title": "Simples Nacional na Reforma Tributária: o que a alíquota de 11,3% da CBS significa para a sua empresa médica",
+   "resumo": "",
+   "link": "https://www.apm.org.br/simples-nacional-na-reforma-tributaria-o-que-a-aliquota-de-113-da-cbs-significa-para-a-sua-empresa-medica/",
+   "source": "APM - Associação Paulista de Medicina",
+   "official": false,
+   "category": "simples",
+   "tag": "Simples",
+   "addedAt": "2026-11-17T21:41:42Z",
+   "tries": 1
+  },
+  {
+   "id": "08eea2bdb760",
+   "date": "2026-11-13",
+   "title": "Empresas cobram definições da reforma tributária a menos de dois meses da CBS em 2027",
+   "resumo": "13/11/2026 A menos de dois meses do início de uma nova etapa da reforma tributária do consumo, empresas e entidades empresariais ainda cobram definições regulatórias e operacionais necessárias para adaptar sistemas, documentos fiscais e procedimentos internos…",
+   "link": "https://tagdlaw.com.br/empresas-cobram-definicoes-da-reforma-tributaria-a-menos-de-dois-meses-da-cbs-em-2027/",
+   "source": "TAGD Advogados",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-17T21:41:42Z",
+   "tries": 1
+  },
+  {
+   "id": "38c5cd2aac9e",
+   "date": "2026-11-13",
+   "title": "Reforma Tributária: como precificar serviços",
+   "resumo": "Entenda como CBS e IBS afetam os preços de serviços e o que avaliar sobre clientes, créditos tributários e regime da empresa.",
+   "link": "https://www.contabeis.com.br/artigos/80843/reforma-tributaria-como-precificar-servicos/",
+   "source": "Portal Contabeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-17T21:41:42Z",
+   "tries": 1
+  },
+  {
    "id": "1bb001f29926",
    "date": "2026-11-13",
    "title": "Reforma Tributária: Receita Federal e CGIBS adiam para 2027 a obrigatoriedade de emissão de documentos fiscais com IBS e CBS",
@@ -1864,122 +1981,6 @@
    "tag": "Split payment",
    "addedAt": "2026-11-16T15:57:21Z",
    "tries": 1
-  },
-  {
-   "id": "cc401a978719",
-   "date": "2026-11-13",
-   "title": "Reforma tributária exige CNPJ para produtor rural em 2027; veja quem terá de pagar CBS e IBS",
-   "resumo": "",
-   "link": "https://www.comprerural.com/reforma-tributaria-exige-cnpj-para-produtor-rural-em-2027-veja-quem-tera-de-pagar-cbs-e-ibs/",
-   "source": "CompreRural",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-16T15:57:21Z",
-   "tries": 2
-  },
-  {
-   "id": "ce9123f50faf",
-   "date": "2026-11-13",
-   "title": "A DeRE e a transposição do balancete para a apuração do IBS e da CBS",
-   "resumo": "Um dos desafios operacionais mais imediatos da reforma tributária ocorre neste domingo, 15 de novembro, quando vence o prazo para a primeira entrega mensal da Declaração de Regimes Específicos, a DeRE",
-   "link": "https://valorinveste.globo.com/blogs/alexandre-evaristo-pinto/coluna/a-dere-e-a-transposicao-do-balancete-para-a-apuracao-do-ibs-e-da-cbs.ghtml",
-   "source": "Valor Investe",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-16T13:06:51Z",
-   "tries": 1
-  },
-  {
-   "id": "041ba1548285",
-   "date": "2026-11-13",
-   "title": "Reforma tributária: CNC reforça pedido por ajustes no cronograma de implementação",
-   "resumo": "",
-   "link": "https://www.contadores.cnt.br/noticias/tecnicas/2026/11/13/reforma-tributaria-cnc-reforca-pedido-por-ajustes-no-cronograma-de-implementacao.html",
-   "source": "Contadores.cnt.br",
-   "official": false,
-   "category": "cont",
-   "tag": "Contabilidade",
-   "addedAt": "2026-11-16T13:06:51Z",
-   "tries": 2
-  },
-  {
-   "id": "e9df77ab0f90",
-   "date": "2026-11-13",
-   "title": "Mineradoras no Brasil pedem adiamento dos efeitos da reforma tributária",
-   "resumo": "A implementação da reforma tributária no Brasil tem gerado preocupação entre lideranças empresariais por diversos motivos.",
-   "link": "https://www.bnamericas.com/pt/noticias/mineradoras-no-brasil-pedem-adiamento-dos-efeitos-da-reforma-tributaria",
-   "source": "BNamericas",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-16T13:06:51Z",
-   "tries": 1
-  },
-  {
-   "id": "aedaa24579b9",
-   "date": "2026-11-13",
-   "title": "Imposto Seletivo: a seletividade entre a proteção e as escolhas - Crônica-ensaio XXIII da série Elementos da Reforma Tributária",
-   "resumo": "",
-   "link": "https://www.luizarmandocosta.com.br/noticia/imposto-seletivo-a-seletividade-entre-a-protecao-e-as-escolhas-cronica-ensaio-xxiii-da-serie-elementos-da-reforma-tributaria/56015",
-   "source": "Luiz Armando Costa",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-16T13:06:51Z",
-   "tries": 2
-  },
-  {
-   "id": "d3b4960d0f33",
-   "date": "2026-11-13",
-   "title": "IVA de 30% e split payment: A crise da teoria tributária diante da arrecadação instantânea",
-   "resumo": "",
-   "link": "https://www.contadores.cnt.br/noticias/tecnicas/2026/11/13/iva-de-30-e-split-payment-a-crise-da-teoria-tributaria-diante-da-arrecadacao-instantanea.html",
-   "source": "Contadores.cnt.br",
-   "official": false,
-   "category": "pag",
-   "tag": "Split payment",
-   "addedAt": "2026-11-16T11:20:32Z",
-   "tries": 2
-  },
-  {
-   "id": "8ff64171913e",
-   "date": "2026-11-13",
-   "title": "Evento Interativo - Reforma Tributária: tire suas dúvidas e não caia em fake news :: Portal e-Cidadania",
-   "resumo": "Espaço institucional online de participação política disponibilizado pelo Senado Federal para que o cidadão brasileiro possa colaborar de forma mais direta e efetiva com o processo de atuação parlamentar e legislativa do Senado.",
-   "link": "https://www12.senado.leg.br/ecidadania/visualizacaoaudiencia?id",
-   "source": "Senado",
-   "official": false,
-   "category": "lei",
-   "tag": "Legislação",
-   "addedAt": "2026-11-15T01:55:40Z",
-   "tries": 1
-  },
-  {
-   "id": "1ce1c44d270e",
-   "date": "2026-11-13",
-   "title": "Reforma Tributária exige preparo além dos sistemas fiscais",
-   "resumo": "A Reforma Tributária exige revisão de processos, créditos, preços e contratos, além da atualização dos sistemas fiscais para a chegada da CBS.",
-   "link": "https://www.contabeis.com.br/artigos/80817/reforma-tributaria-exige-preparo-alem-dos-sistemas-fiscais/",
-   "source": "Portal Contabeis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-14T03:39:17Z",
-   "tries": 1
-  },
-  {
-   "id": "a410a443ca79",
-   "date": "2026-11-13",
-   "title": "Imóveis na holding: por que observar o prazo de 2026",
-   "resumo": "Entenda como a data de aquisição de imóveis na holding pode alterar o redutor de ajuste e a base de cálculo do IBS e da CBS em uma venda futura. Leia mais em https://www.contabeis.com.br/noticias/80839/imoveis-na-holding-por-que-observar-o-prazo-de-2026/",
-   "link": "https://www.contabeis.com.br/noticias/80839/imoveis-na-holding-por-que-observar-o-prazo-de-2026/",
-   "source": "Portal Contábeis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-14T00:36:39Z"
   }
  ]
 }

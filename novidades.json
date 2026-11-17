@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-17T04:47:53Z",
- "lastCheckBr": "17/11/2026 01:47",
- "added": 15,
+ "lastCheckAt": "2026-11-17T05:50:05Z",
+ "lastCheckBr": "17/11/2026 02:50",
+ "added": 13,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -43,7 +43,7 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 94,
-   "new": 10
+   "new": 8
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -64,6 +64,19 @@
    "category": "aliq",
    "tag": "Alíquotas",
    "addedAt": "2026-11-17T04:47:53Z",
+   "tries": 1
+  },
+  {
+   "id": "d767df39f055",
+   "date": "2026-11-16",
+   "title": "Reforma Tributária: alíquota de 11,3% da CBS gera alerta de pressão na inflação de 2027",
+   "resumo": "A alíquota de 11,3% da CBS gera alertas sobre a inflação em 2027. Entenda os impactos econômicos e saiba como a sua empresa contábil pode orientar a precificação dos clientes.",
+   "link": "https://www.omie.com.br/blog/reforma-tributaria-aliquota-cbs-pressao-inflacao-2027/",
+   "source": "Omie",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-17T05:50:05Z",
    "tries": 1
   },
   {
@@ -1956,19 +1969,6 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-16T13:06:51Z",
-   "tries": 1
-  },
-  {
-   "id": "04764ccb2355",
-   "date": "2026-11-11",
-   "title": "CBS para supermercados: guia completo sobre alíquotas, créditos e impactos da Reforma Tributária em 2027",
-   "resumo": "Entenda a alíquota, os créditos tributários, a cesta básica, o split payment e como preparar sua operação para 2027.",
-   "link": "https://www.supervarejo.com.br/economia/cbs-para-supermercados-guia-completo-sobre-aliquotas-creditos-e-impactos-da-reforma-tributaria-em-2027",
-   "source": "SuperVarejo",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-16T11:20:32Z",
    "tries": 1
   }
  ]

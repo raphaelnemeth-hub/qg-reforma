@@ -1,12 +1,12 @@
 {
- "lastCheckAt": "2026-11-17T21:41:42Z",
- "lastCheckBr": "17/11/2026 18:41",
- "added": 32,
+ "lastCheckAt": "2026-11-17T22:43:27Z",
+ "lastCheckBr": "17/11/2026 19:43",
+ "added": 25,
  "feeds": [
   {
    "name": "Agência Senado",
    "ok": true,
-   "found": 2,
+   "found": 1,
    "new": 0
   },
   {
@@ -43,7 +43,7 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 97,
-   "new": 28
+   "new": 21
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -53,6 +53,32 @@
   }
  ],
  "items": [
+  {
+   "id": "19a3f94da766",
+   "date": "2026-11-17",
+   "title": "CBS: No Senado, TCU e Fazenda dividem com Congresso responsabilidade por alíquota",
+   "resumo": "Ministro da Fazenda defende reforma tributária em 2027 e diz que caberá ao Senado validar alíquota da CBS.",
+   "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/cbs-no-senado-tcu-e-fazenda-dividem-com-congresso-responsabilidade-por-aliquota",
+   "source": "JOTA Info",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-17T22:43:27Z",
+   "tries": 1
+  },
+  {
+   "id": "0c1cabdc3430",
+   "date": "2026-11-17",
+   "title": "Reforma tributária terá alíquota média de 8,5%, estima Ministério da Fazenda",
+   "resumo": "Fundada em 2006, a Algomais é a Revista de Pernambuco. Com um jornalismo analítico e propositivo, produzimos uma edição semanal com pautas ousadas e inovadoras.",
+   "link": "https://algomais.com/reforma-tributaria-tera-aliquota-media-de-85-estima-ministerio-da-fazenda/",
+   "source": "Revista Algomais",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-17T22:43:27Z",
+   "tries": 1
+  },
   {
    "id": "5015d82a92e5",
    "date": "2026-11-17",
@@ -1817,14 +1843,14 @@
    "id": "78adf3c1d169",
    "date": "2026-11-13",
    "title": "Nota fiscal e split payment avançam na reforma tributária, mas adaptação de municípios preocupa",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVkgxUzJhcENZMlJRTm8taGE2bG5WemRnbFY1NDZTQnY3c0VHX1RqVGZRa3FwZG1ubWhGTGh4TG95UnNodXRTa3ZpU0U5Z2V4bURwcENodEptaVNqeHhUWnprVjJvcDNoRmFXdnBjSmJueC1CeEVpNUh3QzRZc2NEekp4REF1bXQ3N0kzOUhWNmpaTHlISzdjRlJCa19DNy1DX2JFY2hyVHg2ZW96ZHNzazNyYWlUYjZ0bUJ4VDNEcXRHWjUtcWdIOVNlV1dtc1BkR3RjZ2RWR0gzNVNPS1ZXWkFicmZILXgxZmc?oc=5",
+   "resumo": "Comitê formado por dez especialistas reconhece avanços na implementação, mas aponta gargalos operacionais ainda a superar",
+   "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/nota-fiscal-e-split-payment-avancam-na-reforma-tributaria-mas-adaptacao-de-municipios-preocupa",
    "source": "JOTA Info",
    "official": false,
    "category": "pag",
    "tag": "Split payment",
    "addedAt": "2026-11-17T21:41:42Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "fee519dc4b36",
@@ -1837,7 +1863,7 @@
    "category": "simples",
    "tag": "Simples",
    "addedAt": "2026-11-17T21:41:42Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "08eea2bdb760",
@@ -1953,32 +1979,6 @@
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-16T15:57:21Z",
-   "tries": 1
-  },
-  {
-   "id": "79b73258d361",
-   "date": "2026-11-13",
-   "title": "Reforma tributária acende alerta no agro: quem vai pagar a CBS na soja já vendida?",
-   "resumo": "",
-   "link": "https://www.comprerural.com/reforma-tributaria-acende-alerta-no-agro-quem-vai-pagar-a-cbs-na-soja-ja-vendida/",
-   "source": "CompreRural",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-16T15:57:21Z",
-   "tries": 2
-  },
-  {
-   "id": "da2be3ea581b",
-   "date": "2026-11-13",
-   "title": "Split payment pode reduzir caixa das empresas e aumentar demanda por crédito a partir de 2027",
-   "resumo": "Confira no Portal IN as melhoras notas de sociedade, viagens, lifestyle, moda, comportamento, cultura, gastronomia, negócios, política, opinião e tendências, tudo sob o olhar de Pompeu Vasconcelos. Acesse www.baladain.com.br",
-   "link": "https://www.portalin.com.br/?p",
-   "source": "Portal IN - Pompeu Vasconcelos",
-   "official": false,
-   "category": "pag",
-   "tag": "Split payment",
    "addedAt": "2026-11-16T15:57:21Z",
    "tries": 1
   }

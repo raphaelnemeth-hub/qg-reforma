@@ -1,13 +1,13 @@
 {
- "lastCheckAt": "2026-11-17T19:30:12Z",
- "lastCheckBr": "17/11/2026 16:30",
- "added": 38,
+ "lastCheckAt": "2026-11-17T20:43:03Z",
+ "lastCheckBr": "17/11/2026 17:43",
+ "added": 37,
  "feeds": [
   {
    "name": "Agência Senado",
    "ok": true,
    "found": 2,
-   "new": 0
+   "new": 1
   },
   {
    "name": "Agência Câmara",
@@ -24,14 +24,14 @@
   {
    "name": "Agência Brasil",
    "ok": true,
-   "found": 4,
+   "found": 5,
    "new": 1
   },
   {
    "name": "Portal Contábeis",
    "ok": true,
    "found": 8,
-   "new": 1
+   "new": 0
   },
   {
    "name": "InfoMoney",
@@ -42,8 +42,8 @@
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 94,
-   "new": 32
+   "found": 96,
+   "new": 31
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -53,6 +53,108 @@
   }
  ],
  "items": [
+  {
+   "id": "c710a96cd23c",
+   "date": "2026-11-17",
+   "title": "No Senado, ministro da Fazenda defende novo tributo sobre o consumo",
+   "resumo": "O ministro da Fazenda, Dario Durigan, previu que a nova Contribuição sobre Bens e Serviços (CBS), criada pela reforma tributária, terá uma alíquota efetiva de 8,5%, beneficiando o consumidor médio. Durigan defendeu a implementação da reforma em audiência…",
+   "link": "https://www12.senado.leg.br/noticias/materias/2026/11/17/no-senado-ministro-da-fazenda-defende-novo-tributo-sobre-o-consumo",
+   "source": "Senado Federal",
+   "official": true,
+   "category": "cap",
+   "tag": "Capacitação",
+   "addedAt": "2026-11-17T20:43:03Z"
+  },
+  {
+   "id": "b48278bf6281",
+   "date": "2026-11-17",
+   "title": "Clima afeta produção e eleva preço do tomate em diversas capitais",
+   "resumo": "Nos últimos meses, o preço do tomate disparou em diversas partes do país. O aumento é provocado pelas condições climáticas que afetaram a produção. Em algumas capitais, o quilo do produto está custando até duas vezes mais do que na comparação com o início do…",
+   "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/clima-afeta-producao-e-eleva-preco-do-tomate-em-diversas-capitais",
+   "source": "Agência Brasil",
+   "official": true,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-17T20:43:03Z"
+  },
+  {
+   "id": "a1eef30859a3",
+   "date": "2026-11-17",
+   "title": "Virando a Chave na Reforma Tributária: API do RAD - documentação técnica já está disponível",
+   "resumo": "Na prática, a solução viabiliza a automação dos processos relacionados ao RAD, reduzindo etapas operacionais e ampliando a eficiência na apropriação de créditos tributários.",
+   "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/virando-a-chave-para-a-reforma-tributaria-api-para-emissao-do-rad-ja-esta-disponivel",
+   "source": "Governo Federal",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-17T20:43:03Z",
+   "tries": 1
+  },
+  {
+   "id": "571b31f32f39",
+   "date": "2026-11-17",
+   "title": "Reforma tributária: o que muda para a indústria em 1º de janeiro de 2027",
+   "resumo": "Faltam menos de sete semanas para a etapa mais concreta da Reforma Tribut&aacute;ria at&eacute; aqui. Depois de um 2026 de testes, em que a CBS e o IBS apareceram nas notas fiscais, 2027 &eacute; o ano em que o primeiro tributo novo passa a pesar de verdade…",
+   "link": "https://www.firjan.com.br/noticias/reforma-tributaria-o-que-muda-para-a-industria-em-1-de-janeiro-de-2027.htm",
+   "source": "Sistema Firjan",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-17T20:43:03Z",
+   "tries": 1
+  },
+  {
+   "id": "f257982632ce",
+   "date": "2026-11-17",
+   "title": "Reforma Tributária: mitos e verdades sobre impostos, preços e Simples Nacional",
+   "resumo": "O Simples Nacional vai acabar? Pedreiros e jardineiros terão que abrir empresa e emitir nota fiscal? A Reforma Tributária vai aumentar os preços? O Cidadania recebe Daniel Carvalho, consultor legislativo da área de Direito Tributário, para esclarecer as…",
+   "link": "https://www12.senado.leg.br/tv/programas/cidadania-1/2026/11/reforma-tributaria-mitos-e-verdades-sobre-impostos-precos-e-simples-nacional",
+   "source": "Senado",
+   "official": false,
+   "category": "simples",
+   "tag": "Simples",
+   "addedAt": "2026-11-17T20:43:03Z",
+   "tries": 1
+  },
+  {
+   "id": "ae38c1fa2f8f",
+   "date": "2026-11-17",
+   "title": "CBS em 11,3% é por exceções da reforma tributária, diz TCU",
+   "resumo": "Presidente do tribunal, Vital do Rêgo Filho, diz que regras aprovadas são diferentes das de quando tema estava em análise. Leia no Poder360.",
+   "link": "https://www.poder360.com.br/poder-economia/cbs-em-113-e-por-excecoes-da-reforma-tributaria-diz-presidente-do-tcu/",
+   "source": "Poder360",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-17T20:43:03Z",
+   "tries": 1
+  },
+  {
+   "id": "f94c63be0d33",
+   "date": "2026-11-17",
+   "title": "Reforma tributária: Ministro da Fazenda vai ao Senado discutir implementação da CBS",
+   "resumo": "Durigan afirmou que a reforma tributária trará ganhos de responsabilidade fiscal, justiça social e transparência ao sistema tributário brasileiro",
+   "link": "https://agorars.com/economia/reforma-tributaria-ministro-da-fazenda-vai-ao-senado-discutir-implementacao-da-cbs/",
+   "source": "Agora RS",
+   "official": false,
+   "category": "lei",
+   "tag": "Legislação",
+   "addedAt": "2026-11-17T20:43:03Z",
+   "tries": 1
+  },
+  {
+   "id": "801adb8a61b7",
+   "date": "2026-11-17",
+   "title": "Reforma tributária é cobrada por falta de transparência e incerteza sobre impostos",
+   "resumo": "",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeFdha2dRS2hoQ0g0a2ZfQUFDVnRRc0JzQnhLQWRIU2RjTlNKU3R6QnotMzlnRDBxaWtpZXY1M3NWSFpueFB3VU9xMURFTkpxZlRobDFDSFAzNlNBX2Q4dDVOQXBXXzU1cEI0OG9MLXhIRVBuRDRZa1IxbXdZNmY3TEZjbUhFcEVRMHUxbHVEN20tZEEyUzNRdnV2VlNrTEtNaGx6bF9Pb3VtWndjZjF3TWtLZkt2aC0wdlVjaHUwZFh1cVRDOS02aUM2QzU3czR4SUFVRzFn0gHbAUFVX3lxTE5USWlva0hacmFGdXVrQ0daVVU1N1k5OEZGVDZkYUF3bm9MZlE3dWFKczYyQXpWVmVoYVpYTE94REE5ZVZnWnEya2tIY0UtMWxxcERXZTkzQ0VCa1FTc29oMUl2bTJtRG1fNmJTSUt5c0ZLNFdmOEhQODNSenR1YkpxNC1ZaE90a0dneFFPT1dDTmlxMVJCcDg0SnJYeHBiZE1SaGQzcVEyRDlwZS1BbW4ta0JMUU8tUXI1ZVVtMVFiZ1F4V1p5LW5HdlFLMFJ4RU45VV9UOUxGZDZydw?oc=5",
+   "source": "Diário do Poder",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-17T20:43:03Z",
+   "tries": 1
+  },
   {
    "id": "8e397f7dedbf",
    "date": "2026-11-17",
@@ -140,7 +242,7 @@
    "category": "cont",
    "tag": "Contabilidade",
    "addedAt": "2026-11-17T19:30:12Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "41384b8d800b",
@@ -153,7 +255,7 @@
    "category": "cont",
    "tag": "Contabilidade",
    "addedAt": "2026-11-17T19:30:12Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "683ab5fcc5f8",
@@ -873,6 +975,19 @@
    "tries": 1
   },
   {
+   "id": "81efbe9b8f7f",
+   "date": "2026-11-16",
+   "title": "A CBS em 2027 e a tributação dos serviços: Os reflexos nos escritórios de advocacia",
+   "resumo": "Por Juliana Dias Guerra Nelson Ferreira Cruz. A nova contribuição exigirá dos escritórios a revisão de custos, créditos e honorários para adequar a gestão à mudança no sistema tributário.",
+   "link": "https://www.migalhas.com.br/depeso/468689/a-cbs-em-2027-e-a-tributacao-dos-servicos-os-reflexos-nos-escritorio",
+   "source": "Migalhas",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-17T20:43:03Z",
+   "tries": 1
+  },
+  {
    "id": "9a55fa70e1ae",
    "date": "2026-11-16",
    "title": "Comissão de Finanças debate com Receita Federal regulamentação da reforma tributária",
@@ -909,7 +1024,7 @@
    "category": "cont",
    "tag": "Contabilidade",
    "addedAt": "2026-11-17T19:30:12Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "78ec60664534",
@@ -1634,6 +1749,58 @@
    "addedAt": "2026-11-14T12:06:03Z"
   },
   {
+   "id": "1bb001f29926",
+   "date": "2026-11-13",
+   "title": "Reforma Tributária: Receita Federal e CGIBS adiam para 2027 a obrigatoriedade de emissão de documentos fiscais com IBS e CBS",
+   "resumo": "Agilize decisões seguras. Legislação, Comentários e Consultoria nas áreas de IR e Contribuições, ICMS, IPI, ISS, Contabilidade e Societário, Simples Nacional, Trabalhista e Previdenciária. Cálculos e Tabelas de Substituição Tributária. Agenda Tributária…",
+   "link": "https://www.legisweb.com.br/noticia/?id",
+   "source": "LegisWeb",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-17T20:43:03Z",
+   "tries": 1
+  },
+  {
+   "id": "aa44f6e52e90",
+   "date": "2026-11-13",
+   "title": "Reforma: quando deve ser recolhido CBS sobre combustíveis?",
+   "resumo": "A CBS sobre combustíveis monofásicos começa a ser cobrada em 8/1/2027, com alíquotas por litro. Veja o novo leiaute da nota e os prazos.",
+   "link": "https://noticias.iob.com.br/reforma-cbs-sobre-combustiveis/",
+   "source": "IOB Notícias",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-17T20:43:03Z",
+   "tries": 1
+  },
+  {
+   "id": "0d0df8fb8480",
+   "date": "2026-11-13",
+   "title": "Reforma Tributária: Receita e Comitê Gestor publicam novo cronograma de emissão de documentos fiscais do IBS e da CBS",
+   "resumo": "O ato já está em vigor. As obrigações começam em dezembro de 2026 e vão até março de 2027, de acordo com a atividade de cada empresa",
+   "link": "https://www.martinelli.adv.br/reforma-tributaria-receita-e-comite-gestor-publicam-novo-cronograma-de-emissao-de-documentos-fiscais-do-ibs-e-da-cbs/",
+   "source": "Martinelli Advogados",
+   "official": false,
+   "category": "lei",
+   "tag": "Legislação",
+   "addedAt": "2026-11-17T20:43:03Z",
+   "tries": 1
+  },
+  {
+   "id": "ef34e75af7f6",
+   "date": "2026-11-13",
+   "title": "Reforma Tributária: O efeito do Split Payment Na Sua Empresa",
+   "resumo": "Previsto para 2027, o recolhimento automático de IBS e CBS pode pressionar o capital de giro das empresas",
+   "link": "https://forbes.com.br/forbes-money/2026/11/split-payment-impactos-empresas/",
+   "source": "Forbes Brasil",
+   "official": false,
+   "category": "pag",
+   "tag": "Split payment",
+   "addedAt": "2026-11-17T20:43:03Z",
+   "tries": 1
+  },
+  {
    "id": "6d04d7e25ff3",
    "date": "2026-11-13",
    "title": "Imposto Seletivo preocupa municípios produtores de tabaco",
@@ -1813,167 +1980,6 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-14T00:36:39Z"
-  },
-  {
-   "id": "4e3a8b733eb3",
-   "date": "2026-11-13",
-   "title": "CBS em 2027: empresas cobram prazo para adaptação",
-   "resumo": "Com a CBS prevista para 2027, empresas e contadores pedem tempo para adaptar sistemas e rotinas diante de regras e ferramentas ainda pendentes. Leia mais em https://www.contabeis.com.br/noticias/80883/cbs-em-2027-empresas-cobram-prazo-para-adaptacao/",
-   "link": "https://www.contabeis.com.br/noticias/80883/cbs-em-2027-empresas-cobram-prazo-para-adaptacao/",
-   "source": "Portal Contábeis",
-   "official": false,
-   "category": "cont",
-   "tag": "Contabilidade",
-   "addedAt": "2026-11-13T22:35:19Z"
-  },
-  {
-   "id": "2c744bb64e69",
-   "date": "2026-11-13",
-   "title": "Projeto prevê uso de créditos da CBS para pagar tributos",
-   "resumo": "PLP 285/2026 propõe permitir o uso de determinados créditos da CBS para quitar outras obrigações com a Receita Federal. A proposta ainda tramita na Câmara. Leia mais em…",
-   "link": "https://www.contabeis.com.br/noticias/80882/projeto-preve-uso-de-creditos-da-cbs-para-pagar-tributos/",
-   "source": "Portal Contábeis",
-   "official": false,
-   "category": "lei",
-   "tag": "Legislação",
-   "addedAt": "2026-11-13T21:38:22Z"
-  },
-  {
-   "id": "f4f893c27fee",
-   "date": "2026-11-13",
-   "title": "IBS e CBS na base do ICMS: depósito judicial",
-   "resumo": "Empresas que contestam a inclusão do IBS e da CBS na base do ICMS podem avaliar o depósito judicial da diferença enquanto aguardam decisão. Leia mais em https://www.contabeis.com.br/noticias/80828/ibs-e-cbs-na-base-do-icms-deposito-judicial/",
-   "link": "https://www.contabeis.com.br/noticias/80828/ibs-e-cbs-na-base-do-icms-deposito-judicial/",
-   "source": "Portal Contábeis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-13T21:38:22Z"
-  },
-  {
-   "id": "38c5cd2aac9e",
-   "date": "2026-11-13",
-   "title": "Reforma Tributária: como precificar serviços",
-   "resumo": "Entenda como CBS e IBS afetam os preços de serviços e o que avaliar sobre clientes, créditos tributários e regime da empresa.",
-   "link": "https://www.contabeis.com.br/artigos/80843/reforma-tributaria-como-precificar-servicos/",
-   "source": "Portal Contabeis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-13T20:43:23Z",
-   "tries": 1
-  },
-  {
-   "id": "8456d543ba1c",
-   "date": "2026-11-13",
-   "title": "CAE: ministro da Fazenda debate alíquota da CBS na terça-feira",
-   "resumo": "O ministro da Fazenda, Dario Durigan, participa nesta terça-feira (17) de audiência pública na Comissão de Assuntos Econômicos do Senado (CAE). O objetivo é discutir o cálculo da alíquota de referência da Contribuição Social sobre Bens e Serviços (CBS) para o…",
-   "link": "https://www12.senado.leg.br/noticias/materias/2026/11/13/cae-ministro-da-fazenda-debate-aliquota-da-cbs-na-terca-feira",
-   "source": "Senado Federal",
-   "official": true,
-   "category": "cap",
-   "tag": "Capacitação",
-   "addedAt": "2026-11-13T19:43:58Z"
-  },
-  {
-   "id": "12573eee8428",
-   "date": "2026-11-13",
-   "title": "Câmara debate CBS, Imposto Seletivo e créditos tributários",
-   "resumo": "Audiência em 18 de novembro terá participação da Receita Federal e discutirá alíquotas da CBS , Imposto Seletivo e impactos para pequenas empresas. Leia mais em…",
-   "link": "https://www.contabeis.com.br/noticias/80873/camara-debate-cbs-imposto-seletivo-e-creditos-tributarios/",
-   "source": "Portal Contábeis",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-13T19:43:58Z"
-  },
-  {
-   "id": "f41e886281e5",
-   "date": "2026-11-13",
-   "title": "CGIBS anuncia dispensa de CNPJ para produtor rural e autônomo",
-   "resumo": "CGIBS anuncia dispensa de CNPJ para produtores rurais e transportadores autônomos de cargas em 2027 e 2028. Veja quem poderá continuar usando o CPF. Leia mais em…",
-   "link": "https://www.contabeis.com.br/noticias/80866/cgibs-anuncia-dispensa-de-cnpj-para-produtor-rural-e-autonomo/",
-   "source": "Portal Contábeis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-13T19:43:58Z"
-  },
-  {
-   "id": "08eea2bdb760",
-   "date": "2026-11-13",
-   "title": "Empresas cobram definições da reforma tributária a menos de dois meses da CBS em 2027",
-   "resumo": "13/11/2026 A menos de dois meses do início de uma nova etapa da reforma tributária do consumo, empresas e entidades empresariais ainda cobram definições regulatórias e operacionais necessárias para adaptar sistemas, documentos fiscais e procedimentos internos…",
-   "link": "https://tagdlaw.com.br/empresas-cobram-definicoes-da-reforma-tributaria-a-menos-de-dois-meses-da-cbs-em-2027/",
-   "source": "TAGD Advogados",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-13T19:43:58Z",
-   "tries": 1
-  },
-  {
-   "id": "5389334a1b1e",
-   "date": "2026-11-13",
-   "title": "APIs da CBS exigem nova credencial para consulta de débitos e créditos",
-   "resumo": "Receita Federal orienta usuários das APIs da CBS a cancelar a credencial antiga e emitir outra para acessar as funcionalidades da versão 2.0. Leia mais em…",
-   "link": "https://www.contabeis.com.br/noticias/80864/apis-da-cbs-exigem-nova-credencial-para-consulta-de-debitos-e-creditos/",
-   "source": "Portal Contábeis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-13T18:39:02Z"
-  },
-  {
-   "id": "78adf3c1d169",
-   "date": "2026-11-13",
-   "title": "Nota fiscal e split payment avançam na reforma tributária, mas adaptação de municípios preocupa",
-   "resumo": "Comitê formado por dez especialistas reconhece avanços na implementação, mas aponta gargalos operacionais ainda a superar",
-   "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/nota-fiscal-e-split-payment-avancam-na-reforma-tributaria-mas-adaptacao-de-municipios-preocupa",
-   "source": "JOTA Info",
-   "official": false,
-   "category": "pag",
-   "tag": "Split payment",
-   "addedAt": "2026-11-13T16:42:42Z",
-   "tries": 1
-  },
-  {
-   "id": "fa217eb0880d",
-   "date": "2026-11-13",
-   "title": "PGDAS-D é atualizado para atender à Reforma Tributária a partir de novembro de 2026 — Receita Federal",
-   "resumo": "Mudanças na apuração do Simples Nacional incluem o fim da escolha do regime de caixa ou competência e a obrigatoriedade de informar a folha de salários dos últimos 12 meses.",
-   "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/pgdas-d-e-atualizado-para-atender-a-reforma-tributaria-a-partir-de-novembro-de-2026",
-   "source": "Governo Federal",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-13T16:42:42Z",
-   "tries": 1
-  },
-  {
-   "id": "fee519dc4b36",
-   "date": "2026-11-13",
-   "title": "Simples Nacional na Reforma Tributária: o que a alíquota de 11,3% da CBS significa para a sua empresa médica",
-   "resumo": "O TCU calculou a alíquota de referência da CBS para 2027 acima do que o mercado esperava",
-   "link": "https://www.apm.org.br/simples-nacional-na-reforma-tributaria-o-que-a-aliquota-de-113-da-cbs-significa-para-a-sua-empresa-medica/",
-   "source": "APM - Associação Paulista de Medicina",
-   "official": false,
-   "category": "simples",
-   "tag": "Simples",
-   "addedAt": "2026-11-13T16:42:42Z",
-   "tries": 1
-  },
-  {
-   "id": "5a65d28b89b6",
-   "date": "2026-11-13",
-   "title": "Sala de situação começa a discutir desafios da reforma tributária",
-   "resumo": "Sala de situação terá reuniões semanais para discutir problemas da reforma tributária , com prioridade para Simples Nacional e transição de PIS e Cofins . Leia mais em…",
-   "link": "https://www.contabeis.com.br/noticias/80861/sala-de-situacao-comeca-a-discutir-desafios-da-reforma-tributaria/",
-   "source": "Portal Contábeis",
-   "official": false,
-   "category": "simples",
-   "tag": "Simples",
-   "addedAt": "2026-11-13T15:37:40Z"
   }
  ]
 }

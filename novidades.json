@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-17T11:40:47Z",
- "lastCheckBr": "17/11/2026 08:40",
- "added": 14,
+ "lastCheckAt": "2026-11-17T12:48:28Z",
+ "lastCheckBr": "17/11/2026 09:48",
+ "added": 17,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -25,13 +25,13 @@
    "name": "Agência Brasil",
    "ok": true,
    "found": 1,
-   "new": 1
+   "new": 0
   },
   {
    "name": "Portal Contábeis",
    "ok": true,
    "found": 11,
-   "new": 1
+   "new": 2
   },
   {
    "name": "InfoMoney",
@@ -43,7 +43,7 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 93,
-   "new": 12
+   "new": 15
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -53,6 +53,56 @@
   }
  ],
  "items": [
+  {
+   "id": "936ff5e9e033",
+   "date": "2026-11-17",
+   "title": "Receita libera Calculadora de Tributos da Reforma Tributária no GitHub",
+   "resumo": "Código-fonte da ferramenta poderá ser consultado e integrado por empresas, desenvolvedores e profissionais da contabilidade . Leia mais em https://www.contabeis.com.br/noticias/80925/receita-libera-calculadora-de-tributos-da-reforma-tributaria-no-github/",
+   "link": "https://www.contabeis.com.br/noticias/80925/receita-libera-calculadora-de-tributos-da-reforma-tributaria-no-github/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "cont",
+   "tag": "Contabilidade",
+   "addedAt": "2026-11-17T12:48:28Z"
+  },
+  {
+   "id": "ca30ba99e034",
+   "date": "2026-11-17",
+   "title": "Senado debate alíquota de 11,3% da CBS para 2027",
+   "resumo": "Foto: Gabriel Tiveron / Unsplash · Licença Unsplash Ministro da Fazenda participa de audiência nesta terça-feira (17) para discutir o cálculo da alíquota de referência da CBS recomendada pelo TCU. Leia mais em…",
+   "link": "https://www.contabeis.com.br/noticias/80927/senado-debate-aliquota-de-11-3-da-cbs-para-2027/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-17T12:48:28Z"
+  },
+  {
+   "id": "f73b8cd22033",
+   "date": "2026-11-17",
+   "title": "Reforma Tributária, adiada ou não, pode travar direitos das pessoas com deficiência",
+   "resumo": "Associações alertam para confusão nas normas que tratam das isenções de impostos federais e ...",
+   "link": "https://www.terra.com.br/nos/reforma-tributaria-adiada-ou-nao-pode-travar-direitos-das-pessoas-com-deficiencia,932a968ec7251ef874924f74a494ac94hk0nh5gg.html",
+   "source": "Terra",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-17T12:48:28Z",
+   "tries": 1
+  },
+  {
+   "id": "75d4e8f86519",
+   "date": "2026-11-17",
+   "title": "Dario Durigan vai ao Senado debater alíquota de 11,3% da CBS",
+   "resumo": "Proposta sugerida pelo TCU gera debates intensos e atrito com parlamentares e entidades do setor produtivo.",
+   "link": "https://www.pagina1.com.br/noticia/dario-durigan-vai-ao-senado-debater-aliquota-de-11-3-da-cbs",
+   "source": "Página 1 MT",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-17T12:48:28Z",
+   "tries": 1
+  },
   {
    "id": "5493fae9f82c",
    "date": "2026-11-17",
@@ -113,6 +163,32 @@
    "category": "aliq",
    "tag": "Alíquotas",
    "addedAt": "2026-11-17T04:47:53Z",
+   "tries": 1
+  },
+  {
+   "id": "b53ca59fd4dc",
+   "date": "2026-11-16",
+   "title": "Farmácias revisam notas e cadastros para a Reforma Tributária; 81% dos emissores de notas ao consumidor já informam a CBS",
+   "resumo": "",
+   "link": "https://www.onortao.com.br/2026/11/farmacias-revisam-notas-e-cadastros.html",
+   "source": "O NORTÃO",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-17T12:48:28Z",
+   "tries": 1
+  },
+  {
+   "id": "e5cf7d51e1de",
+   "date": "2026-11-16",
+   "title": "Cashback da reforma tributária: veja quem terá direito ao benefício em 2027",
+   "resumo": "Cashback da reforma tributária começa em 2027. Veja quem tem direito à devolução de impostos, os critérios e quando será feito o pagamento.",
+   "link": "https://vtvnews.com.br/brasil-2/cashback-reforma-tributaria-quem-recebe-regras-2027-bb/",
+   "source": "vtvnews.com.br",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-17T12:48:28Z",
    "tries": 1
   },
   {
@@ -577,6 +653,19 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-16T03:55:20Z",
+   "tries": 1
+  },
+  {
+   "id": "98470092e32e",
+   "date": "2026-11-15",
+   "title": "Reforma tributária vai devolver dinheiro a milhões de brasileiros; veja quem tem direito e como receber",
+   "resumo": "Cashback da reforma tributária começa em janeiro de 2027. Veja quem tem direito, quanto será devolvido, como receber e quando cai o primeiro pagamento.",
+   "link": "https://gmconline.com.br/noticias/geral/reforma-tributaria-vai-devolver-dinheiro-a-milhoes-de-brasileiros-veja-quem-tem-direito-e-como-receber/",
+   "source": "GMC Online",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-17T12:48:28Z",
    "tries": 1
   },
   {
@@ -1876,97 +1965,6 @@
    "tag": "Atualização",
    "addedAt": "2026-11-12T06:51:42Z",
    "tries": 1
-  },
-  {
-   "id": "1536c408f308",
-   "date": "2026-11-12",
-   "title": "Reforma Tributária: entenda a proposta que dá 30 dias a mais para empresas pagarem a CBS em 2027 - O GLOBO",
-   "resumo": "Recolhimento será feito em duas etapas no primeiro ano da reforma; mudança depende de aprovação do Congresso",
-   "link": "https://oglobo.globo.com/economia/noticia/2026/11/12/reforma-tributaria-entenda-a-proposta-que-da-30-dias-a-mais-para-empresas-pagarem-a-cbs-em-2027.ghtml",
-   "source": "O GLOBO",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-12T03:00:00Z",
-   "tries": 1
-  },
-  {
-   "id": "9994269ae7d4",
-   "date": "2026-11-11",
-   "title": "Expressão Nacional | Regulamentação da Reforma tributária: Imposto seletivo",
-   "resumo": "A partir de 2027, as mudanças da Reforma Tributária começam a se tornar realidade na rotina dos brasileiros. Um dos movimentos centrais dessa transição é o fim progressivo do tradicional Imposto sobre Produtos Industrializados (IPI) — que terá sua alíquota…",
-   "link": "https://www.camara.leg.br/tv/expressao-nacional/1317829-expressao-nacional-regulamentacao-da-reforma-tributaria-imposto-seletivo",
-   "source": "Portal da Câmara dos Deputados",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-17T11:40:47Z",
-   "tries": 1
-  },
-  {
-   "id": "1e5e16e4bcb5",
-   "date": "2026-11-11",
-   "title": "Cronograma da Reforma Tributária 2027: os principais passos para o Contador",
-   "resumo": "Domine o cronograma da Reforma Tributária de 2027 e prepare a sua Contabilidade para garantir a conformidade dos clientes.",
-   "link": "https://www.omie.com.br/blog/cronograma-reforma-tributaria-2027-contador/",
-   "source": "Omie",
-   "official": false,
-   "category": "cont",
-   "tag": "Contabilidade",
-   "addedAt": "2026-11-17T11:40:47Z",
-   "tries": 1
-  },
-  {
-   "id": "61371c6a342f",
-   "date": "2026-11-11",
-   "title": "Reforma Tributária: deputados descartam adiamento da CBS para 2028",
-   "resumo": "Confira os desdobramentos da Reforma Tributária com a manutenção dos prazos oficiais e veja como antecipar o planejamento da sua empresa.",
-   "link": "https://www.omie.com.br/blog/deputados-descartam-adiamento-cbs-2028/",
-   "source": "Omie",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-17T09:29:02Z",
-   "tries": 1
-  },
-  {
-   "id": "bf9fec955f9f",
-   "date": "2026-11-11",
-   "title": "Ato Conjunto RFB/CGIBS nº 7, de 11 de novembro de 2026",
-   "resumo": "",
-   "link": "https://www.cgibs.gov.br/upload/arquivos/202611/13061456-ato-conjunto-7-rfb-cgibs-alteracao-ato-4.pdf",
-   "source": "Comitê Gestor do IBS",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-17T03:43:38Z",
-   "tries": 2
-  },
-  {
-   "id": "e1f37e7dd9e5",
-   "date": "2026-11-11",
-   "title": "Reforma Tributária: 'Alguém vai ter que pagar a conta' se Congresso reduzir alíquota da CBS, diz chefe da Receita",
-   "resumo": "Barreirinhas afirma que eventual redução da alíquota de 11,3% calculada pelo TCU exigirá revisão de isenções e benefícios tributários para manter a arrecadação",
-   "link": "https://oglobo.globo.com/economia/noticia/2026/11/11/alguem-vai-ter-que-pagar-a-conta-se-congresso-reduzir-aliquota-da-cbs-diz-chefe-da-receita.ghtml",
-   "source": "O GLOBO",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-16T23:11:30Z",
-   "tries": 1
-  },
-  {
-   "id": "e7a6d2de7564",
-   "date": "2026-11-11",
-   "title": "Reforma tributária: o que muda em 2027 com a CBS e como se preparar",
-   "resumo": "CBS substitui PIS e Cofins em 2027. Veja o cronograma da reforma tributária e o que muda para consumidores e empresas",
-   "link": "https://investnews.com.br/guias/reforma-tributaria/",
-   "source": "InvestNews",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-16T20:17:49Z",
-   "tries": 2
   }
  ]
 }

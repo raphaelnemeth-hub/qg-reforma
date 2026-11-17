@@ -1,19 +1,19 @@
 {
- "lastCheckAt": "2026-11-17T18:20:46Z",
- "lastCheckBr": "17/11/2026 15:20",
- "added": 33,
+ "lastCheckAt": "2026-11-17T19:30:12Z",
+ "lastCheckBr": "17/11/2026 16:30",
+ "added": 38,
  "feeds": [
   {
    "name": "Agência Senado",
    "ok": true,
    "found": 2,
-   "new": 1
+   "new": 0
   },
   {
    "name": "Agência Câmara",
    "ok": true,
    "found": 1,
-   "new": 0
+   "new": 1
   },
   {
    "name": "Receita Federal",
@@ -24,35 +24,163 @@
   {
    "name": "Agência Brasil",
    "ok": true,
-   "found": 3,
+   "found": 4,
    "new": 1
   },
   {
    "name": "Portal Contábeis",
    "ok": true,
    "found": 8,
-   "new": 0
+   "new": 1
   },
   {
    "name": "InfoMoney",
    "ok": true,
-   "found": 1,
-   "new": 1
+   "found": 0,
+   "new": 0
   },
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 94,
-   "new": 28
+   "new": 32
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
    "ok": true,
    "found": 3,
-   "new": 2
+   "new": 3
   }
  ],
  "items": [
+  {
+   "id": "8e397f7dedbf",
+   "date": "2026-11-17",
+   "title": "Durigan prevê impacto inicial da reforma tributária sobre inflação",
+   "resumo": "O ministro da Fazenda, Dario Durigan, afirmou, nesta terça-feira (17), que a implementação da reforma tributária pode gerar pequeno impacto inicial sobre a inflação. A observação foi em resposta à preocupação manifestada por senadores com uma eventual alta do…",
+   "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/durigan-preve-impacto-inicial-da-reforma-tributaria-sobre-inflacao",
+   "source": "Agência Brasil",
+   "official": true,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-17T19:30:12Z"
+  },
+  {
+   "id": "f743598ce4c7",
+   "date": "2026-11-17",
+   "title": "Veterinários podem ter redução maior de IBS e CBS",
+   "resumo": "Projeto apresentado na Câmara propõe ampliar de 30% para 60% a redução dos tributos sobre serviços veterinários. Veja quem poderá ser beneficiado. Leia mais em https://www.contabeis.com.br/noticias/80937/veterinarios-podem-ter-reducao-maior-de-ibs-e-cbs/",
+   "link": "https://www.contabeis.com.br/noticias/80937/veterinarios-podem-ter-reducao-maior-de-ibs-e-cbs/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "lei",
+   "tag": "Legislação",
+   "addedAt": "2026-11-17T19:30:12Z"
+  },
+  {
+   "id": "c2e3e6f031b0",
+   "date": "2026-11-17",
+   "title": "Reforma Tributária: alíquota da CBS divide opiniões em debate na CAE",
+   "resumo": "O Tribunal de Contas da União (TCU) estimou a Contribuição sobre Bens e Serviços (CBS) em 11,3%, alíquota maior do que a previsão inicial. Mas o Senado é quem vai dar a palavra final. Por isso, a Comissão de Assuntos Econômicos (CAE) começou nesta terça-feira…",
+   "link": "https://www12.senado.leg.br/noticias/videos/2026/11/reforma-tributaria-aliquota-da-cbs-divide-opinioes-em-debate-na-cae",
+   "source": "Senado",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-17T19:30:12Z",
+   "tries": 1
+  },
+  {
+   "id": "e5d309467701",
+   "date": "2026-11-17",
+   "title": "Reforma Tributária: Simulador do Sebrae atende empresas com faturamento anual de até R$ 3,6 milhões",
+   "resumo": "Instituição orienta sobre o uso da ferramenta gratuita e a escolha de regime para autônomos e serviços; apoio contábil é indispensável para evitar custos extras",
+   "link": "https://agenciasebrae.com.br/economia-e-politica/reforma-tributaria-simulador-do-sebrae-atende-empresas-com-faturamento-anual-de-ate-r-36-milhoes/",
+   "source": "Agência Sebrae de Notícias",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-17T19:30:12Z",
+   "tries": 1
+  },
+  {
+   "id": "33423cdc0dd3",
+   "date": "2026-11-17",
+   "title": "Durigan diz que governo não vai adiar início da reforma tributária e prevê alíquota da CBS em 8,5%",
+   "resumo": "O ministro da Fazenda destacou, em audiência na CAE do Senado, ganhos de produtividade e justiça fiscal com a mudança no sistema tributário do país",
+   "link": "https://dcomercio.com.br/publicacao/s/durigan-diz-que-governo-nao-vai-adiar-inicio-da-reforma-tributaria-e-preve-aliquota-da-cbs-em-8-5",
+   "source": "DComercio",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-17T19:30:12Z",
+   "tries": 1
+  },
+  {
+   "id": "59d3829ace5f",
+   "date": "2026-11-17",
+   "title": "Reforma tributária: como funciona a revisão de preço dos contratos em 2027",
+   "resumo": "Lei que regulamentou reforma tributária prevê revisão em contratos antigos com o governo; entre empresas, vale o que foi assinado",
+   "link": "https://investnews.com.br/economia/reforma-tributaria-revisao-contratos-2027/",
+   "source": "InvestNews",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-17T19:30:12Z",
+   "tries": 1
+  },
+  {
+   "id": "51edd4f80864",
+   "date": "2026-11-17",
+   "title": "Imposto seletivo: Onde termina a dissuasão e começa a arrecadação? Noventena, caducidade e a conta de janeiro",
+   "resumo": "",
+   "link": "https://www.contadores.cnt.br/noticias/tecnicas/2026/11/17/imposto-seletivo-onde-termina-a-dissuasao-e-comeca-a-arrecadacao-noventena-caducidade-e-a-conta-de-janeiro.html",
+   "source": "Contadores.cnt.br",
+   "official": false,
+   "category": "cont",
+   "tag": "Contabilidade",
+   "addedAt": "2026-11-17T19:30:12Z",
+   "tries": 1
+  },
+  {
+   "id": "41384b8d800b",
+   "date": "2026-11-17",
+   "title": "CBS e IBS nos serviços B2B: por que o impacto é nulo e como proteger seu lucro na negociação",
+   "resumo": "",
+   "link": "https://www.contadores.cnt.br/noticias/tecnicas/2026/11/17/cbs-e-ibs-nos-servicos-b2b-por-que-o-impacto-e-nulo-e-como-proteger-seu-lucro-na-negociacao.html",
+   "source": "Contadores.cnt.br",
+   "official": false,
+   "category": "cont",
+   "tag": "Contabilidade",
+   "addedAt": "2026-11-17T19:30:12Z",
+   "tries": 1
+  },
+  {
+   "id": "683ab5fcc5f8",
+   "date": "2026-11-17",
+   "title": "A reforma tributária, o ‘ajuste fiscal’ e os desafios para o agronegócio",
+   "resumo": "Esperamos contar com a Frente Parlamentar Agropecuária e com o diálogo entre os Poderes para evitar que o ajuste nas contas públicas se transforme em argumento para taxar injustamente o agro",
+   "link": "https://www.estadao.com.br/economia/agronegocios/a-reforma-tributaria-o-ajuste-fiscal-e-os-desafios-para-o-agronegocio/",
+   "source": "Estadão",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-17T19:30:12Z",
+   "tries": 1
+  },
+  {
+   "id": "5e4a3f35f23a",
+   "date": "2026-11-17",
+   "title": "Reforma tributária: alíquota média será de 8,5%, diz Durigan",
+   "resumo": "Reforma tributária: na CAE do Senado, Dario Durigan disse que a CBS terá teto de 11,3% e carga efetiva média de 8,5%, com revisão anual.",
+   "link": "https://esbrasil.com.br/reforma-tributaria-durigan-aliquota-media-8-5/",
+   "source": "ES Brasil",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-17T19:30:12Z",
+   "tries": 1
+  },
   {
    "id": "6c58efe1bf9d",
    "date": "2026-11-17",
@@ -139,7 +267,7 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-17T18:20:46Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "bdee837ee651",
@@ -165,7 +293,7 @@
    "category": "aliq",
    "tag": "Alíquotas",
    "addedAt": "2026-11-17T18:20:46Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "0fffd145e01a",
@@ -178,7 +306,7 @@
    "category": "aliq",
    "tag": "Alíquotas",
    "addedAt": "2026-11-17T18:20:46Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "a926633e0d47",
@@ -742,6 +870,45 @@
    "category": "aliq",
    "tag": "Alíquotas",
    "addedAt": "2026-11-17T04:47:53Z",
+   "tries": 1
+  },
+  {
+   "id": "9a55fa70e1ae",
+   "date": "2026-11-16",
+   "title": "Comissão de Finanças debate com Receita Federal regulamentação da reforma tributária",
+   "resumo": "A Comissão de Finanças e Tributação da Câmara dos Deputados realiza, na quarta-feira (18), audiência pública para discutir a regulamentação da reforma tributária com o secretário especial da Receita Federal do Brasil, Robinson Sakiyama Barreirinhas. O debate…",
+   "link": "https://portaldocomercio.org.br/diario-legislativo/comissao-de-financas-debate-com-receita-federal-regulamentacao-da-reforma-tributaria/",
+   "source": "Portal do Comércio",
+   "official": false,
+   "category": "lei",
+   "tag": "Legislação",
+   "addedAt": "2026-11-17T19:30:12Z",
+   "tries": 1
+  },
+  {
+   "id": "b5ae025d8a83",
+   "date": "2026-11-16",
+   "title": "Reforma tributária entra no preço e no contrato de M&A",
+   "resumo": "Convivência de dois sistemas até 2033, fim de incentivos e novas regras de crédito mudam valuation e cláusulas de operações",
+   "link": "https://capitalaberto.com.br/insights/madrona-advogados/2026/11/reforma-tributaria-entra-no-preco-e-no-contrato-de-m-and-a",
+   "source": "Capital Aberto",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-17T19:30:12Z",
+   "tries": 1
+  },
+  {
+   "id": "86093d369ff9",
+   "date": "2026-11-16",
+   "title": "PGDAS-D é atualizado para atender à Reforma Tributária a partir de novembro de 2026",
+   "resumo": "",
+   "link": "https://www.contadores.cnt.br/noticias/tecnicas/2026/11/16/pgdas-d-e-atualizado-para-atender-a-reforma-tributaria-a-partir-de-novembro-de-2026.html",
+   "source": "Contadores.cnt.br",
+   "official": false,
+   "category": "cont",
+   "tag": "Contabilidade",
+   "addedAt": "2026-11-17T19:30:12Z",
    "tries": 1
   },
   {
@@ -1807,172 +1974,6 @@
    "category": "simples",
    "tag": "Simples",
    "addedAt": "2026-11-13T15:37:40Z"
-  },
-  {
-   "id": "9c5dcf5b06bf",
-   "date": "2026-11-13",
-   "title": "IBS e CBS: Receita e CGIBS alteram prazos dos documentos fiscais",
-   "resumo": "Ato Conjunto nº 7/2026 muda os prazos da NFS-e, de outros documentos fiscais e da DeRE. Veja as datas e o calendário do Simples Nacional . Leia mais em https://www.contabeis.com.br/noticias/80858/ibs-e-cbs-receita-e-cgibs-alteram-prazos-dos-documentos-fiscais/",
-   "link": "https://www.contabeis.com.br/noticias/80858/ibs-e-cbs-receita-e-cgibs-alteram-prazos-dos-documentos-fiscais/",
-   "source": "Portal Contábeis",
-   "official": false,
-   "category": "simples",
-   "tag": "Simples",
-   "addedAt": "2026-11-13T15:37:40Z"
-  },
-  {
-   "id": "20502cc06b64",
-   "date": "2026-11-13",
-   "title": "Áudio: Benefício tributário a entidades filantrópicas é aprovado pela CAS",
-   "resumo": "A Comissão de Assuntos Sociais (CAS) aprovou na quarta-feira (11) projeto que permite a entidades filantrópicas de educação, saúde e assistência social manterem os créditos dos tributos pagos na compra de bens e serviços após a reforma tributária (PLP…",
-   "link": "https://www12.senado.leg.br/noticias/audios/2026/11/beneficio-tributario-a-entidades-filantropicas-e-aprovado-pela-cas",
-   "source": "Senado Federal",
-   "official": true,
-   "category": "lei",
-   "tag": "Legislação",
-   "addedAt": "2026-11-13T14:43:15Z"
-  },
-  {
-   "id": "2eba66e3fe23",
-   "date": "2026-11-13",
-   "title": "Reforma Tributária: Receita e Comitê Gestor publicam novo cronograma de emissão de documentos fiscais do IBS e da CBS",
-   "resumo": "O ato já está em vigor. As obrigações começam em dezembro de 2026 e vão até março de 2027, de acordo com a atividade de cada empresa",
-   "link": "https://www.martinelli.adv.br/reforma-tributaria-receita-e-comite-gestor-publicam-novo-cronograma-de-emissao-de-documentos-fiscais-do-ibs-e-da-cbs/",
-   "source": "www.martinelli.adv.br",
-   "official": false,
-   "category": "lei",
-   "tag": "Legislação",
-   "addedAt": "2026-11-13T14:43:15Z",
-   "tries": 1
-  },
-  {
-   "id": "aa44f6e52e90",
-   "date": "2026-11-13",
-   "title": "Reforma: quando deve ser recolhido CBS sobre combustíveis?",
-   "resumo": "A CBS sobre combustíveis monofásicos começa a ser cobrada em 8/1/2027, com alíquotas por litro. Veja o novo leiaute da nota e os prazos.",
-   "link": "https://noticias.iob.com.br/reforma-cbs-sobre-combustiveis/",
-   "source": "IOB Notícias",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-13T14:43:15Z",
-   "tries": 1
-  },
-  {
-   "id": "dd1bd8be3efb",
-   "date": "2026-11-13",
-   "title": "Split payment: problemas de constitucionalidade e design",
-   "resumo": "O split payment, conquanto auspicioso para uma abordagem combativa à sonegação fiscal, não pode ser implementado à revelia dos valores constitucionais",
-   "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/split-payment-problemas-de-constitucionalidade-e-design",
-   "source": "JOTA Info",
-   "official": false,
-   "category": "pag",
-   "tag": "Split payment",
-   "addedAt": "2026-11-13T14:43:15Z",
-   "tries": 1
-  },
-  {
-   "id": "28b71f97347e",
-   "date": "2026-11-13",
-   "title": "Empresa do DF obtém exclusão de IBS e CBS da base de cálculo do ICMS",
-   "resumo": "Juíza de Brasília considerou que falta de previsão legal impede incidência dos tributos durante o período de transição da reforma tributária",
-   "link": "https://conjur.com.br/2026-nov-13/empresa-do-df-obtem-exclusao-de-ibs-e-cbs-da-base-de-calculo-do-icms/",
-   "source": "Consultor Jurídico",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-13T14:43:15Z",
-   "tries": 1
-  },
-  {
-   "id": "1bb001f29926",
-   "date": "2026-11-13",
-   "title": "Reforma Tributária: Receita Federal e CGIBS adiam para 2027 a obrigatoriedade de emissão de documentos fiscais com IBS e CBS",
-   "resumo": "Agilize decisões seguras. Legislação, Comentários e Consultoria nas áreas de IR e Contribuições, ICMS, IPI, ISS, Contabilidade e Societário, Simples Nacional, Trabalhista e Previdenciária. Cálculos e Tabelas de Substituição Tributária. Agenda Tributária…",
-   "link": "https://www.legisweb.com.br/noticia/?id",
-   "source": "LegisWeb",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-13T13:39:44Z",
-   "tries": 1
-  },
-  {
-   "id": "a4adbef9fe50",
-   "date": "2026-11-13",
-   "title": "Propostas da Receita não enfrentam pontos críticos da reforma tributária",
-   "resumo": "Especialistas ponderam que o alcance das propostas da Receita sobre a reforma ainda depende da formalização das medidas",
-   "link": "https://conjur.com.br/2026-nov-13/propostas-da-receita-nao-resolvem-desafios-estruturais-da-tributaria-dizem-especialistas/",
-   "source": "Consultor Jurídico",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-13T13:39:44Z",
-   "tries": 1
-  },
-  {
-   "id": "614835a3e3c0",
-   "date": "2026-11-13",
-   "title": "Reforma Tributária: Receita quer adiar pagamento da CBS para fevereiro",
-   "resumo": "A chegada da Contribuição sobre Bens e Serviços (CBS), prevista para janeiro de 2027, poderá ter uma mudança importante no calend",
-   "link": "https://jornalcontabil.com.br/noticia/reforma-tributaria-receita-quer-adiar-pagamento-da-cbs-para-fevereiro/amp/",
-   "source": "Jornal Contábil",
-   "official": false,
-   "category": "cont",
-   "tag": "Contabilidade",
-   "addedAt": "2026-11-13T13:39:44Z",
-   "tries": 1
-  },
-  {
-   "id": "9e50918ddfeb",
-   "date": "2026-11-13",
-   "title": "Projeto prevê redução da alíquota da CBS se arrecadação superar limite",
-   "resumo": "PLP 282/2026 propõe antecipar a verificação de excesso de arrecadação da CBS e prevê ajustes anuais na alíquota entre 2029 e 2033. Leia mais em https://www.contabeis.com.br/noticias/80847/projeto-preve-reducao-da-aliquota-da-cbs-se-arrecadacao-superar-limite/",
-   "link": "https://www.contabeis.com.br/noticias/80847/projeto-preve-reducao-da-aliquota-da-cbs-se-arrecadacao-superar-limite/",
-   "source": "Portal Contábeis",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-13T12:20:43Z"
-  },
-  {
-   "id": "746af56237e8",
-   "date": "2026-11-13",
-   "title": "Propostas da Receita não resolvem desafios da reforma tributária",
-   "resumo": "Especialistas ponderam que o alcance das propostas da Receita sobre a reforma ainda depende da formalização das medidas",
-   "link": "https://conjur.com.br/2026-nov-13/propostas-da-receita-nao-resolvem-desafios-estruturais-da-tributaria-dizem-especialistas/",
-   "source": "Consultor Jurídico",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-13T12:20:43Z",
-   "tries": 1
-  },
-  {
-   "id": "3098d16ab35a",
-   "date": "2026-11-13",
-   "title": "Reforma tributária: Governo vai propor ao Congresso regra de transição da CBS para facilitar adaptação das empresas",
-   "resumo": "O governo federal vai propor ao Congresso Nacional uma regra opcional de transição para a cobrança da CBS, permitindo que empresas estimem créditos tributários nos primeiros meses de 2027 e façam ajustes posteriores. A Receita Federal também prevê…",
-   "link": "https://jornalgrandebahia.com.br/2026/11/reforma-tributaria-governo-vai-propor-ao-congresso-regra-de-transicao-da-cbs-para-facilitar-adaptacao-das-empresas/",
-   "source": "Jornal Grande Bahia",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-13T11:22:25Z",
-   "tries": 1
-  },
-  {
-   "id": "ef34e75af7f6",
-   "date": "2026-11-13",
-   "title": "Reforma Tributária: O efeito do Split Payment Na Sua Empresa",
-   "resumo": "Previsto para 2027, o recolhimento automático de IBS e CBS pode pressionar o capital de giro das empresas",
-   "link": "https://forbes.com.br/forbes-money/2026/11/split-payment-impactos-empresas/",
-   "source": "Forbes Brasil",
-   "official": false,
-   "category": "pag",
-   "tag": "Split payment",
-   "addedAt": "2026-11-13T08:11:02Z",
-   "tries": 1
   }
  ]
 }

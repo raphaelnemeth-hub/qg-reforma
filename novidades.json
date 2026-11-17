@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-17T22:43:27Z",
- "lastCheckBr": "17/11/2026 19:43",
- "added": 25,
+ "lastCheckAt": "2026-11-17T23:40:10Z",
+ "lastCheckBr": "17/11/2026 20:40",
+ "added": 27,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -30,8 +30,8 @@
   {
    "name": "Portal Contábeis",
    "ok": true,
-   "found": 8,
-   "new": 0
+   "found": 10,
+   "new": 2
   },
   {
    "name": "InfoMoney",
@@ -53,6 +53,69 @@
   }
  ],
  "items": [
+  {
+   "id": "130742775ea8",
+   "date": "2026-11-17",
+   "title": "Black Friday exige preparo fiscal para IBS e CBS",
+   "resumo": "Black Friday aumenta a pressão sobre as operações fiscais. Veja como preparar sistemas para o pico de vendas e as novas exigências de IBS e CBS . Leia mais em https://www.contabeis.com.br/noticias/80938/black-friday-exige-preparo-fiscal-para-ibs-e-cbs/",
+   "link": "https://www.contabeis.com.br/noticias/80938/black-friday-exige-preparo-fiscal-para-ibs-e-cbs/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-17T23:40:10Z"
+  },
+  {
+   "id": "72e27689f546",
+   "date": "2026-11-17",
+   "title": "IBS e CBS na base do ICMS: TJSP suspende decisões",
+   "resumo": "TJSP suspende decisões que excluíam IBS e CBS da base do ICMS em São Paulo; medida não encerra a discussão tributária. Leia mais em https://www.contabeis.com.br/noticias/80944/ibs-e-cbs-na-base-do-icms-tjsp-suspende-decisoes/",
+   "link": "https://www.contabeis.com.br/noticias/80944/ibs-e-cbs-na-base-do-icms-tjsp-suspende-decisoes/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-17T23:40:10Z"
+  },
+  {
+   "id": "1bc664d8f692",
+   "date": "2026-11-17",
+   "title": "Reforma Tributária: Durigan vai ao Senado explicar alíquota de 11,3% para a CBS",
+   "resumo": "Percentual calculado pelo TCU superou estimativa e provocou questionamentos de senadores; audiência ocorre nesta terça-feira",
+   "link": "https://www.infomoney.com.br/politica/reforma-tributaria-durigan-vai-ao-senado-explicar-aliquota-de-113-para-a-cbs/",
+   "source": "InfoMoney",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-17T23:40:10Z",
+   "tries": 1
+  },
+  {
+   "id": "21ea221c4771",
+   "date": "2026-11-17",
+   "title": "No Senado, ministro da Fazenda defende alíquota da CBS",
+   "resumo": "O ministro da Fazenda, Dario Durigan, previu que a nova Contribuição sobre Bens e Serviços (CBS), criada pela reforma tributária, terá uma alíquota efetiva de 8,5%. Durigan defendeu a implementação da reforma em audiência pública na Comissão de Assuntos…",
+   "link": "https://teletime.com.br/17/11/2026/no-senado-ministro-da-fazenda-defende-aliquota-da-cbs/",
+   "source": "TELETIME News",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-17T23:40:10Z",
+   "tries": 1
+  },
+  {
+   "id": "49fb4ef52006",
+   "date": "2026-11-17",
+   "title": "Durigan: Reforma tributária pode ter ‘pequeno impacto’ na inflação, mas mercado vai ajustar preços",
+   "resumo": "",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVjhablVXYzIxSWx6MUFhekxHZWhPTVYxT09BYi1FTDgxdXVVY29fclpSb1pibW55OUd1RFg5OUdwbjREck85dkxVMlFFU0pXT3M0RFE2cFd4MlROX1ZBYl9UT3ZuaVZzZzU5SVROaUltRFB1dXJ0THNfZVl3YnpfNTVsVTZQODRWY0NYREhkcDFiZEI3WFZGOFdkUHBVSWpQVEdkWHZEMVJIWjk4VjZHYWlMOS1ETjdpTjhHcXhRbWdJSDd2NklZQUJKUdIB0AFBVV95cUxQdXVhcFRyQWNEQm45N0I5SHc2dmFNUm1YdTZQckxfX0JEdE85VXRBMExESnVkaEhkMEFqUFdjYzBDbmY1blhyY0EzSVVBWm1EaUhfSXROb1NDUFBsVnJUVVQ1YXpsLVlLZG81LTAxQ2l3eGVCR1UzOHJEcmVuV3pybXM2N2phaHNkSTBQMEVROEdtc1VUa3kzTXFRYTdseEIxYWxPUTJZdW52TTFOUzFoM2RzS25aT1FWdWpFWjNsV0VvNUIxcVZVX1JWNmNuX0lL?oc=5",
+   "source": "Estadão",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-17T23:40:10Z",
+   "tries": 1
+  },
   {
    "id": "19a3f94da766",
    "date": "2026-11-17",
@@ -1840,6 +1903,19 @@
    "addedAt": "2026-11-14T12:06:03Z"
   },
   {
+   "id": "fa217eb0880d",
+   "date": "2026-11-13",
+   "title": "PGDAS-D é atualizado para atender à Reforma Tributária a partir de novembro de 2026 — Receita Federal",
+   "resumo": "Mudanças na apuração do Simples Nacional incluem o fim da escolha do regime de caixa ou competência e a obrigatoriedade de informar a folha de salários dos últimos 12 meses.",
+   "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/pgdas-d-e-atualizado-para-atender-a-reforma-tributaria-a-partir-de-novembro-de-2026",
+   "source": "Governo Federal",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-17T23:40:10Z",
+   "tries": 1
+  },
+  {
    "id": "78adf3c1d169",
    "date": "2026-11-13",
    "title": "Nota fiscal e split payment avançam na reforma tributária, mas adaptação de municípios preocupa",
@@ -1902,84 +1978,6 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-17T20:43:03Z",
-   "tries": 1
-  },
-  {
-   "id": "aa44f6e52e90",
-   "date": "2026-11-13",
-   "title": "Reforma: quando deve ser recolhido CBS sobre combustíveis?",
-   "resumo": "A CBS sobre combustíveis monofásicos começa a ser cobrada em 8/1/2027, com alíquotas por litro. Veja o novo leiaute da nota e os prazos.",
-   "link": "https://noticias.iob.com.br/reforma-cbs-sobre-combustiveis/",
-   "source": "IOB Notícias",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-17T20:43:03Z",
-   "tries": 1
-  },
-  {
-   "id": "0d0df8fb8480",
-   "date": "2026-11-13",
-   "title": "Reforma Tributária: Receita e Comitê Gestor publicam novo cronograma de emissão de documentos fiscais do IBS e da CBS",
-   "resumo": "O ato já está em vigor. As obrigações começam em dezembro de 2026 e vão até março de 2027, de acordo com a atividade de cada empresa",
-   "link": "https://www.martinelli.adv.br/reforma-tributaria-receita-e-comite-gestor-publicam-novo-cronograma-de-emissao-de-documentos-fiscais-do-ibs-e-da-cbs/",
-   "source": "Martinelli Advogados",
-   "official": false,
-   "category": "lei",
-   "tag": "Legislação",
-   "addedAt": "2026-11-17T20:43:03Z",
-   "tries": 1
-  },
-  {
-   "id": "ef34e75af7f6",
-   "date": "2026-11-13",
-   "title": "Reforma Tributária: O efeito do Split Payment Na Sua Empresa",
-   "resumo": "Previsto para 2027, o recolhimento automático de IBS e CBS pode pressionar o capital de giro das empresas",
-   "link": "https://forbes.com.br/forbes-money/2026/11/split-payment-impactos-empresas/",
-   "source": "Forbes Brasil",
-   "official": false,
-   "category": "pag",
-   "tag": "Split payment",
-   "addedAt": "2026-11-17T20:43:03Z",
-   "tries": 1
-  },
-  {
-   "id": "6d04d7e25ff3",
-   "date": "2026-11-13",
-   "title": "Imposto Seletivo preocupa municípios produtores de tabaco",
-   "resumo": "Amprotabaco alerta para riscos à geração de empregos e à arrecadação, além do avanço do mercado ilegal no setor",
-   "link": "https://www.gaz.com.br/imposto-seletivo-preocupa-municipios-produtores-de-tabaco/",
-   "source": "GAZ",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-16T19:26:37Z",
-   "tries": 1
-  },
-  {
-   "id": "b45d30458b5b",
-   "date": "2026-11-13",
-   "title": "ICMS-ST e reforma tributária: a dimensão da exclusão pode alterar o custo fiscal do comércio",
-   "resumo": "A retirada do ICMS da base do IBS e da CBS exige atenção ao imposto incidente sobre a operação do revendedor e ao valor recolhido antecipadamente pelo fornecedo",
-   "link": "https://www.jornaltribuna.com.br/2026/11/icms-st-e-reforma-tributaria-a-dimensao-da-exclusao-pode-alterar-o-custo-fiscal-do-comercio",
-   "source": "jornaltribuna.com.br",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-16T17:04:17Z",
-   "tries": 1
-  },
-  {
-   "id": "80235964b3be",
-   "date": "2026-11-13",
-   "title": "Reforma Tributária: entenda o que muda nos impostos e como isso pode afetar o produtor rural",
-   "resumo": "Com a transição para IBS e CBS, quem produz no campo precisa entender como ficam os créditos, a emissão de notas e a decisão de ser ou não contribuinte.",
-   "link": "https://redeglobo.globo.com/sp/eptv/noticia/reforma-tributaria-entenda-o-que-muda-nos-impostos-e-como-isso-pode-afetar-o-produtor-rural.ghtml",
-   "source": "Globo",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-16T15:57:21Z",
    "tries": 1
   }
  ]

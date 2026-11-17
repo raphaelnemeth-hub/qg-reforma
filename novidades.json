@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-17T03:43:38Z",
- "lastCheckBr": "17/11/2026 00:43",
- "added": 6,
+ "lastCheckAt": "2026-11-17T04:47:53Z",
+ "lastCheckBr": "17/11/2026 01:47",
+ "added": 15,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -41,19 +41,44 @@
   },
   {
    "name": "Imprensa (Google Notícias)",
-   "ok": false,
-   "found": 0,
-   "new": 0,
-   "error": "HTTPError"
+   "ok": true,
+   "found": 94,
+   "new": 10
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
    "ok": true,
    "found": 8,
-   "new": 6
+   "new": 5
   }
  ],
  "items": [
+  {
+   "id": "27b0d78662b2",
+   "date": "2026-11-17",
+   "title": "Reforma Tributária: ministro da Fazenda vai ao Senado explicar alíquota de 11,3% para a CBS",
+   "resumo": "Percentual calculado pelo TCU superou estimativa e provocou questionamentos de senadores; audiência ocorre nesta terça-feira",
+   "link": "https://oglobo.globo.com/economia/noticia/2026/11/17/reforma-tributaria-ministro-da-fazenda-vai-ao-senado-explicar-aliquota-de-113percent-para-a-cbs.ghtml",
+   "source": "O GLOBO",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-17T04:47:53Z",
+   "tries": 1
+  },
+  {
+   "id": "28087981f7f4",
+   "date": "2026-11-16",
+   "title": "Cashback da Reforma Tributária começa em janeiro e deve devolver R$ 10 bilhões em 2027",
+   "resumo": "Entenda como funciona o cashback da Reforma Tributária em 2027, quem tem direito ao benefício e o que muda na emissão de notas fiscais.",
+   "link": "https://www.omie.com.br/blog/cashback-reforma-tributaria-janeiro-2027/",
+   "source": "Omie",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-17T04:47:53Z",
+   "tries": 1
+  },
   {
    "id": "a8a356c35056",
    "date": "2026-11-16",
@@ -1775,7 +1800,7 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-17T03:43:38Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "e1f37e7dd9e5",
@@ -1944,32 +1969,6 @@
    "category": "aliq",
    "tag": "Alíquotas",
    "addedAt": "2026-11-16T11:20:32Z",
-   "tries": 1
-  },
-  {
-   "id": "63dc5536da1c",
-   "date": "2026-11-11",
-   "title": "Reforma tributária: sem benefícios aprovados pelo Congresso, imposto do governo cairia de 11,3% para 8,5% em 2027, estima Receita",
-   "resumo": "Exceções para produtos e setores fazem alíquota padrão subir para compensar a tributação menor dos beneficiados. Senado deve definir até 15 de dezembro percentual que será cobrado em 2027.",
-   "link": "https://g1.globo.com/economia/noticia/2026/11/11/reforma-tributaria-sem-beneficios-aprovados-pelo-congresso-imposto-do-governo-cairia-de-113percent-para-85percent-estima-receita-federal.ghtml",
-   "source": "G1",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-15T01:55:40Z",
-   "tries": 1
-  },
-  {
-   "id": "792a6161c8c8",
-   "date": "2026-11-11",
-   "title": "Sabesp muda conta de água para se adequar à reforma tributária; veja o que muda",
-   "resumo": "Nova fatura discrimina CBS e IBS, tributos que entram no sistema de cobrança a partir de 2027",
-   "link": "https://www1.folha.uol.com.br/mercado/2026/11/sabesp-muda-conta-de-agua-para-se-adequar-a-reforma-tributaria-veja-o-que-muda.shtml",
-   "source": "Folha de S.Paulo",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-14T19:33:02Z",
    "tries": 1
   }
  ]

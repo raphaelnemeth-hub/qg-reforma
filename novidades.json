@@ -1,6 +1,6 @@
 {
- "lastCheckAt": "2026-11-17T15:18:20Z",
- "lastCheckBr": "17/11/2026 12:18",
+ "lastCheckAt": "2026-11-17T16:24:09Z",
+ "lastCheckBr": "17/11/2026 13:24",
  "added": 28,
  "feeds": [
   {
@@ -24,8 +24,8 @@
   {
    "name": "Agência Brasil",
    "ok": true,
-   "found": 1,
-   "new": 0
+   "found": 2,
+   "new": 1
   },
   {
    "name": "Portal Contábeis",
@@ -49,10 +49,139 @@
    "name": "CGIBS / NF-e (Google Notícias)",
    "ok": true,
    "found": 3,
-   "new": 2
+   "new": 1
   }
  ],
  "items": [
+  {
+   "id": "6d9ad6329c69",
+   "date": "2026-11-17",
+   "title": "Reforma tributária: Receita descarta punição a erros de boa-fé",
+   "resumo": "O secretário da Receita Federal, Robinson Barreirinhas, afirmou nesta terça-feira (17) que os riscos e desafios da implementação da reforma tributária já foram identificados e que o governo pretende orientar os contribuintes durante a transição para o novo…",
+   "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/reforma-tributaria-receita-descarta-punicao-erros-de-boa-fe",
+   "source": "Agência Brasil",
+   "official": true,
+   "category": "nt",
+   "tag": "Nota técnica",
+   "addedAt": "2026-11-17T16:24:09Z"
+  },
+  {
+   "id": "e4634a16ba67",
+   "date": "2026-11-17",
+   "title": "Virando a Chave para a Reforma Tributária - API para emissão do RAD já está disponível",
+   "resumo": "Agilize decisões seguras. Legislação, Comentários e Consultoria nas áreas de IR e Contribuições, ICMS, IPI, ISS, Contabilidade e Societário, Simples Nacional, Trabalhista e Previdenciária. Cálculos e Tabelas de Substituição Tributária. Agenda Tributária…",
+   "link": "https://www.legisweb.com.br/noticia/?id",
+   "source": "LegisWeb",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-17T16:24:09Z",
+   "tries": 1
+  },
+  {
+   "id": "a4ef9a648d47",
+   "date": "2026-11-17",
+   "title": "AO VIVO: Senado ouve Durigan, Vital e Barreirinhas sobre a CBS",
+   "resumo": "Ministro da Fazenda, presidente do TCU e secretário da Receita debatem alíquota de 11,3% do novo tributo federal sobre o consumo.",
+   "link": "https://www.congressoemfoco.com.br/noticia/131646/ao-vivo-senado-ouve-durigan-vital-e-barreirinhas-sobre-a-cbs",
+   "source": "Congresso em Foco",
+   "official": false,
+   "category": "lei",
+   "tag": "Legislação",
+   "addedAt": "2026-11-17T16:24:09Z",
+   "tries": 1
+  },
+  {
+   "id": "fc611d1d0c2a",
+   "date": "2026-11-17",
+   "title": "Ministro Dario Durigan explica no Senado alíquota de 11,3% da CBS, enquanto indústria e OAB pressionam por adiamento da reforma tributária",
+   "resumo": "O ministro da Fazenda, Dario Durigan, participa de audiência no Senado para explicar a alíquota de referência de 11,3% da CBS, recomendada pelo TCU para a reforma tributária. A CNI e a OAB questionam o percentual e defendem mudanças no cronograma de…",
+   "link": "https://jornalgrandebahia.com.br/2026/11/ministro-dario-durigan-explica-no-senado-aliquota-de-113-da-cbs-enquanto-industria-e-oab-pressionam-por-adiamento-da-reforma-tributaria/",
+   "source": "Jornal Grande Bahia",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-17T16:24:09Z",
+   "tries": 1
+  },
+  {
+   "id": "39b9d739c54b",
+   "date": "2026-11-17",
+   "title": "Adiar reforma tributária tiraria R$ 10 bilhões dos mais pobres, diz Receita",
+   "resumo": "Secretário Robinson Barreirinhas defende início das mudanças em 2027 e afirma que cashback beneficiará famílias de baixa renda com devolução de impostos",
+   "link": "https://www.infomoney.com.br/politica/adiar-reforma-tributaria-tiraria-r-10-bilhoes-dos-mais-pobres-diz-receita/",
+   "source": "InfoMoney",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-17T16:24:09Z",
+   "tries": 1
+  },
+  {
+   "id": "525b3221bad8",
+   "date": "2026-11-17",
+   "title": "Ministro da Fazenda afirma que decisões judiciais impactam alíquotas da CBS e do IBS",
+   "resumo": "",
+   "link": "https://portalvv8.com.br/noticia/85858/ministro-da-fazenda-afirma-que-decisoes-judiciais-impactam-aliquotas-da-cbs-e-do-ibs",
+   "source": "Portal VV8",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-17T16:24:09Z",
+   "tries": 1
+  },
+  {
+   "id": "14232d3b0927",
+   "date": "2026-11-17",
+   "title": "Nossa posição é de não adiar a reforma tributária, diz Durigan",
+   "resumo": "Ministro da Fazenda declarou que “é preciso avançar no que é melhor para as empresas e para as pessoas”. Leia no Poder360.",
+   "link": "https://www.poder360.com.br/poder-economia/nossa-posicao-e-de-nao-adiar-a-reforma-tributaria-diz-durigan/",
+   "source": "Poder360",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-17T16:24:09Z",
+   "tries": 1
+  },
+  {
+   "id": "955dd852a035",
+   "date": "2026-11-17",
+   "title": "Metodologia da CBS é consistente e não apresentou fragilidade, diz TCU",
+   "resumo": "Presidente da Corte de Contas, Vital do Rêgo Filho, atribui a alíquota do tributo em 11,3% às exceções da reforma tributária",
+   "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/metodologia-da-cbs-e-consistente-e-nao-apresentou-fragilidade-diz-tcu/",
+   "source": "CNN Brasil",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-17T16:24:09Z",
+   "tries": 1
+  },
+  {
+   "id": "bcb46566b91f",
+   "date": "2026-11-17",
+   "title": "A Reforma Tributária já fez o check-in",
+   "resumo": "Se nos últimos anos a Reforma Tributária foi tema de debates e projeções, agora, no 2º semestre, ela já faz parte da realidade das empresas.",
+   "link": "https://revistahoteis.com.br/a-reforma-tributaria-ja-fez-o-check-in/",
+   "source": "Revista Hotéis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-17T16:24:09Z",
+   "tries": 1
+  },
+  {
+   "id": "ab768012b36a",
+   "date": "2026-11-17",
+   "title": "Adiar reforma tributária por um ano custaria R$ 10 bi aos mais pobres, diz Receita",
+   "resumo": "Adiar a reforma tributária por um ano tiraria R$ 10 bilhões em cashback de famílias pobres em 2027, afirmou o secretário",
+   "link": "https://bpmoney.com.br/economia/adiar-reforma-tributaria-tiraria-r-10-bilhoes-mais-pobres-diz-receita/",
+   "source": "BPMoney",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-17T16:24:09Z",
+   "tries": 1
+  },
   {
    "id": "88002a9b5ae4",
    "date": "2026-11-17",
@@ -116,7 +245,7 @@
    "category": "aliq",
    "tag": "Alíquotas",
    "addedAt": "2026-11-17T15:18:20Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "27384bceb282",
@@ -168,7 +297,7 @@
    "category": "aliq",
    "tag": "Alíquotas",
    "addedAt": "2026-11-17T15:18:20Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "0e0b93965a3e",
@@ -1629,6 +1758,45 @@
    "tries": 1
   },
   {
+   "id": "af443d587428",
+   "date": "2026-11-12",
+   "title": "CBS e IBS em 2027: o que muda com a reforma tributária",
+   "resumo": "Veja como CBS e IBS serão cobrados em 2027, o que acontece com PIS, Cofins, ICMS e ISS e quais decisões ainda estão pendentes.",
+   "link": "https://www.contabeis.com.br/noticias/80809/cbs-e-ibs-em-2027-o-que-muda-com-a-reforma-tributaria/",
+   "source": "Portal Contabeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-17T16:24:09Z",
+   "tries": 1
+  },
+  {
+   "id": "3aabee77ab7f",
+   "date": "2026-11-12",
+   "title": "Reforma Tributária: Receita quer mudar 1º pagamento da CBS para fevereiro",
+   "resumo": "Receita Federal propõe adiar para fevereiro o 1º pagamento da CBS. Entenda o RAD, o Programa de Conformidade e os novos prazos.",
+   "link": "https://noticias.iob.com.br/reforma-receita-pagamento-cbs/",
+   "source": "IOB Notícias",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-17T16:24:09Z",
+   "tries": 1
+  },
+  {
+   "id": "96f9474b4ba0",
+   "date": "2026-11-12",
+   "title": "Reforma Tributária – CBS e IBS e seus impactos no comércio varejista",
+   "resumo": "",
+   "link": "https://sindilojas.rio/2026/11/12/reforma-tributaria-cbs-e-ibs-e-seus-impactos-no-comercio-varejista/",
+   "source": "SindilojasRio",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-17T16:24:09Z",
+   "tries": 1
+  },
+  {
    "id": "527fdd6f46ee",
    "date": "2026-11-12",
    "title": "Reforma Tributária: se Senado reduzir CBS, governo terá de cortar gastos, diz relator",
@@ -1678,7 +1846,7 @@
    "category": "lei",
    "tag": "Legislação",
    "addedAt": "2026-11-17T15:18:20Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "1536c408f308",
@@ -1807,172 +1975,6 @@
    "category": "lei",
    "tag": "Legislação",
    "addedAt": "2026-11-13T19:43:58Z",
-   "tries": 1
-  },
-  {
-   "id": "4a99e1166723",
-   "date": "2026-11-12",
-   "title": "Olinda antecipa implantação do Cadastro Imobiliário Brasileiro e se prepara para os impactos da Reforma Tributária",
-   "resumo": "Município já cadastrou aproximadamente 130 mil imóveis e concluiu a etapa antes do prazo estabelecido, fortalecendo a identificação dos bens",
-   "link": "https://olinda.pe.gov.br/noticias/olinda-antecipa-implantacao-do-cadastro-imobiliario-brasileiro-e-se-prepara-para-os-impactos-da-reforma-tributaria",
-   "source": "Prefeitura de Olinda",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-13T10:25:54Z",
-   "tries": 1
-  },
-  {
-   "id": "3c1e3577a218",
-   "date": "2026-11-12",
-   "title": "Inflação e Reforma Tributária mudam a conta das empresas",
-   "resumo": "Segundo o CEO da Rumo Brasil, Rafael Brito, conhecer a estrutura real de custos passa a ser uma condição para proteger a rentabilidade e sustentar o crescimento nesse cenário",
-   "link": "https://mundologistica.com.br/noticias/inflacao-reforma-tributaria-conta-das-empresas",
-   "source": "Mundo Logística",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-13T02:40:14Z",
-   "tries": 1
-  },
-  {
-   "id": "b87285315789",
-   "date": "2026-11-12",
-   "title": "CGIBS aprova ajustes ao Regulamento do Imposto Sobre Bens e Serviços e prorroga a DeRE em Reunião Ordinária",
-   "resumo": "Conselheiros aprovaram ainda o ato conjunto sobre a inscrição no CNPJ do produtor rural pessoa física e do transportador autônomo de cargas, a minuta de fluxos e atos normativos e o plano de contratação do Comitê, durante o encontro em Santa Catarina",
-   "link": "https://cgibs.gov.br/cgibs-aprova-ajustes-ao-regulamento-do-ibs-e-prorroga-a-dere-em-reuniao-em-joinville",
-   "source": "Comitê Gestor do IBS",
-   "official": false,
-   "category": "lei",
-   "tag": "Legislação",
-   "addedAt": "2026-11-13T02:40:14Z",
-   "tries": 1
-  },
-  {
-   "id": "667e371ac328",
-   "date": "2026-11-12",
-   "title": "Locadoras de veículos pedem adiamento da cobrança da CBS e do Imposto Seletivo para 2028",
-   "resumo": "12/11/2026 Entidades representativas do setor de locação de veículos defenderam o adiamento para 2028 do início da cobrança efetiva da Contribuição sobre Bens e Serviços (CBS) e do Imposto Seletivo (IS), previstos para entrar em vigor em 2027. A proposta foi…",
-   "link": "https://tagdlaw.com.br/locadoras-de-veiculos-pedem-adiamento-da-cobranca-da-cbs-e-do-imposto-seletivo-para-2028/",
-   "source": "TAGD Advogados",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-13T00:42:57Z",
-   "tries": 1
-  },
-  {
-   "id": "8a241c873a1e",
-   "date": "2026-11-12",
-   "title": "Comissão de Finanças debate com Receita Federal regulamentação da reforma tributária",
-   "resumo": "Debate vai abordar alíquotas, Imposto Seletivo e desafios operacionais do novo sistema tributário",
-   "link": "https://www.camara.leg.br/noticias/1319043-comissao-de-financas-debate-com-receita-federal-regulamentacao-da-reforma-tributaria",
-   "source": "Agência Câmara",
-   "official": true,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-12T22:36:13Z"
-  },
-  {
-   "id": "40b64721f0d1",
-   "date": "2026-11-12",
-   "title": "Receita propõe adiar recolhimento da CBS e flexibiliza transição da reforma tributária",
-   "resumo": "Proposta prevê recolhimento definitivo da CBS em março de 2027, enquanto empresas terão mais prazo para adaptar documentos fiscais.",
-   "link": "https://www.gazetadopovo.com.br/republica/receita-propoe-adiar-recolhimento-da-cbs-e-flexibiliza-transicao-da-reforma-tributaria/",
-   "source": "Gazeta do Povo",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-12T22:36:13Z",
-   "tries": 1
-  },
-  {
-   "id": "620a1742fb6d",
-   "date": "2026-11-12",
-   "title": "Reforma tributária: exigência às empresas do Simples Nacional é adiada para 2027",
-   "resumo": "Foto de Jakub Żerdzicki na Unsplash \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2026/11/Reforma-tributaria.png?fit=1169%2C780&quality=70&strip=all\" />Adiamento é voltado para negócios que vendem produtos e emitem NF-e ou NFC-e…",
-   "link": "https://www.infomoney.com.br/brasil/reforma-tributaria-exigencia-as-empresas-do-simples-nacional-e-adiada-para-2027/",
-   "source": "InfoMoney",
-   "official": false,
-   "category": "nt",
-   "tag": "Nota técnica",
-   "addedAt": "2026-11-12T21:36:53Z"
-  },
-  {
-   "id": "bdde23bd676b",
-   "date": "2026-11-12",
-   "title": "Imposto Seletivo ganha regras e complexidade evidencia necessidade de prorrogação da fase de transição da Reforma Tributária",
-   "resumo": "Empresas terão que atualizar cadastros de fornecedores e produtos, além de sistemas operacionais, o que pode afetar o capital de giro",
-   "link": "https://fecomercio.com.br/tributario/imposto-seletivo-ganha-regras-e-complexidade-evidencia-necessidade-de-prorrogacao-da-fase-de-transicao-da-reforma-tributaria/",
-   "source": "FecomercioSP",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-12T21:36:53Z",
-   "tries": 1
-  },
-  {
-   "id": "49aa06566ce5",
-   "date": "2026-11-12",
-   "title": "REFORMA TRIBUTÁRIA | IBRAM assina manifesto que pede testes durante todo 2027 e cobrança da CBS só em 2028",
-   "resumo": "Documento com outras 71 entidades do setor produtivo aponta pendências nos sistemas de apuração, nos documentos fiscais e no split payment entre empresas.",
-   "link": "https://brasilmineral.com.br/noticias/ibram-assina-manifesto-que-pede-testes-durante-todo-2027-e-cobranca-da-cbs-so-em-2028",
-   "source": "Brasil Mineral",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-12T21:36:53Z",
-   "tries": 1
-  },
-  {
-   "id": "36cda1991785",
-   "date": "2026-11-12",
-   "title": "Planejamento tributário: o que revisar para 2027",
-   "resumo": "Empresas devem revisar regimes tributários, créditos e impostos pagos para se preparar para a Reforma Tributária e evitar custos inesperados em 2027. Leia mais em https://www.contabeis.com.br/noticias/80757/planejamento-tributario-o-que-revisar-para-2027/",
-   "link": "https://www.contabeis.com.br/noticias/80757/planejamento-tributario-o-que-revisar-para-2027/",
-   "source": "Portal Contábeis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-12T20:39:37Z"
-  },
-  {
-   "id": "142d6a0d211a",
-   "date": "2026-11-12",
-   "title": "CGIBS aprova ajustes ao Regulamento do IBS e prorroga a DeRE em reunião em Joinville",
-   "resumo": "Conselheiros aprovaram ainda o ato conjunto sobre a inscrição no CNPJ do produtor rural pessoa física e do transportador autônomo de cargas, a minuta de fluxos e atos normativos e o plano de contratação do Comitê, durante o encontro em Santa Catarina",
-   "link": "https://www.cgibs.gov.br/cgibs-aprova-ajustes-ao-regulamento-do-ibs-e-prorroga-a-dere-em-reuniao-em-joinville",
-   "source": "Comitê Gestor do IBS",
-   "official": false,
-   "category": "lei",
-   "tag": "Legislação",
-   "addedAt": "2026-11-12T20:39:37Z",
-   "tries": 1
-  },
-  {
-   "id": "1dbeacd317e5",
-   "date": "2026-11-12",
-   "title": "Reforma tributária: Fenacor pede adiamento da CBS e alerta para impacto nas pequenas corretoras de seguros",
-   "resumo": "A Federação Nacional dos Corretores de Seguros (Fenacor) encaminhou ao Ministério da Fazenda",
-   "link": "https://www.revistacobertura.com.br/noticias/instituicoes/reforma-tributaria-fenacor-pede-adiamento-da-cbs-e-alerta-para-impacto-nas-pequenas-corretoras-de-seguros/",
-   "source": "Revista Cobertura",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-12T19:43:46Z",
-   "tries": 1
-  },
-  {
-   "id": "0f3226154d47",
-   "date": "2026-11-12",
-   "title": "Exclusão de IBS e CBS da base do ISS ganha força como ‘filhote’ de discussão do ICMS",
-   "resumo": "Na Justiça, contribuintes argumentam que IBS e CBS não constituem receita, apenas transitam pelo caixa das empresas até serem repassados ao Fisco",
-   "link": "https://dcomercio.com.br/publicacao/s/exclusao-de-ibs-e-cbs-da-base-do-iss-ganha-forca-como-filhote-de-discussao-do-icms",
-   "source": "Diário do Comércio SP",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-12T19:43:46Z",
    "tries": 1
   }
  ]

@@ -1,13 +1,13 @@
 {
- "lastCheckAt": "2026-11-17T16:24:09Z",
- "lastCheckBr": "17/11/2026 13:24",
- "added": 28,
+ "lastCheckAt": "2026-11-17T17:28:29Z",
+ "lastCheckBr": "17/11/2026 14:28",
+ "added": 2,
  "feeds": [
   {
    "name": "Agência Senado",
    "ok": true,
    "found": 1,
-   "new": 0
+   "new": 1
   },
   {
    "name": "Agência Câmara",
@@ -25,34 +25,61 @@
    "name": "Agência Brasil",
    "ok": true,
    "found": 2,
-   "new": 1
+   "new": 0
   },
   {
    "name": "Portal Contábeis",
    "ok": true,
-   "found": 9,
+   "found": 8,
    "new": 0
   },
   {
    "name": "InfoMoney",
    "ok": true,
-   "found": 0,
-   "new": 0
+   "found": 1,
+   "new": 1
   },
   {
    "name": "Imprensa (Google Notícias)",
-   "ok": true,
-   "found": 94,
-   "new": 26
+   "ok": false,
+   "found": 0,
+   "new": 0,
+   "error": "HTTPError"
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
-   "ok": true,
-   "found": 3,
-   "new": 1
+   "ok": false,
+   "found": 0,
+   "new": 0,
+   "error": "HTTPError"
   }
  ],
  "items": [
+  {
+   "id": "3982655842d3",
+   "date": "2026-11-17",
+   "title": "Vídeo: Durigan fala em comissão sobre alíquota da CBS – 17/11/26",
+   "resumo": "Portal de Notícias do Senado Federal: matérias, entrevistas e informações oficiais sobre a atividade legislativa.",
+   "link": "https://www12.senado.leg.br/noticias/videos/2026/11/ao-vivo-durigan-fala-em-comissao-sobre-aliquota-da-cbs-2013-17-11-26",
+   "source": "Senado Federal",
+   "official": true,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-17T17:28:29Z",
+   "tries": 1
+  },
+  {
+   "id": "d456828b81d4",
+   "date": "2026-11-17",
+   "title": "Durigan defende revisão de isenções e regimes especiais para reduzir CBS em 2028",
+   "resumo": "Dario Durigan, Minister of Finance of Brazil, speaks during an interview with Reuters in Beijing, China, June 25, 2026. REUTERS/Maxim Shemetov \" data-image-caption=\" (Foto: Maxim Shemetov / Reuters) \"…",
+   "link": "https://www.infomoney.com.br/politica/durigan-defende-revisao-de-isencoes-e-regimes-especiais-para-reduzir-cbs-em-2028/",
+   "source": "InfoMoney",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-17T17:28:29Z"
+  },
   {
    "id": "6d9ad6329c69",
    "date": "2026-11-17",
@@ -121,14 +148,14 @@
    "id": "525b3221bad8",
    "date": "2026-11-17",
    "title": "Ministro da Fazenda afirma que decisões judiciais impactam alíquotas da CBS e do IBS",
-   "resumo": "",
+   "resumo": "Declaração foi feita durante audiência pública na Comissão de Assuntos Econômicos do Senado nesta terça-feira (17/11)",
    "link": "https://portalvv8.com.br/noticia/85858/ministro-da-fazenda-afirma-que-decisoes-judiciais-impactam-aliquotas-da-cbs-e-do-ibs",
    "source": "Portal VV8",
    "official": false,
    "category": "aliq",
    "tag": "Alíquotas",
    "addedAt": "2026-11-17T16:24:09Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "14232d3b0927",
@@ -1794,7 +1821,7 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-17T16:24:09Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "527fdd6f46ee",
@@ -1950,32 +1977,6 @@
    "tag": "Contabilidade",
    "addedAt": "2026-11-16T11:20:32Z",
    "tries": 2
-  },
-  {
-   "id": "c0a708fb2649",
-   "date": "2026-11-12",
-   "title": "Reforma Tributária: Receita anunciou trocas que afetam empresas em 2027",
-   "resumo": "Medidas incluem prazo adicional para ajuste da CBS, adiamento de documentos fiscais e novas regras para facilitar a adaptação",
-   "link": "https://jornalcontabil.com.br/noticia/reforma-tributaria-receita-anunciou-trocas-que-afetam-empresas-em-2027/",
-   "source": "Jornal Contábil",
-   "official": false,
-   "category": "cont",
-   "tag": "Contabilidade",
-   "addedAt": "2026-11-14T02:39:34Z",
-   "tries": 1
-  },
-  {
-   "id": "35adcded8c0d",
-   "date": "2026-11-12",
-   "title": "Receita Federal anuncia medidas para transição da Reforma Tributária em 2027, mas desafios persistem para a construção civil",
-   "resumo": "A Receita Federal anunciou, nesta quarta-feira (11), um conjunto de medidas para facilitar a implementação da Reforma Tributária do Consumo em 2027. Apresentadas em conjunto com o Conselho Federal de Contabilidade (CFC), a Fenacon e o Sebrae, as iniciativas…",
-   "link": "https://cbic.org.br/receita-federal-anuncia-medidas-para-transicao-da-reforma-tributaria-em-2027-mas-desafios-persistem-para-a-construcao-civil/",
-   "source": "CBIC - Câmara Brasileira da Indústria da Construção",
-   "official": false,
-   "category": "lei",
-   "tag": "Legislação",
-   "addedAt": "2026-11-13T19:43:58Z",
-   "tries": 1
   }
  ]
 }

@@ -1,13 +1,13 @@
 {
- "lastCheckAt": "2026-11-17T12:48:28Z",
- "lastCheckBr": "17/11/2026 09:48",
- "added": 17,
+ "lastCheckAt": "2026-11-17T14:05:17Z",
+ "lastCheckBr": "17/11/2026 11:05",
+ "added": 26,
  "feeds": [
   {
    "name": "Agência Senado",
    "ok": true,
-   "found": 0,
-   "new": 0
+   "found": 1,
+   "new": 1
   },
   {
    "name": "Agência Câmara",
@@ -30,8 +30,8 @@
   {
    "name": "Portal Contábeis",
    "ok": true,
-   "found": 11,
-   "new": 2
+   "found": 9,
+   "new": 1
   },
   {
    "name": "InfoMoney",
@@ -43,16 +43,119 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 93,
-   "new": 15
+   "new": 23
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
    "ok": true,
    "found": 3,
-   "new": 0
+   "new": 1
   }
  ],
  "items": [
+  {
+   "id": "6e3c5261cb94",
+   "date": "2026-11-17",
+   "title": "Vídeo: Ao vivo: Durigan fala em comissão sobre alíquota da CBS – 17/11/26",
+   "resumo": "Portal de Notícias do Senado Federal: matérias, entrevistas e informações oficiais sobre a atividade legislativa.",
+   "link": "https://www12.senado.leg.br/noticias/videos/2026/11/ao-vivo-durigan-fala-em-comissao-sobre-aliquota-da-cbs-2013-17-11-26",
+   "source": "Senado Federal",
+   "official": true,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-17T14:05:17Z",
+   "tries": 1
+  },
+  {
+   "id": "08450331b995",
+   "date": "2026-11-17",
+   "title": "IBS: Comitê Gestor aprova ajustes para o setor financeiro",
+   "resumo": "CGIBS altera três artigos do regulamento do IBS e adia etapa da DeRE, declaração exigida de setores com regimes específicos. Leia mais em https://www.contabeis.com.br/noticias/80929/ibs-comite-gestor-aprova-ajustes-para-o-setor-financeiro/",
+   "link": "https://www.contabeis.com.br/noticias/80929/ibs-comite-gestor-aprova-ajustes-para-o-setor-financeiro/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "lei",
+   "tag": "Legislação",
+   "addedAt": "2026-11-17T14:05:17Z"
+  },
+  {
+   "id": "7b5541de6bb9",
+   "date": "2026-11-17",
+   "title": "Alíquota da CBS: Durigan vai ao Senado discutir percentual de 11,3%",
+   "resumo": "Percentual calculado pelo TCU supera estimativa anterior; Fazenda prepara mudanças no pagamento do tributo em 2027.",
+   "link": "https://istoedinheiro.com.br/aliquota-cbs-durigan-senado",
+   "source": "ISTOÉ DINHEIRO",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-17T14:05:17Z",
+   "tries": 1
+  },
+  {
+   "id": "711ec47770e1",
+   "date": "2026-11-17",
+   "title": "Durigan explica no Senado nesta terça (17) alíquota de 11,3% da CBS, novo imposto que começa em 2027",
+   "resumo": "Índice recomendado pelo TCU superou a estimativa do governo; indústria e OAB pedem adiamento, e Senado tem até 15 de dezembro para definir o percentual",
+   "link": "https://www.meon.com.br/noticias/brasil/durigan-senado-aliquota-cbs-11-3-reforma-tributaria",
+   "source": "MEON",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-17T14:05:17Z",
+   "tries": 1
+  },
+  {
+   "id": "0b4494421ce9",
+   "date": "2026-11-17",
+   "title": "Durigan vai ao Senado explicar CBS com alíquota de 11,3% da reforma tributária",
+   "resumo": "Os parlamentares, que devem definir o percentual fixo da alíquota do CBS até dia 15 de dezembro, querem entender o cálculo indicado pelo TCU; a alíquota de mais de 11% superou os 9,21% estimados anteriormente pela equipe econômica",
+   "link": "https://www.itatiaia.com.br/economia/durigan-vai-ao-senado-explicar-cbs-com-aliquota-de-113-da-reforma-tributaria/",
+   "source": "Rádio Itatiaia",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-17T14:05:17Z",
+   "tries": 1
+  },
+  {
+   "id": "13dc5993bb9a",
+   "date": "2026-11-17",
+   "title": "Durigan vai ao Senado defender CBS de 11,3%, dois pontos acima do previsto pelo governo",
+   "resumo": "Ministro da Fazenda participa nesta terça (17) de audiência na CAE ao lado do presidente do TCU e do chefe da Receita. Senadores dizem que, somada ao IBS, a alíquota passa da trava de 26,5% prevista em lei",
+   "link": "https://francesnews.com.br/post/2026/11/17/46349-durigan-vai-ao-senado-defender-cbs-de-113-dois-pontos-acima-do-previsto-pelo-governo",
+   "source": "Francês News",
+   "official": false,
+   "category": "lei",
+   "tag": "Legislação",
+   "addedAt": "2026-11-17T14:05:17Z",
+   "tries": 1
+  },
+  {
+   "id": "1448981dde21",
+   "date": "2026-11-17",
+   "title": "Senado debate alíquota de novo imposto da reforma tributária e pedidos para adiar início da cobrança",
+   "resumo": "O ministro da Fazenda, Dario Durigan, participa nesta terça-feira (17), às 10h, de uma audiência pública na Comissão de Assuntos Econômicos (CAE) do Senado para esclarecer dúvidas sobre a alíquota de referência da Contribuição sobre Bens e Serviços (CBS)…",
+   "link": "https://regiaonoroeste.com/senado-debate-aliquota-de-novo-imposto-da-reforma-tributaria-e-pedidos-para-adiar-inicio-da-cobranca/",
+   "source": "Região Noroeste",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-17T14:05:17Z",
+   "tries": 1
+  },
+  {
+   "id": "b76f52fd6754",
+   "date": "2026-11-17",
+   "title": "CBS de 11,3% será debatida por ministro da Fazenda no Senado",
+   "resumo": "Audiência pública reúne governo, TCU e representantes do setor produtivo para discutir o percentual de referência do novo tributo e possíveis mudanças no crono…",
+   "link": "https://cenariomt.com.br/economia/cbs-de-113-sera-debatida-por-ministro-da-fazenda-no-senado/",
+   "source": "CenárioMT",
+   "official": false,
+   "category": "lei",
+   "tag": "Legislação",
+   "addedAt": "2026-11-17T14:05:17Z",
+   "tries": 1
+  },
   {
    "id": "936ff5e9e033",
    "date": "2026-11-17",
@@ -166,6 +269,19 @@
    "tries": 1
   },
   {
+   "id": "78ec60664534",
+   "date": "2026-11-16",
+   "title": "Governo prepara mudança na reforma tributária para facilitar pagamento de impostos pelas empresas",
+   "resumo": "Governo prepara nova regra para a reforma tributária em 2027. Empresas poderão calcular a CBS por estimativa e ajustar diferenças depois.",
+   "link": "https://clickpetroleoegas.com.br/reforma-tributaria-2027-regra-cbs-empresas-rss94/",
+   "source": "CPG Click Petróleo e Gás",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-17T14:05:17Z",
+   "tries": 1
+  },
+  {
    "id": "b53ca59fd4dc",
    "date": "2026-11-16",
    "title": "Farmácias revisam notas e cadastros para a Reforma Tributária; 81% dos emissores de notas ao consumidor já informam a CBS",
@@ -176,7 +292,7 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-17T12:48:28Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "e5cf7d51e1de",
@@ -1383,6 +1499,19 @@
    "tries": 1
   },
   {
+   "id": "1536c408f308",
+   "date": "2026-11-12",
+   "title": "Reforma Tributária: entenda a proposta que dá 30 dias a mais para empresas pagarem a CBS em 2027",
+   "resumo": "Recolhimento será feito em duas etapas no primeiro ano da reforma; mudança depende de aprovação do Congresso",
+   "link": "https://oglobo.globo.com/economia/noticia/2026/11/12/reforma-tributaria-entenda-a-proposta-que-da-30-dias-a-mais-para-empresas-pagarem-a-cbs-em-2027.ghtml",
+   "source": "O GLOBO",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-17T14:05:17Z",
+   "tries": 1
+  },
+  {
    "id": "6784f11387cb",
    "date": "2026-11-12",
    "title": "Cancelado debate na Comissão de Finanças sobre regulamentação da reforma tributária",
@@ -1834,136 +1963,6 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-12T17:35:38Z",
-   "tries": 1
-  },
-  {
-   "id": "6b0c9bbc57bc",
-   "date": "2026-11-12",
-   "title": "Fisco adia para março de 2027 exigências da reforma tributária para empresas do Simples - Sistema FENACON",
-   "resumo": "Início da reforma está mantido para janeiro de 2027. Secretário Robinson Barreirinhas anunciou programa que prevê orientação e correção preventiva, sem punição a contribuintes de boa-fé durante a transição Foto:...",
-   "link": "https://fenacon.org.br/noticias/fisco-adia-para-marco-de-2027-exigencias-da-reforma-tributaria-para-empresas-do-simples/",
-   "source": "Sistema FENACON",
-   "official": false,
-   "category": "simples",
-   "tag": "Simples",
-   "addedAt": "2026-11-12T15:47:59Z",
-   "tries": 1
-  },
-  {
-   "id": "9b9f44c64a9d",
-   "date": "2026-11-12",
-   "title": "Imposto seletivo puxa pra baixo avaliação da reforma tributária - JOTA Info",
-   "resumo": "Apesar da insegurança, comitê de especialistas do Pulso da Reforma aponta avanço na nota fiscal e no split payment",
-   "link": "https://www.jota.info/opiniao-e-analise/artigos/imposto-seletivo-puxa-pra-baixo-avaliacao-da-reforma-tributaria",
-   "source": "JOTA Info",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-12T15:47:59Z",
-   "tries": 1
-  },
-  {
-   "id": "527fdd6f46ee",
-   "date": "2026-11-12",
-   "title": "Reforma Tributária: se Senado reduzir CBS, governo terá de cortar gastos, diz relator - O GLOBO",
-   "resumo": "Aguinaldo Ribeiro relativiza alíquota de 11,3% calculada pelo TCU e cita conta da Fazenda que aponta média efetiva de 8,5%; senadores discutem mudar o percentual até 15 de dezembro",
-   "link": "https://oglobo.globo.com/economia/noticia/2026/11/12/reforma-tributaria-se-senado-reduzir-cbs-governo-tera-de-cortar-gastos-diz-relator.ghtml",
-   "source": "O GLOBO",
-   "official": false,
-   "category": "lei",
-   "tag": "Legislação",
-   "addedAt": "2026-11-12T15:47:59Z",
-   "tries": 1
-  },
-  {
-   "id": "a76f7f1c29f0",
-   "date": "2026-11-12",
-   "title": "Governo enviará PL para adiar em um mês pagamento definitivo da CBS - Migalhas",
-   "resumo": "Projeto busca dar fôlego ao caixa das empresas durante a transição, sem alterar o início da cobrança, previsto para janeiro de 2027.",
-   "link": "https://www.migalhas.com.br/quentes/468464/governo-enviara-pl-para-adiar-em-um-mes-pagamento-definitivo-da-cbs",
-   "source": "Migalhas",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-12T15:47:59Z",
-   "tries": 1
-  },
-  {
-   "id": "caa02a311140",
-   "date": "2026-11-12",
-   "title": "Receita anuncia programa de conformidade da Reforma Tributária para 2027 - Portal Contabeis",
-   "resumo": "Programa prevê orientação e correção preventiva de erros sem penalidades durante a transição para as regras da CBS e do IBS.",
-   "link": "https://www.contabeis.com.br/noticias/80801/receita-anuncia-programa-de-conformidade-da-reforma-tributaria-para-2027/",
-   "source": "Portal Contabeis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-12T15:47:59Z",
-   "tries": 1
-  },
-  {
-   "id": "b46820288428",
-   "date": "2026-11-12",
-   "title": "COMITÊ GESTOR DO IMPOSTO SOBRE BENS E SERVIÇOS – CGIBS RESOLUÇÃO CGIBS Nº 19, DE 12 DE NOVEMBRO DE 2026 Dispõe, em cará - Comitê Gestor do IBS",
-   "resumo": "",
-   "link": "https://www.cgibs.gov.br/upload/arquivos/202611/12101846-resolucao-cgibs-n-19-de-12-de-novembro-de-2026.pdf",
-   "source": "Comitê Gestor do IBS",
-   "official": false,
-   "category": "lei",
-   "tag": "Legislação",
-   "addedAt": "2026-11-12T15:47:59Z",
-   "tries": 2
-  },
-  {
-   "id": "d9e0a23c18e0",
-   "date": "2026-11-12",
-   "title": "CBS e IBS: novos impostos da reforma tributária começam a valer em janeiro de 2027; entenda o que muda - CBN",
-   "resumo": "O sócio-líder de Tributos Indiretos da EY Brasil, Patrick Seixas, em entrevista ao Jornal da CBN, ajuda a esclarecer as dúvidas sobre os novos tributos.",
-   "link": "https://cbn.globo.com/programas/jornal-da-cbn/entrevista/2026/11/12/cbs-e-ibs-novos-impostos-da-reforma-tributaria-comecam-a-valer-em-janeiro-de-2027-entenda-o-que-muda.ghtml",
-   "source": "CBN",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-12T12:30:16Z",
-   "tries": 1
-  },
-  {
-   "id": "a8ecc85f7f1a",
-   "date": "2026-11-12",
-   "title": "Reforma Tributária: se Senado reduzir CBS, governo terá de cortar gastos, diz relator - InfoMoney",
-   "resumo": "Aguinaldo Ribeiro relativiza alíquota de 11,3% calculada pelo TCU e cita conta da Fazenda que aponta média efetiva de 8,5%; senadores discutem mudar o percentual até 15 de dezembro",
-   "link": "https://www.infomoney.com.br/politica/reforma-tributaria-se-senado-reduzir-cbs-governo-tera-de-cortar-gastos-diz-relator/",
-   "source": "InfoMoney",
-   "official": false,
-   "category": "lei",
-   "tag": "Legislação",
-   "addedAt": "2026-11-12T11:23:46Z",
-   "tries": 1
-  },
-  {
-   "id": "ae93f9fb6e4e",
-   "date": "2026-11-12",
-   "title": "Receita Federal propõe adiar em um mês pagamento definitivo da CBS - Congresso em Foco",
-   "resumo": "Empresas poderão recolher a CBS por estimativa em fevereiro e fazer o acerto definitivo em março; proposta depende de aprovação do Congresso.",
-   "link": "https://www.congressoemfoco.com.br/noticia/131535/receita-federal-propoe-adiar-em-um-mes-pagamento-definitivo-da-cbs",
-   "source": "Congresso em Foco",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-12T10:40:54Z",
-   "tries": 1
-  },
-  {
-   "id": "eadd8c4e4cbf",
-   "date": "2026-11-12",
-   "title": "Fundações imunes vão pagar CBS e IBS? - JOTA Info",
-   "resumo": "A reforma tributária não suprimiu a imunidade das fundações e entidades do Terceiro Setor, mas alterou o seu alcance econômico.",
-   "link": "https://www.jota.info/opiniao-e-analise/artigos/fundacoes-imunes-vao-pagar-cbs-e-ibs",
-   "source": "JOTA Info",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-12T06:51:42Z",
    "tries": 1
   }
  ]

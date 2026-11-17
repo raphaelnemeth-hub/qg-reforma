@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-17T06:57:19Z",
- "lastCheckBr": "17/11/2026 03:57",
- "added": 12,
+ "lastCheckAt": "2026-11-17T08:15:41Z",
+ "lastCheckBr": "17/11/2026 05:15",
+ "added": 10,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -43,13 +43,13 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 94,
-   "new": 7
+   "new": 8
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
    "ok": true,
-   "found": 8,
-   "new": 5
+   "found": 5,
+   "new": 2
   }
  ],
  "items": [
@@ -64,6 +64,19 @@
    "category": "aliq",
    "tag": "Alíquotas",
    "addedAt": "2026-11-17T04:47:53Z",
+   "tries": 1
+  },
+  {
+   "id": "953e06749298",
+   "date": "2026-11-16",
+   "title": "Imposto sobre imposto na Reforma Tributária gera disputa de R$ 10 bilhões na Justiça",
+   "resumo": "Entenda a disputa judicial sobre imposto sobre imposto na Reforma Tributária e veja como o cálculo de CBS, IBS e ICMS afeta sua empresa.",
+   "link": "https://www.omie.com.br/blog/imposto-sobre-imposto-reforma-tributaria-disputa-10-bilhoes/",
+   "source": "Omie",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-17T08:15:41Z",
    "tries": 1
   },
   {
@@ -1957,19 +1970,6 @@
    "tag": "Split payment",
    "addedAt": "2026-11-16T13:06:51Z",
    "tries": 2
-  },
-  {
-   "id": "61371c6a342f",
-   "date": "2026-11-11",
-   "title": "Reforma Tributária: deputados descartam adiamento da CBS para 2028",
-   "resumo": "Confira os desdobramentos da Reforma Tributária com a manutenção dos prazos oficiais e veja como antecipar o planejamento da sua empresa.",
-   "link": "https://www.omie.com.br/blog/deputados-descartam-adiamento-cbs-2028/",
-   "source": "Omie",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-16T13:06:51Z",
-   "tries": 1
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-17T08:15:41Z",
- "lastCheckBr": "17/11/2026 05:15",
- "added": 10,
+ "lastCheckAt": "2026-11-17T09:29:02Z",
+ "lastCheckBr": "17/11/2026 06:29",
+ "added": 8,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -48,8 +48,8 @@
   {
    "name": "CGIBS / NF-e (Google Notícias)",
    "ok": true,
-   "found": 5,
-   "new": 2
+   "found": 3,
+   "new": 0
   }
  ],
  "items": [
@@ -1816,6 +1816,19 @@
    "tries": 1
   },
   {
+   "id": "61371c6a342f",
+   "date": "2026-11-11",
+   "title": "Reforma Tributária: deputados descartam adiamento da CBS para 2028",
+   "resumo": "Confira os desdobramentos da Reforma Tributária com a manutenção dos prazos oficiais e veja como antecipar o planejamento da sua empresa.",
+   "link": "https://www.omie.com.br/blog/deputados-descartam-adiamento-cbs-2028/",
+   "source": "Omie",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-17T09:29:02Z",
+   "tries": 1
+  },
+  {
    "id": "bf9fec955f9f",
    "date": "2026-11-11",
    "title": "Ato Conjunto RFB/CGIBS nº 7, de 11 de novembro de 2026",
@@ -1957,19 +1970,6 @@
    "tag": "Alíquotas",
    "addedAt": "2026-11-16T15:57:21Z",
    "tries": 1
-  },
-  {
-   "id": "130968a71227",
-   "date": "2026-11-11",
-   "title": "TCU pede que governo priorize normas 'críticas' da reforma tributária, incluindo split payment",
-   "resumo": "",
-   "link": "https://economia.uol.com.br/noticias/estadao-conteudo/2026/11/11/tcu-pede-que-governo-priorize-normas-criticas-da-reforma-tributaria-incluindo-split-payment.htm",
-   "source": "UOL Economia",
-   "official": false,
-   "category": "pag",
-   "tag": "Split payment",
-   "addedAt": "2026-11-16T13:06:51Z",
-   "tries": 2
   }
  ]
 }

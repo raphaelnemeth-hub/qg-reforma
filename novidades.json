@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-17T01:44:53Z",
- "lastCheckBr": "16/11/2026 22:44",
- "added": 9,
+ "lastCheckAt": "2026-11-17T02:44:18Z",
+ "lastCheckBr": "16/11/2026 23:44",
+ "added": 14,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -47,13 +47,25 @@
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
-   "ok": false,
-   "found": 0,
-   "new": 0,
-   "error": "HTTPError"
+   "ok": true,
+   "found": 8,
+   "new": 5
   }
  ],
  "items": [
+  {
+   "id": "a8a356c35056",
+   "date": "2026-11-16",
+   "title": "Reforma Tributária: CFC, Fenacon e Receita criam grupo para resolver problemas da transição",
+   "resumo": "Simples Nacional, CBS e ajustes nas normas estão entre os assuntos prioritários",
+   "link": "https://jornalcontabil.com.br/noticia/reforma-tributaria-cfc-fenacon-e-receita-criam-grupo-para-resolver-problemas-da-transicao/",
+   "source": "Jornal Contábil",
+   "official": false,
+   "category": "cont",
+   "tag": "Contabilidade",
+   "addedAt": "2026-11-17T02:44:18Z",
+   "tries": 1
+  },
   {
    "id": "0bfa4d5ac560",
    "date": "2026-11-16",
@@ -1958,19 +1970,6 @@
    "tag": "Atualização",
    "addedAt": "2026-11-14T14:13:07Z",
    "tries": 1
-  },
-  {
-   "id": "bf9fec955f9f",
-   "date": "2026-11-11",
-   "title": "Ato Conjunto RFB/CGIBS nº 7, de 11 de novembro de 2026",
-   "resumo": "",
-   "link": "https://cgibs.gov.br/upload/arquivos/202611/13061456-ato-conjunto-7-rfb-cgibs-alteracao-ato-4.pdf",
-   "source": "Comitê Gestor do IBS",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-13T16:42:42Z",
-   "tries": 2
   }
  ]
 }

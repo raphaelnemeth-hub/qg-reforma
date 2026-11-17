@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-17T10:32:20Z",
- "lastCheckBr": "17/11/2026 07:32",
- "added": 8,
+ "lastCheckAt": "2026-11-17T11:40:47Z",
+ "lastCheckBr": "17/11/2026 08:40",
+ "added": 14,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -30,8 +30,8 @@
   {
    "name": "Portal Contábeis",
    "ok": true,
-   "found": 10,
-   "new": 0
+   "found": 11,
+   "new": 1
   },
   {
    "name": "InfoMoney",
@@ -42,8 +42,8 @@
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 94,
-   "new": 7
+   "found": 93,
+   "new": 12
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -53,6 +53,43 @@
   }
  ],
  "items": [
+  {
+   "id": "5493fae9f82c",
+   "date": "2026-11-17",
+   "title": "Durigan explica no Senado alíquota de 11,3% da CBS",
+   "resumo": "Em meio a questionamentos sobre a reforma tributária, o ministro da Fazenda, Dario Durigan, participa nesta terça-feira (17), às 10h, de audiência pública na Comissão de Assuntos Econômicos (CAE) do Senado para discutir a alíquota de referência da…",
+   "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/durigan-explica-no-senado-aliquota-de-113-da-cbs",
+   "source": "Agência Brasil",
+   "official": true,
+   "category": "nt",
+   "tag": "Nota técnica",
+   "addedAt": "2026-11-17T11:40:47Z"
+  },
+  {
+   "id": "8581125664fb",
+   "date": "2026-11-17",
+   "title": "Simples Híbrido: cálculo da CBS em 11,3% exige revisar a escolha dos clientes até 20 de dezembro",
+   "resumo": "O TCU calculou a alíquota de referência da CBS em 11,3%, acima dos 8,8% estimados pelo governo em 2024. O percentual ainda depende de definição pelo Senado, mas já exige uma nova análise de quem escolheu recolher IBS e CBS fora do DAS. Leia mais em…",
+   "link": "https://www.contabeis.com.br/noticias/80869/simples-hibrido-calculo-da-cbs-em-11-3-exige-revisar-a-escolha-dos-clientes-ate-20-de-dezembro/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "simples",
+   "tag": "Simples",
+   "addedAt": "2026-11-17T11:40:47Z"
+  },
+  {
+   "id": "be28951368bb",
+   "date": "2026-11-17",
+   "title": "Importação de máquinas agrícolas: reforma tributária muda custos e exige planejamento dos produtores em 2027",
+   "resumo": "Entrada da CBS nas importações pode alterar o desembolso inicial, o aproveitamento de créditos tributários e a decisão de compra de tratores, semeadoras e equipamentos agrícolas.",
+   "link": "https://www.portaldoagronegocio.com.br/agroindustria/maquinas-e-implementos/noticias/importacao-de-maquinas-agricolas-reforma-tributaria-muda-custos-e-exige-planejamento-dos-produtores-em-2027",
+   "source": "Portal do Agronegócio",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-17T11:40:47Z",
+   "tries": 1
+  },
   {
    "id": "b174a4068a94",
    "date": "2026-11-17",
@@ -76,6 +113,32 @@
    "category": "aliq",
    "tag": "Alíquotas",
    "addedAt": "2026-11-17T04:47:53Z",
+   "tries": 1
+  },
+  {
+   "id": "bf377f1c8a15",
+   "date": "2026-11-16",
+   "title": "Ato Conjunto RFB/CGIBS nº 7/2026 atualiza o cronograma de obrigatoriedade de emissão da NFS-e para IBS e CBS",
+   "resumo": "O Comitê Gestor da Nota Fiscal de Serviço Eletrônica de padrão nacional (CGNFS-e) comunica aos municípios, contribuintes prestadores de serviços e desenvolvedores de sistemas que foi publicado, na edição de...",
+   "link": "https://fenacon.org.br/reforma-tributaria/ato-conjunto-rfb-cgibs-no-7-2026-atualiza-o-cronograma-de-obrigatoriedade-de-emissao-da-nfs-e-para-ibs-e-cbs/",
+   "source": "Sistema FENACON",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-17T11:40:47Z",
+   "tries": 1
+  },
+  {
+   "id": "834e1c9a556e",
+   "date": "2026-11-16",
+   "title": "Por que o Brasil deve adiar a Reforma Tributária (a cobrança da CBS)",
+   "resumo": "Advogado tributarista Ricardo Yoshino explica por que o Brasil deveria adiar a cobrança da CBS e ampliar os testes da Reforma Tributária em 2027.",
+   "link": "https://www.assiscity.com/reforma-tributaria-adiamento-cobranca-cbs-2027/",
+   "source": "Assiscity",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-17T11:40:47Z",
    "tries": 1
   },
   {
@@ -1828,6 +1891,32 @@
    "tries": 1
   },
   {
+   "id": "9994269ae7d4",
+   "date": "2026-11-11",
+   "title": "Expressão Nacional | Regulamentação da Reforma tributária: Imposto seletivo",
+   "resumo": "A partir de 2027, as mudanças da Reforma Tributária começam a se tornar realidade na rotina dos brasileiros. Um dos movimentos centrais dessa transição é o fim progressivo do tradicional Imposto sobre Produtos Industrializados (IPI) — que terá sua alíquota…",
+   "link": "https://www.camara.leg.br/tv/expressao-nacional/1317829-expressao-nacional-regulamentacao-da-reforma-tributaria-imposto-seletivo",
+   "source": "Portal da Câmara dos Deputados",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-17T11:40:47Z",
+   "tries": 1
+  },
+  {
+   "id": "1e5e16e4bcb5",
+   "date": "2026-11-11",
+   "title": "Cronograma da Reforma Tributária 2027: os principais passos para o Contador",
+   "resumo": "Domine o cronograma da Reforma Tributária de 2027 e prepare a sua Contabilidade para garantir a conformidade dos clientes.",
+   "link": "https://www.omie.com.br/blog/cronograma-reforma-tributaria-2027-contador/",
+   "source": "Omie",
+   "official": false,
+   "category": "cont",
+   "tag": "Contabilidade",
+   "addedAt": "2026-11-17T11:40:47Z",
+   "tries": 1
+  },
+  {
    "id": "61371c6a342f",
    "date": "2026-11-11",
    "title": "Reforma Tributária: deputados descartam adiamento da CBS para 2028",
@@ -1877,97 +1966,6 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-16T20:17:49Z",
-   "tries": 2
-  },
-  {
-   "id": "276fd48b2629",
-   "date": "2026-11-11",
-   "title": "Split payment exige adaptação das APIs de pagamento",
-   "resumo": "Fintechs e instituições de pagamento adaptam APIs ao split payment, que separa IBS e CBS na liquidação. Testes começaram em ambiente controlado.",
-   "link": "https://www.contabeis.com.br/noticias/80776/split-payment-exige-adaptacao-das-apis-de-pagamento/",
-   "source": "Portal Contabeis",
-   "official": false,
-   "category": "pag",
-   "tag": "Split payment",
-   "addedAt": "2026-11-16T20:17:49Z",
-   "tries": 1
-  },
-  {
-   "id": "becb1e3e8c3f",
-   "date": "2026-11-11",
-   "title": "CBS e IBS: entenda os novos impostos da reforma tributária e o que muda em 2027",
-   "resumo": "Novos tributos vão substituir impostos federais, estaduais e municipais sobre o consumo. Governo propõe adiar para fevereiro de 2027 o primeiro recolhimento da CBS, que começa a valer em janeiro.",
-   "link": "https://g1.globo.com/economia/noticia/2026/11/11/cbs-e-ibs-entenda-os-novos-impostos-da-reforma-tributaria.ghtml",
-   "source": "G1",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-16T19:26:37Z",
-   "tries": 1
-  },
-  {
-   "id": "474119dfa3f7",
-   "date": "2026-11-11",
-   "title": "Reforma tributária: Alíquotas e créditos para empresas de tecnologia",
-   "resumo": "Por Aurélio Longo Guerzoni. A substituição do PIS/Cofins e do ISS pela CBS e pelo IBS elevará a tributação nominal dos serviços, mas ampliará o direito aos créditos.",
-   "link": "https://www.migalhas.com.br/depeso/466556/reforma-tributaria-aliquotas-e-creditos-para-empresas-de-tecnologia",
-   "source": "Migalhas",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-16T19:26:37Z",
-   "tries": 1
-  },
-  {
-   "id": "5efb927c282f",
-   "date": "2026-11-11",
-   "title": "Receita Federal e órgãos parceiros detalham próximos passos da Reforma Tributária — Ministério da Fazenda",
-   "resumo": "O foco é promover transparência na divulgação das ações que dão prosseguimento à migração do país para o novo modelo de tributação do consumo",
-   "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/receita-federal-e-orgaos-parceiros-detalham-proximos-passos-da-reforma-tributaria",
-   "source": "GOV.BR",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-16T18:19:04Z",
-   "tries": 1
-  },
-  {
-   "id": "4b2f2daa4d3a",
-   "date": "2026-11-11",
-   "title": "CFC e Fenacon entregam à Receita nove propostas para a reforma tributária",
-   "resumo": "O Conselho Federal de Contabilidade (CFC) entregou nesta terça-feira (10) ao secretário especial da Receita Federal, Robinson Barreirinhas, uma manifestação técnica conjunta com a Fenacon, federação que representa empresas de contabilidade e assessoramento. O…",
-   "link": "https://cfc.org.br/noticias/cfc-e-fenacon-entregam-a-receita-nove-propostas-para-a-reforma-tributaria/",
-   "source": "::Conselho Federal de Contabilidade:: |",
-   "official": false,
-   "category": "cont",
-   "tag": "Contabilidade",
-   "addedAt": "2026-11-16T17:04:17Z",
-   "tries": 1
-  },
-  {
-   "id": "fcfe4a38bab1",
-   "date": "2026-11-11",
-   "title": "Reforma tributária: governo vai propor que primeiro pagamento da CBS seja feito em fevereiro, diz secretário da Receita Federal",
-   "resumo": "Novo imposto federal sobre o consumo continuará valendo a partir de janeiro de 2027, mas empresas poderão ganhar um mês a mais para fazer o primeiro recolhimento. Mudança ainda depende de aprovação do Congresso.",
-   "link": "https://g1.globo.com/economia/noticia/2026/11/11/reforma-tributaria-receita-confirma-inicio-da-cbs-em-janeiro-de-2027-e-diz-que-contribuinte-que-agir-de-boa-fe-nao-sera-multado.ghtml",
-   "source": "G1",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-16T17:04:17Z",
-   "tries": 1
-  },
-  {
-   "id": "2c3e80efb231",
-   "date": "2026-11-11",
-   "title": "Reforma Tributária: SVRS detalha testes de IBS e CBS da NT 2026.004",
-   "resumo": "",
-   "link": "https://www.contadores.cnt.br/noticias/tecnicas/2026/11/11/reforma-tributaria-svrs-detalha-testes-de-ibs-e-cbs-da-nt-2026-004.html",
-   "source": "Contadores.cnt.br",
-   "official": false,
-   "category": "nt",
-   "tag": "Nota técnica",
-   "addedAt": "2026-11-16T17:04:17Z",
    "tries": 2
   }
  ]

@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-18T09:28:58Z",
- "lastCheckBr": "18/11/2026 06:28",
- "added": 32,
+ "lastCheckAt": "2026-11-18T10:29:43Z",
+ "lastCheckBr": "18/11/2026 07:29",
+ "added": 33,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -43,7 +43,7 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 96,
-   "new": 28
+   "new": 29
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -53,6 +53,19 @@
   }
  ],
  "items": [
+  {
+   "id": "20bdc07a9750",
+   "date": "2026-11-18",
+   "title": "Reforma tributária e concessões rodoviárias: uma metodologia inédita para recompor os impactos do IBS e da CBS",
+   "resumo": "Entre 2027 e 2033, as concessões rodoviárias vão conviver com dois regimes tributários ao mesmo tempo. A neutralidade do IBS e da CBS é um princípio do novo sistema, mas, dentro de uma concessão, ela",
+   "link": "https://atricon.org.br/blog/reforma-tributaria-e-concessoes-rodoviarias-uma-metodologia-inedita-para-recompor-os-impactos-do-ibs-e-da-cbs/",
+   "source": "Atricon",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-18T10:29:43Z",
+   "tries": 1
+  },
   {
    "id": "7a386cf6feb4",
    "date": "2026-11-18",
@@ -1968,19 +1981,6 @@
    "tag": "Atualização",
    "addedAt": "2026-11-15T16:06:29Z",
    "tries": 1
-  },
-  {
-   "id": "f4992c78e556",
-   "date": "2026-11-14",
-   "title": "Reforma Tributária: CACB e entidades pedem mais tempo para adequação às novas regras",
-   "resumo": "",
-   "link": "https://www.capitalnews.com.br/nacional/reforma-tributaria-cacb-e-entidades-pedem-mais-tempo-para-adequacao-as-novas-regras/450042",
-   "source": "Capital News",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-16T21:14:48Z",
-   "tries": 2
   }
  ]
 }

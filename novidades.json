@@ -1,20 +1,19 @@
 {
- "lastCheckAt": "2026-11-18T19:49:12Z",
- "lastCheckBr": "18/11/2026 16:49",
- "added": 27,
+ "lastCheckAt": "2026-11-18T20:44:29Z",
+ "lastCheckBr": "18/11/2026 17:44",
+ "added": 32,
  "feeds": [
   {
    "name": "Agência Senado",
    "ok": true,
-   "found": 0,
-   "new": 0
+   "found": 1,
+   "new": 1
   },
   {
    "name": "Agência Câmara",
-   "ok": false,
+   "ok": true,
    "found": 0,
-   "new": 0,
-   "error": "URLError"
+   "new": 0
   },
   {
    "name": "Receita Federal",
@@ -26,7 +25,7 @@
    "name": "Agência Brasil",
    "ok": true,
    "found": 5,
-   "new": 0
+   "new": 1
   },
   {
    "name": "Portal Contábeis",
@@ -44,7 +43,7 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 97,
-   "new": 24
+   "new": 27
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -54,6 +53,56 @@
   }
  ],
  "items": [
+  {
+   "id": "af58ae7e4fe8",
+   "date": "2026-11-18",
+   "title": "CAE debate redução da sonegação como saída para baixar alíquota da futura CBS",
+   "resumo": "Até que ponto a reforma tributária sobre o consumo diminuirá a sonegação, melhorando a arrecadação? A Comissão de Assuntos Econômicos (CAE) debateu nesta quarta-feira (18) essa possibilidade, apontada como caminho para reduzir a alíquota de 11,3% proposta…",
+   "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/cae-debate-reducao-da-sonegacao-como-saida-para-baixar-aliquota-da-futura-cbs",
+   "source": "Senado Federal",
+   "official": true,
+   "category": "pag",
+   "tag": "Split payment",
+   "addedAt": "2026-11-18T20:44:29Z"
+  },
+  {
+   "id": "a79145d0b57c",
+   "date": "2026-11-18",
+   "title": "Senado pede explicações a TCU sobre alíquota de 11,3% da CBS",
+   "resumo": "Após dois dias de audiência pública, a Comissão de Assuntos Econômicos (CAE) do Senado aprovou nesta quarta-feira (18) um requerimento para pedir explicações ao Tribunal de Contas da União (TCU) sobre a alíquota de referência de 11,3% da Contribuição sobre…",
+   "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/senado-pede-explicacoes-tcu-sobre-aliquota-de-113-da-cbs",
+   "source": "Agência Brasil",
+   "official": true,
+   "category": "nt",
+   "tag": "Nota técnica",
+   "addedAt": "2026-11-18T20:44:29Z"
+  },
+  {
+   "id": "389800182b73",
+   "date": "2026-11-18",
+   "title": "Reforma tributária: Decisão da Justiça afasta IBS e CBS da base do ISS",
+   "resumo": "Por Luciana Portinari. Liminar permite afastar novos tributos do cálculo do ISS em 2027 e reforça a necessidade de planejamento tributário preventivo.",
+   "link": "https://www.migalhas.com.br/depeso/468871/reforma-tributaria-decisao-da-justica-afasta-ibs-e-cbs-da-base-do-iss",
+   "source": "Migalhas",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-18T20:44:29Z",
+   "tries": 1
+  },
+  {
+   "id": "8d05670a1f2f",
+   "date": "2026-11-18",
+   "title": "Deputado Domingos Sávio defende prudência na implementação da reforma tributária",
+   "resumo": "Presidente da Frente Parlamentar do Comércio e Serviços (FCS) apontou pendências na regulamentação da reforma, dúvidas sobre alíquotas e riscos de aumento de custos",
+   "link": "https://agenciadcnews.com.br/publicacao/s/deputado-domingos-savio-defende-prudencia-na-implementacao-da-reforma-tributaria",
+   "source": "DComercio",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-18T20:44:29Z",
+   "tries": 1
+  },
   {
    "id": "da73d51d084f",
    "date": "2026-11-18",
@@ -78,7 +127,7 @@
    "category": "pag",
    "tag": "Split payment",
    "addedAt": "2026-11-18T19:49:12Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "f2b016b79881",
@@ -1589,6 +1638,45 @@
    "tries": 1
   },
   {
+   "id": "69e8f45e7223",
+   "date": "2026-11-16",
+   "title": "Receita Federal publica primeiro código-fonte aberto no GitHub e amplia transparência da Reforma Tributária",
+   "resumo": "Iniciativa fortalece a transparência, a segurança jurídica e a previsibilidade na implementação dos novos tributos sobre o consumo.",
+   "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
+   "source": "GOV.BR",
+   "official": false,
+   "category": "lei",
+   "tag": "Legislação",
+   "addedAt": "2026-11-18T20:44:29Z",
+   "tries": 1
+  },
+  {
+   "id": "4d7edc57b427",
+   "date": "2026-11-16",
+   "title": "Reforma tributária: Créditos sobre despesas de viagens e equipamentos de empregados",
+   "resumo": "Por Aurélio Longo Guerzoni. A reforma tributária permitirá créditos de IBS e CBS sobre determinadas despesas com viagens, transporte e equipamentos de empregados, mas manterá restrições para ...",
+   "link": "https://www.migalhas.com.br/depeso/466558/reforma-tributaria-creditos-sobre-despesas-de-viagens-e-equipamentos",
+   "source": "Migalhas",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-18T20:44:29Z",
+   "tries": 1
+  },
+  {
+   "id": "9f6266633eda",
+   "date": "2026-11-16",
+   "title": "Cashback da Reforma Tributária começa em 2027; veja regras",
+   "resumo": "Benefício prevê descontos em contas de consumo e devolução de impostos para famílias inscritas no CadÚnico.",
+   "link": "https://www.contabeis.com.br/noticias/80900/cashback-da-reforma-tributaria-comeca-em-2027-veja-regras/",
+   "source": "Portal Contabeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-18T20:44:29Z",
+   "tries": 1
+  },
+  {
    "id": "92470332de2c",
    "date": "2026-11-16",
    "title": "Minuta propõe adiar cobrança da CBS para 2028",
@@ -1886,96 +1974,6 @@
    "tag": "Atualização",
    "addedAt": "2026-11-16T22:14:40Z",
    "tries": 2
-  },
-  {
-   "id": "2be2827e83fb",
-   "date": "2026-11-16",
-   "title": "Reforma Tributária: o imposto muda de destino e o Tocantins pode ganhar novos caminhos para crescer",
-   "resumo": "Por Júlio Edstron Secundino Santos. Ex-secretário da Fazenda do Tocantins e Doutor em Direito pelo UniCEUB. Pesquisador do Centro Universitário de Brasília.",
-   "link": "https://www.luizarmandocosta.com.br/noticia/reforma-tributaria-o-imposto-muda-de-destino-e-o-tocantins-pode-ganhar-novos-caminhos-para-crescer/56043",
-   "source": "Luiz Armando Costa",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-16T22:14:40Z",
-   "tries": 1
-  },
-  {
-   "id": "c76d5f36390e",
-   "date": "2026-11-16",
-   "title": "Justiça mantém IBS e CBS na base do ICMS em maioria das ações",
-   "resumo": "Levantamento aponta que 70% das decisões sobre a inclusão dos novos tributos na base do ICMS favoreceram os estados; disputa envolve a transição da reforma. Leia mais em…",
-   "link": "https://www.contabeis.com.br/noticias/80910/justica-mantem-ibs-e-cbs-na-base-do-icms-em-maioria-das-acoes/",
-   "source": "Portal Contábeis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-16T21:14:48Z"
-  },
-  {
-   "id": "7a41a7159c08",
-   "date": "2026-11-16",
-   "title": "Reforma tributária trava compra de R$ 60 milhões em Uberaba",
-   "resumo": "Uberaba estima perda anual de R$ 157 milhões no ICMS e trava compra de R$ 60 milhões em tecnologia por indefinição sobre a alíquota da CBS.",
-   "link": "https://www.ocafezinho.com/2026-11-16/reforma-tributaria-trava-compra-de-r-60-milhoes-em-uberaba/",
-   "source": "O Cafezinho",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-16T21:14:48Z",
-   "tries": 1
-  },
-  {
-   "id": "a987fd1e8eed",
-   "date": "2026-11-16",
-   "title": "CBS: na dúvida, não ultrapasse",
-   "resumo": "Conforme as premissas, a mesma regra de neutralidade produz uma alíquota de referência da CBS entre 9,7% e 11,3%",
-   "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/cbs-na-duvida-nao-ultrapasse",
-   "source": "JOTA Info",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-16T20:17:49Z",
-   "tries": 1
-  },
-  {
-   "id": "7bc566be225a",
-   "date": "2026-11-16",
-   "title": "Reforma Tributária/RJ: Governo do Estado envia à Alerj projeto de lei que cria programa de negociação de créditos tributários com foco no crescimento da receita de ICMS em 2026 e nos próximos anos",
-   "resumo": "Agilize decisões seguras. Legislação, Comentários e Consultoria nas áreas de IR e Contribuições, ICMS, IPI, ISS, Contabilidade e Societário, Simples Nacional, Trabalhista e Previdenciária. Cálculos e Tabelas de Substituição Tributária. Agenda Tributária…",
-   "link": "https://www.legisweb.com.br/noticia/?id",
-   "source": "LegisWeb",
-   "official": false,
-   "category": "lei",
-   "tag": "Legislação",
-   "addedAt": "2026-11-16T20:17:49Z",
-   "tries": 2
-  },
-  {
-   "id": "b221ccdd1050",
-   "date": "2026-11-16",
-   "title": "'Cashback' da reforma tributária: cerca de 70 milhões de pessoas começam a receber o benefício em janeiro; veja o que é preciso fazer",
-   "resumo": "",
-   "link": "https://www.contadores.cnt.br/noticias/tecnicas/2026/11/16/cashback-da-reforma-tributaria-cerca-de-70-milhoes-de-pessoas-comecam-a-receber-o-beneficio-em-janeiro-veja-o-que-e-preciso-fazer.html",
-   "source": "Contadores.cnt.br",
-   "official": false,
-   "category": "cont",
-   "tag": "Contabilidade",
-   "addedAt": "2026-11-16T19:26:37Z",
-   "tries": 2
-  },
-  {
-   "id": "e53088fcb9d1",
-   "date": "2026-11-16",
-   "title": "Sistema FIERGS defende PEC da deputada Any Ortiz para prorrogar início da vigência da CBS na reforma tributária",
-   "resumo": "Durante reunião na sede da Federação, lideranças industriais ressaltaram necessidade da medida em razão de dificuldades na adoção do novo sistema",
-   "link": "https://www.jornalbomdia.com.br/noticia/93303/sistema-fiergs-defende-pec-da-deputada-any-ortiz-para-prorrogar-inicio-da-vigencia-da-cbs-na-reforma-tributaria",
-   "source": "Jornal Bom Dia",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-16T19:26:37Z",
-   "tries": 1
   }
  ]
 }

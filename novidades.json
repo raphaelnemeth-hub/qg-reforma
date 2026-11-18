@@ -1,13 +1,13 @@
 {
- "lastCheckAt": "2026-11-18T11:27:01Z",
- "lastCheckBr": "18/11/2026 08:27",
- "added": 33,
+ "lastCheckAt": "2026-11-18T12:22:18Z",
+ "lastCheckBr": "18/11/2026 09:22",
+ "added": 36,
  "feeds": [
   {
    "name": "Agência Senado",
    "ok": true,
-   "found": 0,
-   "new": 0
+   "found": 1,
+   "new": 1
   },
   {
    "name": "Agência Câmara",
@@ -30,8 +30,8 @@
   {
    "name": "Portal Contábeis",
    "ok": true,
-   "found": 10,
-   "new": 0
+   "found": 11,
+   "new": 2
   },
   {
    "name": "InfoMoney",
@@ -42,7 +42,7 @@
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 97,
+   "found": 96,
    "new": 29
   },
   {
@@ -53,6 +53,42 @@
   }
  ],
  "items": [
+  {
+   "id": "355d59f1233b",
+   "date": "2026-11-18",
+   "title": "Áudio: Governo e senadores defendem início da CBS em janeiro, sem adiamento",
+   "resumo": "A Comissão de Assuntos Econômicos (CAE) debateu na terça-feira (17) a alíquota de referência da Contribuição sobre Bens e Serviços (CBS), que substituirá o Programa de Integração Social (PIS) e a Contribuição para o Financiamento da Seguridade Social (Cofins)…",
+   "link": "https://www12.senado.leg.br/noticias/audios/2026/11/governo-e-senadores-defendem-inicio-da-cbs-em-janeiro-sem-adiamento",
+   "source": "Senado Federal",
+   "official": true,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-18T12:22:18Z"
+  },
+  {
+   "id": "40eab962c85a",
+   "date": "2026-11-18",
+   "title": "Receita publica documentação da API de Apuração Assistida da CBS",
+   "resumo": "Documentação da API da CBS já está disponível e permite que empresas e contadores conheçam os requisitos técnicos para futuras integrações. Leia mais em…",
+   "link": "https://www.contabeis.com.br/noticias/80961/receita-publica-documentacao-da-api-de-apuracao-assistida-da-cbs/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "cont",
+   "tag": "Contabilidade",
+   "addedAt": "2026-11-18T12:22:18Z"
+  },
+  {
+   "id": "56eb148aa45b",
+   "date": "2026-11-18",
+   "title": "Adiamento da CBS: esperar uma decisão não é motivo para deixar a preparação para depois",
+   "resumo": "Entidades pedem que a cobrança efetiva da CBS seja transferida para 2028, mas o calendário continua prevendo janeiro de 2027. Revisar cadastros, testar sistemas e calcular os efeitos sobre preços e tributos são providências que as empresas já precisa Leia…",
+   "link": "https://www.contabeis.com.br/noticias/80870/adiamento-da-cbs-esperar-uma-decisao-nao-e-motivo-para-deixar-a-preparacao-para-depois/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-18T12:22:18Z"
+  },
   {
    "id": "20bdc07a9750",
    "date": "2026-11-18",
@@ -83,14 +119,14 @@
    "id": "378e874bc182",
    "date": "2026-11-17",
    "title": "OAB-SP lança simulador gratuito para calcular imposto da reforma tributária",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUXJNY1haaF9SeGV5eUhZMHZVY2ZESmg4Q19NaWJFT0dxemZZX1B3alB4UmhnV1BCWnFONkx3TWc0TXFZb25oME96TDNKYXBvRGpnVXNrRmlIdllDX2ZDMy11d3E3V3hLQzlhU0pXYWstSVFTSDdWa1JYVGJIQnEyVWJyUDh6RGVuMzd0MlJ0QzVuTFRaai1nN0o0N1V5bDB6SWlCRFZpYk53MzJLR0lj?oc=5",
+   "resumo": "OAB-SP lança plataforma digital gratuita para ajudar sociedades de advocacia a compreender como a reforma tributária afeta suas contas.",
+   "link": "https://conjur.com.br/2026-nov-17/oab-sp-lanca-simulador-gratuito-para-calcular-imposto-da-reforma-tributaria/",
    "source": "Consultor Jurídico",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-18T11:27:01Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "57ea675b30c8",
@@ -1941,45 +1977,6 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-16T13:06:51Z",
-   "tries": 1
-  },
-  {
-   "id": "a101c759ff07",
-   "date": "2026-11-15",
-   "title": "CBS: os desafios da governança são maiores do que os da alíquota",
-   "resumo": "Integração entre Receita Federal, Estados e municípios será essencial para a administração dos novos tributos. Leia o artigo no Poder360.",
-   "link": "https://www.poder360.com.br/opiniao/cbs-os-desafios-da-governanca-sao-maiores-do-que-os-da-aliquota/",
-   "source": "Poder360",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-16T13:06:51Z",
-   "tries": 1
-  },
-  {
-   "id": "6410aba0e770",
-   "date": "2026-11-15",
-   "title": "Apuração assistida da CBS: simplificação ou risco ao contribuinte?",
-   "resumo": "Receita disponibilizou das versões 2.0 das interfaces de programação de aplicações para consulta de débitos e créditos da CBS",
-   "link": "https://conjur.com.br/2026-nov-15/apuracao-assistida-da-cbs/",
-   "source": "Consultor Jurídico",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-16T02:45:31Z",
-   "tries": 1
-  },
-  {
-   "id": "dd734cb3e93c",
-   "date": "2026-11-15",
-   "title": "Empresas perdem primeira rodada na Justiça contra imposto sobre imposto na reforma tributária",
-   "resumo": "Maioria das ações sobre cálculo do ICMS está em São Paulo, em disputa de cerca de R$ 10 bi por ano",
-   "link": "https://www1.folha.uol.com.br/mercado/2026/11/empresas-perdem-primeira-rodada-na-justica-contra-imposto-sobre-imposto-na-reforma-tributaria.shtml",
-   "source": "Folha de S.Paulo",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-15T17:59:02Z",
    "tries": 1
   }
  ]

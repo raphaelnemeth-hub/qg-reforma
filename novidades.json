@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-18T03:18:15Z",
- "lastCheckBr": "18/11/2026 00:18",
- "added": 30,
+ "lastCheckAt": "2026-11-18T04:26:08Z",
+ "lastCheckBr": "18/11/2026 01:26",
+ "added": 32,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -43,7 +43,7 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 96,
-   "new": 26
+   "new": 28
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -53,6 +53,19 @@
   }
  ],
  "items": [
+  {
+   "id": "5615d0109649",
+   "date": "2026-11-17",
+   "title": "Virando a Chave na Reforma Tributária: API do RAD - documentação técnica já está disponível — Receita Federal",
+   "resumo": "Na prática, a solução viabiliza a automação dos processos relacionados ao RAD, reduzindo etapas operacionais e ampliando a eficiência na apropriação de créditos tributários.",
+   "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/virando-a-chave-para-a-reforma-tributaria-api-para-emissao-do-rad-ja-esta-disponivel",
+   "source": "Governo Federal",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-18T04:26:08Z",
+   "tries": 1
+  },
   {
    "id": "c77f79cb98d3",
    "date": "2026-11-17",
@@ -1955,29 +1968,16 @@
    "addedAt": "2026-11-14T12:06:03Z"
   },
   {
-   "id": "0d0df8fb8480",
+   "id": "1bb001f29926",
    "date": "2026-11-13",
-   "title": "Reforma Tributária: Receita e Comitê Gestor publicam novo cronograma de emissão de documentos fiscais do IBS e da CBS",
-   "resumo": "O ato já está em vigor. As obrigações começam em dezembro de 2026 e vão até março de 2027, de acordo com a atividade de cada empresa",
-   "link": "https://www.martinelli.adv.br/reforma-tributaria-receita-e-comite-gestor-publicam-novo-cronograma-de-emissao-de-documentos-fiscais-do-ibs-e-da-cbs/",
-   "source": "Martinelli Advogados",
-   "official": false,
-   "category": "lei",
-   "tag": "Legislação",
-   "addedAt": "2026-11-18T03:18:15Z",
-   "tries": 1
-  },
-  {
-   "id": "aa44f6e52e90",
-   "date": "2026-11-13",
-   "title": "Reforma: quando deve ser recolhido CBS sobre combustíveis?",
-   "resumo": "A CBS sobre combustíveis monofásicos começa a ser cobrada em 8/1/2027, com alíquotas por litro. Veja o novo leiaute da nota e os prazos.",
-   "link": "https://noticias.iob.com.br/reforma-cbs-sobre-combustiveis/",
-   "source": "IOB Notícias",
+   "title": "Reforma Tributária: Receita Federal e CGIBS adiam para 2027 a obrigatoriedade de emissão de documentos fiscais com IBS e CBS",
+   "resumo": "Agilize decisões seguras. Legislação, Comentários e Consultoria nas áreas de IR e Contribuições, ICMS, IPI, ISS, Contabilidade e Societário, Simples Nacional, Trabalhista e Previdenciária. Cálculos e Tabelas de Substituição Tributária. Agenda Tributária…",
+   "link": "https://www.legisweb.com.br/noticia/?id",
+   "source": "LegisWeb",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-18T03:18:15Z",
+   "addedAt": "2026-11-18T04:26:08Z",
    "tries": 1
   }
  ]

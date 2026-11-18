@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-18T17:48:36Z",
- "lastCheckBr": "18/11/2026 14:48",
- "added": 33,
+ "lastCheckAt": "2026-11-18T18:42:13Z",
+ "lastCheckBr": "18/11/2026 15:42",
+ "added": 30,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -30,8 +30,8 @@
   {
    "name": "Portal Contábeis",
    "ok": true,
-   "found": 14,
-   "new": 2
+   "found": 12,
+   "new": 0
   },
   {
    "name": "InfoMoney",
@@ -43,7 +43,7 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 97,
-   "new": 28
+   "new": 27
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -53,6 +53,45 @@
   }
  ],
  "items": [
+  {
+   "id": "f2b016b79881",
+   "date": "2026-11-18",
+   "title": "Contratos e reforma tributária: O que revisar com a CBS em 2027",
+   "resumo": "Por Carolina Fernandes. CBS substitui PIS/Cofins em 2027, com transição até 2033. Contratos novos ou renovados devem prever repasse de custos, créditos, split payment e local da operação.",
+   "link": "https://www.migalhas.com.br/depeso/468529/contratos-e-reforma-tributaria-o-que-revisar-com-a-cbs-em-2027",
+   "source": "Migalhas",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-18T18:42:13Z",
+   "tries": 1
+  },
+  {
+   "id": "0e1b3ca24b3f",
+   "date": "2026-11-18",
+   "title": "OAB vê \"caixa preta\" na CBS e pede adiamento da reforma tributária",
+   "resumo": "Em audiência na CAE, representante da entidade criticou os cálculos da CBS de 11,3% e apontou cenário de insegurança jurídica.",
+   "link": "https://www.congressoemfoco.com.br/noticia/131701/oab-ve-caixa-preta-na-cbs-e-pede-adiamento-da-reforma-tributaria",
+   "source": "Congresso em Foco",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-18T18:42:13Z",
+   "tries": 1
+  },
+  {
+   "id": "498a4095959e",
+   "date": "2026-11-18",
+   "title": "11,3% de CBS: o que muda e o que exige urgência do empresariado",
+   "resumo": "",
+   "link": "https://www.contadores.cnt.br/noticias/tecnicas/2026/11/18/11-3-de-cbs-o-que-muda-e-o-que-exige-urgencia-do-empresariado.html",
+   "source": "Contadores.cnt.br",
+   "official": false,
+   "category": "cont",
+   "tag": "Contabilidade",
+   "addedAt": "2026-11-18T18:42:13Z",
+   "tries": 1
+  },
   {
    "id": "7171703c7e43",
    "date": "2026-11-18",
@@ -101,7 +140,7 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-18T17:48:36Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "ee0f0c973492",
@@ -1523,6 +1562,19 @@
    "tries": 1
   },
   {
+   "id": "f3595ef7e511",
+   "date": "2026-11-16",
+   "title": "CBS: Durigan vai ao Senado sob pressão por alíquota e novas regras",
+   "resumo": "Audiência nesta terça-feira (17) discutirá percentual de 11,3% calculado pelo TCU; indústria questiona o valor e, assim como a OAB, pede adiamento da implementação do tributo.",
+   "link": "https://www.congressoemfoco.com.br/noticia/131610/cbs-durigan-vai-ao-senado-sob-pressao-por-aliquota-e-novas-regras",
+   "source": "Congresso em Foco",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-18T18:42:13Z",
+   "tries": 1
+  },
+  {
    "id": "2041b91508e1",
    "date": "2026-11-16",
    "title": "'NÃO VOU PASSAR RAIVA SOZINHA' 🗣️Qual será o impacto da CBS no bolso do consumidor a partir de janeiro? No programa desta semana, a Duquesa de Tax explica como a reforma tributária pode afetar os preços e o que esperar d",
@@ -1922,57 +1974,6 @@
    "tag": "Atualização",
    "addedAt": "2026-11-16T18:19:04Z",
    "tries": 1
-  },
-  {
-   "id": "c99adcdce560",
-   "date": "2026-11-16",
-   "title": "Fisco oficializa novos prazos para exigência de documentos fiscais com CBS",
-   "resumo": "",
-   "link": "https://www.contadores.cnt.br/noticias/tecnicas/2026/11/16/fisco-oficializa-novos-prazos-para-exigencia-de-documentos-fiscais-com-cbs.html",
-   "source": "Contadores.cnt.br",
-   "official": false,
-   "category": "cont",
-   "tag": "Contabilidade",
-   "addedAt": "2026-11-16T18:19:04Z",
-   "tries": 2
-  },
-  {
-   "id": "98a89d0d4b84",
-   "date": "2026-11-16",
-   "title": "Interesse por ‘Imposto do Pecado’ dispara mais de 7.400% com Reforma Tributária",
-   "resumo": "",
-   "link": "https://www.brasil247.com/economia/interesse-por-imposto-do-pecado-dispara-mais-de-7-400-com-reforma-tributaria/",
-   "source": "Brasil 247",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-16T18:19:04Z",
-   "tries": 2
-  },
-  {
-   "id": "d5b71229c668",
-   "date": "2026-11-16",
-   "title": "Tarcísio defende que Senado reduza alíquota da CBS e diz que projeto de ajuste de Lula pune estados",
-   "resumo": "",
-   "link": "https://exame.com/brasil/tarcisio-defende-que-senado-reduza-aliquota-da-cbs-e-diz-que-projeto-de-ajuste-de-lula-pune-estados/",
-   "source": "Exame",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-16T18:19:04Z",
-   "tries": 2
-  },
-  {
-   "id": "a94703eb6365",
-   "date": "2026-11-16",
-   "title": "Minuta propõe adiar cobrança da CBS para 2028",
-   "resumo": "Proposta também mantém testes em 2027 e prevê mudanças no cálculo da alíquota e na distribuição do FNDR. Leia mais em https://www.contabeis.com.br/noticias/80896/minuta-propoe-adiar-cobranca-da-cbs-para-2028/",
-   "link": "https://www.contabeis.com.br/noticias/80896/minuta-propoe-adiar-cobranca-da-cbs-para-2028/",
-   "source": "Portal Contábeis",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-16T17:04:17Z"
   }
  ]
 }

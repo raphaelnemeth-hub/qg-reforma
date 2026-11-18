@@ -1,13 +1,13 @@
 {
- "lastCheckAt": "2026-11-18T22:42:38Z",
- "lastCheckBr": "18/11/2026 19:42",
- "added": 26,
+ "lastCheckAt": "2026-11-18T23:40:49Z",
+ "lastCheckBr": "18/11/2026 20:40",
+ "added": 25,
  "feeds": [
   {
    "name": "Agência Senado",
    "ok": true,
    "found": 2,
-   "new": 1
+   "new": 0
   },
   {
    "name": "Agência Câmara",
@@ -31,7 +31,7 @@
    "name": "Portal Contábeis",
    "ok": true,
    "found": 12,
-   "new": 2
+   "new": 0
   },
   {
    "name": "InfoMoney",
@@ -42,17 +42,43 @@
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 96,
-   "new": 20
+   "found": 97,
+   "new": 21
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
    "ok": true,
-   "found": 3,
-   "new": 3
+   "found": 4,
+   "new": 4
   }
  ],
  "items": [
+  {
+   "id": "2e3bc4d1c35b",
+   "date": "2026-11-18",
+   "title": "Os custos da mão de obra na reforma tributária",
+   "resumo": "Reforma traz desafios para o setor de serviços e para empresas cuja estrutura de custos está concentrada na contratação de mão de obra",
+   "link": "https://conjur.com.br/2026-nov-18/os-custos-da-mao-de-obra-na-reforma-tributaria/",
+   "source": "Consultor Jurídico",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-18T23:40:49Z",
+   "tries": 1
+  },
+  {
+   "id": "bcbaf364c213",
+   "date": "2026-11-18",
+   "title": "RFB e CGIBS alinham próximos passos da implementação da Reforma Tributária e reforçam compromisso com a conformidade fiscal",
+   "resumo": "Encontro reuniu lideranças das duas instituições e teve como foco o aperfeiçoamento da governança da atuação integrada entre a RFB e o CGIBS, buscando assegurar maior coordenação, alinhamento institucional e eficiência na construção dos processos",
+   "link": "https://www.cgibs.gov.br/rfb-e-cgibs-alinham-proximos-passos-da-implementacao-da-reforma-tributaria-e-reforcam-compromisso-com-a-conformidade-fiscal",
+   "source": "Comitê Gestor do IBS",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-18T23:40:49Z",
+   "tries": 1
+  },
   {
    "id": "ac490d313c53",
    "date": "2026-11-18",
@@ -1713,6 +1739,19 @@
    "tries": 1
   },
   {
+   "id": "bf377f1c8a15",
+   "date": "2026-11-16",
+   "title": "Ato Conjunto RFB/CGIBS nº 7/2026 atualiza o cronograma de obrigatoriedade de emissão da NFS-e para IBS e CBS",
+   "resumo": "O Comitê Gestor da Nota Fiscal de Serviço Eletrônica de padrão nacional (CGNFS-e) comunica aos municípios, contribuintes prestadores de serviços e desenvolvedores de sistemas que foi publicado, na edição de...",
+   "link": "https://fenacon.org.br/reforma-tributaria/ato-conjunto-rfb-cgibs-no-7-2026-atualiza-o-cronograma-de-obrigatoriedade-de-emissao-da-nfs-e-para-ibs-e-cbs/",
+   "source": "Sistema FENACON",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-18T23:40:49Z",
+   "tries": 1
+  },
+  {
    "id": "0bfa4d5ac560",
    "date": "2026-11-16",
    "title": "Reforma Tributária: como negociar preços em 2027",
@@ -1932,45 +1971,6 @@
    "tag": "Atualização",
    "addedAt": "2026-11-17T19:30:12Z",
    "tries": 1
-  },
-  {
-   "id": "86093d369ff9",
-   "date": "2026-11-16",
-   "title": "PGDAS-D é atualizado para atender à Reforma Tributária a partir de novembro de 2026",
-   "resumo": "",
-   "link": "https://www.contadores.cnt.br/noticias/tecnicas/2026/11/16/pgdas-d-e-atualizado-para-atender-a-reforma-tributaria-a-partir-de-novembro-de-2026.html",
-   "source": "Contadores.cnt.br",
-   "official": false,
-   "category": "cont",
-   "tag": "Contabilidade",
-   "addedAt": "2026-11-17T19:30:12Z",
-   "tries": 2
-  },
-  {
-   "id": "78ec60664534",
-   "date": "2026-11-16",
-   "title": "Governo prepara mudança na reforma tributária para facilitar pagamento de impostos pelas empresas",
-   "resumo": "Governo prepara nova regra para a reforma tributária em 2027. Empresas poderão calcular a CBS por estimativa e ajustar diferenças depois.",
-   "link": "https://clickpetroleoegas.com.br/reforma-tributaria-2027-regra-cbs-empresas-rss94/",
-   "source": "CPG Click Petróleo e Gás",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-17T14:05:17Z",
-   "tries": 1
-  },
-  {
-   "id": "b53ca59fd4dc",
-   "date": "2026-11-16",
-   "title": "Farmácias revisam notas e cadastros para a Reforma Tributária; 81% dos emissores de notas ao consumidor já informam a CBS",
-   "resumo": "",
-   "link": "https://www.onortao.com.br/2026/11/farmacias-revisam-notas-e-cadastros.html",
-   "source": "O NORTÃO",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-17T12:48:28Z",
-   "tries": 2
   }
  ]
 }

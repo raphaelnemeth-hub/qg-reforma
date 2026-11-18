@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-18T04:26:08Z",
- "lastCheckBr": "18/11/2026 01:26",
- "added": 32,
+ "lastCheckAt": "2026-11-18T05:29:12Z",
+ "lastCheckBr": "18/11/2026 02:29",
+ "added": 35,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -43,7 +43,7 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 96,
-   "new": 28
+   "new": 31
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -53,6 +53,45 @@
   }
  ],
  "items": [
+  {
+   "id": "7a386cf6feb4",
+   "date": "2026-11-18",
+   "title": "Durigan defende início da Reforma Tributária em 2027 e prevê alíquota média de 8,5% para a CBS",
+   "resumo": "Em audiência no Senado, ministro da Fazenda afirmou que a transição não será adiada, reconheceu possível impacto inicial na inflação e defendeu a redução dos encargos sobre a folha de...",
+   "link": "https://fenacon.org.br/noticias/durigan-defende-inicio-da-reforma-tributaria-em-2027-e-preve-aliquota-media-de-85-para-a-cbs/",
+   "source": "Sistema FENACON",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-18T05:29:12Z",
+   "tries": 1
+  },
+  {
+   "id": "1d51f6f7a8f2",
+   "date": "2026-11-17",
+   "title": "Ministro da Fazenda defende revisão de isenções e regimes especiais para reduzir alíquota da CBS em 2028",
+   "resumo": "",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUWRYNzFrRmhESGlsZkhCeDVnU3F0R2l0ekgzM3JUUTUzempNRkhCb3VUYV9UcUlGSVZ5TUg1RDdkWU9ab2xzYmxaQWpELVhJaS1HTktCcTZwUWtpendLTGZLYU9RVU1GMGp3QUF4WWdzSE5XR0d0TWg5WjRHSHQtNWdPd2lkYU00aG5McjBlNE5Sb3dHNTk0NGxKYk9IdEVGN1pTTHZNYU9yYUVCRmhVYmNLS3Y3MFpVVlpEb0RCT0s4b2xmRnNMaEdhNVpyNlpBNjZWbGZEbjJzVkJ2ZjBHVDdjTnlTRVVRZjZSenBDdHhmZk5aM1HSAYQCQVVfeXFMTjUxdXhPZmlRSnZrYlZ4WUxaeVV6Y0V6X0MzNTM3ZlpORnZHcXhhcTJ4aUQ0UDA5ZFRZUElhMVFQYnRDdGxSekFPd0JnYzZ2Q051bGdybUhKUVNCOG8xSnlhLUhPYnBoeEpUV25Kd0NJYTBqWWNhTDVzMEI5TEdSYThLWkNYR0pmX05FSlJONklRam5BWjhCQ083OU5zSEJWaF9hVGpPaXNrdVNQS19vVXQ4RTV2WlZWSF9JaDByT3VjTGt1Y2pOWnRjMm0tbXEyWGdreGRqY21odE5KUEQ1a3lYX0s0VFhxWW5peFJseUgtOUcyaWs2NTRNamg4S2FDSWVscGs?oc=5",
+   "source": "O GLOBO",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-18T05:29:12Z",
+   "tries": 1
+  },
+  {
+   "id": "51b539ac1605",
+   "date": "2026-11-17",
+   "title": "Receita Federal responde ao Diário PcD sobre Reforma Tributária, e não garante continuidade das isenções PcD para compra de veículos em 2027",
+   "resumo": "",
+   "link": "https://diariopcd.com.br/receita-federal-responde-ao-diario-pcd-sobre-reforma-tributaria-e-nao-garante-continuidade-das-isencoes-pcd-para-compra-de-veiculos-em-2027/",
+   "source": "Diário PcD",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-18T05:29:12Z",
+   "tries": 1
+  },
   {
    "id": "5615d0109649",
    "date": "2026-11-17",
@@ -1942,43 +1981,6 @@
    "tag": "Atualização",
    "addedAt": "2026-11-16T19:26:37Z",
    "tries": 2
-  },
-  {
-   "id": "45de26d6a155",
-   "date": "2026-11-14",
-   "title": "Crédito de ICMS do imobilizado: prazo de homologação",
-   "resumo": "Veja quando pedir a homologação do crédito de ICMS de máquinas e equipamentos e como o saldo poderá ser compensado com o IBS . Leia mais em https://www.contabeis.com.br/noticias/80841/credito-de-icms-do-imobilizado-prazo-de-homologacao/",
-   "link": "https://www.contabeis.com.br/noticias/80841/credito-de-icms-do-imobilizado-prazo-de-homologacao/",
-   "source": "Portal Contábeis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-14T15:06:42Z"
-  },
-  {
-   "id": "0a58a560bad4",
-   "date": "2026-11-14",
-   "title": "NFS-e: adesão municipal e preenchimento de IBS e CBS",
-   "resumo": "Entenda por que a adesão do município à NFS-e Nacional não define o emissor nem a obrigação de preencher os campos de IBS e CBS . Leia mais em https://www.contabeis.com.br/noticias/80823/nfs-e-adesao-municipal-e-preenchimento-de-ibs-e-cbs/",
-   "link": "https://www.contabeis.com.br/noticias/80823/nfs-e-adesao-municipal-e-preenchimento-de-ibs-e-cbs/",
-   "source": "Portal Contábeis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-14T12:06:03Z"
-  },
-  {
-   "id": "1bb001f29926",
-   "date": "2026-11-13",
-   "title": "Reforma Tributária: Receita Federal e CGIBS adiam para 2027 a obrigatoriedade de emissão de documentos fiscais com IBS e CBS",
-   "resumo": "Agilize decisões seguras. Legislação, Comentários e Consultoria nas áreas de IR e Contribuições, ICMS, IPI, ISS, Contabilidade e Societário, Simples Nacional, Trabalhista e Previdenciária. Cálculos e Tabelas de Substituição Tributária. Agenda Tributária…",
-   "link": "https://www.legisweb.com.br/noticia/?id",
-   "source": "LegisWeb",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-18T04:26:08Z",
-   "tries": 1
   }
  ]
 }

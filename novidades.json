@@ -1,13 +1,13 @@
 {
- "lastCheckAt": "2026-11-18T21:42:59Z",
- "lastCheckBr": "18/11/2026 18:42",
- "added": 27,
+ "lastCheckAt": "2026-11-18T22:42:38Z",
+ "lastCheckBr": "18/11/2026 19:42",
+ "added": 26,
  "feeds": [
   {
    "name": "Agência Senado",
    "ok": true,
-   "found": 1,
-   "new": 0
+   "found": 2,
+   "new": 1
   },
   {
    "name": "Agência Câmara",
@@ -30,8 +30,8 @@
   {
    "name": "Portal Contábeis",
    "ok": true,
-   "found": 10,
-   "new": 0
+   "found": 12,
+   "new": 2
   },
   {
    "name": "InfoMoney",
@@ -43,16 +43,65 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 96,
-   "new": 24
+   "new": 20
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
    "ok": true,
-   "found": 4,
+   "found": 3,
    "new": 3
   }
  ],
  "items": [
+  {
+   "id": "ac490d313c53",
+   "date": "2026-11-18",
+   "title": "Áudio: Debate na CAE aponta formas de reduzir alíquota de novo tributo, a CBS",
+   "resumo": "A Comissão de Assuntos Econômicos (CAE) promoveu o segundo debate sobre o cálculo da alíquota da Contribuição sobre Bens e Serviços (CBS), que entrará em vigor em 2027. O principal ponto discutido foi a estimativa do Tribunal de Contas da União (TCU), que…",
+   "link": "https://www12.senado.leg.br/noticias/audios/2026/11/debate-na-cae-aponta-formas-de-reduzir-aliquota-de-novo-tributo-a-cbs",
+   "source": "Senado Federal",
+   "official": true,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-18T22:42:38Z"
+  },
+  {
+   "id": "1eb2a77db596",
+   "date": "2026-11-18",
+   "title": "CBS em 2027: empresas pedem mais prazo para adaptação",
+   "resumo": "A cobrança da CBS está prevista para janeiro de 2027, mas empresas e contadores apontam desafios para adaptar sistemas, processos e equipes. Leia mais em https://www.contabeis.com.br/noticias/80951/cbs-em-2027-empresas-pedem-mais-prazo-para-adaptacao/",
+   "link": "https://www.contabeis.com.br/noticias/80951/cbs-em-2027-empresas-pedem-mais-prazo-para-adaptacao/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "cont",
+   "tag": "Contabilidade",
+   "addedAt": "2026-11-18T22:42:38Z"
+  },
+  {
+   "id": "6aeaa264c699",
+   "date": "2026-11-18",
+   "title": "Congresso debate Reforma Tributária e defesa do contribuinte",
+   "resumo": "Congresso de Direito Tributário do Codecon/SP debate Reforma Tributária , segurança jurídica e a relação entre Fisco e contribuinte. Veja a programação. Leia mais em…",
+   "link": "https://www.contabeis.com.br/noticias/80990/congresso-debate-reforma-tributaria-e-defesa-do-contribuinte/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-18T22:42:38Z"
+  },
+  {
+   "id": "de0d35f91a0b",
+   "date": "2026-11-18",
+   "title": "Reforma tributária e os custos da mão de obra",
+   "resumo": "Reforma traz desafios para o setor de serviços e para empresas cuja estrutura de custos está concentrada na contratação de mão de obra",
+   "link": "https://conjur.com.br/2026-nov-18/os-custos-da-mao-de-obra-na-reforma-tributaria/",
+   "source": "Consultor Jurídico",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-18T22:42:38Z",
+   "tries": 1
+  },
   {
    "id": "a65d4bb13abf",
    "date": "2026-11-18",
@@ -1664,6 +1713,19 @@
    "tries": 1
   },
   {
+   "id": "0bfa4d5ac560",
+   "date": "2026-11-16",
+   "title": "Reforma Tributária: como negociar preços em 2027",
+   "resumo": "Entenda os impactos da Reforma Tributária nas empresas de serviços e como negociar preços e honorários com clientes para 2027.",
+   "link": "https://www.contabeis.com.br/artigos/80887/reforma-tributaria-como-negociar-precos-em-2027/",
+   "source": "Portal Contabeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-18T22:42:38Z",
+   "tries": 1
+  },
+  {
    "id": "a987fd1e8eed",
    "date": "2026-11-16",
    "title": "CBS: na dúvida, não ultrapasse",
@@ -1909,71 +1971,6 @@
    "tag": "Atualização",
    "addedAt": "2026-11-17T12:48:28Z",
    "tries": 2
-  },
-  {
-   "id": "e5cf7d51e1de",
-   "date": "2026-11-16",
-   "title": "Cashback da reforma tributária: veja quem terá direito ao benefício em 2027",
-   "resumo": "Cashback da reforma tributária começa em 2027. Veja quem tem direito à devolução de impostos, os critérios e quando será feito o pagamento.",
-   "link": "https://vtvnews.com.br/brasil-2/cashback-reforma-tributaria-quem-recebe-regras-2027-bb/",
-   "source": "vtvnews.com.br",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-17T12:48:28Z",
-   "tries": 1
-  },
-  {
-   "id": "bf377f1c8a15",
-   "date": "2026-11-16",
-   "title": "Ato Conjunto RFB/CGIBS nº 7/2026 atualiza o cronograma de obrigatoriedade de emissão da NFS-e para IBS e CBS",
-   "resumo": "O Comitê Gestor da Nota Fiscal de Serviço Eletrônica de padrão nacional (CGNFS-e) comunica aos municípios, contribuintes prestadores de serviços e desenvolvedores de sistemas que foi publicado, na edição de...",
-   "link": "https://fenacon.org.br/reforma-tributaria/ato-conjunto-rfb-cgibs-no-7-2026-atualiza-o-cronograma-de-obrigatoriedade-de-emissao-da-nfs-e-para-ibs-e-cbs/",
-   "source": "Sistema FENACON",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-17T11:40:47Z",
-   "tries": 1
-  },
-  {
-   "id": "834e1c9a556e",
-   "date": "2026-11-16",
-   "title": "Por que o Brasil deve adiar a Reforma Tributária (a cobrança da CBS)",
-   "resumo": "Advogado tributarista Ricardo Yoshino explica por que o Brasil deveria adiar a cobrança da CBS e ampliar os testes da Reforma Tributária em 2027.",
-   "link": "https://www.assiscity.com/reforma-tributaria-adiamento-cobranca-cbs-2027/",
-   "source": "Assiscity",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-17T11:40:47Z",
-   "tries": 1
-  },
-  {
-   "id": "953e06749298",
-   "date": "2026-11-16",
-   "title": "Imposto sobre imposto na Reforma Tributária gera disputa de R$ 10 bilhões na Justiça",
-   "resumo": "Entenda a disputa judicial sobre imposto sobre imposto na Reforma Tributária e veja como o cálculo de CBS, IBS e ICMS afeta sua empresa.",
-   "link": "https://www.omie.com.br/blog/imposto-sobre-imposto-reforma-tributaria-disputa-10-bilhoes/",
-   "source": "Omie",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-17T08:15:41Z",
-   "tries": 1
-  },
-  {
-   "id": "d767df39f055",
-   "date": "2026-11-16",
-   "title": "Reforma Tributária: alíquota de 11,3% da CBS gera alerta de pressão na inflação de 2027",
-   "resumo": "A alíquota de 11,3% da CBS gera alertas sobre a inflação em 2027. Entenda os impactos econômicos e saiba como a sua empresa contábil pode orientar a precificação dos clientes.",
-   "link": "https://www.omie.com.br/blog/reforma-tributaria-aliquota-cbs-pressao-inflacao-2027/",
-   "source": "Omie",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-17T05:50:05Z",
-   "tries": 1
   }
  ]
 }

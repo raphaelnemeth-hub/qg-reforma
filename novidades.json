@@ -1,12 +1,12 @@
 {
- "lastCheckAt": "2026-11-18T16:53:18Z",
- "lastCheckBr": "18/11/2026 13:53",
- "added": 32,
+ "lastCheckAt": "2026-11-18T17:48:36Z",
+ "lastCheckBr": "18/11/2026 14:48",
+ "added": 33,
  "feeds": [
   {
    "name": "Agência Senado",
    "ok": true,
-   "found": 1,
+   "found": 0,
    "new": 0
   },
   {
@@ -30,14 +30,14 @@
   {
    "name": "Portal Contábeis",
    "ok": true,
-   "found": 13,
-   "new": 0
+   "found": 14,
+   "new": 2
   },
   {
    "name": "InfoMoney",
    "ok": true,
-   "found": 1,
-   "new": 1
+   "found": 0,
+   "new": 0
   },
   {
    "name": "Imprensa (Google Notícias)",
@@ -53,6 +53,56 @@
   }
  ],
  "items": [
+  {
+   "id": "7171703c7e43",
+   "date": "2026-11-18",
+   "title": "Reforma Tributária: aeroportos avaliam revisão de concessões",
+   "resumo": "Mudanças no IBS e na CBS podem alterar custos e receitas de concessionárias. Empresas avaliam pedidos de reequilíbrio financeiro. Leia mais em https://www.contabeis.com.br/noticias/80977/reforma-tributaria-aeroportos-avaliam-revisao-de-concessoes/",
+   "link": "https://www.contabeis.com.br/noticias/80977/reforma-tributaria-aeroportos-avaliam-revisao-de-concessoes/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-18T17:48:36Z"
+  },
+  {
+   "id": "d66b92320a0e",
+   "date": "2026-11-18",
+   "title": "Receita libera apuração assistida da reforma tributária para empresas nesta semana",
+   "resumo": "Ferramenta ficará disponível para todas as empresas, segundo Robinson Barreirinhas, e apresentará tributos a pagar e créditos disponíveis. Leia mais em…",
+   "link": "https://www.contabeis.com.br/noticias/80966/receita-libera-apuracao-assistida-da-reforma-tributaria-para-empresas-nesta-semana/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-18T17:48:36Z"
+  },
+  {
+   "id": "31711a154fec",
+   "date": "2026-11-18",
+   "title": "Senado ouve especialistas sobre alíquota de 11,3% da CBS",
+   "resumo": "Especialistas e representantes da OAB e do Comitê Gestor do IBS discutem cálculo apresentado pelo TCU, após audiência com Durigan, Barreirinhas e Vital do Rêgo.",
+   "link": "https://www.congressoemfoco.com.br/noticia/131694/senado-ouve-especialistas-sobre-aliquota-de-11-3-da-cbs",
+   "source": "Congresso em Foco",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-18T17:48:36Z",
+   "tries": 1
+  },
+  {
+   "id": "ae7f8d1edee2",
+   "date": "2026-11-18",
+   "title": "Reforma tributária: PIS e Cofins dão lugar à CBS em janeiro de 2027",
+   "resumo": "",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZ0pFZ2lDRGdsTFJrUG0tVEY2U2VvTzZlTEJjMS1fUk92ekhkel95VG5aOE14QzFELWJIVDhGN0lxZExjNG1PcFJjRVNTcTQzZFJORWpDbTV1YUluZkVwY1MtQXZxVzNqOGN0SzVMYldIQVlrSjJzWlRZZlJRWWlyWmxWTlpLVHgzUWpmVFphY0l2VFdwOU12aUtQUEh6TjVJVWpUOUpTc082c1F0NXlVWktoRjZTb1VPUnFnMml0S29nZno2Sm1xZEc1QzJDZVQ2dmZxcdIB4wFBVV95cUxNTHRVcURoVDUxTWQyOXBQRGhRUzNrRjRkcmVOeVF0MWU5Q3cwdmlTYnV1M2dlN01vQmZNMnlBYUNFQndOdHhENWNNeW0xZEE2aXNnZTNTRXBaLVRBdEdpWGlUaE9YZ1FxazRLTzhQUkRyODM1NFU4amxDZDhzRlk1elk0ejBjV0NqbmJKT0otaVh0ZHIxMVJsM0o5Ri1hSDVNaXQ2R2ZRd0pOREdpNlhaU2JOMHU3cndBRzByRDRWZUpKNkp1OVBJYlNRN2tZbWE5TUl6Nm1PMF9FMjlRWlAxajZ5UQ?oc=5",
+   "source": "G1",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-18T17:48:36Z",
+   "tries": 1
+  },
   {
    "id": "ee0f0c973492",
    "date": "2026-11-18",
@@ -291,7 +341,7 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-18T16:53:18Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "378e874bc182",
@@ -1473,6 +1523,32 @@
    "tries": 1
   },
   {
+   "id": "2041b91508e1",
+   "date": "2026-11-16",
+   "title": "'NÃO VOU PASSAR RAIVA SOZINHA' 🗣️Qual será o impacto da CBS no bolso do consumidor a partir de janeiro? No programa desta semana, a Duquesa de Tax explica como a reforma tributária pode afetar os preços e o que esperar d",
+   "resumo": "1,999 likes, 70 comments - estadao no November 16, 2026: \"'NÃO VOU PASSAR RAIVA SOZINHA' 🗣️Qual será o impacto da CBS no bolso do consumidor a partir de janeiro? No programa desta semana, a Duquesa de Tax explica como a reforma tributária pode afetar os…",
+   "link": "https://www.instagram.com/reel/DfzaccOCtI0/",
+   "source": "Instagram",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-18T17:48:36Z",
+   "tries": 1
+  },
+  {
+   "id": "7dd8680510e9",
+   "date": "2026-11-16",
+   "title": "Luiz Barbosa | Reforma Tributária: o combinado não pode sair caro",
+   "resumo": "Brasil precisa respeitar pacto firmado no Congresso e abandonar a lógica tributária que limita a competitividade. Leia o artigo no Poder360.",
+   "link": "https://www.poder360.com.br/opiniao/reforma-tributaria-o-combinado-nao-pode-sair-caro/",
+   "source": "Poder360",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-18T17:48:36Z",
+   "tries": 1
+  },
+  {
    "id": "b4cf2dbc35db",
    "date": "2026-11-16",
    "title": "Assistir às suas séries e filmes no streaming ficará mais caro pela Reforma Tributária?",
@@ -1897,83 +1973,6 @@
    "category": "aliq",
    "tag": "Alíquotas",
    "addedAt": "2026-11-16T17:04:17Z"
-  },
-  {
-   "id": "d3154592c024",
-   "date": "2026-11-16",
-   "title": "Hauly propõe devolução integral do IBS e CBS conforme a renda familiar",
-   "resumo": "Projeto amplia o acesso ao benefício além do CadÚnico e estabelece atualização anual das faixas de renda conforme dados do IBGE.",
-   "link": "https://www.congressoemfoco.com.br/noticia/131622/hauly-propoe-devolucao-integral-do-ibs-e-cbs-conforme-a-renda-familiar",
-   "source": "Congresso em Foco",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-16T17:04:17Z",
-   "tries": 1
-  },
-  {
-   "id": "6713ef383c1d",
-   "date": "2026-11-16",
-   "title": "Receita diz que texto de ajuste fiscal não afeta crédito tributário da CBS",
-   "resumo": "",
-   "link": "https://www.metropoles.com/brasil/receita-diz-que-texto-de-ajuste-fiscal-nao-afeta-credito-tributario-da-cbs",
-   "source": "Metrópoles",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-16T17:04:17Z",
-   "tries": 2
-  },
-  {
-   "id": "f3595ef7e511",
-   "date": "2026-11-16",
-   "title": "CBS: Durigan vai ao Senado sob pressão por alíquota e novas regras",
-   "resumo": "Audiência nesta terça-feira (17) discutirá percentual de 11,3% calculado pelo TCU; indústria questiona o valor e, assim como a OAB, pede adiamento da implementação do tributo.",
-   "link": "https://www.congressoemfoco.com.br/noticia/131610/cbs-durigan-vai-ao-senado-sob-pressao-por-aliquota-e-novas-regras",
-   "source": "Congresso em Foco",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-16T15:57:21Z",
-   "tries": 1
-  },
-  {
-   "id": "646e2cd7515a",
-   "date": "2026-11-16",
-   "title": "Notícia no Seu Tempo: Cresce pressão pelo adiamento do início da reforma tributária",
-   "resumo": "",
-   "link": "https://www.estadao.com.br/brasil/estadao-podcasts/noticia-no-seu-tempo-cresce-pressao-pelo-adiamento-do-inicio-da-reforma-tributaria/",
-   "source": "Estadão",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-16T15:57:21Z",
-   "tries": 2
-  },
-  {
-   "id": "85d142b19d5f",
-   "date": "2026-11-16",
-   "title": "Cashback da reforma tributária começa em janeiro de 2027",
-   "resumo": "A partir de janeiro de 2027, cerca de 70 milhões de brasileiros de baixa renda poderão receber de volta parte dos impostos pagos sobre consumo. O benefício, previsto na reforma tributária, alcançará famílias do CadÚnico com renda per capita de até meio…",
-   "link": "https://aciara.com.br/cashback-da-reforma-tributaria-comeca-em-janeiro-de-2027/",
-   "source": "Acia Araçatuba",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-16T15:57:21Z",
-   "tries": 1
-  },
-  {
-   "id": "fb883d00745c",
-   "date": "2026-11-16",
-   "title": "PGDAS-D muda em 2026 e exige atenção dos contadores",
-   "resumo": "Atualização do PGDAS-D adapta o Simples Nacional à Reforma Tributária e altera procedimentos de apuração a partir de novembro de 2026. Leia mais em https://www.contabeis.com.br/noticias/80892/pgdas-d-muda-em-2026-e-exige-atencao-dos-contadores/",
-   "link": "https://www.contabeis.com.br/noticias/80892/pgdas-d-muda-em-2026-e-exige-atencao-dos-contadores/",
-   "source": "Portal Contábeis",
-   "official": false,
-   "category": "simples",
-   "tag": "Simples",
-   "addedAt": "2026-11-16T13:06:51Z"
   }
  ]
 }

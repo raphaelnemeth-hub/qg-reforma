@@ -1,13 +1,13 @@
 {
- "lastCheckAt": "2026-11-18T15:47:52Z",
- "lastCheckBr": "18/11/2026 12:47",
- "added": 31,
+ "lastCheckAt": "2026-11-18T16:53:18Z",
+ "lastCheckBr": "18/11/2026 13:53",
+ "added": 32,
  "feeds": [
   {
    "name": "Agência Senado",
    "ok": true,
    "found": 1,
-   "new": 1
+   "new": 0
   },
   {
    "name": "Agência Câmara",
@@ -36,14 +36,14 @@
   {
    "name": "InfoMoney",
    "ok": true,
-   "found": 0,
-   "new": 0
+   "found": 1,
+   "new": 1
   },
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 96,
-   "new": 27
+   "found": 97,
+   "new": 28
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -53,6 +53,31 @@
   }
  ],
  "items": [
+  {
+   "id": "ee0f0c973492",
+   "date": "2026-11-18",
+   "title": "Braga nega que haja acordo com oposição de trecho do PLP que trata de Lei Kandir",
+   "resumo": "Eduardo Braga (MDB-AM), relator do projeto de regulamentação da reforma tributária (Foto: Roque de Sá/Agência Senado) \" data-image-caption=\" Eduardo Braga (MDB-AM), relator do projeto de regulamentação da reforma tributária (Foto: Roque de Sá/Agência Senado)…",
+   "link": "https://www.infomoney.com.br/politica/braga-nega-que-haja-acordo-com-oposicao-de-trecho-do-plp-que-trata-de-lei-kandir/",
+   "source": "InfoMoney",
+   "official": false,
+   "category": "lei",
+   "tag": "Legislação",
+   "addedAt": "2026-11-18T16:53:18Z"
+  },
+  {
+   "id": "809bf0a52782",
+   "date": "2026-11-18",
+   "title": "Senado aprova pedido de acesso a cálculos da CBS de 11,3%",
+   "resumo": "Comissão de Assuntos Econômicos cobra metodologias e atas de reuniões técnicas após Eduardo Braga questionar estimativas de sonegação e inadimplência usadas pelo TCU.",
+   "link": "https://www.congressoemfoco.com.br/noticia/131699/senado-aprova-pedido-de-acesso-a-calculos-da-cbs-de-11-3",
+   "source": "Congresso em Foco",
+   "official": false,
+   "category": "lei",
+   "tag": "Legislação",
+   "addedAt": "2026-11-18T16:53:18Z",
+   "tries": 1
+  },
   {
    "id": "486f9f6d0bcd",
    "date": "2026-11-18",
@@ -253,6 +278,19 @@
    "category": "aliq",
    "tag": "Alíquotas",
    "addedAt": "2026-11-18T05:29:12Z",
+   "tries": 1
+  },
+  {
+   "id": "96f9474b4ba0",
+   "date": "2026-11-17",
+   "title": "Reforma Tributária – CBS e IBS e seus impactos no comércio varejista",
+   "resumo": "",
+   "link": "https://sindilojas.rio/2026/11/17/reforma-tributaria-cbs-e-ibs-e-seus-impactos-no-comercio-varejista-2/",
+   "source": "SindilojasRio",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-18T16:53:18Z",
    "tries": 1
   },
   {
@@ -1435,6 +1473,19 @@
    "tries": 1
   },
   {
+   "id": "b4cf2dbc35db",
+   "date": "2026-11-16",
+   "title": "Assistir às suas séries e filmes no streaming ficará mais caro pela Reforma Tributária?",
+   "resumo": "No streaming, há uma linha tênue entre o que é a prestação de serviço e o que seria a cessão/circulação de mercadorias",
+   "link": "https://www.jota.info/opiniao-e-analise/artigos/assistir-as-suas-series-e-filmes-no-streaming-ficara-mais-caro-pela-reforma-tributaria",
+   "source": "JOTA Info",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-18T16:53:18Z",
+   "tries": 1
+  },
+  {
    "id": "4dc4503892aa",
    "date": "2026-11-16",
    "title": "A reforma tributária fomenta investimentos para as concessões de serviços públicos",
@@ -1923,58 +1974,6 @@
    "category": "simples",
    "tag": "Simples",
    "addedAt": "2026-11-16T13:06:51Z"
-  },
-  {
-   "id": "2041b91508e1",
-   "date": "2026-11-16",
-   "title": "'NÃO VOU PASSAR RAIVA SOZINHA' 🗣️Qual será o impacto da CBS no bolso do consumidor a partir de janeiro? No programa desta semana, a Duquesa de Tax explica como a reforma tributária pode afetar os preços e o que esperar d",
-   "resumo": "6 likes, 1 comments - estadao no November 16, 2026: \"'NÃO VOU PASSAR RAIVA SOZINHA' 🗣️Qual será o impacto da CBS no bolso do consumidor a partir de janeiro? No programa desta semana, a Duquesa de Tax explica como a reforma tributária pode afetar os preços e o…",
-   "link": "https://www.instagram.com/reel/DfzaccOCtI0/",
-   "source": "Instagram",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-16T13:06:51Z",
-   "tries": 1
-  },
-  {
-   "id": "7da3fc845e1a",
-   "date": "2026-11-16",
-   "title": "Como receber o cashback da reforma tributária? Veja quem tem direito e como funciona a devolução",
-   "resumo": "",
-   "link": "https://www.opiniaoce.com.br/brasil/2026/11/16/como-receber-o-cashback-da-reforma-tributaria-veja-quem-tem-direito-e-como-funciona-a-devolucao/",
-   "source": "OpiniãoCE",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-16T13:06:51Z",
-   "tries": 2
-  },
-  {
-   "id": "4a7032bf45d2",
-   "date": "2026-11-16",
-   "title": "Reforma Tributária pode afetar equilíbrio de concessões e PPPs",
-   "resumo": "da Agência iNFRA Estudar a fundo as regras da Reforma Tributária será fundamental para entender os impactos das mudanças fiscais nos projetos de infraestrutura no país. No painel “Reforma Tributária e o Setor de Infraestrutura”, do Fórum Nacional de PPPs…",
-   "link": "https://agenciainfra.com/blog/reforma-tributaria-pode-afetar-equilibrio-de-concessoes-e-ppps/",
-   "source": "Agência iNFRA",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-16T13:06:51Z",
-   "tries": 1
-  },
-  {
-   "id": "7dd8680510e9",
-   "date": "2026-11-16",
-   "title": "Luiz Barbosa | Reforma Tributária: o combinado não pode sair caro",
-   "resumo": "Brasil precisa respeitar pacto firmado no Congresso e abandonar a lógica tributária que limita a competitividade. Leia o artigo no Poder360.",
-   "link": "https://www.poder360.com.br/opiniao/reforma-tributaria-o-combinado-nao-pode-sair-caro/",
-   "source": "Poder360",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-16T13:06:51Z",
-   "tries": 1
   }
  ]
 }

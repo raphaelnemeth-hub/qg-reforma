@@ -1,13 +1,13 @@
 {
- "lastCheckAt": "2026-11-18T12:22:18Z",
- "lastCheckBr": "18/11/2026 09:22",
- "added": 36,
+ "lastCheckAt": "2026-11-18T13:44:51Z",
+ "lastCheckBr": "18/11/2026 10:44",
+ "added": 38,
  "feeds": [
   {
    "name": "Agência Senado",
    "ok": true,
    "found": 1,
-   "new": 1
+   "new": 0
   },
   {
    "name": "Agência Câmara",
@@ -30,7 +30,7 @@
   {
    "name": "Portal Contábeis",
    "ok": true,
-   "found": 11,
+   "found": 12,
    "new": 2
   },
   {
@@ -43,7 +43,7 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 96,
-   "new": 29
+   "new": 32
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -53,6 +53,82 @@
   }
  ],
  "items": [
+  {
+   "id": "14bae0fd4a95",
+   "date": "2026-11-18",
+   "title": "Ministro defende alíquota média de 8,5% na reforma tributária",
+   "resumo": "Durigan afirma que alíquota máxima da CBS será de 11,3% e destaca benefícios sociais e revisão anual dos percentuais. Leia mais em https://www.contabeis.com.br/noticias/80963/ministro-defende-aliquota-media-de-8-5-na-reforma-tributaria/",
+   "link": "https://www.contabeis.com.br/noticias/80963/ministro-defende-aliquota-media-de-8-5-na-reforma-tributaria/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-18T13:44:51Z"
+  },
+  {
+   "id": "e914f484b3ad",
+   "date": "2026-11-18",
+   "title": "IBS e CBS no ISS: empresas questionam cobrança na Justiça",
+   "resumo": "Empresas e entidades contestam a inclusão dos novos tributos na base do ISS. Entenda os argumentos e o que está em discussão. Leia mais em https://www.contabeis.com.br/noticias/80960/ibs-e-cbs-no-iss-empresas-questionam-cobranca-na-justica/",
+   "link": "https://www.contabeis.com.br/noticias/80960/ibs-e-cbs-no-iss-empresas-questionam-cobranca-na-justica/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-18T13:44:51Z"
+  },
+  {
+   "id": "35c9cb61f67c",
+   "date": "2026-11-18",
+   "title": "Reforma tributária: O fato gerador do IBS e da CBS nos contratos de tecnologia",
+   "resumo": "Por Aurélio Longo Guerzoni. A reforma tributária estabelece diferentes momentos de ocorrência do fato gerador do IBS e da CBS para operações com bens imateriais e serviços de execução continuada.",
+   "link": "https://www.migalhas.com.br/depeso/468350/reforma-tributaria-gerador-do-ibs-e-cbs-nos-contratos-de-tecnologia",
+   "source": "Migalhas",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-18T13:44:51Z",
+   "tries": 1
+  },
+  {
+   "id": "522624e8c827",
+   "date": "2026-11-18",
+   "title": "Reforma tributária: Veja o calendário e o que muda em 2027",
+   "resumo": "Após três anos de preparação, novo sistema começa a substituir impostos federais em 2027; Senado tem até 15 de dezembro para definir alíquota da CBS.",
+   "link": "https://www.congressoemfoco.com.br/noticia/131680/reforma-tributaria-veja-o-calendario-e-o-que-muda-em-2027",
+   "source": "Congresso em Foco",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-18T13:44:51Z",
+   "tries": 1
+  },
+  {
+   "id": "f91349d4d40e",
+   "date": "2026-11-18",
+   "title": "83ª edição do Encat: Administrações tributárias debatem em Palmas (TO) reforma tributária e modernização fiscal",
+   "resumo": "O secretário de Fazenda do Tocantins, Donizeth Aparecido Silva, representa o presidente do Comsefaz, Flávio César, no encontro.",
+   "link": "https://comsefaz.org.br/novo/83a-edicao-do-encat-administracoes-tributarias-debatem-em-palmas-to-reforma-tributaria-e-modernizacao-fiscal/",
+   "source": "- Comsefaz",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-18T13:44:51Z",
+   "tries": 1
+  },
+  {
+   "id": "7f3445f24cbd",
+   "date": "2026-11-18",
+   "title": "Reforma tributária: sua empresa pode ter crédito tributário, mas terá dinheiro em caixa?",
+   "resumo": "Com a chegada da CBS em 2027, o fluxo de caixa deixa de ser apenas uma ferramenta de gestão e passa a ser essencial para a saúde financeira das empresas...",
+   "link": "https://abradilan.com.br/mercado/reforma-tributaria-sua-empresa-pode-ter-credito-tributario-mas-tera-dinheiro-em-caixa/",
+   "source": "Abradilan",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-18T13:44:51Z",
+   "tries": 1
+  },
   {
    "id": "355d59f1233b",
    "date": "2026-11-18",
@@ -1863,6 +1939,32 @@
    "tries": 1
   },
   {
+   "id": "dd734cb3e93c",
+   "date": "2026-11-15",
+   "title": "Empresas perdem primeira rodada na Justiça contra imposto sobre imposto na reforma tributária",
+   "resumo": "Maioria das ações sobre cálculo do ICMS está em São Paulo, em disputa de cerca de R$ 10 bi por ano",
+   "link": "https://www1.folha.uol.com.br/mercado/2026/11/empresas-perdem-primeira-rodada-na-justica-contra-imposto-sobre-imposto-na-reforma-tributaria.shtml",
+   "source": "Folha de S.Paulo",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-18T13:44:51Z",
+   "tries": 1
+  },
+  {
+   "id": "6410aba0e770",
+   "date": "2026-11-15",
+   "title": "Apuração assistida da CBS: simplificação ou risco ao contribuinte?",
+   "resumo": "Receita disponibilizou das versões 2.0 das interfaces de programação de aplicações para consulta de débitos e créditos da CBS",
+   "link": "https://conjur.com.br/2026-nov-15/apuracao-assistida-da-cbs/",
+   "source": "Consultor Jurídico",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-18T13:44:51Z",
+   "tries": 1
+  },
+  {
    "id": "98470092e32e",
    "date": "2026-11-15",
    "title": "Reforma tributária vai devolver dinheiro a milhões de brasileiros; veja quem tem direito e como receber",
@@ -1873,110 +1975,6 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-17T12:48:28Z",
-   "tries": 1
-  },
-  {
-   "id": "3ce70d97ae95",
-   "date": "2026-11-15",
-   "title": "Senado deve definir alíquota da CBS para 2027 até 15 de dezembro",
-   "resumo": "",
-   "link": "https://www.capitalnews.com.br/nacional/senado-deve-definir-aliquota-da-cbs-para-2027-ate-15-de-dezembro/450040",
-   "source": "Capital News",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-16T21:14:48Z",
-   "tries": 2
-  },
-  {
-   "id": "f4d096585a3e",
-   "date": "2026-11-15",
-   "title": "CBS a 11,3% preocupa indústria por risco de aumento tributário",
-   "resumo": "",
-   "link": "https://www.capitalnews.com.br/nacional/cbs-a-113-preocupa-industria-por-risco-de-aumento-tributario/450047",
-   "source": "Capital News",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-16T19:26:37Z",
-   "tries": 2
-  },
-  {
-   "id": "a853420b8346",
-   "date": "2026-11-15",
-   "title": "Cashback da reforma tributária: veja quem vai receber dinheiro de volta e como garantir o benefício",
-   "resumo": "A partir de janeiro de 2027, famílias brasileiras de baixa renda poderão receber de volta parte dos impostos pagos na compra de produtos e serviços. O benefício, conhecido como cashback da reforma tributária, está previsto na Lei Complementar nº 214/2025 e…",
-   "link": "https://diariodorn.com.br/cashback-da-reforma-tributaria-veja-quem-vai-receber-dinheiro-de-volta-e-como-garantir-o-beneficio/",
-   "source": "Portal Diário do RN",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-16T15:57:21Z",
-   "tries": 1
-  },
-  {
-   "id": "9562293164a5",
-   "date": "2026-11-15",
-   "title": "Ji-Paraná recebe imersão sobre Reforma Tributária nos dias 25, 26 e 27 de novembro",
-   "resumo": "Profissionais da contabilidade de Ji-Paraná e região terão a oportunidade de aprofundar conhecimentos sobre as mudanças no sistema tributário brasileiro durante a “Imersão em Reforma Tributária: Fundamentos e Aplicação do IBS e da CBS”, que será realizada nos…",
-   "link": "https://www.gentedeopiniao.com.br/economia/ji-parana-recebe-imersao-sobre-reforma-tributaria-nos-dias-25-26-e-27-de-novembro",
-   "source": "Gente de Opinião",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-16T15:57:21Z",
-   "tries": 1
-  },
-  {
-   "id": "e2fe62050109",
-   "date": "2026-11-15",
-   "title": "Cashback da reforma tributária começa em janeiro para 70 milhões de pessoas",
-   "resumo": "Famílias do CadÚnico com renda per capita abaixo de meio salário mínimo terão devolução da CBS; inclusão é automática, mas é preciso pedir CPF na nota.",
-   "link": "https://spdiario.com.br/noticias/economia/cashback-da-reforma-tributaria-comeca-em-janeiro-para-70-milhoes-de-pessoas.html",
-   "source": "Diário de São Paulo",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-16T15:57:21Z",
-   "tries": 1
-  },
-  {
-   "id": "d2e3b1849628",
-   "date": "2026-11-15",
-   "title": "Saiba quem terá direito a benefício do \"cashback\" na reforma tributária",
-   "resumo": "",
-   "link": "https://www.metropoles.com/brasil/saiba-quem-tera-direito-a-beneficio-do-cashback-na-reforma-tributaria",
-   "source": "Metrópoles",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-16T15:57:21Z",
-   "tries": 2
-  },
-  {
-   "id": "35664c6a02a6",
-   "date": "2026-11-15",
-   "title": "Cashback da reforma tributária começa em janeiro de 2027 e pode beneficiar 70 milhões de brasileiros",
-   "resumo": "O governo federal começa a colocar em prática, em janeiro de 2027, o mecanismo de cashback da reforma tributária, que prevê a devolução de parte dos imposto ...",
-   "link": "https://mancheterio.com.br/cashback-da-reforma-tributaria-comeca-em-janeiro-de-2027-e-pode-beneficiar-70-milhoes-de-brasileiros/",
-   "source": "Rádio Manchete Rio",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-16T15:57:21Z",
-   "tries": 1
-  },
-  {
-   "id": "eb4b6cdcbc23",
-   "date": "2026-11-15",
-   "title": "Como receber o cashback da reforma tributária? Veja se você tem direito",
-   "resumo": "Devolução de parte dos impostos será destinada a famílias inscritas no CadÚnico, com renda mensal de até meio salário mínimo por pessoa",
-   "link": "https://www.cnnbrasil.com.br/economia/seu-bolso/meu-dinheiro/como-receber-o-cashback-da-reforma-tributaria-veja-se-voce-tem-direito/",
-   "source": "CNN Brasil",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-16T13:06:51Z",
    "tries": 1
   }
  ]

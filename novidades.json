@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-17T23:40:10Z",
- "lastCheckBr": "17/11/2026 20:40",
- "added": 27,
+ "lastCheckAt": "2026-11-18T00:49:20Z",
+ "lastCheckBr": "17/11/2026 21:49",
+ "added": 25,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -31,7 +31,7 @@
    "name": "Portal Contábeis",
    "ok": true,
    "found": 10,
-   "new": 2
+   "new": 0
   },
   {
    "name": "InfoMoney",
@@ -53,6 +53,19 @@
   }
  ],
  "items": [
+  {
+   "id": "47f2c2091afb",
+   "date": "2026-11-17",
+   "title": "CBS de 11,3% preocupa empresas: Senado terá que definir alíquota para 2027",
+   "resumo": "Percentual calculado pelo TCU supera estimativas anteriores e pode influenciar preços, contratos e planejamento tributário",
+   "link": "https://jornalcontabil.com.br/noticia/cbs-de-113-preocupa-empresas-senado-tera-que-definir-aliquota-para-2027/",
+   "source": "Jornal Contábil",
+   "official": false,
+   "category": "cont",
+   "tag": "Contabilidade",
+   "addedAt": "2026-11-18T00:49:20Z",
+   "tries": 1
+  },
   {
    "id": "130742775ea8",
    "date": "2026-11-17",
@@ -114,7 +127,7 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-17T23:40:10Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "19a3f94da766",
@@ -1903,6 +1916,58 @@
    "addedAt": "2026-11-14T12:06:03Z"
   },
   {
+   "id": "0d0df8fb8480",
+   "date": "2026-11-13",
+   "title": "Reforma Tributária: Receita e Comitê Gestor publicam novo cronograma de emissão de documentos fiscais do IBS e da CBS",
+   "resumo": "O ato já está em vigor. As obrigações começam em dezembro de 2026 e vão até março de 2027, de acordo com a atividade de cada empresa",
+   "link": "https://www.martinelli.adv.br/reforma-tributaria-receita-e-comite-gestor-publicam-novo-cronograma-de-emissao-de-documentos-fiscais-do-ibs-e-da-cbs/",
+   "source": "Martinelli Advogados",
+   "official": false,
+   "category": "lei",
+   "tag": "Legislação",
+   "addedAt": "2026-11-18T00:49:20Z",
+   "tries": 1
+  },
+  {
+   "id": "aa44f6e52e90",
+   "date": "2026-11-13",
+   "title": "Reforma: quando deve ser recolhido CBS sobre combustíveis?",
+   "resumo": "A CBS sobre combustíveis monofásicos começa a ser cobrada em 8/1/2027, com alíquotas por litro. Veja o novo leiaute da nota e os prazos.",
+   "link": "https://noticias.iob.com.br/reforma-cbs-sobre-combustiveis/",
+   "source": "IOB Notícias",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-18T00:49:20Z",
+   "tries": 1
+  },
+  {
+   "id": "c5f064ae4f99",
+   "date": "2026-11-13",
+   "title": "Reforma Tributária: Receita quer mudar 1º pagamento da CBS para fevereiro",
+   "resumo": "",
+   "link": "https://www.contadores.cnt.br/noticias/tecnicas/2026/11/13/reforma-tributaria-receita-quer-mudar-1o-pagamento-da-cbs-para-fevereiro.html",
+   "source": "Contadores.cnt.br",
+   "official": false,
+   "category": "cont",
+   "tag": "Contabilidade",
+   "addedAt": "2026-11-18T00:49:20Z",
+   "tries": 1
+  },
+  {
+   "id": "ef34e75af7f6",
+   "date": "2026-11-13",
+   "title": "Reforma Tributária: O efeito do Split Payment Na Sua Empresa",
+   "resumo": "Previsto para 2027, o recolhimento automático de IBS e CBS pode pressionar o capital de giro das empresas",
+   "link": "https://forbes.com.br/forbes-money/2026/11/split-payment-impactos-empresas/",
+   "source": "Forbes Brasil",
+   "official": false,
+   "category": "pag",
+   "tag": "Split payment",
+   "addedAt": "2026-11-18T00:49:20Z",
+   "tries": 1
+  },
+  {
    "id": "fa217eb0880d",
    "date": "2026-11-13",
    "title": "PGDAS-D é atualizado para atender à Reforma Tributária a partir de novembro de 2026 — Receita Federal",
@@ -1913,71 +1978,6 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-17T23:40:10Z",
-   "tries": 1
-  },
-  {
-   "id": "78adf3c1d169",
-   "date": "2026-11-13",
-   "title": "Nota fiscal e split payment avançam na reforma tributária, mas adaptação de municípios preocupa",
-   "resumo": "Comitê formado por dez especialistas reconhece avanços na implementação, mas aponta gargalos operacionais ainda a superar",
-   "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/nota-fiscal-e-split-payment-avancam-na-reforma-tributaria-mas-adaptacao-de-municipios-preocupa",
-   "source": "JOTA Info",
-   "official": false,
-   "category": "pag",
-   "tag": "Split payment",
-   "addedAt": "2026-11-17T21:41:42Z",
-   "tries": 2
-  },
-  {
-   "id": "fee519dc4b36",
-   "date": "2026-11-13",
-   "title": "Simples Nacional na Reforma Tributária: o que a alíquota de 11,3% da CBS significa para a sua empresa médica",
-   "resumo": "",
-   "link": "https://www.apm.org.br/simples-nacional-na-reforma-tributaria-o-que-a-aliquota-de-113-da-cbs-significa-para-a-sua-empresa-medica/",
-   "source": "APM - Associação Paulista de Medicina",
-   "official": false,
-   "category": "simples",
-   "tag": "Simples",
-   "addedAt": "2026-11-17T21:41:42Z",
-   "tries": 2
-  },
-  {
-   "id": "08eea2bdb760",
-   "date": "2026-11-13",
-   "title": "Empresas cobram definições da reforma tributária a menos de dois meses da CBS em 2027",
-   "resumo": "13/11/2026 A menos de dois meses do início de uma nova etapa da reforma tributária do consumo, empresas e entidades empresariais ainda cobram definições regulatórias e operacionais necessárias para adaptar sistemas, documentos fiscais e procedimentos internos…",
-   "link": "https://tagdlaw.com.br/empresas-cobram-definicoes-da-reforma-tributaria-a-menos-de-dois-meses-da-cbs-em-2027/",
-   "source": "TAGD Advogados",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-17T21:41:42Z",
-   "tries": 1
-  },
-  {
-   "id": "38c5cd2aac9e",
-   "date": "2026-11-13",
-   "title": "Reforma Tributária: como precificar serviços",
-   "resumo": "Entenda como CBS e IBS afetam os preços de serviços e o que avaliar sobre clientes, créditos tributários e regime da empresa.",
-   "link": "https://www.contabeis.com.br/artigos/80843/reforma-tributaria-como-precificar-servicos/",
-   "source": "Portal Contabeis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-17T21:41:42Z",
-   "tries": 1
-  },
-  {
-   "id": "1bb001f29926",
-   "date": "2026-11-13",
-   "title": "Reforma Tributária: Receita Federal e CGIBS adiam para 2027 a obrigatoriedade de emissão de documentos fiscais com IBS e CBS",
-   "resumo": "Agilize decisões seguras. Legislação, Comentários e Consultoria nas áreas de IR e Contribuições, ICMS, IPI, ISS, Contabilidade e Societário, Simples Nacional, Trabalhista e Previdenciária. Cálculos e Tabelas de Substituição Tributária. Agenda Tributária…",
-   "link": "https://www.legisweb.com.br/noticia/?id",
-   "source": "LegisWeb",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-17T20:43:03Z",
    "tries": 1
   }
  ]

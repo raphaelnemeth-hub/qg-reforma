@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-18T05:29:12Z",
- "lastCheckBr": "18/11/2026 02:29",
- "added": 35,
+ "lastCheckAt": "2026-11-18T06:33:11Z",
+ "lastCheckBr": "18/11/2026 03:33",
+ "added": 34,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -43,13 +43,13 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 96,
-   "new": 31
+   "new": 29
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
    "ok": true,
-   "found": 4,
-   "new": 3
+   "found": 5,
+   "new": 4
   }
  ],
  "items": [
@@ -67,6 +67,19 @@
    "tries": 1
   },
   {
+   "id": "57ea675b30c8",
+   "date": "2026-11-17",
+   "title": "Presidente do TCE participa de abertura de fórum sobre a Reforma Tributária",
+   "resumo": "Conselheiro Ivens Linhares abriu o 1º Fórum Paranaense de Receita Municipal, IBS e Educação Fiscal, evento que acontece no auditório da OAB-PR entre estas segunda e terça (16 e 17)",
+   "link": "https://www.tce.pr.gov.br/noticias/presidente-do-tce-participa-de-abertura-de-forum-sobre-a-reforma-tributaria.htm",
+   "source": "TCE-PR",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-18T06:33:11Z",
+   "tries": 1
+  },
+  {
    "id": "1d51f6f7a8f2",
    "date": "2026-11-17",
    "title": "Ministro da Fazenda defende revisão de isenções e regimes especiais para reduzir alíquota da CBS em 2028",
@@ -77,7 +90,7 @@
    "category": "aliq",
    "tag": "Alíquotas",
    "addedAt": "2026-11-18T05:29:12Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "51b539ac1605",
@@ -90,7 +103,7 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-18T05:29:12Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "5615d0109649",
@@ -1967,19 +1980,6 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-16T21:14:48Z",
-   "tries": 2
-  },
-  {
-   "id": "658e8f3d5b8e",
-   "date": "2026-11-14",
-   "title": "Setor produtivo reforça pedido de adiamento para implementação da reforma tributária",
-   "resumo": "",
-   "link": "https://www.capitalnews.com.br/nacional/setor-produtivo-reforca-pedido-de-adiamento-para-implementacao-da-reforma-tributaria/450037",
-   "source": "Capital News",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-16T19:26:37Z",
    "tries": 2
   }
  ]

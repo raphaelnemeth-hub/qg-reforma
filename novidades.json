@@ -1,13 +1,13 @@
 {
- "lastCheckAt": "2026-11-18T14:44:37Z",
- "lastCheckBr": "18/11/2026 11:44",
- "added": 32,
+ "lastCheckAt": "2026-11-18T15:47:52Z",
+ "lastCheckBr": "18/11/2026 12:47",
+ "added": 31,
  "feeds": [
   {
    "name": "Agência Senado",
    "ok": true,
-   "found": 0,
-   "new": 0
+   "found": 1,
+   "new": 1
   },
   {
    "name": "Agência Câmara",
@@ -24,14 +24,14 @@
   {
    "name": "Agência Brasil",
    "ok": true,
-   "found": 5,
+   "found": 4,
    "new": 0
   },
   {
    "name": "Portal Contábeis",
    "ok": true,
    "found": 13,
-   "new": 1
+   "new": 0
   },
   {
    "name": "InfoMoney",
@@ -43,7 +43,7 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 96,
-   "new": 28
+   "new": 27
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -53,6 +53,32 @@
   }
  ],
  "items": [
+  {
+   "id": "486f9f6d0bcd",
+   "date": "2026-11-18",
+   "title": "Vídeo: Ao vivo: CAE debate cálculo da alíquota da CBS - 18/11/26",
+   "resumo": "Portal de Notícias do Senado Federal: matérias, entrevistas e informações oficiais sobre a atividade legislativa.",
+   "link": "https://www12.senado.leg.br/noticias/videos/2026/11/ao-vivo-cae-debate-calculo-da-aliquota-da-cbs-18-11-26",
+   "source": "Senado Federal",
+   "official": true,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-18T15:47:52Z",
+   "tries": 1
+  },
+  {
+   "id": "2f4d83634593",
+   "date": "2026-11-18",
+   "title": "AO VIVO: Senado ouve especialistas sobre alíquota de 11,3% da CBS",
+   "resumo": "Especialistas e representantes da OAB e do Comitê Gestor do IBS discutem cálculo apresentado pelo TCU, após audiência com Durigan, Barreirinhas e Vital do Rêgo.",
+   "link": "https://www.congressoemfoco.com.br/noticia/131694/ao-vivo-senado-ouve-especialistas-sobre-aliquota-de-11-3-da-cbs",
+   "source": "Congresso em Foco",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-18T15:47:52Z",
+   "tries": 1
+  },
   {
    "id": "6ea2bf546414",
    "date": "2026-11-18",
@@ -1409,6 +1435,19 @@
    "tries": 1
   },
   {
+   "id": "4dc4503892aa",
+   "date": "2026-11-16",
+   "title": "A reforma tributária fomenta investimentos para as concessões de serviços públicos",
+   "resumo": "Com o desenho legal finalizado, desafio é a execução; as agências reguladoras precisam estar tecnicamente preparadas e ágeis para processar reequilíbrios com rigor e celeridade",
+   "link": "https://www.jota.info/opiniao-e-analise/colunas/coluna-da-abde/a-reforma-tributaria-fomenta-investimentos-para-as-concessoes-de-servicos-publicos",
+   "source": "JOTA Info",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-18T15:47:52Z",
+   "tries": 1
+  },
+  {
    "id": "c9a48fedfc11",
    "date": "2026-11-16",
    "title": "Cancelado debate na Comissão de Finanças sobre regulamentação da reforma tributária",
@@ -1419,7 +1458,7 @@
    "category": "lei",
    "tag": "Legislação",
    "addedAt": "2026-11-18T14:44:37Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "c04b79bcf7e1",
@@ -1935,45 +1974,6 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-16T13:06:51Z",
-   "tries": 1
-  },
-  {
-   "id": "3475b3f07e2c",
-   "date": "2026-11-16",
-   "title": "Qual será o impacto da CBS no bolso do consumidor a partir de janeiro?",
-   "resumo": "No programa ‘Não vou passar raiva sozinha’, a Duquesa de Tax explica como a reforma tributária pode afetar os preços e o que esperar da mudança",
-   "link": "https://www.estadao.com.br/economia/duquesa-de-tax/qual-impacto-cbs-bolso-consumidor-janeiro-2027/",
-   "source": "Estadão",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-16T13:06:51Z",
-   "tries": 1
-  },
-  {
-   "id": "bab4b163aa9c",
-   "date": "2026-11-16",
-   "title": "Cresce pressão para adiamento do início efetivo da reforma tributária para 2028",
-   "resumo": "Entidades como a ABDF e a OAB se mobilizam para postergar a nova Contribuição sobre Bens e Serviços (CBS), prevista para substituir PIS e Cofins a partir de janeiro",
-   "link": "https://www.estadao.com.br/economia/cresce-pressao-para-adiantamento-do-inicio-efetivo-da-reforma-tributaria-para-2028/",
-   "source": "Estadão",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-16T11:20:32Z",
-   "tries": 1
-  },
-  {
-   "id": "b4cf2dbc35db",
-   "date": "2026-11-16",
-   "title": "Assistir às suas séries e filmes no streaming ficará mais caro pela Reforma Tributária?",
-   "resumo": "No streaming, há uma linha tênue entre o que é a prestação de serviço e o que seria a cessão/circulação de mercadorias",
-   "link": "https://www.jota.info/opiniao-e-analise/artigos/assistir-as-suas-series-e-filmes-no-streaming-ficara-mais-caro-pela-reforma-tributaria",
-   "source": "JOTA Info",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-16T07:01:03Z",
    "tries": 1
   }
  ]

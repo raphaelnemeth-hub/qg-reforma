@@ -1,13 +1,13 @@
 {
- "lastCheckAt": "2026-11-18T20:44:29Z",
- "lastCheckBr": "18/11/2026 17:44",
- "added": 32,
+ "lastCheckAt": "2026-11-18T21:42:59Z",
+ "lastCheckBr": "18/11/2026 18:42",
+ "added": 27,
  "feeds": [
   {
    "name": "Agência Senado",
    "ok": true,
    "found": 1,
-   "new": 1
+   "new": 0
   },
   {
    "name": "Agência Câmara",
@@ -25,7 +25,7 @@
    "name": "Agência Brasil",
    "ok": true,
    "found": 5,
-   "new": 1
+   "new": 0
   },
   {
    "name": "Portal Contábeis",
@@ -42,8 +42,8 @@
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 97,
-   "new": 27
+   "found": 96,
+   "new": 24
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -53,6 +53,32 @@
   }
  ],
  "items": [
+  {
+   "id": "a65d4bb13abf",
+   "date": "2026-11-18",
+   "title": "Dívida ativa e reforma tributária: uma agenda de responsabilidade fiscal municipal - a arrecadação de 2026, a transição do IBS e os desafios fiscais dos municípios | Tribunal de Contas do Estado de São Paulo",
+   "resumo": "\"A preparação dos municípios para a reforma tributária também passa pelo aprimoramento da gestão dos créditos inscritos em dívida ativa.",
+   "link": "https://www.tce.sp.gov.br/publicacoes/divida-ativa-e-reforma-tributaria-agenda-responsabilidade-fiscal-municipal-arrecadacao",
+   "source": "Tribunal de Contas do Estado de São Paulo",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-18T21:42:59Z",
+   "tries": 1
+  },
+  {
+   "id": "940b6376f917",
+   "date": "2026-11-18",
+   "title": "Reforma tributária: alíquota de 11,3% da CBS pode valer só em 2027 e mudar depois; entenda",
+   "resumo": "Secretário especial da Receita Federal do Brasil, Robinson Sakiyama Barreirinhas Saulo Cruz/Agência Senado O secretário da Receita Federal, Robinson Barreirinhas, lembrou nesta quarta-feira (18) que,",
+   "link": "https://expressaorondonia.com.br/reforma-tributaria-aliquota-de-113-da-cbs-pode-valer-so-em-2027-e-mudar-depois-entenda/",
+   "source": "Expressão Rondônia",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-18T21:42:59Z",
+   "tries": 1
+  },
   {
    "id": "af58ae7e4fe8",
    "date": "2026-11-18",
@@ -1638,6 +1664,32 @@
    "tries": 1
   },
   {
+   "id": "a987fd1e8eed",
+   "date": "2026-11-16",
+   "title": "CBS: na dúvida, não ultrapasse",
+   "resumo": "Conforme as premissas, a mesma regra de neutralidade produz uma alíquota de referência da CBS entre 9,7% e 11,3%",
+   "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/cbs-na-duvida-nao-ultrapasse",
+   "source": "JOTA Info",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-18T21:42:59Z",
+   "tries": 1
+  },
+  {
+   "id": "60281caf5010",
+   "date": "2026-11-16",
+   "title": "Justiça mantém IBS e CBS na base do ICMS em maioria das ações",
+   "resumo": "Levantamento aponta que 70% das decisões sobre a inclusão dos novos tributos na base do ICMS favoreceram os estados; disputa envolve a transição da reforma.",
+   "link": "https://www.contabeis.com.br/noticias/80910/justica-mantem-ibs-e-cbs-na-base-do-icms-em-maioria-das-acoes/",
+   "source": "Portal Contabeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-18T21:42:59Z",
+   "tries": 1
+  },
+  {
    "id": "69e8f45e7223",
    "date": "2026-11-16",
    "title": "Receita Federal publica primeiro código-fonte aberto no GitHub e amplia transparência da Reforma Tributária",
@@ -1922,58 +1974,6 @@
    "tag": "Alíquotas",
    "addedAt": "2026-11-17T05:50:05Z",
    "tries": 1
-  },
-  {
-   "id": "28087981f7f4",
-   "date": "2026-11-16",
-   "title": "Cashback da Reforma Tributária começa em janeiro e deve devolver R$ 10 bilhões em 2027",
-   "resumo": "Entenda como funciona o cashback da Reforma Tributária em 2027, quem tem direito ao benefício e o que muda na emissão de notas fiscais.",
-   "link": "https://www.omie.com.br/blog/cashback-reforma-tributaria-janeiro-2027/",
-   "source": "Omie",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-17T04:47:53Z",
-   "tries": 1
-  },
-  {
-   "id": "a8a356c35056",
-   "date": "2026-11-16",
-   "title": "Reforma Tributária: CFC, Fenacon e Receita criam grupo para resolver problemas da transição",
-   "resumo": "Simples Nacional, CBS e ajustes nas normas estão entre os assuntos prioritários",
-   "link": "https://jornalcontabil.com.br/noticia/reforma-tributaria-cfc-fenacon-e-receita-criam-grupo-para-resolver-problemas-da-transicao/",
-   "source": "Jornal Contábil",
-   "official": false,
-   "category": "cont",
-   "tag": "Contabilidade",
-   "addedAt": "2026-11-17T02:44:18Z",
-   "tries": 1
-  },
-  {
-   "id": "0bfa4d5ac560",
-   "date": "2026-11-16",
-   "title": "Reforma Tributária: como negociar preços em 2027",
-   "resumo": "Entenda os impactos da Reforma Tributária nas empresas de serviços e como negociar preços e honorários com clientes para 2027.",
-   "link": "https://www.contabeis.com.br/artigos/80887/reforma-tributaria-como-negociar-precos-em-2027/",
-   "source": "Portal Contabeis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-16T23:11:30Z",
-   "tries": 1
-  },
-  {
-   "id": "5ac14224014b",
-   "date": "2026-11-16",
-   "title": "Receita disponibiliza calculadoras de IBS e CBS",
-   "resumo": "",
-   "link": "https://monitormercantil.com.br/receita-disponibiliza-calculadoras-de-ibs-e-cbs/",
-   "source": "Monitor Mercantil",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-16T22:14:40Z",
-   "tries": 2
   }
  ]
 }

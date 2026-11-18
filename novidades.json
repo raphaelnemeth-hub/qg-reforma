@@ -1,12 +1,12 @@
 {
- "lastCheckAt": "2026-11-18T10:29:43Z",
- "lastCheckBr": "18/11/2026 07:29",
+ "lastCheckAt": "2026-11-18T11:27:01Z",
+ "lastCheckBr": "18/11/2026 08:27",
  "added": 33,
  "feeds": [
   {
    "name": "Agência Senado",
    "ok": true,
-   "found": 1,
+   "found": 0,
    "new": 0
   },
   {
@@ -42,7 +42,7 @@
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 96,
+   "found": 97,
    "new": 29
   },
   {
@@ -77,6 +77,19 @@
    "category": "aliq",
    "tag": "Alíquotas",
    "addedAt": "2026-11-18T05:29:12Z",
+   "tries": 1
+  },
+  {
+   "id": "378e874bc182",
+   "date": "2026-11-17",
+   "title": "OAB-SP lança simulador gratuito para calcular imposto da reforma tributária",
+   "resumo": "",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUXJNY1haaF9SeGV5eUhZMHZVY2ZESmg4Q19NaWJFT0dxemZZX1B3alB4UmhnV1BCWnFONkx3TWc0TXFZb25oME96TDNKYXBvRGpnVXNrRmlIdllDX2ZDMy11d3E3V3hLQzlhU0pXYWstSVFTSDdWa1JYVGJIQnEyVWJyUDh6RGVuMzd0MlJ0QzVuTFRaai1nN0o0N1V5bDB6SWlCRFZpYk53MzJLR0lj?oc=5",
+   "source": "Consultor Jurídico",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-18T11:27:01Z",
    "tries": 1
   },
   {
@@ -1967,19 +1980,6 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-15T17:59:02Z",
-   "tries": 1
-  },
-  {
-   "id": "986a19904833",
-   "date": "2026-11-15",
-   "title": "Que imposto é esse: Empresas perdem primeira rodada na Justiça contra imposto sobre imposto na reforma tributária",
-   "resumo": "Maioria das ações sobre cálculo do ICMS está em São Paulo, em disputa de cerca de R$ 10 bi por ano",
-   "link": "https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/11/empresas-perdem-primeira-rodada-na-justica-contra-imposto-sobre-imposto-na-reforma-tributaria.shtml",
-   "source": "Folha de S.Paulo",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-15T16:06:29Z",
    "tries": 1
   }
  ]

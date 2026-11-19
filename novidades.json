@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-19T09:32:24Z",
- "lastCheckBr": "19/11/2026 06:32",
- "added": 23,
+ "lastCheckAt": "2026-11-19T10:51:36Z",
+ "lastCheckBr": "19/11/2026 07:51",
+ "added": 26,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -43,16 +43,29 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 97,
-   "new": 19
+   "new": 21
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
    "ok": true,
    "found": 6,
-   "new": 4
+   "new": 5
   }
  ],
  "items": [
+  {
+   "id": "125143d99da3",
+   "date": "2026-11-19",
+   "title": "Reforma tributária: o início de uma nova guerra judicial de teses",
+   "resumo": "No Brasil, aquilo que nasce para simplificar frequentemente termina por complicar. A reforma tributária parece caminhar nessa direção",
+   "link": "https://conjur.com.br/2026-nov-19/reforma-tributaria-o-inicio-de-uma-nova-guerra-judicial-de-teses/",
+   "source": "Consultor Jurídico",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-19T10:51:36Z",
+   "tries": 1
+  },
   {
    "id": "69a088d01ca6",
    "date": "2026-11-18",
@@ -1791,6 +1804,71 @@
    "tries": 1
   },
   {
+   "id": "bf377f1c8a15",
+   "date": "2026-11-16",
+   "title": "Ato Conjunto RFB/CGIBS nº 7/2026 atualiza o cronograma de obrigatoriedade de emissão da NFS-e para IBS e CBS",
+   "resumo": "O Comitê Gestor da Nota Fiscal de Serviço Eletrônica de padrão nacional (CGNFS-e) comunica aos municípios, contribuintes prestadores de serviços e desenvolvedores de sistemas que foi publicado, na edição de...",
+   "link": "https://fenacon.org.br/reforma-tributaria/ato-conjunto-rfb-cgibs-no-7-2026-atualiza-o-cronograma-de-obrigatoriedade-de-emissao-da-nfs-e-para-ibs-e-cbs/",
+   "source": "Sistema FENACON",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-19T10:51:36Z",
+   "tries": 1
+  },
+  {
+   "id": "9a55fa70e1ae",
+   "date": "2026-11-16",
+   "title": "Comissão de Finanças debate com Receita Federal regulamentação da reforma tributária",
+   "resumo": "A Comissão de Finanças e Tributação da Câmara dos Deputados realiza, na quarta-feira (18), audiência pública para discutir a regulamentação da reforma tributária com o secretário especial da Receita Federal do Brasil, Robinson Sakiyama Barreirinhas. O debate…",
+   "link": "https://portaldocomercio.org.br/diario-legislativo/comissao-de-financas-debate-com-receita-federal-regulamentacao-da-reforma-tributaria/",
+   "source": "Portal do Comércio",
+   "official": false,
+   "category": "lei",
+   "tag": "Legislação",
+   "addedAt": "2026-11-19T10:51:36Z",
+   "tries": 1
+  },
+  {
+   "id": "b5ae025d8a83",
+   "date": "2026-11-16",
+   "title": "Reforma tributária entra no preço e no contrato de M&A",
+   "resumo": "Convivência de dois sistemas até 2033, fim de incentivos e novas regras de crédito mudam valuation e cláusulas de operações",
+   "link": "https://capitalaberto.com.br/insights/madrona-advogados/2026/11/reforma-tributaria-entra-no-preco-e-no-contrato-de-m-and-a",
+   "source": "Capital Aberto",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-19T10:51:36Z",
+   "tries": 1
+  },
+  {
+   "id": "9f6266633eda",
+   "date": "2026-11-16",
+   "title": "Cashback da Reforma Tributária começa em 2027; veja regras",
+   "resumo": "Benefício prevê descontos em contas de consumo e devolução de impostos para famílias inscritas no CadÚnico.",
+   "link": "https://www.contabeis.com.br/noticias/80900/cashback-da-reforma-tributaria-comeca-em-2027-veja-regras/",
+   "source": "Portal Contabeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-19T10:51:36Z",
+   "tries": 1
+  },
+  {
+   "id": "2c68db2a2e8b",
+   "date": "2026-11-16",
+   "title": "Reforma Tributária do Consumo – Simples Nacional",
+   "resumo": "",
+   "link": "https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo",
+   "source": "Portal da Nota Fiscal Eletrônica",
+   "official": false,
+   "category": "simples",
+   "tag": "Simples",
+   "addedAt": "2026-11-19T10:51:36Z",
+   "tries": 1
+  },
+  {
    "id": "a987fd1e8eed",
    "date": "2026-11-16",
    "title": "CBS: na dúvida, não ultrapasse",
@@ -1892,84 +1970,6 @@
    "category": "aliq",
    "tag": "Alíquotas",
    "addedAt": "2026-11-19T06:56:50Z",
-   "tries": 1
-  },
-  {
-   "id": "2041b91508e1",
-   "date": "2026-11-16",
-   "title": "'NÃO VOU PASSAR RAIVA SOZINHA' 🗣️Qual será o impacto da CBS no bolso do consumidor a partir de janeiro? No programa desta semana, a Duquesa de Tax explica como a reforma tributária pode afetar os preços e o que esperar d",
-   "resumo": "2,024 likes, 72 comments - estadao no November 16, 2026: \"'NÃO VOU PASSAR RAIVA SOZINHA' 🗣️Qual será o impacto da CBS no bolso do consumidor a partir de janeiro? No programa desta semana, a Duquesa de Tax explica como a reforma tributária pode afetar os…",
-   "link": "https://www.instagram.com/reel/DfzaccOCtI0/",
-   "source": "Instagram",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-19T06:56:50Z",
-   "tries": 1
-  },
-  {
-   "id": "7dd8680510e9",
-   "date": "2026-11-16",
-   "title": "Luiz Barbosa | Reforma Tributária: o combinado não pode sair caro",
-   "resumo": "Brasil precisa respeitar pacto firmado no Congresso e abandonar a lógica tributária que limita a competitividade. Leia o artigo no Poder360.",
-   "link": "https://www.poder360.com.br/opiniao/reforma-tributaria-o-combinado-nao-pode-sair-caro/",
-   "source": "Poder360",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-19T06:56:50Z",
-   "tries": 1
-  },
-  {
-   "id": "4dc4503892aa",
-   "date": "2026-11-16",
-   "title": "A reforma tributária fomenta investimentos para as concessões de serviços públicos",
-   "resumo": "Com o desenho legal finalizado, desafio é a execução; as agências reguladoras precisam estar tecnicamente preparadas e ágeis para processar reequilíbrios com rigor e celeridade",
-   "link": "https://www.jota.info/opiniao-e-analise/colunas/coluna-da-abde/a-reforma-tributaria-fomenta-investimentos-para-as-concessoes-de-servicos-publicos",
-   "source": "JOTA Info",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-19T05:32:16Z",
-   "tries": 1
-  },
-  {
-   "id": "c9a48fedfc11",
-   "date": "2026-11-16",
-   "title": "Cancelado debate na Comissão de Finanças sobre regulamentação da reforma tributária",
-   "resumo": "",
-   "link": "https://www.camara.leg.br/noticias/1319043-cancelado-debate-na-comissao-de-financas-sobre-regulamentacao-da-reforma-tributaria",
-   "source": "Portal da Câmara dos Deputados",
-   "official": false,
-   "category": "lei",
-   "tag": "Legislação",
-   "addedAt": "2026-11-19T05:32:16Z",
-   "tries": 2
-  },
-  {
-   "id": "7bc566be225a",
-   "date": "2026-11-16",
-   "title": "Reforma Tributária/RJ: Governo do Estado envia à Alerj projeto de lei que cria programa de negociação de créditos tributários com foco no crescimento da receita de ICMS em 2026 e nos próximos anos",
-   "resumo": "Agilize decisões seguras. Legislação, Comentários e Consultoria nas áreas de IR e Contribuições, ICMS, IPI, ISS, Contabilidade e Societário, Simples Nacional, Trabalhista e Previdenciária. Cálculos e Tabelas de Substituição Tributária. Agenda Tributária…",
-   "link": "https://www.legisweb.com.br/noticia/?id",
-   "source": "LegisWeb",
-   "official": false,
-   "category": "lei",
-   "tag": "Legislação",
-   "addedAt": "2026-11-19T05:32:16Z",
-   "tries": 1
-  },
-  {
-   "id": "81efbe9b8f7f",
-   "date": "2026-11-16",
-   "title": "A CBS em 2027 e a tributação dos serviços: Os reflexos nos escritórios de advocacia",
-   "resumo": "Por Juliana Dias Guerra Nelson Ferreira Cruz. A nova contribuição exigirá dos escritórios a revisão de custos, créditos e honorários para adequar a gestão à mudança no sistema tributário.",
-   "link": "https://www.migalhas.com.br/depeso/468689/a-cbs-em-2027-e-a-tributacao-dos-servicos-os-reflexos-nos-escritorio",
-   "source": "Migalhas",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-19T04:28:30Z",
    "tries": 1
   }
  ]

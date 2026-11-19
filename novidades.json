@@ -1,13 +1,13 @@
 {
- "lastCheckAt": "2026-11-19T18:18:24Z",
- "lastCheckBr": "19/11/2026 15:18",
- "added": 23,
+ "lastCheckAt": "2026-11-19T19:29:11Z",
+ "lastCheckBr": "19/11/2026 16:29",
+ "added": 30,
  "feeds": [
   {
    "name": "Agência Senado",
    "ok": true,
-   "found": 0,
-   "new": 0
+   "found": 1,
+   "new": 1
   },
   {
    "name": "Agência Câmara",
@@ -30,7 +30,7 @@
   {
    "name": "Portal Contábeis",
    "ok": true,
-   "found": 9,
+   "found": 8,
    "new": 0
   },
   {
@@ -43,7 +43,7 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 97,
-   "new": 17
+   "new": 23
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -53,6 +53,83 @@
   }
  ],
  "items": [
+  {
+   "id": "45800a214df5",
+   "date": "2026-11-19",
+   "title": "Leis destinam R$ 522 milhões para gestão fiscal e encargos de fundos internacionais",
+   "resumo": "O presidente Luiz Inácio Lula da Silva sancionou duas leis que destinam R$ 522,1 milhões à implantação de soluções tecnológicas para a reforma tributária e à participação do Brasil no capital de instituições financeiras internacionais. As medidas estão…",
+   "link": "https://www12.senado.leg.br/noticias/materias/2026/11/19/leis-destinam-r-522-milhoes-para-gestao-fiscal-e-encargos-de-fundos-internacionais",
+   "source": "Senado Federal",
+   "official": true,
+   "category": "cap",
+   "tag": "Capacitação",
+   "addedAt": "2026-11-19T19:29:11Z"
+  },
+  {
+   "id": "dab2f3183cfd",
+   "date": "2026-11-19",
+   "title": "No Senado, OAB defende maior clareza no cálculo da CBS e adiamento de etapas da Reforma Tributária",
+   "resumo": "A Ordem dos Advogados do Brasil é a entidade de representação e regulamentação da advocacia e defensora da Constituição Federal",
+   "link": "https://www.oab.org.br/noticia/64817/no-senado-oab-defende-maior-clareza-no-calculo-da-cbs-e-adiamento-de-etapas-da-reforma-tributaria",
+   "source": "OAB",
+   "official": false,
+   "category": "lei",
+   "tag": "Legislação",
+   "addedAt": "2026-11-19T19:29:11Z",
+   "tries": 1
+  },
+  {
+   "id": "3b1549d9ecc1",
+   "date": "2026-11-19",
+   "title": "Tributaristas discutem inclusão de CBS e IBS nas bases de cálculo do ICMS e ISS",
+   "resumo": "Falta de clareza sobre o cálculo do imposto estadual e municipal na transição da reforma tributária contraria promessa de redução de litígios",
+   "link": "https://dcomercio.com.br/publicacao/s/tributaristas-discutem-inclusao-de-cbs-e-ibs-nas-bases-de-calculo-do-icms-e-iss",
+   "source": "DComercio",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-19T19:29:11Z",
+   "tries": 1
+  },
+  {
+   "id": "31eedc163762",
+   "date": "2026-11-19",
+   "title": "Reforma Tributária: créditos da CBS podem pressionar caixa das empresas em 2027",
+   "resumo": "Vinculação dos créditos ao recolhimento do tributo exige revisão do capital de giro; Receita anuncia proposta de transição, que depende de aprovação do Congresso",
+   "link": "https://www.portaldoagronegocio.com.br/gestao-rural/analise-de-mercado/noticias/reforma-tributaria-creditos-da-cbs-podem-pressionar-caixa-das-empresas-em-2027",
+   "source": "Portal do Agronegócio",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-19T19:29:11Z",
+   "tries": 1
+  },
+  {
+   "id": "5d36033fceb3",
+   "date": "2026-11-19",
+   "title": "Senado cobra explicações sobre alíquota de 11,3% da reforma tributária",
+   "resumo": "",
+   "link": "https://portalbenews.com.br/senado-cobra-explicacoes-sobre-aliquota-de-113-da-reforma-tributaria/",
+   "source": "Portal BE News",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-19T19:29:11Z",
+   "tries": 1
+  },
+  {
+   "id": "9e3141102ff5",
+   "date": "2026-11-19",
+   "title": "Simples híbrido supera 1 milhão de solicitações, e modelo tradicional soma 657,3 mil",
+   "resumo": "Os contribuintes que ainda desejam desistir da opção pelo regime regular da CBS e do IBS têm até o próximo dia 20 de dezembro para solicitar o cancelamento",
+   "link": "https://agenciadcnews.com.br/publicacao/s/simples-hibrido-supera-1-milhao-de-solicitacoes-e-modelo-tradicional-soma-657-3-mil",
+   "source": "DComercio",
+   "official": false,
+   "category": "simples",
+   "tag": "Simples",
+   "addedAt": "2026-11-19T19:29:11Z",
+   "tries": 1
+  },
   {
    "id": "ecb12db3b554",
    "date": "2026-11-19",
@@ -152,6 +229,19 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-19T10:51:36Z",
+   "tries": 1
+  },
+  {
+   "id": "a8c1886aafdc",
+   "date": "2026-11-18",
+   "title": "RFB e CGIBS alinham próximos passos da implementação da Reforma e reforçam compromisso com a conformidade tributária — Receita Federal",
+   "resumo": "Reunião reforçou a atuação conjunta, o programa de conformidade tributária e a oferta de canais de orientação e suporte aos contribuintes durante a transição para o novo modelo.",
+   "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/rfb-e-cgibs-alinham-proximos-passos-da-implementacao-da-reforma-e-reforcam-compromisso-com-a-conformidade-tributaria",
+   "source": "GOV.BR",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-19T19:29:11Z",
    "tries": 1
   },
   {
@@ -1878,96 +1968,6 @@
    "category": "simples",
    "tag": "Simples",
    "addedAt": "2026-11-17T11:40:47Z"
-  },
-  {
-   "id": "be28951368bb",
-   "date": "2026-11-17",
-   "title": "Importação de máquinas agrícolas: reforma tributária muda custos e exige planejamento dos produtores em 2027",
-   "resumo": "Entrada da CBS nas importações pode alterar o desembolso inicial, o aproveitamento de créditos tributários e a decisão de compra de tratores, semeadoras e equipamentos agrícolas.",
-   "link": "https://www.portaldoagronegocio.com.br/agroindustria/maquinas-e-implementos/noticias/importacao-de-maquinas-agricolas-reforma-tributaria-muda-custos-e-exige-planejamento-dos-produtores-em-2027",
-   "source": "Portal do Agronegócio",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-17T11:40:47Z",
-   "tries": 1
-  },
-  {
-   "id": "b174a4068a94",
-   "date": "2026-11-17",
-   "title": "Durigan vai ao Senado explicar alíquota de 11,3% da CBS",
-   "resumo": "Em meio a questionamentos sobre a reforma tributária, o ministro da Fazenda, Dario Durigan, participa nesta terça-feira (17), às 10h, de audiência pública na Comissão de Assuntos Econômicos (CAE) do Senado para discutir a alíquota de referência da…",
-   "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/durigan-vai-ao-senado-explicar-aliquota-de-113-da-cbs",
-   "source": "Agência Brasil",
-   "official": true,
-   "category": "nt",
-   "tag": "Nota técnica",
-   "addedAt": "2026-11-17T10:32:20Z"
-  },
-  {
-   "id": "27b0d78662b2",
-   "date": "2026-11-17",
-   "title": "Reforma Tributária: ministro da Fazenda vai ao Senado explicar alíquota de 11,3% para a CBS",
-   "resumo": "Percentual calculado pelo TCU superou estimativa e provocou questionamentos de senadores; audiência ocorre nesta terça-feira",
-   "link": "https://oglobo.globo.com/economia/noticia/2026/11/17/reforma-tributaria-ministro-da-fazenda-vai-ao-senado-explicar-aliquota-de-113percent-para-a-cbs.ghtml",
-   "source": "O GLOBO",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-17T04:47:53Z",
-   "tries": 1
-  },
-  {
-   "id": "a987fd1e8eed",
-   "date": "2026-11-16",
-   "title": "CBS: na dúvida, não ultrapasse",
-   "resumo": "Conforme as premissas, a mesma regra de neutralidade produz uma alíquota de referência da CBS entre 9,7% e 11,3%",
-   "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/cbs-na-duvida-nao-ultrapasse",
-   "source": "JOTA Info",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-19T18:18:24Z",
-   "tries": 1
-  },
-  {
-   "id": "b4cf2dbc35db",
-   "date": "2026-11-16",
-   "title": "Assistir às suas séries e filmes no streaming ficará mais caro pela Reforma Tributária?",
-   "resumo": "No streaming, há uma linha tênue entre o que é a prestação de serviço e o que seria a cessão/circulação de mercadorias",
-   "link": "https://www.jota.info/opiniao-e-analise/artigos/assistir-as-suas-series-e-filmes-no-streaming-ficara-mais-caro-pela-reforma-tributaria",
-   "source": "JOTA Info",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-19T18:18:24Z",
-   "tries": 1
-  },
-  {
-   "id": "b5ae025d8a83",
-   "date": "2026-11-16",
-   "title": "Reforma tributária entra no preço e no contrato de M&A",
-   "resumo": "Convivência de dois sistemas até 2033, fim de incentivos e novas regras de crédito mudam valuation e cláusulas de operações",
-   "link": "https://capitalaberto.com.br/insights/madrona-advogados/2026/11/reforma-tributaria-entra-no-preco-e-no-contrato-de-m-and-a",
-   "source": "Capital Aberto",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-19T18:18:24Z",
-   "tries": 1
-  },
-  {
-   "id": "60281caf5010",
-   "date": "2026-11-16",
-   "title": "Justiça mantém IBS e CBS na base do ICMS em maioria das ações",
-   "resumo": "Levantamento aponta que 70% das decisões sobre a inclusão dos novos tributos na base do ICMS favoreceram os estados; disputa envolve a transição da reforma.",
-   "link": "https://www.contabeis.com.br/noticias/80910/justica-mantem-ibs-e-cbs-na-base-do-icms-em-maioria-das-acoes/",
-   "source": "Portal Contabeis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-19T18:18:24Z",
-   "tries": 1
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-19T22:17:05Z",
- "lastCheckBr": "19/11/2026 19:17",
- "added": 28,
+ "lastCheckAt": "2026-11-19T23:12:40Z",
+ "lastCheckBr": "19/11/2026 20:12",
+ "added": 29,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -24,14 +24,14 @@
   {
    "name": "Agência Brasil",
    "ok": true,
-   "found": 4,
+   "found": 3,
    "new": 0
   },
   {
    "name": "Portal Contábeis",
    "ok": true,
    "found": 7,
-   "new": 1
+   "new": 0
   },
   {
    "name": "InfoMoney",
@@ -42,17 +42,30 @@
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 93,
+   "found": 97,
    "new": 22
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
    "ok": true,
-   "found": 6,
-   "new": 5
+   "found": 8,
+   "new": 7
   }
  ],
  "items": [
+  {
+   "id": "4a2bd2f977a4",
+   "date": "2026-11-19",
+   "title": "RFB, CGIBS e CFC vão orientar mais de 25 mil profissionais da contabilidade sobre destaques da CBS/IBS nos DF-e",
+   "resumo": "Essa iniciativa, em continuidade à reconhecida parceria mantida entre os órgãos em ações voltadas à reforma, contribuirá significativamente para o fortalecimento da conformidade fiscal",
+   "link": "https://www.cgibs.gov.br/rfb-cgibs-e-cfc-vao-orientar-mais-de-25-mil-profissionais-da-contabilidade-sobre-destaques-da-cbs-ibs",
+   "source": "Comitê Gestor do IBS",
+   "official": false,
+   "category": "cont",
+   "tag": "Contabilidade",
+   "addedAt": "2026-11-19T23:12:40Z",
+   "tries": 1
+  },
   {
    "id": "2f0bb351fb82",
    "date": "2026-11-19",
@@ -76,7 +89,7 @@
    "category": "aliq",
    "tag": "Alíquotas",
    "addedAt": "2026-11-19T22:17:05Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "aa5c88b80818",
@@ -892,6 +905,19 @@
    "tries": 1
   },
   {
+   "id": "58b93455e2d9",
+   "date": "2026-11-17",
+   "title": "Senado debate alíquota de 11,3% da CBS para 2027",
+   "resumo": "Ministro da Fazenda participa de audiência nesta terça-feira (17) para discutir o cálculo da alíquota de referência da CBS recomendada pelo TCU.",
+   "link": "https://www.contabeis.com.br/noticias/80927/senado-debate-aliquota-de-11-3-da-cbs-para-2027/",
+   "source": "Portal Contabeis",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-19T23:12:40Z",
+   "tries": 1
+  },
+  {
    "id": "11ae9a2db00b",
    "date": "2026-11-17",
    "title": "Receita libera Calculadora de Tributos da Reforma Tributária no GitHub",
@@ -915,7 +941,7 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-19T22:17:05Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "c5e7b4245e15",
@@ -1944,32 +1970,6 @@
    "category": "lei",
    "tag": "Legislação",
    "addedAt": "2026-11-17T14:05:17Z"
-  },
-  {
-   "id": "7b5541de6bb9",
-   "date": "2026-11-17",
-   "title": "Alíquota da CBS: Durigan vai ao Senado discutir percentual de 11,3%",
-   "resumo": "Percentual calculado pelo TCU supera estimativa anterior; Fazenda prepara mudanças no pagamento do tributo em 2027.",
-   "link": "https://istoedinheiro.com.br/aliquota-cbs-durigan-senado",
-   "source": "ISTOÉ DINHEIRO",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-17T14:05:17Z",
-   "tries": 1
-  },
-  {
-   "id": "711ec47770e1",
-   "date": "2026-11-17",
-   "title": "Durigan explica no Senado nesta terça (17) alíquota de 11,3% da CBS, novo imposto que começa em 2027",
-   "resumo": "Índice recomendado pelo TCU superou a estimativa do governo; indústria e OAB pedem adiamento, e Senado tem até 15 de dezembro para definir o percentual",
-   "link": "https://www.meon.com.br/noticias/brasil/durigan-senado-aliquota-cbs-11-3-reforma-tributaria",
-   "source": "MEON",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-17T14:05:17Z",
-   "tries": 1
   }
  ]
 }

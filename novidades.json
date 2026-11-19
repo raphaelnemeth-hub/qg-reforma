@@ -1,6 +1,6 @@
 {
- "lastCheckAt": "2026-11-19T03:19:35Z",
- "lastCheckBr": "19/11/2026 00:19",
+ "lastCheckAt": "2026-11-19T04:28:30Z",
+ "lastCheckBr": "19/11/2026 01:28",
  "added": 20,
  "feeds": [
   {
@@ -53,6 +53,19 @@
   }
  ],
  "items": [
+  {
+   "id": "914fc4f2dc4c",
+   "date": "2026-11-18",
+   "title": "RFB e CGIBS alinham próximos passos da implementação da Reforma e reforçam compromisso com a conformidade tributária",
+   "resumo": "Reunião reforçou a atuação conjunta, o programa de conformidade tributária e a oferta de canais de orientação e suporte aos contribuintes durante a transição para o novo modelo.",
+   "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/rfb-e-cgibs-alinham-proximos-passos-da-implementacao-da-reforma-e-reforcam-compromisso-com-a-conformidade-tributaria",
+   "source": "GOV.BR",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-19T04:28:30Z",
+   "tries": 1
+  },
   {
    "id": "7fbc9339f310",
    "date": "2026-11-18",
@@ -1752,6 +1765,19 @@
    "tries": 1
   },
   {
+   "id": "81efbe9b8f7f",
+   "date": "2026-11-16",
+   "title": "A CBS em 2027 e a tributação dos serviços: Os reflexos nos escritórios de advocacia",
+   "resumo": "Por Juliana Dias Guerra Nelson Ferreira Cruz. A nova contribuição exigirá dos escritórios a revisão de custos, créditos e honorários para adequar a gestão à mudança no sistema tributário.",
+   "link": "https://www.migalhas.com.br/depeso/468689/a-cbs-em-2027-e-a-tributacao-dos-servicos-os-reflexos-nos-escritorio",
+   "source": "Migalhas",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-19T04:28:30Z",
+   "tries": 1
+  },
+  {
    "id": "9a55fa70e1ae",
    "date": "2026-11-16",
    "title": "Comissão de Finanças debate com Receita Federal regulamentação da reforma tributária",
@@ -1945,32 +1971,6 @@
    "tag": "Atualização",
    "addedAt": "2026-11-18T16:53:18Z",
    "tries": 1
-  },
-  {
-   "id": "4dc4503892aa",
-   "date": "2026-11-16",
-   "title": "A reforma tributária fomenta investimentos para as concessões de serviços públicos",
-   "resumo": "Com o desenho legal finalizado, desafio é a execução; as agências reguladoras precisam estar tecnicamente preparadas e ágeis para processar reequilíbrios com rigor e celeridade",
-   "link": "https://www.jota.info/opiniao-e-analise/colunas/coluna-da-abde/a-reforma-tributaria-fomenta-investimentos-para-as-concessoes-de-servicos-publicos",
-   "source": "JOTA Info",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-18T15:47:52Z",
-   "tries": 1
-  },
-  {
-   "id": "c9a48fedfc11",
-   "date": "2026-11-16",
-   "title": "Cancelado debate na Comissão de Finanças sobre regulamentação da reforma tributária",
-   "resumo": "",
-   "link": "https://www.camara.leg.br/noticias/1319043-cancelado-debate-na-comissao-de-financas-sobre-regulamentacao-da-reforma-tributaria",
-   "source": "Portal da Câmara dos Deputados",
-   "official": false,
-   "category": "lei",
-   "tag": "Legislação",
-   "addedAt": "2026-11-18T14:44:37Z",
-   "tries": 2
   }
  ]
 }

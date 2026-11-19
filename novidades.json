@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-19T20:25:49Z",
- "lastCheckBr": "19/11/2026 17:25",
- "added": 31,
+ "lastCheckAt": "2026-11-19T21:17:39Z",
+ "lastCheckBr": "19/11/2026 18:17",
+ "added": 29,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -30,8 +30,8 @@
   {
    "name": "Portal Contábeis",
    "ok": true,
-   "found": 8,
-   "new": 1
+   "found": 7,
+   "new": 0
   },
   {
    "name": "InfoMoney",
@@ -43,7 +43,7 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 98,
-   "new": 24
+   "new": 23
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -53,6 +53,19 @@
   }
  ],
  "items": [
+  {
+   "id": "aa5c88b80818",
+   "date": "2026-11-19",
+   "title": "Cashback da reforma tributária: como funciona e quem recebe a partir de 2027",
+   "resumo": "O cashback da reforma tributária com a devolução de parte da CBS, começa em janeiro e alcança 27,7 milhões de famílias",
+   "link": "https://investnews.com.br/economia/cashback-da-reforma-tributaria-entenda/",
+   "source": "InvestNews",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-19T21:17:39Z",
+   "tries": 1
+  },
   {
    "id": "f2a26e58e0f0",
    "date": "2026-11-19",
@@ -851,6 +864,19 @@
    "category": "aliq",
    "tag": "Alíquotas",
    "addedAt": "2026-11-18T05:29:12Z",
+   "tries": 1
+  },
+  {
+   "id": "c5e7b4245e15",
+   "date": "2026-11-17",
+   "title": "Durigan explica no Senado alíquota de 11,3% da CBS",
+   "resumo": "Percentual recomendado pelo TCU provocou questionamentos de parlamentares e representantes do setor produtivo, que pedem esclarecimentos sobre os critérios utilizados no cálculo.",
+   "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/durigan-explica-no-senado-aliquota-de-113-da-cbs",
+   "source": "Agência Brasil",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-19T21:17:39Z",
    "tries": 1
   },
   {
@@ -1945,30 +1971,6 @@
    "tag": "Legislação",
    "addedAt": "2026-11-17T14:05:17Z",
    "tries": 1
-  },
-  {
-   "id": "936ff5e9e033",
-   "date": "2026-11-17",
-   "title": "Receita libera Calculadora de Tributos da Reforma Tributária no GitHub",
-   "resumo": "Código-fonte da ferramenta poderá ser consultado e integrado por empresas, desenvolvedores e profissionais da contabilidade . Leia mais em https://www.contabeis.com.br/noticias/80925/receita-libera-calculadora-de-tributos-da-reforma-tributaria-no-github/",
-   "link": "https://www.contabeis.com.br/noticias/80925/receita-libera-calculadora-de-tributos-da-reforma-tributaria-no-github/",
-   "source": "Portal Contábeis",
-   "official": false,
-   "category": "cont",
-   "tag": "Contabilidade",
-   "addedAt": "2026-11-17T12:48:28Z"
-  },
-  {
-   "id": "ca30ba99e034",
-   "date": "2026-11-17",
-   "title": "Senado debate alíquota de 11,3% da CBS para 2027",
-   "resumo": "Foto: Gabriel Tiveron / Unsplash · Licença Unsplash Ministro da Fazenda participa de audiência nesta terça-feira (17) para discutir o cálculo da alíquota de referência da CBS recomendada pelo TCU. Leia mais em…",
-   "link": "https://www.contabeis.com.br/noticias/80927/senado-debate-aliquota-de-11-3-da-cbs-para-2027/",
-   "source": "Portal Contábeis",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-17T12:48:28Z"
   }
  ]
 }

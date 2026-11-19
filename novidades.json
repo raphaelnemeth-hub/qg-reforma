@@ -1,13 +1,13 @@
 {
- "lastCheckAt": "2026-11-19T19:29:11Z",
- "lastCheckBr": "19/11/2026 16:29",
- "added": 30,
+ "lastCheckAt": "2026-11-19T20:25:49Z",
+ "lastCheckBr": "19/11/2026 17:25",
+ "added": 31,
  "feeds": [
   {
    "name": "Agência Senado",
    "ok": true,
    "found": 1,
-   "new": 1
+   "new": 0
   },
   {
    "name": "Agência Câmara",
@@ -24,14 +24,14 @@
   {
    "name": "Agência Brasil",
    "ok": true,
-   "found": 5,
+   "found": 4,
    "new": 0
   },
   {
    "name": "Portal Contábeis",
    "ok": true,
    "found": 8,
-   "new": 0
+   "new": 1
   },
   {
    "name": "InfoMoney",
@@ -42,8 +42,8 @@
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 97,
-   "new": 23
+   "found": 98,
+   "new": 24
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -53,6 +53,44 @@
   }
  ],
  "items": [
+  {
+   "id": "f2a26e58e0f0",
+   "date": "2026-11-19",
+   "title": "Reforma Tributária 2027: como preparar seu escritório contábil?",
+   "resumo": "Webinar do Portal Contábeis em 25 de novembro abordará mudanças da Reforma Tributária em 2027 e como preparar os escritórios contábeis. Leia mais em https://www.contabeis.com.br/noticias/81019/reforma-tributaria-2027-como-preparar-seu-escritorio-contabil/",
+   "link": "https://www.contabeis.com.br/noticias/81019/reforma-tributaria-2027-como-preparar-seu-escritorio-contabil/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "cont",
+   "tag": "Contabilidade",
+   "addedAt": "2026-11-19T20:25:49Z"
+  },
+  {
+   "id": "73db513f335a",
+   "date": "2026-11-19",
+   "title": "ABAT propõe medidas ao STF para disputas da reforma tributária",
+   "resumo": "Contribuições ao CESTF buscam garantir segurança jurídica e proteger contribuintes em disputas sobre IBS e CBS.",
+   "link": "https://www.migalhas.com.br/quentes/468992/abat-propoe-medidas-ao-stf-para-disputas-da-reforma-tributaria",
+   "source": "Migalhas",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-19T20:25:49Z",
+   "tries": 1
+  },
+  {
+   "id": "ace88efeb324",
+   "date": "2026-11-19",
+   "title": "Setor de saneamento pede adiamento da reforma tributária para 2028",
+   "resumo": "Beatriz Kawai e Amanda Pupo, da Agência iNFRA As companhias de saneamento pedem ao governo federal o adiamento do início da reforma tributária sobre consumo em um ano, para 2028, devido a pendências na regulamentação do novo sistema. São pelo menos cinco…",
+   "link": "https://agenciainfra.com/blog/setor-de-saneamento-pede-adiamento-da-reforma-tributaria-para-2028/",
+   "source": "Agência iNFRA",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-19T20:25:49Z",
+   "tries": 1
+  },
   {
    "id": "45800a214df5",
    "date": "2026-11-19",
@@ -115,7 +153,7 @@
    "category": "aliq",
    "tag": "Alíquotas",
    "addedAt": "2026-11-19T19:29:11Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "9e3141102ff5",
@@ -813,6 +851,19 @@
    "category": "aliq",
    "tag": "Alíquotas",
    "addedAt": "2026-11-18T05:29:12Z",
+   "tries": 1
+  },
+  {
+   "id": "13d095b67bab",
+   "date": "2026-11-17",
+   "title": "Reforma Tributária: ministro da Fazenda vai ao Senado explicar alíquota de 11,3% para a CBS",
+   "resumo": "Percentual calculado pelo TCU superou estimativa e provocou questionamentos de senadores; audiência ocorre nesta terça-feira",
+   "link": "https://extra.globo.com/economia/noticia/2026/11/reforma-tributaria-ministro-da-fazenda-vai-ao-senado-explicar-aliquota-de-113percent-para-a-cbs.ghtml",
+   "source": "Extra online",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-19T20:25:49Z",
    "tries": 1
   },
   {
@@ -1918,56 +1969,6 @@
    "category": "aliq",
    "tag": "Alíquotas",
    "addedAt": "2026-11-17T12:48:28Z"
-  },
-  {
-   "id": "f73b8cd22033",
-   "date": "2026-11-17",
-   "title": "Reforma Tributária, adiada ou não, pode travar direitos das pessoas com deficiência",
-   "resumo": "Associações alertam para confusão nas normas que tratam das isenções de impostos federais e ...",
-   "link": "https://www.terra.com.br/nos/reforma-tributaria-adiada-ou-nao-pode-travar-direitos-das-pessoas-com-deficiencia,932a968ec7251ef874924f74a494ac94hk0nh5gg.html",
-   "source": "Terra",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-17T12:48:28Z",
-   "tries": 1
-  },
-  {
-   "id": "75d4e8f86519",
-   "date": "2026-11-17",
-   "title": "Dario Durigan vai ao Senado debater alíquota de 11,3% da CBS",
-   "resumo": "Proposta sugerida pelo TCU gera debates intensos e atrito com parlamentares e entidades do setor produtivo.",
-   "link": "https://www.pagina1.com.br/noticia/dario-durigan-vai-ao-senado-debater-aliquota-de-11-3-da-cbs",
-   "source": "Página 1 MT",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-17T12:48:28Z",
-   "tries": 1
-  },
-  {
-   "id": "5493fae9f82c",
-   "date": "2026-11-17",
-   "title": "Durigan explica no Senado alíquota de 11,3% da CBS",
-   "resumo": "Em meio a questionamentos sobre a reforma tributária, o ministro da Fazenda, Dario Durigan, participa nesta terça-feira (17), às 10h, de audiência pública na Comissão de Assuntos Econômicos (CAE) do Senado para discutir a alíquota de referência da…",
-   "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/durigan-explica-no-senado-aliquota-de-113-da-cbs",
-   "source": "Agência Brasil",
-   "official": true,
-   "category": "nt",
-   "tag": "Nota técnica",
-   "addedAt": "2026-11-17T11:40:47Z"
-  },
-  {
-   "id": "8581125664fb",
-   "date": "2026-11-17",
-   "title": "Simples Híbrido: cálculo da CBS em 11,3% exige revisar a escolha dos clientes até 20 de dezembro",
-   "resumo": "O TCU calculou a alíquota de referência da CBS em 11,3%, acima dos 8,8% estimados pelo governo em 2024. O percentual ainda depende de definição pelo Senado, mas já exige uma nova análise de quem escolheu recolher IBS e CBS fora do DAS. Leia mais em…",
-   "link": "https://www.contabeis.com.br/noticias/80869/simples-hibrido-calculo-da-cbs-em-11-3-exige-revisar-a-escolha-dos-clientes-ate-20-de-dezembro/",
-   "source": "Portal Contábeis",
-   "official": false,
-   "category": "simples",
-   "tag": "Simples",
-   "addedAt": "2026-11-17T11:40:47Z"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-19T10:51:36Z",
- "lastCheckBr": "19/11/2026 07:51",
- "added": 26,
+ "lastCheckAt": "2026-11-19T11:49:20Z",
+ "lastCheckBr": "19/11/2026 08:49",
+ "added": 24,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -43,13 +43,13 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 97,
-   "new": 21
+   "new": 20
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
    "ok": true,
    "found": 6,
-   "new": 5
+   "new": 4
   }
  ],
  "items": [
@@ -1804,6 +1804,71 @@
    "tries": 1
   },
   {
+   "id": "81efbe9b8f7f",
+   "date": "2026-11-16",
+   "title": "A CBS em 2027 e a tributação dos serviços: Os reflexos nos escritórios de advocacia",
+   "resumo": "Por Juliana Dias Guerra Nelson Ferreira Cruz. A nova contribuição exigirá dos escritórios a revisão de custos, créditos e honorários para adequar a gestão à mudança no sistema tributário.",
+   "link": "https://www.migalhas.com.br/depeso/468689/a-cbs-em-2027-e-a-tributacao-dos-servicos-os-reflexos-nos-escritorio",
+   "source": "Migalhas",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-19T11:49:20Z",
+   "tries": 1
+  },
+  {
+   "id": "4dc4503892aa",
+   "date": "2026-11-16",
+   "title": "A reforma tributária fomenta investimentos para as concessões de serviços públicos",
+   "resumo": "Com o desenho legal finalizado, desafio é a execução; as agências reguladoras precisam estar tecnicamente preparadas e ágeis para processar reequilíbrios com rigor e celeridade",
+   "link": "https://www.jota.info/opiniao-e-analise/colunas/coluna-da-abde/a-reforma-tributaria-fomenta-investimentos-para-as-concessoes-de-servicos-publicos",
+   "source": "JOTA Info",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-19T11:49:20Z",
+   "tries": 1
+  },
+  {
+   "id": "c9a48fedfc11",
+   "date": "2026-11-16",
+   "title": "Cancelado debate na Comissão de Finanças sobre regulamentação da reforma tributária",
+   "resumo": "",
+   "link": "https://www.camara.leg.br/noticias/1319043-cancelado-debate-na-comissao-de-financas-sobre-regulamentacao-da-reforma-tributaria",
+   "source": "Portal da Câmara dos Deputados",
+   "official": false,
+   "category": "lei",
+   "tag": "Legislação",
+   "addedAt": "2026-11-19T11:49:20Z",
+   "tries": 1
+  },
+  {
+   "id": "7bc566be225a",
+   "date": "2026-11-16",
+   "title": "Reforma Tributária/RJ: Governo do Estado envia à Alerj projeto de lei que cria programa de negociação de créditos tributários com foco no crescimento da receita de ICMS em 2026 e nos próximos anos",
+   "resumo": "Agilize decisões seguras. Legislação, Comentários e Consultoria nas áreas de IR e Contribuições, ICMS, IPI, ISS, Contabilidade e Societário, Simples Nacional, Trabalhista e Previdenciária. Cálculos e Tabelas de Substituição Tributária. Agenda Tributária…",
+   "link": "https://www.legisweb.com.br/noticia/?id",
+   "source": "LegisWeb",
+   "official": false,
+   "category": "lei",
+   "tag": "Legislação",
+   "addedAt": "2026-11-19T11:49:20Z",
+   "tries": 1
+  },
+  {
+   "id": "7dd8680510e9",
+   "date": "2026-11-16",
+   "title": "Luiz Barbosa | Reforma Tributária: o combinado não pode sair caro",
+   "resumo": "",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNFpNUDhEMFVFUm1PN3BzaGJHVVdqVzRzS3lfTWNzRTloUW94bnRIYnpPUDc4WklOOEtEZWNQWElTLVJFVEJ6cXkzb1hubEUwZEtNS1BNRXpNX3lFTjJ0Q1Bvek9SRjZGSkdYUzZhS3Vsdmt3SWlSYWRCY0tDZnU4b0hTdnpWUmNGZ0RHenZLaw?oc=5",
+   "source": "Poder360",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-19T11:49:20Z",
+   "tries": 1
+  },
+  {
    "id": "bf377f1c8a15",
    "date": "2026-11-16",
    "title": "Ato Conjunto RFB/CGIBS nº 7/2026 atualiza o cronograma de obrigatoriedade de emissão da NFS-e para IBS e CBS",
@@ -1866,7 +1931,7 @@
    "category": "simples",
    "tag": "Simples",
    "addedAt": "2026-11-19T10:51:36Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "a987fd1e8eed",
@@ -1905,71 +1970,6 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-19T09:32:24Z",
-   "tries": 1
-  },
-  {
-   "id": "69e8f45e7223",
-   "date": "2026-11-16",
-   "title": "Receita Federal publica primeiro código-fonte aberto no GitHub e amplia transparência da Reforma Tributária",
-   "resumo": "Iniciativa fortalece a transparência, a segurança jurídica e a previsibilidade na implementação dos novos tributos sobre o consumo.",
-   "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
-   "source": "GOV.BR",
-   "official": false,
-   "category": "lei",
-   "tag": "Legislação",
-   "addedAt": "2026-11-19T08:18:26Z",
-   "tries": 1
-  },
-  {
-   "id": "92470332de2c",
-   "date": "2026-11-16",
-   "title": "Minuta propõe adiar cobrança da CBS para 2028",
-   "resumo": "Proposta também mantém testes em 2027 e prevê mudanças no cálculo da alíquota e na distribuição do FNDR.",
-   "link": "https://www.contabeis.com.br/noticias/80896/minuta-propoe-adiar-cobranca-da-cbs-para-2028/",
-   "source": "Portal Contabeis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-19T08:18:26Z",
-   "tries": 1
-  },
-  {
-   "id": "4d7edc57b427",
-   "date": "2026-11-16",
-   "title": "Reforma tributária: Créditos sobre despesas de viagens e equipamentos de empregados",
-   "resumo": "Por Aurélio Longo Guerzoni. A reforma tributária permitirá créditos de IBS e CBS sobre determinadas despesas com viagens, transporte e equipamentos de empregados, mas manterá restrições para ...",
-   "link": "https://www.migalhas.com.br/depeso/466558/reforma-tributaria-creditos-sobre-despesas-de-viagens-e-equipamentos",
-   "source": "Migalhas",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-19T08:18:26Z",
-   "tries": 1
-  },
-  {
-   "id": "b4cf2dbc35db",
-   "date": "2026-11-16",
-   "title": "Assistir às suas séries e filmes no streaming ficará mais caro pela Reforma Tributária?",
-   "resumo": "No streaming, há uma linha tênue entre o que é a prestação de serviço e o que seria a cessão/circulação de mercadorias",
-   "link": "https://www.jota.info/opiniao-e-analise/artigos/assistir-as-suas-series-e-filmes-no-streaming-ficara-mais-caro-pela-reforma-tributaria",
-   "source": "JOTA Info",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-19T06:56:50Z",
-   "tries": 1
-  },
-  {
-   "id": "f3595ef7e511",
-   "date": "2026-11-16",
-   "title": "CBS: Durigan vai ao Senado sob pressão por alíquota e novas regras",
-   "resumo": "Audiência nesta terça-feira (17) discutirá percentual de 11,3% calculado pelo TCU; indústria questiona o valor e, assim como a OAB, pede adiamento da implementação do tributo.",
-   "link": "https://www.congressoemfoco.com.br/noticia/131610/cbs-durigan-vai-ao-senado-sob-pressao-por-aliquota-e-novas-regras",
-   "source": "Congresso em Foco",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-19T06:56:50Z",
    "tries": 1
   }
  ]

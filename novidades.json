@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-19T02:06:48Z",
- "lastCheckBr": "18/11/2026 23:06",
- "added": 21,
+ "lastCheckAt": "2026-11-19T03:19:35Z",
+ "lastCheckBr": "19/11/2026 00:19",
+ "added": 20,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -49,7 +49,7 @@
    "name": "CGIBS / NF-e (Google Notícias)",
    "ok": true,
    "found": 5,
-   "new": 4
+   "new": 3
   }
  ],
  "items": [
@@ -64,7 +64,7 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-19T02:06:48Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "2e3bc4d1c35b",
@@ -1752,6 +1752,32 @@
    "tries": 1
   },
   {
+   "id": "9a55fa70e1ae",
+   "date": "2026-11-16",
+   "title": "Comissão de Finanças debate com Receita Federal regulamentação da reforma tributária",
+   "resumo": "A Comissão de Finanças e Tributação da Câmara dos Deputados realiza, na quarta-feira (18), audiência pública para discutir a regulamentação da reforma tributária com o secretário especial da Receita Federal do Brasil, Robinson Sakiyama Barreirinhas. O debate…",
+   "link": "https://portaldocomercio.org.br/diario-legislativo/comissao-de-financas-debate-com-receita-federal-regulamentacao-da-reforma-tributaria/",
+   "source": "Portal do Comércio",
+   "official": false,
+   "category": "lei",
+   "tag": "Legislação",
+   "addedAt": "2026-11-19T03:19:35Z",
+   "tries": 1
+  },
+  {
+   "id": "b5ae025d8a83",
+   "date": "2026-11-16",
+   "title": "Reforma tributária entra no preço e no contrato de M&A",
+   "resumo": "Convivência de dois sistemas até 2033, fim de incentivos e novas regras de crédito mudam valuation e cláusulas de operações",
+   "link": "https://capitalaberto.com.br/insights/madrona-advogados/2026/11/reforma-tributaria-entra-no-preco-e-no-contrato-de-m-and-a",
+   "source": "Capital Aberto",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-19T03:19:35Z",
+   "tries": 1
+  },
+  {
    "id": "2c68db2a2e8b",
    "date": "2026-11-16",
    "title": "Reforma Tributária do Consumo – Simples Nacional",
@@ -1762,7 +1788,7 @@
    "category": "simples",
    "tag": "Simples",
    "addedAt": "2026-11-19T02:06:48Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "bf377f1c8a15",
@@ -1945,32 +1971,6 @@
    "tag": "Legislação",
    "addedAt": "2026-11-18T14:44:37Z",
    "tries": 2
-  },
-  {
-   "id": "c04b79bcf7e1",
-   "date": "2026-11-16",
-   "title": "CBS em 2027: como se preparar para o impacto no caixa",
-   "resumo": "A CBS começa em janeiro de 2027. Veja como contratos, split payment e a transição do PIS e da Cofins podem afetar o caixa das empresas.",
-   "link": "https://www.contabeis.com.br/artigos/80913/cbs-em-2027-como-se-preparar-para-o-impacto-no-caixa/",
-   "source": "Portal Contabeis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-17T21:41:42Z",
-   "tries": 1
-  },
-  {
-   "id": "81efbe9b8f7f",
-   "date": "2026-11-16",
-   "title": "A CBS em 2027 e a tributação dos serviços: Os reflexos nos escritórios de advocacia",
-   "resumo": "Por Juliana Dias Guerra Nelson Ferreira Cruz. A nova contribuição exigirá dos escritórios a revisão de custos, créditos e honorários para adequar a gestão à mudança no sistema tributário.",
-   "link": "https://www.migalhas.com.br/depeso/468689/a-cbs-em-2027-e-a-tributacao-dos-servicos-os-reflexos-nos-escritorio",
-   "source": "Migalhas",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-17T20:43:03Z",
-   "tries": 1
   }
  ]
 }

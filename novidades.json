@@ -1,6 +1,6 @@
 {
- "lastCheckAt": "2026-11-19T11:49:20Z",
- "lastCheckBr": "19/11/2026 08:49",
+ "lastCheckAt": "2026-11-19T12:56:09Z",
+ "lastCheckBr": "19/11/2026 09:56",
  "added": 24,
  "feeds": [
   {
@@ -31,7 +31,7 @@
    "name": "Portal Contábeis",
    "ok": true,
    "found": 12,
-   "new": 0
+   "new": 1
   },
   {
    "name": "InfoMoney",
@@ -43,7 +43,7 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 97,
-   "new": 20
+   "new": 19
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -53,6 +53,18 @@
   }
  ],
  "items": [
+  {
+   "id": "d8f1f4e356ee",
+   "date": "2026-11-19",
+   "title": "Senado questiona cálculo de 11,3% da CBS para 2027",
+   "resumo": "CAE pede ao TCU estudos e memória de cálculo da alíquota de referência da CBS , após especialistas apontarem estimativas menores. Leia mais em https://www.contabeis.com.br/noticias/81000/senado-questiona-calculo-de-11-3-da-cbs-para-2027/",
+   "link": "https://www.contabeis.com.br/noticias/81000/senado-questiona-calculo-de-11-3-da-cbs-para-2027/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-19T12:56:09Z"
+  },
   {
    "id": "125143d99da3",
    "date": "2026-11-19",
@@ -64,6 +76,19 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-19T10:51:36Z",
+   "tries": 1
+  },
+  {
+   "id": "5a1e10446a84",
+   "date": "2026-11-18",
+   "title": "Regulamento 2.0 da reforma tributária deve sair até a próxima semana, diz Barreirinhas",
+   "resumo": "",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMjZJOXBpem5KSklUa1J3cXlfcGIzVm9UMzFvbEJuYWJnbVYzdmhaWWx3ZVo3RnRDaDBZQmc1STlwcmdKVi1hN2JWZWhkSXA3aEVDa0UzZjE0b3hORUw1YUlycHU4U3VxOHFnU1lIODdoSXpGNWZ1VDhpcTh5aHdNVFRaWE5TS09jSm5FNnlmWnJwZXpweTU5LVBKWGpHXzFiTkRPMXhzV1dTWGVPSTlqUjNJUHcxMUVwb09wRjRsRnh3cVMwVUhLVjdpdWV3ZnBiZnZuMDZUa9IB5gFBVV95cUxQOHBqdXltZGlENlF6WlVnQTdQSnZteTZabm9MMnRDRDczaVRjNGNiQWdYWndpSk0wSkhUQVE0aG1JWU9qS2hFQy1rcFhkbzJJcEVmMXNSMGdsR1pkRGdldFVVS0NsRVZ6UkdmMGhrLWlpTGo2cFIyTWNnblZ6WnVqcTE0bmxsN29vWVhqTXlab0Z3ZGZBblRhVEVoeEo0bDRjclRkTTEzZVNIZzVMQjBEeXVod1ZrWkV0UEFoUlktT3hCSndHQUs0bFpsRngyam4wVm1zWnRQYll2NDJKRF90TDZaNUM4Zw?oc=5",
+   "source": "Valor Econômico",
+   "official": false,
+   "category": "lei",
+   "tag": "Legislação",
+   "addedAt": "2026-11-19T12:56:09Z",
    "tries": 1
   },
   {
@@ -1804,6 +1829,71 @@
    "tries": 1
   },
   {
+   "id": "69e8f45e7223",
+   "date": "2026-11-16",
+   "title": "Receita Federal publica primeiro código-fonte aberto no GitHub e amplia transparência da Reforma Tributária",
+   "resumo": "Iniciativa fortalece a transparência, a segurança jurídica e a previsibilidade na implementação dos novos tributos sobre o consumo.",
+   "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
+   "source": "GOV.BR",
+   "official": false,
+   "category": "lei",
+   "tag": "Legislação",
+   "addedAt": "2026-11-19T12:56:09Z",
+   "tries": 1
+  },
+  {
+   "id": "92470332de2c",
+   "date": "2026-11-16",
+   "title": "Minuta propõe adiar cobrança da CBS para 2028",
+   "resumo": "Proposta também mantém testes em 2027 e prevê mudanças no cálculo da alíquota e na distribuição do FNDR.",
+   "link": "https://www.contabeis.com.br/noticias/80896/minuta-propoe-adiar-cobranca-da-cbs-para-2028/",
+   "source": "Portal Contabeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-19T12:56:09Z",
+   "tries": 1
+  },
+  {
+   "id": "4d7edc57b427",
+   "date": "2026-11-16",
+   "title": "Reforma tributária: Créditos sobre despesas de viagens e equipamentos de empregados",
+   "resumo": "Por Aurélio Longo Guerzoni. A reforma tributária permitirá créditos de IBS e CBS sobre determinadas despesas com viagens, transporte e equipamentos de empregados, mas manterá restrições para ...",
+   "link": "https://www.migalhas.com.br/depeso/466558/reforma-tributaria-creditos-sobre-despesas-de-viagens-e-equipamentos",
+   "source": "Migalhas",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-19T12:56:09Z",
+   "tries": 1
+  },
+  {
+   "id": "b4cf2dbc35db",
+   "date": "2026-11-16",
+   "title": "Assistir às suas séries e filmes no streaming ficará mais caro pela Reforma Tributária?",
+   "resumo": "No streaming, há uma linha tênue entre o que é a prestação de serviço e o que seria a cessão/circulação de mercadorias",
+   "link": "https://www.jota.info/opiniao-e-analise/artigos/assistir-as-suas-series-e-filmes-no-streaming-ficara-mais-caro-pela-reforma-tributaria",
+   "source": "JOTA Info",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-19T12:56:09Z",
+   "tries": 1
+  },
+  {
+   "id": "f3595ef7e511",
+   "date": "2026-11-16",
+   "title": "CBS: Durigan vai ao Senado sob pressão por alíquota e novas regras",
+   "resumo": "Audiência nesta terça-feira (17) discutirá percentual de 11,3% calculado pelo TCU; indústria questiona o valor e, assim como a OAB, pede adiamento da implementação do tributo.",
+   "link": "https://www.congressoemfoco.com.br/noticia/131610/cbs-durigan-vai-ao-senado-sob-pressao-por-aliquota-e-novas-regras",
+   "source": "Congresso em Foco",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-19T12:56:09Z",
+   "tries": 1
+  },
+  {
    "id": "81efbe9b8f7f",
    "date": "2026-11-16",
    "title": "A CBS em 2027 e a tributação dos serviços: Os reflexos nos escritórios de advocacia",
@@ -1840,7 +1930,7 @@
    "category": "lei",
    "tag": "Legislação",
    "addedAt": "2026-11-19T11:49:20Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "7bc566be225a",
@@ -1859,14 +1949,14 @@
    "id": "7dd8680510e9",
    "date": "2026-11-16",
    "title": "Luiz Barbosa | Reforma Tributária: o combinado não pode sair caro",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNFpNUDhEMFVFUm1PN3BzaGJHVVdqVzRzS3lfTWNzRTloUW94bnRIYnpPUDc4WklOOEtEZWNQWElTLVJFVEJ6cXkzb1hubEUwZEtNS1BNRXpNX3lFTjJ0Q1Bvek9SRjZGSkdYUzZhS3Vsdmt3SWlSYWRCY0tDZnU4b0hTdnpWUmNGZ0RHenZLaw?oc=5",
+   "resumo": "Brasil precisa respeitar pacto firmado no Congresso e abandonar a lógica tributária que limita a competitividade. Leia o artigo no Poder360.",
+   "link": "https://www.poder360.com.br/opiniao/reforma-tributaria-o-combinado-nao-pode-sair-caro/",
    "source": "Poder360",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-19T11:49:20Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "bf377f1c8a15",
@@ -1879,97 +1969,6 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-19T10:51:36Z",
-   "tries": 1
-  },
-  {
-   "id": "9a55fa70e1ae",
-   "date": "2026-11-16",
-   "title": "Comissão de Finanças debate com Receita Federal regulamentação da reforma tributária",
-   "resumo": "A Comissão de Finanças e Tributação da Câmara dos Deputados realiza, na quarta-feira (18), audiência pública para discutir a regulamentação da reforma tributária com o secretário especial da Receita Federal do Brasil, Robinson Sakiyama Barreirinhas. O debate…",
-   "link": "https://portaldocomercio.org.br/diario-legislativo/comissao-de-financas-debate-com-receita-federal-regulamentacao-da-reforma-tributaria/",
-   "source": "Portal do Comércio",
-   "official": false,
-   "category": "lei",
-   "tag": "Legislação",
-   "addedAt": "2026-11-19T10:51:36Z",
-   "tries": 1
-  },
-  {
-   "id": "b5ae025d8a83",
-   "date": "2026-11-16",
-   "title": "Reforma tributária entra no preço e no contrato de M&A",
-   "resumo": "Convivência de dois sistemas até 2033, fim de incentivos e novas regras de crédito mudam valuation e cláusulas de operações",
-   "link": "https://capitalaberto.com.br/insights/madrona-advogados/2026/11/reforma-tributaria-entra-no-preco-e-no-contrato-de-m-and-a",
-   "source": "Capital Aberto",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-19T10:51:36Z",
-   "tries": 1
-  },
-  {
-   "id": "9f6266633eda",
-   "date": "2026-11-16",
-   "title": "Cashback da Reforma Tributária começa em 2027; veja regras",
-   "resumo": "Benefício prevê descontos em contas de consumo e devolução de impostos para famílias inscritas no CadÚnico.",
-   "link": "https://www.contabeis.com.br/noticias/80900/cashback-da-reforma-tributaria-comeca-em-2027-veja-regras/",
-   "source": "Portal Contabeis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-19T10:51:36Z",
-   "tries": 1
-  },
-  {
-   "id": "2c68db2a2e8b",
-   "date": "2026-11-16",
-   "title": "Reforma Tributária do Consumo – Simples Nacional",
-   "resumo": "",
-   "link": "https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo",
-   "source": "Portal da Nota Fiscal Eletrônica",
-   "official": false,
-   "category": "simples",
-   "tag": "Simples",
-   "addedAt": "2026-11-19T10:51:36Z",
-   "tries": 2
-  },
-  {
-   "id": "a987fd1e8eed",
-   "date": "2026-11-16",
-   "title": "CBS: na dúvida, não ultrapasse",
-   "resumo": "Conforme as premissas, a mesma regra de neutralidade produz uma alíquota de referência da CBS entre 9,7% e 11,3%",
-   "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/cbs-na-duvida-nao-ultrapasse",
-   "source": "JOTA Info",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-19T09:32:24Z",
-   "tries": 1
-  },
-  {
-   "id": "60281caf5010",
-   "date": "2026-11-16",
-   "title": "Justiça mantém IBS e CBS na base do ICMS em maioria das ações",
-   "resumo": "Levantamento aponta que 70% das decisões sobre a inclusão dos novos tributos na base do ICMS favoreceram os estados; disputa envolve a transição da reforma.",
-   "link": "https://www.contabeis.com.br/noticias/80910/justica-mantem-ibs-e-cbs-na-base-do-icms-em-maioria-das-acoes/",
-   "source": "Portal Contabeis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-19T09:32:24Z",
-   "tries": 1
-  },
-  {
-   "id": "0bfa4d5ac560",
-   "date": "2026-11-16",
-   "title": "Reforma Tributária: como negociar preços em 2027",
-   "resumo": "Entenda os impactos da Reforma Tributária nas empresas de serviços e como negociar preços e honorários com clientes para 2027.",
-   "link": "https://www.contabeis.com.br/artigos/80887/reforma-tributaria-como-negociar-precos-em-2027/",
-   "source": "Portal Contabeis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-19T09:32:24Z",
    "tries": 1
   }
  ]

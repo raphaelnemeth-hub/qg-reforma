@@ -1,12 +1,12 @@
 {
- "lastCheckAt": "2026-11-19T21:17:39Z",
- "lastCheckBr": "19/11/2026 18:17",
- "added": 29,
+ "lastCheckAt": "2026-11-19T22:17:05Z",
+ "lastCheckBr": "19/11/2026 19:17",
+ "added": 28,
  "feeds": [
   {
    "name": "Agência Senado",
    "ok": true,
-   "found": 1,
+   "found": 0,
    "new": 0
   },
   {
@@ -31,7 +31,7 @@
    "name": "Portal Contábeis",
    "ok": true,
    "found": 7,
-   "new": 0
+   "new": 1
   },
   {
    "name": "InfoMoney",
@@ -42,17 +42,42 @@
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 98,
-   "new": 23
+   "found": 93,
+   "new": 22
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
    "ok": true,
-   "found": 7,
-   "new": 6
+   "found": 6,
+   "new": 5
   }
  ],
  "items": [
+  {
+   "id": "2f0bb351fb82",
+   "date": "2026-11-19",
+   "title": "Reforma tributária em 2026: o que muda para empresas",
+   "resumo": "Entenda a fase de testes da reforma tributária em 2026, as mudanças nas notas fiscais e como as empresas podem se preparar para 2027. Leia mais em https://www.contabeis.com.br/noticias/81001/reforma-tributaria-em-2026-o-que-muda-para-empresas/",
+   "link": "https://www.contabeis.com.br/noticias/81001/reforma-tributaria-em-2026-o-que-muda-para-empresas/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-19T22:17:05Z"
+  },
+  {
+   "id": "0f667c68f875",
+   "date": "2026-11-19",
+   "title": "Receita mais otimista com queda da sonegação pode reduzir alíquota da reforma tributária",
+   "resumo": "",
+   "link": "https://fenafisco.org.br/amp/19/11/2026/receita-mais-otimista-com-queda-da-sonegacao-pode-reduzir-aliquota-da-reforma-tributaria/",
+   "source": "Fenafisco",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-19T22:17:05Z",
+   "tries": 1
+  },
   {
    "id": "aa5c88b80818",
    "date": "2026-11-19",
@@ -864,6 +889,32 @@
    "category": "aliq",
    "tag": "Alíquotas",
    "addedAt": "2026-11-18T05:29:12Z",
+   "tries": 1
+  },
+  {
+   "id": "11ae9a2db00b",
+   "date": "2026-11-17",
+   "title": "Receita libera Calculadora de Tributos da Reforma Tributária no GitHub",
+   "resumo": "Código-fonte da ferramenta poderá ser consultado e integrado por empresas, desenvolvedores e profissionais da contabilidade.",
+   "link": "https://www.contabeis.com.br/noticias/80925/receita-libera-calculadora-de-tributos-da-reforma-tributaria-no-github/",
+   "source": "Portal Contabeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-19T22:17:05Z",
+   "tries": 1
+  },
+  {
+   "id": "7791cd7ef753",
+   "date": "2026-11-17",
+   "title": "Reforma Tributária: Receita disponibiliza calculadoras de IBS e CBS | SEGS Portal Nacional de Seguros,...",
+   "resumo": "",
+   "link": "https://www.segs.com.br/mais/economia/459409-reforma-tributaria-receita-disponibiliza-calculadoras-de-ibs-e-cbs/amp",
+   "source": "SEGS Portal Nacional",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-19T22:17:05Z",
    "tries": 1
   },
   {
@@ -1917,58 +1968,6 @@
    "official": false,
    "category": "aliq",
    "tag": "Alíquotas",
-   "addedAt": "2026-11-17T14:05:17Z",
-   "tries": 1
-  },
-  {
-   "id": "0b4494421ce9",
-   "date": "2026-11-17",
-   "title": "Durigan vai ao Senado explicar CBS com alíquota de 11,3% da reforma tributária",
-   "resumo": "Os parlamentares, que devem definir o percentual fixo da alíquota do CBS até dia 15 de dezembro, querem entender o cálculo indicado pelo TCU; a alíquota de mais de 11% superou os 9,21% estimados anteriormente pela equipe econômica",
-   "link": "https://www.itatiaia.com.br/economia/durigan-vai-ao-senado-explicar-cbs-com-aliquota-de-113-da-reforma-tributaria/",
-   "source": "Rádio Itatiaia",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-17T14:05:17Z",
-   "tries": 1
-  },
-  {
-   "id": "13dc5993bb9a",
-   "date": "2026-11-17",
-   "title": "Durigan vai ao Senado defender CBS de 11,3%, dois pontos acima do previsto pelo governo",
-   "resumo": "Ministro da Fazenda participa nesta terça (17) de audiência na CAE ao lado do presidente do TCU e do chefe da Receita. Senadores dizem que, somada ao IBS, a alíquota passa da trava de 26,5% prevista em lei",
-   "link": "https://francesnews.com.br/post/2026/11/17/46349-durigan-vai-ao-senado-defender-cbs-de-113-dois-pontos-acima-do-previsto-pelo-governo",
-   "source": "Francês News",
-   "official": false,
-   "category": "lei",
-   "tag": "Legislação",
-   "addedAt": "2026-11-17T14:05:17Z",
-   "tries": 1
-  },
-  {
-   "id": "1448981dde21",
-   "date": "2026-11-17",
-   "title": "Senado debate alíquota de novo imposto da reforma tributária e pedidos para adiar início da cobrança",
-   "resumo": "O ministro da Fazenda, Dario Durigan, participa nesta terça-feira (17), às 10h, de uma audiência pública na Comissão de Assuntos Econômicos (CAE) do Senado para esclarecer dúvidas sobre a alíquota de referência da Contribuição sobre Bens e Serviços (CBS)…",
-   "link": "https://regiaonoroeste.com/senado-debate-aliquota-de-novo-imposto-da-reforma-tributaria-e-pedidos-para-adiar-inicio-da-cobranca/",
-   "source": "Região Noroeste",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-17T14:05:17Z",
-   "tries": 1
-  },
-  {
-   "id": "b76f52fd6754",
-   "date": "2026-11-17",
-   "title": "CBS de 11,3% será debatida por ministro da Fazenda no Senado",
-   "resumo": "Audiência pública reúne governo, TCU e representantes do setor produtivo para discutir o percentual de referência do novo tributo e possíveis mudanças no crono…",
-   "link": "https://cenariomt.com.br/economia/cbs-de-113-sera-debatida-por-ministro-da-fazenda-no-senado/",
-   "source": "CenárioMT",
-   "official": false,
-   "category": "lei",
-   "tag": "Legislação",
    "addedAt": "2026-11-17T14:05:17Z",
    "tries": 1
   }

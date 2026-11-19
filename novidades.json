@@ -1,12 +1,12 @@
 {
- "lastCheckAt": "2026-11-19T12:56:09Z",
- "lastCheckBr": "19/11/2026 09:56",
- "added": 24,
+ "lastCheckAt": "2026-11-19T14:14:36Z",
+ "lastCheckBr": "19/11/2026 11:14",
+ "added": 28,
  "feeds": [
   {
    "name": "Agência Senado",
    "ok": true,
-   "found": 1,
+   "found": 0,
    "new": 0
   },
   {
@@ -30,8 +30,8 @@
   {
    "name": "Portal Contábeis",
    "ok": true,
-   "found": 12,
-   "new": 1
+   "found": 14,
+   "new": 2
   },
   {
    "name": "InfoMoney",
@@ -43,16 +43,66 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 97,
-   "new": 19
+   "new": 21
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
    "ok": true,
    "found": 6,
-   "new": 4
+   "new": 5
   }
  ],
  "items": [
+  {
+   "id": "55e59d586354",
+   "date": "2026-11-19",
+   "title": "Órgãos discutem ações conjuntas para implementar a Reforma Tributária",
+   "resumo": "Reunião entre Receita Federal e CGIBS discutiu governança do IVA Dual, programa de conformidade e orientação aos contribuintes. Leia mais em https://www.contabeis.com.br/noticias/81004/orgaos-discutem-acoes-conjuntas-para-implementar-a-reforma-tributaria/",
+   "link": "https://www.contabeis.com.br/noticias/81004/orgaos-discutem-acoes-conjuntas-para-implementar-a-reforma-tributaria/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-19T14:14:36Z"
+  },
+  {
+   "id": "e7db991ea828",
+   "date": "2026-11-19",
+   "title": "Receita vai mapear falhas na emissão de notas com CBS",
+   "resumo": "Receita Federal identificará empresas com dificuldades para destacar a CBS nas notas fiscais e compartilhará informações com contadores. Leia mais em https://www.contabeis.com.br/noticias/81003/receita-vai-mapear-falhas-na-emissao-de-notas-com-cbs/",
+   "link": "https://www.contabeis.com.br/noticias/81003/receita-vai-mapear-falhas-na-emissao-de-notas-com-cbs/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "cont",
+   "tag": "Contabilidade",
+   "addedAt": "2026-11-19T14:14:36Z"
+  },
+  {
+   "id": "d23a62070e8c",
+   "date": "2026-11-19",
+   "title": "Reforma Tributária: A Receita Federal divulga a atualização dos números referentes às solicitações de opção pelo Simples Nacional e pelo regime regular do IBS e da CBS",
+   "resumo": "Agilize decisões seguras. Legislação, Comentários e Consultoria nas áreas de IR e Contribuições, ICMS, IPI, ISS, Contabilidade e Societário, Simples Nacional, Trabalhista e Previdenciária. Cálculos e Tabelas de Substituição Tributária. Agenda Tributária…",
+   "link": "https://www.legisweb.com.br/noticia/?id",
+   "source": "LegisWeb",
+   "official": false,
+   "category": "simples",
+   "tag": "Simples",
+   "addedAt": "2026-11-19T14:14:36Z",
+   "tries": 1
+  },
+  {
+   "id": "bb12fa693951",
+   "date": "2026-11-19",
+   "title": "Reforma Tributária: ministro diz que alíquota da CBS será de 8,5%",
+   "resumo": "Em comissão do Senado, Durigan afirma que os 11,3% do TCU não será o percentual cobrado do consumidor mas admitiu ‘pequeno’ impacto nos preços",
+   "link": "https://brasil61.com/n/reforma-tributaria-ministro-diz-que-aliquota-da-cbs-sera-de-8-5-bras2617495",
+   "source": "Brasil 61",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-19T14:14:36Z",
+   "tries": 1
+  },
   {
    "id": "d8f1f4e356ee",
    "date": "2026-11-19",
@@ -89,7 +139,7 @@
    "category": "lei",
    "tag": "Legislação",
    "addedAt": "2026-11-19T12:56:09Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "69a088d01ca6",
@@ -1829,146 +1879,94 @@
    "tries": 1
   },
   {
-   "id": "69e8f45e7223",
+   "id": "a987fd1e8eed",
    "date": "2026-11-16",
-   "title": "Receita Federal publica primeiro código-fonte aberto no GitHub e amplia transparência da Reforma Tributária",
-   "resumo": "Iniciativa fortalece a transparência, a segurança jurídica e a previsibilidade na implementação dos novos tributos sobre o consumo.",
-   "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
-   "source": "GOV.BR",
+   "title": "CBS: na dúvida, não ultrapasse",
+   "resumo": "Conforme as premissas, a mesma regra de neutralidade produz uma alíquota de referência da CBS entre 9,7% e 11,3%",
+   "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/cbs-na-duvida-nao-ultrapasse",
+   "source": "JOTA Info",
    "official": false,
-   "category": "lei",
-   "tag": "Legislação",
-   "addedAt": "2026-11-19T12:56:09Z",
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-19T14:14:36Z",
    "tries": 1
   },
   {
-   "id": "92470332de2c",
+   "id": "9a55fa70e1ae",
    "date": "2026-11-16",
-   "title": "Minuta propõe adiar cobrança da CBS para 2028",
-   "resumo": "Proposta também mantém testes em 2027 e prevê mudanças no cálculo da alíquota e na distribuição do FNDR.",
-   "link": "https://www.contabeis.com.br/noticias/80896/minuta-propoe-adiar-cobranca-da-cbs-para-2028/",
+   "title": "Comissão de Finanças debate com Receita Federal regulamentação da reforma tributária",
+   "resumo": "A Comissão de Finanças e Tributação da Câmara dos Deputados realiza, na quarta-feira (18), audiência pública para discutir a regulamentação da reforma tributária com o secretário especial da Receita Federal do Brasil, Robinson Sakiyama Barreirinhas. O debate…",
+   "link": "https://portaldocomercio.org.br/diario-legislativo/comissao-de-financas-debate-com-receita-federal-regulamentacao-da-reforma-tributaria/",
+   "source": "Portal do Comércio",
+   "official": false,
+   "category": "lei",
+   "tag": "Legislação",
+   "addedAt": "2026-11-19T14:14:36Z",
+   "tries": 1
+  },
+  {
+   "id": "b5ae025d8a83",
+   "date": "2026-11-16",
+   "title": "Reforma tributária entra no preço e no contrato de M&A",
+   "resumo": "Convivência de dois sistemas até 2033, fim de incentivos e novas regras de crédito mudam valuation e cláusulas de operações",
+   "link": "https://capitalaberto.com.br/insights/madrona-advogados/2026/11/reforma-tributaria-entra-no-preco-e-no-contrato-de-m-and-a",
+   "source": "Capital Aberto",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-19T14:14:36Z",
+   "tries": 1
+  },
+  {
+   "id": "60281caf5010",
+   "date": "2026-11-16",
+   "title": "Justiça mantém IBS e CBS na base do ICMS em maioria das ações",
+   "resumo": "Levantamento aponta que 70% das decisões sobre a inclusão dos novos tributos na base do ICMS favoreceram os estados; disputa envolve a transição da reforma.",
+   "link": "https://www.contabeis.com.br/noticias/80910/justica-mantem-ibs-e-cbs-na-base-do-icms-em-maioria-das-acoes/",
    "source": "Portal Contabeis",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-19T12:56:09Z",
+   "addedAt": "2026-11-19T14:14:36Z",
    "tries": 1
   },
   {
-   "id": "4d7edc57b427",
+   "id": "9f6266633eda",
    "date": "2026-11-16",
-   "title": "Reforma tributária: Créditos sobre despesas de viagens e equipamentos de empregados",
-   "resumo": "Por Aurélio Longo Guerzoni. A reforma tributária permitirá créditos de IBS e CBS sobre determinadas despesas com viagens, transporte e equipamentos de empregados, mas manterá restrições para ...",
-   "link": "https://www.migalhas.com.br/depeso/466558/reforma-tributaria-creditos-sobre-despesas-de-viagens-e-equipamentos",
-   "source": "Migalhas",
+   "title": "Cashback da Reforma Tributária começa em 2027; veja regras",
+   "resumo": "Benefício prevê descontos em contas de consumo e devolução de impostos para famílias inscritas no CadÚnico.",
+   "link": "https://www.contabeis.com.br/noticias/80900/cashback-da-reforma-tributaria-comeca-em-2027-veja-regras/",
+   "source": "Portal Contabeis",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-19T12:56:09Z",
+   "addedAt": "2026-11-19T14:14:36Z",
    "tries": 1
   },
   {
-   "id": "b4cf2dbc35db",
+   "id": "0bfa4d5ac560",
    "date": "2026-11-16",
-   "title": "Assistir às suas séries e filmes no streaming ficará mais caro pela Reforma Tributária?",
-   "resumo": "No streaming, há uma linha tênue entre o que é a prestação de serviço e o que seria a cessão/circulação de mercadorias",
-   "link": "https://www.jota.info/opiniao-e-analise/artigos/assistir-as-suas-series-e-filmes-no-streaming-ficara-mais-caro-pela-reforma-tributaria",
-   "source": "JOTA Info",
+   "title": "Reforma Tributária: como negociar preços em 2027",
+   "resumo": "Entenda os impactos da Reforma Tributária nas empresas de serviços e como negociar preços e honorários com clientes para 2027.",
+   "link": "https://www.contabeis.com.br/artigos/80887/reforma-tributaria-como-negociar-precos-em-2027/",
+   "source": "Portal Contabeis",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-19T12:56:09Z",
+   "addedAt": "2026-11-19T14:14:36Z",
    "tries": 1
   },
   {
-   "id": "f3595ef7e511",
+   "id": "2c68db2a2e8b",
    "date": "2026-11-16",
-   "title": "CBS: Durigan vai ao Senado sob pressão por alíquota e novas regras",
-   "resumo": "Audiência nesta terça-feira (17) discutirá percentual de 11,3% calculado pelo TCU; indústria questiona o valor e, assim como a OAB, pede adiamento da implementação do tributo.",
-   "link": "https://www.congressoemfoco.com.br/noticia/131610/cbs-durigan-vai-ao-senado-sob-pressao-por-aliquota-e-novas-regras",
-   "source": "Congresso em Foco",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-19T12:56:09Z",
-   "tries": 1
-  },
-  {
-   "id": "81efbe9b8f7f",
-   "date": "2026-11-16",
-   "title": "A CBS em 2027 e a tributação dos serviços: Os reflexos nos escritórios de advocacia",
-   "resumo": "Por Juliana Dias Guerra Nelson Ferreira Cruz. A nova contribuição exigirá dos escritórios a revisão de custos, créditos e honorários para adequar a gestão à mudança no sistema tributário.",
-   "link": "https://www.migalhas.com.br/depeso/468689/a-cbs-em-2027-e-a-tributacao-dos-servicos-os-reflexos-nos-escritorio",
-   "source": "Migalhas",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-19T11:49:20Z",
-   "tries": 1
-  },
-  {
-   "id": "4dc4503892aa",
-   "date": "2026-11-16",
-   "title": "A reforma tributária fomenta investimentos para as concessões de serviços públicos",
-   "resumo": "Com o desenho legal finalizado, desafio é a execução; as agências reguladoras precisam estar tecnicamente preparadas e ágeis para processar reequilíbrios com rigor e celeridade",
-   "link": "https://www.jota.info/opiniao-e-analise/colunas/coluna-da-abde/a-reforma-tributaria-fomenta-investimentos-para-as-concessoes-de-servicos-publicos",
-   "source": "JOTA Info",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-19T11:49:20Z",
-   "tries": 1
-  },
-  {
-   "id": "c9a48fedfc11",
-   "date": "2026-11-16",
-   "title": "Cancelado debate na Comissão de Finanças sobre regulamentação da reforma tributária",
+   "title": "Reforma Tributária do Consumo – Simples Nacional",
    "resumo": "",
-   "link": "https://www.camara.leg.br/noticias/1319043-cancelado-debate-na-comissao-de-financas-sobre-regulamentacao-da-reforma-tributaria",
-   "source": "Portal da Câmara dos Deputados",
+   "link": "https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo",
+   "source": "Portal da Nota Fiscal Eletrônica",
    "official": false,
-   "category": "lei",
-   "tag": "Legislação",
-   "addedAt": "2026-11-19T11:49:20Z",
-   "tries": 2
-  },
-  {
-   "id": "7bc566be225a",
-   "date": "2026-11-16",
-   "title": "Reforma Tributária/RJ: Governo do Estado envia à Alerj projeto de lei que cria programa de negociação de créditos tributários com foco no crescimento da receita de ICMS em 2026 e nos próximos anos",
-   "resumo": "Agilize decisões seguras. Legislação, Comentários e Consultoria nas áreas de IR e Contribuições, ICMS, IPI, ISS, Contabilidade e Societário, Simples Nacional, Trabalhista e Previdenciária. Cálculos e Tabelas de Substituição Tributária. Agenda Tributária…",
-   "link": "https://www.legisweb.com.br/noticia/?id",
-   "source": "LegisWeb",
-   "official": false,
-   "category": "lei",
-   "tag": "Legislação",
-   "addedAt": "2026-11-19T11:49:20Z",
-   "tries": 1
-  },
-  {
-   "id": "7dd8680510e9",
-   "date": "2026-11-16",
-   "title": "Luiz Barbosa | Reforma Tributária: o combinado não pode sair caro",
-   "resumo": "Brasil precisa respeitar pacto firmado no Congresso e abandonar a lógica tributária que limita a competitividade. Leia o artigo no Poder360.",
-   "link": "https://www.poder360.com.br/opiniao/reforma-tributaria-o-combinado-nao-pode-sair-caro/",
-   "source": "Poder360",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-19T11:49:20Z",
-   "tries": 2
-  },
-  {
-   "id": "bf377f1c8a15",
-   "date": "2026-11-16",
-   "title": "Ato Conjunto RFB/CGIBS nº 7/2026 atualiza o cronograma de obrigatoriedade de emissão da NFS-e para IBS e CBS",
-   "resumo": "O Comitê Gestor da Nota Fiscal de Serviço Eletrônica de padrão nacional (CGNFS-e) comunica aos municípios, contribuintes prestadores de serviços e desenvolvedores de sistemas que foi publicado, na edição de...",
-   "link": "https://fenacon.org.br/reforma-tributaria/ato-conjunto-rfb-cgibs-no-7-2026-atualiza-o-cronograma-de-obrigatoriedade-de-emissao-da-nfs-e-para-ibs-e-cbs/",
-   "source": "Sistema FENACON",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-19T10:51:36Z",
+   "category": "simples",
+   "tag": "Simples",
+   "addedAt": "2026-11-19T14:14:36Z",
    "tries": 1
   }
  ]

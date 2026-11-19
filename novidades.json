@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-19T04:28:30Z",
- "lastCheckBr": "19/11/2026 01:28",
- "added": 20,
+ "lastCheckAt": "2026-11-19T05:32:16Z",
+ "lastCheckBr": "19/11/2026 02:32",
+ "added": 23,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -43,16 +43,29 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 97,
-   "new": 17
+   "new": 19
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
    "ok": true,
    "found": 5,
-   "new": 3
+   "new": 4
   }
  ],
  "items": [
+  {
+   "id": "ddcb397bf89d",
+   "date": "2026-11-18",
+   "title": "RFB e CGIBS alinham próximos passos da Reforma Tributária e reforçam compromisso com a conformidade",
+   "resumo": "Encontro reuniu lideranças das duas instituições e teve como foco o aperfeiçoamento da governança da atuação integrada entre a RFB e o CGIBS, buscando assegurar maior coordenação, alinhamento institucional e eficiência na construção dos processos",
+   "link": "https://www.cgibs.gov.br/rfb-e-cgibs-alinham-proximos-passos-da-implementacao-da-reforma-tributaria-e-reforcam-compromisso-com-a-conformidade-fiscal",
+   "source": "Comitê Gestor do IBS",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-19T05:32:16Z",
+   "tries": 1
+  },
   {
    "id": "914fc4f2dc4c",
    "date": "2026-11-18",
@@ -1765,6 +1778,45 @@
    "tries": 1
   },
   {
+   "id": "4dc4503892aa",
+   "date": "2026-11-16",
+   "title": "A reforma tributária fomenta investimentos para as concessões de serviços públicos",
+   "resumo": "Com o desenho legal finalizado, desafio é a execução; as agências reguladoras precisam estar tecnicamente preparadas e ágeis para processar reequilíbrios com rigor e celeridade",
+   "link": "https://www.jota.info/opiniao-e-analise/colunas/coluna-da-abde/a-reforma-tributaria-fomenta-investimentos-para-as-concessoes-de-servicos-publicos",
+   "source": "JOTA Info",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-19T05:32:16Z",
+   "tries": 1
+  },
+  {
+   "id": "c9a48fedfc11",
+   "date": "2026-11-16",
+   "title": "Cancelado debate na Comissão de Finanças sobre regulamentação da reforma tributária",
+   "resumo": "",
+   "link": "https://www.camara.leg.br/noticias/1319043-cancelado-debate-na-comissao-de-financas-sobre-regulamentacao-da-reforma-tributaria",
+   "source": "Portal da Câmara dos Deputados",
+   "official": false,
+   "category": "lei",
+   "tag": "Legislação",
+   "addedAt": "2026-11-19T05:32:16Z",
+   "tries": 1
+  },
+  {
+   "id": "7bc566be225a",
+   "date": "2026-11-16",
+   "title": "Reforma Tributária/RJ: Governo do Estado envia à Alerj projeto de lei que cria programa de negociação de créditos tributários com foco no crescimento da receita de ICMS em 2026 e nos próximos anos",
+   "resumo": "Agilize decisões seguras. Legislação, Comentários e Consultoria nas áreas de IR e Contribuições, ICMS, IPI, ISS, Contabilidade e Societário, Simples Nacional, Trabalhista e Previdenciária. Cálculos e Tabelas de Substituição Tributária. Agenda Tributária…",
+   "link": "https://www.legisweb.com.br/noticia/?id",
+   "source": "LegisWeb",
+   "official": false,
+   "category": "lei",
+   "tag": "Legislação",
+   "addedAt": "2026-11-19T05:32:16Z",
+   "tries": 1
+  },
+  {
    "id": "81efbe9b8f7f",
    "date": "2026-11-16",
    "title": "A CBS em 2027 e a tributação dos serviços: Os reflexos nos escritórios de advocacia",
@@ -1918,58 +1970,6 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-18T19:49:12Z",
-   "tries": 1
-  },
-  {
-   "id": "f3595ef7e511",
-   "date": "2026-11-16",
-   "title": "CBS: Durigan vai ao Senado sob pressão por alíquota e novas regras",
-   "resumo": "Audiência nesta terça-feira (17) discutirá percentual de 11,3% calculado pelo TCU; indústria questiona o valor e, assim como a OAB, pede adiamento da implementação do tributo.",
-   "link": "https://www.congressoemfoco.com.br/noticia/131610/cbs-durigan-vai-ao-senado-sob-pressao-por-aliquota-e-novas-regras",
-   "source": "Congresso em Foco",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-18T18:42:13Z",
-   "tries": 1
-  },
-  {
-   "id": "2041b91508e1",
-   "date": "2026-11-16",
-   "title": "'NÃO VOU PASSAR RAIVA SOZINHA' 🗣️Qual será o impacto da CBS no bolso do consumidor a partir de janeiro? No programa desta semana, a Duquesa de Tax explica como a reforma tributária pode afetar os preços e o que esperar d",
-   "resumo": "1,999 likes, 70 comments - estadao no November 16, 2026: \"'NÃO VOU PASSAR RAIVA SOZINHA' 🗣️Qual será o impacto da CBS no bolso do consumidor a partir de janeiro? No programa desta semana, a Duquesa de Tax explica como a reforma tributária pode afetar os…",
-   "link": "https://www.instagram.com/reel/DfzaccOCtI0/",
-   "source": "Instagram",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-18T17:48:36Z",
-   "tries": 1
-  },
-  {
-   "id": "7dd8680510e9",
-   "date": "2026-11-16",
-   "title": "Luiz Barbosa | Reforma Tributária: o combinado não pode sair caro",
-   "resumo": "Brasil precisa respeitar pacto firmado no Congresso e abandonar a lógica tributária que limita a competitividade. Leia o artigo no Poder360.",
-   "link": "https://www.poder360.com.br/opiniao/reforma-tributaria-o-combinado-nao-pode-sair-caro/",
-   "source": "Poder360",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-18T17:48:36Z",
-   "tries": 1
-  },
-  {
-   "id": "b4cf2dbc35db",
-   "date": "2026-11-16",
-   "title": "Assistir às suas séries e filmes no streaming ficará mais caro pela Reforma Tributária?",
-   "resumo": "No streaming, há uma linha tênue entre o que é a prestação de serviço e o que seria a cessão/circulação de mercadorias",
-   "link": "https://www.jota.info/opiniao-e-analise/artigos/assistir-as-suas-series-e-filmes-no-streaming-ficara-mais-caro-pela-reforma-tributaria",
-   "source": "JOTA Info",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-18T16:53:18Z",
    "tries": 1
   }
  ]

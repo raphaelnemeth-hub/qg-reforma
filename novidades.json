@@ -1,6 +1,6 @@
 {
- "lastCheckAt": "2026-11-20T04:50:29Z",
- "lastCheckBr": "20/11/2026 01:50",
+ "lastCheckAt": "2026-11-20T05:53:09Z",
+ "lastCheckBr": "20/11/2026 02:53",
  "added": 27,
  "feeds": [
   {
@@ -915,6 +915,19 @@
    "category": "aliq",
    "tag": "Alíquotas",
    "addedAt": "2026-11-18T05:29:12Z",
+   "tries": 1
+  },
+  {
+   "id": "9bc392c999a7",
+   "date": "2026-11-17",
+   "title": "Reforma Tributária: veja quem recebe cashback e como funcionará a devolução",
+   "resumo": "",
+   "link": "https://www.contadores.cnt.br/noticias/tecnicas/2026/11/17/reforma-tributaria-veja-quem-recebe-cashback-e-como-funcionara-a-devolucao.html",
+   "source": "Contadores.cnt.br",
+   "official": false,
+   "category": "cont",
+   "tag": "Contabilidade",
+   "addedAt": "2026-11-20T05:53:09Z",
    "tries": 1
   },
   {
@@ -1958,19 +1971,6 @@
    "tag": "Alíquotas",
    "addedAt": "2026-11-17T15:18:20Z",
    "tries": 2
-  },
-  {
-   "id": "0e0b93965a3e",
-   "date": "2026-11-17",
-   "title": "Ministro da Fazenda discute alíquota da CBS em audiência no Senado",
-   "resumo": "A audiência pública no Senado, marcada para esta terça-feira (17), será um espaço crucial para discutir a nova alíquota da Contribuição sobre Bens e",
-   "link": "https://planetaosasco.com/economia/902600-ministro-da-fazenda-discute-aliquota-da-cbs-em-audiencia-no-senado",
-   "source": "planetaosasco.com",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-17T15:18:20Z",
-   "tries": 1
   }
  ]
 }

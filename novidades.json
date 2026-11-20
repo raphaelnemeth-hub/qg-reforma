@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-20T00:08:52Z",
- "lastCheckBr": "19/11/2026 21:08",
- "added": 26,
+ "lastCheckAt": "2026-11-20T01:40:57Z",
+ "lastCheckBr": "19/11/2026 22:40",
+ "added": 27,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -43,7 +43,7 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 97,
-   "new": 21
+   "new": 22
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -53,6 +53,19 @@
   }
  ],
  "items": [
+  {
+   "id": "3825166413ca",
+   "date": "2026-11-19",
+   "title": "Reforma tributária: Empresas avaliam IBS e CBS nas bases do ICMS e ISS",
+   "resumo": "Por Fernanda Botinha Nascimento, Jéssica Aparecida de Loredo, Priscila Santos Rosa, Maria Clara Murray. Inclusão do IBS e da CBS nas bases do ICMS e do ISS já gera disputas judiciais e pode afetar ...",
+   "link": "https://www.migalhas.com.br/depeso/468866/reforma-tributaria-empresas-avaliam-ibs-e-cbs-nas-bases-do-icms-e-iss",
+   "source": "Migalhas",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-20T01:40:57Z",
+   "tries": 1
+  },
   {
    "id": "4a2bd2f977a4",
    "date": "2026-11-19",
@@ -1958,18 +1971,6 @@
    "tag": "Alíquotas",
    "addedAt": "2026-11-17T14:05:17Z",
    "tries": 1
-  },
-  {
-   "id": "08450331b995",
-   "date": "2026-11-17",
-   "title": "IBS: Comitê Gestor aprova ajustes para o setor financeiro",
-   "resumo": "CGIBS altera três artigos do regulamento do IBS e adia etapa da DeRE, declaração exigida de setores com regimes específicos. Leia mais em https://www.contabeis.com.br/noticias/80929/ibs-comite-gestor-aprova-ajustes-para-o-setor-financeiro/",
-   "link": "https://www.contabeis.com.br/noticias/80929/ibs-comite-gestor-aprova-ajustes-para-o-setor-financeiro/",
-   "source": "Portal Contábeis",
-   "official": false,
-   "category": "lei",
-   "tag": "Legislação",
-   "addedAt": "2026-11-17T14:05:17Z"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
- "lastCheckAt": "2026-11-20T18:48:48Z",
- "lastCheckBr": "20/11/2026 15:48",
+ "lastCheckAt": "2026-11-20T19:51:21Z",
+ "lastCheckBr": "20/11/2026 16:51",
  "added": 18,
  "feeds": [
   {
@@ -17,9 +17,10 @@
   },
   {
    "name": "Receita Federal",
-   "ok": true,
+   "ok": false,
    "found": 0,
-   "new": 0
+   "new": 0,
+   "error": "URLError"
   },
   {
    "name": "Agência Brasil",
@@ -53,6 +54,19 @@
   }
  ],
  "items": [
+  {
+   "id": "18fdf5c9e105",
+   "date": "2026-11-20",
+   "title": "Da omissão ao crédito: a reforma tributária e os crimes empresariais",
+   "resumo": "Na reforma tributária, com o IBS, a CBS e o split payment, em crimes contra a ordem tributária, em vez de discutir se o tributo é devido, pode-se questionar se a operação descrita no documento fiscal de fato existiu.",
+   "link": "https://www.jota.info/opiniao-e-analise/artigos/da-omissao-ao-credito-a-reforma-tributaria-e-os-crimes-empresariais",
+   "source": "JOTA Info",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-20T19:51:21Z",
+   "tries": 1
+  },
   {
    "id": "c27fe0e16663",
    "date": "2026-11-20",
@@ -1954,19 +1968,6 @@
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-17T16:24:09Z",
-   "tries": 1
-  },
-  {
-   "id": "955dd852a035",
-   "date": "2026-11-17",
-   "title": "Metodologia da CBS é consistente e não apresentou fragilidade, diz TCU",
-   "resumo": "Presidente da Corte de Contas, Vital do Rêgo Filho, atribui a alíquota do tributo em 11,3% às exceções da reforma tributária",
-   "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/metodologia-da-cbs-e-consistente-e-nao-apresentou-fragilidade-diz-tcu/",
-   "source": "CNN Brasil",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
    "addedAt": "2026-11-17T16:24:09Z",
    "tries": 1
   }

@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-20T20:40:18Z",
- "lastCheckBr": "20/11/2026 17:40",
- "added": 16,
+ "lastCheckAt": "2026-11-20T21:37:40Z",
+ "lastCheckBr": "20/11/2026 18:37",
+ "added": 17,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -17,10 +17,9 @@
   },
   {
    "name": "Receita Federal",
-   "ok": false,
+   "ok": true,
    "found": 0,
-   "new": 0,
-   "error": "URLError"
+   "new": 0
   },
   {
    "name": "Agência Brasil",
@@ -44,7 +43,7 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 98,
-   "new": 10
+   "new": 11
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -54,6 +53,19 @@
   }
  ],
  "items": [
+  {
+   "id": "ec8f4af17209",
+   "date": "2026-11-20",
+   "title": "Indefinição sobre Justiça competente para IBS e CBS preocupa Marcus Abraham",
+   "resumo": "Para o desembargador Marcus Abraham, reforma tributária tem virtudes, mas a implementação tem sido marcada pela falta de segurança jurídica.",
+   "link": "https://conjur.com.br/2026-nov-20/indefinicao-sobre-justica-competente-para-ibs-e-cbs-preocupa-desembargador/",
+   "source": "Consultor Jurídico",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-20T21:37:40Z",
+   "tries": 1
+  },
   {
    "id": "18fdf5c9e105",
    "date": "2026-11-20",
@@ -1957,19 +1969,6 @@
    "tag": "Alíquotas",
    "addedAt": "2026-11-17T16:24:09Z",
    "tries": 2
-  },
-  {
-   "id": "14232d3b0927",
-   "date": "2026-11-17",
-   "title": "Nossa posição é de não adiar a reforma tributária, diz Durigan",
-   "resumo": "Ministro da Fazenda declarou que “é preciso avançar no que é melhor para as empresas e para as pessoas”. Leia no Poder360.",
-   "link": "https://www.poder360.com.br/poder-economia/nossa-posicao-e-de-nao-adiar-a-reforma-tributaria-diz-durigan/",
-   "source": "Poder360",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-17T16:24:09Z",
-   "tries": 1
   }
  ]
 }

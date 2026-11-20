@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-20T12:23:31Z",
- "lastCheckBr": "20/11/2026 09:23",
- "added": 22,
+ "lastCheckAt": "2026-11-20T13:43:29Z",
+ "lastCheckBr": "20/11/2026 10:43",
+ "added": 26,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -30,20 +30,20 @@
   {
    "name": "Portal Contábeis",
    "ok": true,
-   "found": 7,
-   "new": 0
+   "found": 8,
+   "new": 1
   },
   {
    "name": "InfoMoney",
    "ok": true,
-   "found": 0,
-   "new": 0
+   "found": 1,
+   "new": 1
   },
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 93,
-   "new": 17
+   "found": 97,
+   "new": 19
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -53,6 +53,30 @@
   }
  ],
  "items": [
+  {
+   "id": "b0abf43957b8",
+   "date": "2026-11-20",
+   "title": "EFD Contribuições 2027: do fechamento de 2026 á apuração da CBS em 2027",
+   "resumo": "Entenda os cuidados com o fechamento da EFD-Contribuições em 2026 e a transição para a cobrança da CBS em 2027. Leia mais em https://www.contabeis.com.br/noticias/80909/efd-contribuicoes-2027-do-fechamento-de-2026-a-apuracao-da-cbs-em-2027/",
+   "link": "https://www.contabeis.com.br/noticias/80909/efd-contribuicoes-2027-do-fechamento-de-2026-a-apuracao-da-cbs-em-2027/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-20T13:43:29Z"
+  },
+  {
+   "id": "148d38b70bca",
+   "date": "2026-11-20",
+   "title": "Na Colômbia, protestos contra plano econômico geram confrontos e caos no trânsito",
+   "resumo": "Policiais detêm um manifestante durante confrontos em meio a um protesto nacional contra as políticas econômicas e a proposta de reforma tributária do presidente colombiano Abelardo de la Espriella, em Bogotá, Colômbia, em 19 de novembro de 2026…",
+   "link": "https://www.infomoney.com.br/mundo/na-colombia-protestos-contra-plano-economico-geram-confrontos-e-caos-no-transito/",
+   "source": "InfoMoney",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-20T13:43:29Z"
+  },
   {
    "id": "70b98a9a228d",
    "date": "2026-11-20",
@@ -954,6 +978,19 @@
    "category": "aliq",
    "tag": "Alíquotas",
    "addedAt": "2026-11-18T05:29:12Z",
+   "tries": 1
+  },
+  {
+   "id": "45b4be580439",
+   "date": "2026-11-17",
+   "title": "Reforma tributária: Como proteger os créditos de IBS e CBS",
+   "resumo": "Por Aurélio Longo Guerzoni. A reforma tributária exigirá a revisão dos contratos com fornecedores para proteger os créditos de IBS e CBS, inclusive mediante o RAD - Recolhimento pelo Adquirente.",
+   "link": "https://www.migalhas.com.br/depeso/468351/reforma-tributaria-como-proteger-os-creditos-de-ibs-e-cbs",
+   "source": "Migalhas",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-20T13:43:29Z",
    "tries": 1
   },
   {
@@ -1930,45 +1967,6 @@
    "official": false,
    "category": "aliq",
    "tag": "Alíquotas",
-   "addedAt": "2026-11-17T15:18:20Z",
-   "tries": 1
-  },
-  {
-   "id": "136daaa93ec7",
-   "date": "2026-11-17",
-   "title": "Comitê Tributário do IBEF-RS debate impactos da Reforma Tributária, CBS e IFRS 18 nas empresas",
-   "resumo": "O Comitê Tributário do IBEF-RS promove no dia 18 de novembro de 2026, das 14h às 18h, na sede do escritório Martinelli Advogados, em Porto Alegre, um encontro",
-   "link": "https://brasilinovador.com.br/comite-tributario-do-ibef-rs-debate-impactos-da-reforma-tributaria-cbs-e-ifrs-18-nas-empresas/",
-   "source": "Brasil Inovador",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-17T15:18:20Z",
-   "tries": 1
-  },
-  {
-   "id": "f7e78aacdcb1",
-   "date": "2026-11-17",
-   "title": "'TCU não escolheu a alíquota que gostaria de encontrar', diz Vital Rêgo sobre CBS em audiência no Senado",
-   "resumo": "",
-   "link": "https://oglobo.globo.com/blogs/miriam-leitao/post/2026/11/tcu-nao-escolheu-a-aliquota-que-gostaria-de-encontrar-diz-vital-rego-sobre-cbs-em-audiencia-no-senado.ghtml",
-   "source": "O GLOBO",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-17T15:18:20Z",
-   "tries": 2
-  },
-  {
-   "id": "27384bceb282",
-   "date": "2026-11-17",
-   "title": "Não queremos prejudicar empresas com reforma tributária, diz Durigan",
-   "resumo": "Ministro da Fazenda afirmou que a reforma visa a melhorar a produtividade da economia brasileira. Leia no Poder360.",
-   "link": "https://www.poder360.com.br/poder-economia/nao-queremos-prejudicar-empresas-com-reforma-tributaria-diz-durigan/",
-   "source": "Poder360",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
    "addedAt": "2026-11-17T15:18:20Z",
    "tries": 1
   }

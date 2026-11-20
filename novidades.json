@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-20T05:53:09Z",
- "lastCheckBr": "20/11/2026 02:53",
- "added": 27,
+ "lastCheckAt": "2026-11-20T06:56:13Z",
+ "lastCheckBr": "20/11/2026 03:56",
+ "added": 26,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -43,7 +43,7 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 97,
-   "new": 22
+   "new": 21
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -928,7 +928,7 @@
    "category": "cont",
    "tag": "Contabilidade",
    "addedAt": "2026-11-20T05:53:09Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "98676b49488c",

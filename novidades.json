@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-20T01:40:57Z",
- "lastCheckBr": "19/11/2026 22:40",
- "added": 27,
+ "lastCheckAt": "2026-11-20T02:43:22Z",
+ "lastCheckBr": "19/11/2026 23:43",
+ "added": 28,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -43,7 +43,7 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 97,
-   "new": 22
+   "new": 23
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -915,6 +915,19 @@
    "category": "aliq",
    "tag": "Alíquotas",
    "addedAt": "2026-11-18T05:29:12Z",
+   "tries": 1
+  },
+  {
+   "id": "98676b49488c",
+   "date": "2026-11-17",
+   "title": "IBS: Comitê Gestor aprova ajustes para o setor financeiro",
+   "resumo": "CGIBS altera três artigos do regulamento do IBS e adia etapa da DeRE, declaração exigida de setores com regimes específicos.",
+   "link": "https://www.contabeis.com.br/noticias/80929/ibs-comite-gestor-aprova-ajustes-para-o-setor-financeiro/",
+   "source": "Portal Contabeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-20T02:43:22Z",
    "tries": 1
   },
   {
@@ -1957,19 +1970,6 @@
    "category": "aliq",
    "tag": "Alíquotas",
    "addedAt": "2026-11-17T15:18:20Z",
-   "tries": 1
-  },
-  {
-   "id": "6e3c5261cb94",
-   "date": "2026-11-17",
-   "title": "Vídeo: Ao vivo: Durigan fala em comissão sobre alíquota da CBS – 17/11/26",
-   "resumo": "Portal de Notícias do Senado Federal: matérias, entrevistas e informações oficiais sobre a atividade legislativa.",
-   "link": "https://www12.senado.leg.br/noticias/videos/2026/11/ao-vivo-durigan-fala-em-comissao-sobre-aliquota-da-cbs-2013-17-11-26",
-   "source": "Senado Federal",
-   "official": true,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-17T14:05:17Z",
    "tries": 1
   }
  ]

@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-20T13:43:29Z",
- "lastCheckBr": "20/11/2026 10:43",
- "added": 26,
+ "lastCheckAt": "2026-11-20T14:47:00Z",
+ "lastCheckBr": "20/11/2026 11:47",
+ "added": 22,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -31,19 +31,19 @@
    "name": "Portal Contábeis",
    "ok": true,
    "found": 8,
-   "new": 1
+   "new": 0
   },
   {
    "name": "InfoMoney",
    "ok": true,
-   "found": 1,
-   "new": 1
+   "found": 0,
+   "new": 0
   },
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 97,
-   "new": 19
+   "new": 17
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -114,6 +114,19 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-20T09:28:54Z",
+   "tries": 1
+  },
+  {
+   "id": "5c8ac839f63d",
+   "date": "2026-11-19",
+   "title": "Reforma Tributária: Nota Técnica 2026.010 estabelece novo modelo de DANFE com destaque para o IBS, a CBS e o Imposto Seletivo",
+   "resumo": "A Nota Técnica nº 2026.010 estabelece mudanças significativas no Documento Auxiliar da Nota Fiscal Eletrônica (DANFE), introduzindo campos específicos para os…",
+   "link": "https://www.legal500.com/intelligence/brazil/tax/reforma-tribut%C3%A1ria-nota-t%C3%A9cnica-2026010-estabelece-novo-modelo-de-danfe-com-destaque-para-o-ibs-a-cbs-e-o-imposto-seletivo",
+   "source": "Legal 500",
+   "official": false,
+   "category": "nt",
+   "tag": "Nota técnica",
+   "addedAt": "2026-11-20T14:47:00Z",
    "tries": 1
   },
   {
@@ -978,6 +991,19 @@
    "category": "aliq",
    "tag": "Alíquotas",
    "addedAt": "2026-11-18T05:29:12Z",
+   "tries": 1
+  },
+  {
+   "id": "136daaa93ec7",
+   "date": "2026-11-17",
+   "title": "Comitê Tributário do IBEF-RS debate impactos da Reforma Tributária, CBS e IFRS 18 nas empresas",
+   "resumo": "O Comitê Tributário do IBEF-RS promove no dia 18 de novembro de 2026, das 14h às 18h, na sede do escritório Martinelli Advogados, em Porto Alegre, um encontro",
+   "link": "https://brasilinovador.com.br/comite-tributario-do-ibef-rs-debate-impactos-da-reforma-tributaria-cbs-e-ifrs-18-nas-empresas/",
+   "source": "Brasil Inovador",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-20T14:47:00Z",
    "tries": 1
   },
   {
@@ -1938,32 +1964,6 @@
    "resumo": "Presidente do tribunal, Vital do Rêgo Filho, diz que regras aprovadas são diferentes das de quando tema estava em análise. Leia no Poder360.",
    "link": "https://www.poder360.com.br/poder-economia/cbs-em-113-e-por-excecoes-da-reforma-tributaria-diz-presidente-do-tcu/",
    "source": "Poder360",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-17T15:18:20Z",
-   "tries": 1
-  },
-  {
-   "id": "69d4edb5a5d7",
-   "date": "2026-11-17",
-   "title": "Segunda versão do regulamento da CBS deve sair nesta semana, diz Receita",
-   "resumo": "O secretário da Receita Federal, Robinson Barreirinhas, disse que o sistema base da reforma tributária já está pronto e sendo testado desde janeiro e que a maior parte dos documentos fiscais já está sendo emitida adequadamente",
-   "link": "https://valor.globo.com/brasil/noticia/2026/11/17/segunda-versao-do-regulamento-da-cbs-deve-sair-nesta-semana-diz-receita.ghtml",
-   "source": "Valor Econômico",
-   "official": false,
-   "category": "lei",
-   "tag": "Legislação",
-   "addedAt": "2026-11-17T15:18:20Z",
-   "tries": 1
-  },
-  {
-   "id": "dc75991c1787",
-   "date": "2026-11-17",
-   "title": "Presidente do TCU atribui CBS em 11,3% às exceções da reforma tributária",
-   "resumo": "Vital do Rêgo Filho participou de audiência pública na CAE do Senado nesta terça-feira (17) para discutir o cálculo da alíquota de referência da CBS",
-   "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/presidente-do-tcu-atribui-cbs-em-113-as-excecoes-da-reforma-tributaria/",
-   "source": "CNN Brasil",
    "official": false,
    "category": "aliq",
    "tag": "Alíquotas",

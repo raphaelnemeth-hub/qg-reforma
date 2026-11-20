@@ -1,6 +1,6 @@
 {
- "lastCheckAt": "2026-11-20T15:47:01Z",
- "lastCheckBr": "20/11/2026 12:47",
+ "lastCheckAt": "2026-11-20T16:49:56Z",
+ "lastCheckBr": "20/11/2026 13:49",
  "added": 20,
  "feeds": [
   {
@@ -42,17 +42,30 @@
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 97,
-   "new": 15
+   "found": 98,
+   "new": 14
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
    "ok": true,
-   "found": 8,
-   "new": 5
+   "found": 9,
+   "new": 6
   }
  ],
  "items": [
+  {
+   "id": "c27fe0e16663",
+   "date": "2026-11-20",
+   "title": "Reforma Tributária exige certificação OEA para suspender IBS e CBS de exportadoras",
+   "resumo": "Receita Federal cria categoria exclusiva no Programa OEA para comerciais exportadoras, mas especialistas da São Paulo Chamber of Commerce alertam para barreiras de acesso que ainda desafiam pequenas e médias empresas Da Redação (*) Brasília – A implementação…",
+   "link": "https://comexdobrasil.com/reforma-tributaria-exige-certificacao-oea-para-suspender-ibs-e-cbs-de-comerciais-exportadoras/",
+   "source": "Comex do Brasil",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-20T16:49:56Z",
+   "tries": 1
+  },
   {
    "id": "b0abf43957b8",
    "date": "2026-11-20",
@@ -1954,19 +1967,6 @@
    "official": false,
    "category": "aliq",
    "tag": "Alíquotas",
-   "addedAt": "2026-11-17T16:24:09Z",
-   "tries": 1
-  },
-  {
-   "id": "bcb46566b91f",
-   "date": "2026-11-17",
-   "title": "A Reforma Tributária já fez o check-in",
-   "resumo": "Se nos últimos anos a Reforma Tributária foi tema de debates e projeções, agora, no 2º semestre, ela já faz parte da realidade das empresas.",
-   "link": "https://revistahoteis.com.br/a-reforma-tributaria-ja-fez-o-check-in/",
-   "source": "Revista Hotéis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
    "addedAt": "2026-11-17T16:24:09Z",
    "tries": 1
   }

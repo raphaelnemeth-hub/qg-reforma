@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-21T09:38:50Z",
- "lastCheckBr": "21/11/2026 06:38",
- "added": 18,
+ "lastCheckAt": "2026-11-21T10:38:22Z",
+ "lastCheckBr": "21/11/2026 07:38",
+ "added": 17,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -44,7 +44,7 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 98,
-   "new": 11
+   "new": 10
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -1086,6 +1086,19 @@
    "tries": 1
   },
   {
+   "id": "39b9d739c54b",
+   "date": "2026-11-17",
+   "title": "Adiar reforma tributária tiraria R$ 10 bilhões dos mais pobres, diz Receita",
+   "resumo": "Secretário Robinson Barreirinhas defende início das mudanças em 2027 e afirma que cashback beneficiará famílias de baixa renda com devolução de impostos",
+   "link": "https://www.infomoney.com.br/politica/adiar-reforma-tributaria-tiraria-r-10-bilhoes-dos-mais-pobres-diz-receita/",
+   "source": "InfoMoney",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-21T10:38:22Z",
+   "tries": 1
+  },
+  {
    "id": "69d4edb5a5d7",
    "date": "2026-11-17",
    "title": "Segunda versão do regulamento da CBS deve sair nesta semana, diz Receita",
@@ -1957,19 +1970,6 @@
    "category": "nt",
    "tag": "Nota técnica",
    "addedAt": "2026-11-17T16:24:09Z"
-  },
-  {
-   "id": "e4634a16ba67",
-   "date": "2026-11-17",
-   "title": "Virando a Chave para a Reforma Tributária - API para emissão do RAD já está disponível",
-   "resumo": "Agilize decisões seguras. Legislação, Comentários e Consultoria nas áreas de IR e Contribuições, ICMS, IPI, ISS, Contabilidade e Societário, Simples Nacional, Trabalhista e Previdenciária. Cálculos e Tabelas de Substituição Tributária. Agenda Tributária…",
-   "link": "https://www.legisweb.com.br/noticia/?id",
-   "source": "LegisWeb",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-17T16:24:09Z",
-   "tries": 1
   }
  ]
 }

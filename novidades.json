@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-21T17:31:54Z",
- "lastCheckBr": "21/11/2026 14:31",
- "added": 20,
+ "lastCheckAt": "2026-11-21T18:31:45Z",
+ "lastCheckBr": "21/11/2026 15:31",
+ "added": 19,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -43,8 +43,8 @@
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 94,
-   "new": 13
+   "found": 98,
+   "new": 12
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -192,6 +192,19 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-20T09:28:54Z",
+   "tries": 1
+  },
+  {
+   "id": "8bb7e4395152",
+   "date": "2026-11-19",
+   "title": "Formação de preço com Reforma Tributária: seu cliente pode pagar menos mesmo com nota maior",
+   "resumo": "Com a CBS em 2027, startups podem reajustar a nota e, ainda assim, reduzir o custo líquido do cliente, desde que saibam como a conta fecha",
+   "link": "https://startups.com.br/branded-content/formacao-de-preco-com-a-reforma-tributaria-seu-cliente-pode-pagar-menos-mesmo-com-a-sua-nota-maior/",
+   "source": "Startups",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-21T18:31:45Z",
    "tries": 1
   },
   {
@@ -511,6 +524,19 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-19T10:51:36Z",
+   "tries": 1
+  },
+  {
+   "id": "94569d30e02a",
+   "date": "2026-11-18",
+   "title": "Senado questiona alíquota de 11,3% da CBS prevista na reforma tributária",
+   "resumo": "A taxa de imposto que deverá entrar em vigor com a próxima etapa da reforma tributária continua sendo motivo de",
+   "link": "https://dgrj.com.br/economia/senado-questiona-aliquota-de-113-da-cbs-prevista-na-reforma-tributaria",
+   "source": "Diário da Guanabara",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-21T18:31:45Z",
    "tries": 1
   },
   {
@@ -1943,32 +1969,6 @@
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-17T18:20:46Z",
-   "tries": 1
-  },
-  {
-   "id": "396d86606f27",
-   "date": "2026-11-17",
-   "title": "Benefícios fiscais aprovados na reforma tributária elevaram alíquota da CBS, afirma TCU",
-   "resumo": "Presidente do TCU afirma que benefícios fiscais elevaram a alíquota de referência da CBS para 11,3%. Senado precisa definir o percentual até 15 de dezembro.",
-   "link": "https://www.portalviu.com.br/economia/beneficios-fiscais-aprovados-na-reforma-tributaria-elevaram-aliquota-da-cbs-afirma-tcu",
-   "source": "Portal Viu",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-17T18:20:46Z",
-   "tries": 1
-  },
-  {
-   "id": "fa0718205ee9",
-   "date": "2026-11-17",
-   "title": "Reforma Tributária altera regras de preenchimento do PGDAS-D para empresas do Simples Nacional",
-   "resumo": "Mudanças envolvem regime de apuração, declaração da folha salarial e cálculo das alíquotas efetivas de IBS e CBS nos documentos fiscais eletrônicos Contábeis O Programa Gerador do Documento de Arrecadação do Simples Nacional – Declaratório (PGDAS-D) foi…",
-   "link": "https://www.sincovaganoticias.com.br/reforma-tributaria-altera-regras-de-preenchimento-do-pgdas-d-para-empresas-do-simples-nacional/",
-   "source": "Sincovaga Notícias",
-   "official": false,
-   "category": "simples",
-   "tag": "Simples",
    "addedAt": "2026-11-17T18:20:46Z",
    "tries": 1
   }

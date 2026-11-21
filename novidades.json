@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-20T23:37:29Z",
- "lastCheckBr": "20/11/2026 20:37",
- "added": 16,
+ "lastCheckAt": "2026-11-21T00:45:49Z",
+ "lastCheckBr": "20/11/2026 21:45",
+ "added": 18,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -44,13 +44,13 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 98,
-   "new": 10
+   "new": 11
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
    "ok": true,
-   "found": 9,
-   "new": 6
+   "found": 10,
+   "new": 7
   }
  ],
  "items": [
@@ -447,6 +447,19 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-19T10:51:36Z",
+   "tries": 1
+  },
+  {
+   "id": "585aec7392c7",
+   "date": "2026-11-18",
+   "title": "CBS: nova API da Receita muda rotina de empresas e contadores",
+   "resumo": "Nova ferramenta permite integrar sistemas empresariais aos serviços de emissão de DARF e consulta de pagamentos pelo RAD",
+   "link": "https://jornalcontabil.com.br/noticia/cbs-nova-api-da-receita-muda-rotina-de-empresas-e-contadores/",
+   "source": "Jornal Contábil",
+   "official": false,
+   "category": "cont",
+   "tag": "Contabilidade",
+   "addedAt": "2026-11-21T00:45:49Z",
    "tries": 1
   },
   {
@@ -1957,19 +1970,6 @@
    "tag": "Atualização",
    "addedAt": "2026-11-17T16:24:09Z",
    "tries": 1
-  },
-  {
-   "id": "525b3221bad8",
-   "date": "2026-11-17",
-   "title": "Ministro da Fazenda afirma que decisões judiciais impactam alíquotas da CBS e do IBS",
-   "resumo": "Declaração foi feita durante audiência pública na Comissão de Assuntos Econômicos do Senado nesta terça-feira (17/11)",
-   "link": "https://portalvv8.com.br/noticia/85858/ministro-da-fazenda-afirma-que-decisoes-judiciais-impactam-aliquotas-da-cbs-e-do-ibs",
-   "source": "Portal VV8",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-17T16:24:09Z",
-   "tries": 2
   }
  ]
 }

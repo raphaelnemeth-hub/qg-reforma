@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-21T00:45:49Z",
- "lastCheckBr": "20/11/2026 21:45",
- "added": 18,
+ "lastCheckAt": "2026-11-21T02:00:31Z",
+ "lastCheckBr": "20/11/2026 23:00",
+ "added": 17,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -17,10 +17,9 @@
   },
   {
    "name": "Receita Federal",
-   "ok": false,
+   "ok": true,
    "found": 0,
-   "new": 0,
-   "error": "URLError"
+   "new": 0
   },
   {
    "name": "Agência Brasil",
@@ -44,7 +43,7 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 98,
-   "new": 11
+   "new": 10
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",

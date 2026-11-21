@@ -1,6 +1,6 @@
 {
- "lastCheckAt": "2026-11-21T04:20:58Z",
- "lastCheckBr": "21/11/2026 01:20",
+ "lastCheckAt": "2026-11-21T05:22:58Z",
+ "lastCheckBr": "21/11/2026 02:22",
  "added": 17,
  "feeds": [
   {
@@ -17,10 +17,9 @@
   },
   {
    "name": "Receita Federal",
-   "ok": false,
+   "ok": true,
    "found": 0,
-   "new": 0,
-   "error": "URLError"
+   "new": 0
   },
   {
    "name": "Agência Brasil",

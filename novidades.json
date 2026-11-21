@@ -1,6 +1,6 @@
 {
- "lastCheckAt": "2026-11-21T10:38:22Z",
- "lastCheckBr": "21/11/2026 07:38",
+ "lastCheckAt": "2026-11-21T11:36:02Z",
+ "lastCheckBr": "21/11/2026 08:36",
  "added": 17,
  "feeds": [
   {
@@ -1086,6 +1086,19 @@
    "tries": 1
   },
   {
+   "id": "e4634a16ba67",
+   "date": "2026-11-17",
+   "title": "Virando a Chave para a Reforma Tributária - API para emissão do RAD já está disponível",
+   "resumo": "Agilize decisões seguras. Legislação, Comentários e Consultoria nas áreas de IR e Contribuições, ICMS, IPI, ISS, Contabilidade e Societário, Simples Nacional, Trabalhista e Previdenciária. Cálculos e Tabelas de Substituição Tributária. Agenda Tributária…",
+   "link": "https://www.legisweb.com.br/noticia/?id",
+   "source": "LegisWeb",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-21T11:36:02Z",
+   "tries": 1
+  },
+  {
    "id": "39b9d739c54b",
    "date": "2026-11-17",
    "title": "Adiar reforma tributária tiraria R$ 10 bilhões dos mais pobres, diz Receita",
@@ -1958,18 +1971,6 @@
    "category": "aliq",
    "tag": "Alíquotas",
    "addedAt": "2026-11-17T17:28:29Z"
-  },
-  {
-   "id": "6d9ad6329c69",
-   "date": "2026-11-17",
-   "title": "Reforma tributária: Receita descarta punição a erros de boa-fé",
-   "resumo": "O secretário da Receita Federal, Robinson Barreirinhas, afirmou nesta terça-feira (17) que os riscos e desafios da implementação da reforma tributária já foram identificados e que o governo pretende orientar os contribuintes durante a transição para o novo…",
-   "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/reforma-tributaria-receita-descarta-punicao-erros-de-boa-fe",
-   "source": "Agência Brasil",
-   "official": true,
-   "category": "nt",
-   "tag": "Nota técnica",
-   "addedAt": "2026-11-17T16:24:09Z"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-21T14:40:53Z",
- "lastCheckBr": "21/11/2026 11:40",
- "added": 17,
+ "lastCheckAt": "2026-11-21T15:35:15Z",
+ "lastCheckBr": "21/11/2026 12:35",
+ "added": 18,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -31,8 +31,8 @@
   {
    "name": "Portal Contábeis",
    "ok": true,
-   "found": 6,
-   "new": 0
+   "found": 7,
+   "new": 1
   },
   {
    "name": "InfoMoney",
@@ -54,6 +54,18 @@
   }
  ],
  "items": [
+  {
+   "id": "a957da3aaea0",
+   "date": "2026-11-21",
+   "title": "Reforma Tributária: veja o que muda na rotina dos escritórios contábeis em 2027",
+   "resumo": "Entrada da CBS e implantação do IBS exigem ajustes na apuração de tributos, emissão de notas fiscais e cumprimento de obrigações. Leia mais em…",
+   "link": "https://www.contabeis.com.br/noticias/80949/reforma-tributaria-veja-o-que-muda-na-rotina-dos-escritorios-contabeis-em-2027/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-21T15:35:15Z"
+  },
   {
    "id": "c9d1c9414a76",
    "date": "2026-11-21",
@@ -1957,19 +1969,6 @@
    "official": false,
    "category": "simples",
    "tag": "Simples",
-   "addedAt": "2026-11-17T18:20:46Z",
-   "tries": 1
-  },
-  {
-   "id": "2c8725e133f9",
-   "date": "2026-11-17",
-   "title": "Reforma tributária: governo prevê imposto médio de 8,5%, mas cálculo de 11,3% gera debate",
-   "resumo": "Alíquota da reforma tributária gera debate: governo prevê cobrança média de 8,5%, enquanto TCU calcula referência de 11,3% para a CBS.",
-   "link": "https://transmissaopolitica.com.br/politica-nacional/2026/11/17/aliquota-reforma-tributaria-cbs-85-113/",
-   "source": "Transmissão Política",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
    "addedAt": "2026-11-17T18:20:46Z",
    "tries": 1
   }

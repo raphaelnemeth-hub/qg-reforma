@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-21T15:35:15Z",
- "lastCheckBr": "21/11/2026 12:35",
- "added": 18,
+ "lastCheckAt": "2026-11-21T16:35:41Z",
+ "lastCheckBr": "21/11/2026 13:35",
+ "added": 17,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -17,10 +17,9 @@
   },
   {
    "name": "Receita Federal",
-   "ok": false,
+   "ok": true,
    "found": 0,
-   "new": 0,
-   "error": "URLError"
+   "new": 0
   },
   {
    "name": "Agência Brasil",
@@ -32,7 +31,7 @@
    "name": "Portal Contábeis",
    "ok": true,
    "found": 7,
-   "new": 1
+   "new": 0
   },
   {
    "name": "InfoMoney",

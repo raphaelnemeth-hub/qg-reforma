@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-21T05:22:58Z",
- "lastCheckBr": "21/11/2026 02:22",
- "added": 17,
+ "lastCheckAt": "2026-11-21T06:21:16Z",
+ "lastCheckBr": "21/11/2026 03:21",
+ "added": 22,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -17,9 +17,10 @@
   },
   {
    "name": "Receita Federal",
-   "ok": true,
+   "ok": false,
    "found": 0,
-   "new": 0
+   "new": 0,
+   "error": "URLError"
   },
   {
    "name": "Agência Brasil",
@@ -42,8 +43,8 @@
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 98,
-   "new": 10
+   "found": 94,
+   "new": 15
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -166,6 +167,19 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-20T09:28:54Z",
+   "tries": 1
+  },
+  {
+   "id": "4fd0e372d426",
+   "date": "2026-11-19",
+   "title": "Reforma Tributária pode elevar custos e levar aeroportos a rever contratos",
+   "resumo": "",
+   "link": "https://fenafisco.org.br/amp/19/11/2026/reforma-tributaria-pode-elevar-custos-e-levar-aeroportos-a-rever-contratos/",
+   "source": "Fenafisco",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-21T06:21:16Z",
    "tries": 1
   },
   {
@@ -1954,19 +1968,6 @@
    "official": false,
    "category": "lei",
    "tag": "Legislação",
-   "addedAt": "2026-11-17T16:24:09Z",
-   "tries": 1
-  },
-  {
-   "id": "fc611d1d0c2a",
-   "date": "2026-11-17",
-   "title": "Ministro Dario Durigan explica no Senado alíquota de 11,3% da CBS, enquanto indústria e OAB pressionam por adiamento da reforma tributária",
-   "resumo": "O ministro da Fazenda, Dario Durigan, participa de audiência no Senado para explicar a alíquota de referência de 11,3% da CBS, recomendada pelo TCU para a reforma tributária. A CNI e a OAB questionam o percentual e defendem mudanças no cronograma de…",
-   "link": "https://jornalgrandebahia.com.br/2026/11/ministro-dario-durigan-explica-no-senado-aliquota-de-113-da-cbs-enquanto-industria-e-oab-pressionam-por-adiamento-da-reforma-tributaria/",
-   "source": "Jornal Grande Bahia",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
    "addedAt": "2026-11-17T16:24:09Z",
    "tries": 1
   }

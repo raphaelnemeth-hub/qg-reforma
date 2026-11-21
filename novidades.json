@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-21T18:31:45Z",
- "lastCheckBr": "21/11/2026 15:31",
- "added": 19,
+ "lastCheckAt": "2026-11-21T19:38:43Z",
+ "lastCheckBr": "21/11/2026 16:38",
+ "added": 17,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -44,7 +44,7 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 98,
-   "new": 12
+   "new": 10
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -77,6 +77,19 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-21T12:40:07Z",
+   "tries": 1
+  },
+  {
+   "id": "be010b29d11b",
+   "date": "2026-11-20",
+   "title": "Créditos de IBS e CBS na Aquisição de Combustíveis: Como Funciona na Prática",
+   "resumo": "Find verified tax attorneys, CPAs and advisors in 250+ locations, with continuously updated tax data and expert insights.",
+   "link": "https://tributario.com.br/IsaiasJonas/creditos-ibs-cbs-na-aquisicao-combustiveis-como-funciona-na-pratica",
+   "source": "Tributário",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-21T19:38:43Z",
    "tries": 1
   },
   {
@@ -1953,19 +1966,6 @@
    "resumo": "Em atenção às consultas formuladas por sindicatos filiados, apresentamos esclarecimentos sobre a divulgação dos preços de bens e serviços a partir de janeiro de 2027, considerando o início da cobrança da CBS em substituição ao PIS/Cofins. A implantação da…",
    "link": "https://www.sincovaganoticias.com.br/reforma-tributaria-preco-divulgado-ao-consumidor-mix-legal-290-2026/",
    "source": "Sincovaga Notícias",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-17T18:20:46Z",
-   "tries": 1
-  },
-  {
-   "id": "3136d1fa7e07",
-   "date": "2026-11-17",
-   "title": "Durigan diz que reforma tributária pode ter \"pequeno impacto\" na inflação",
-   "resumo": "Ministro da Fazenda participou de audiência pública na CAE do Senado nesta terça-feira (17) para discutir o cálculo da alíquota de referência da CBS",
-   "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/durigan-diz-que-reforma-tributaria-pode-ter-pequeno-impacto-na-inflacao/",
-   "source": "CNN Brasil",
    "official": false,
    "category": "outros",
    "tag": "Atualização",

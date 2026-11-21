@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-21T02:00:31Z",
- "lastCheckBr": "20/11/2026 23:00",
- "added": 17,
+ "lastCheckAt": "2026-11-21T03:12:31Z",
+ "lastCheckBr": "21/11/2026 00:12",
+ "added": 18,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -17,9 +17,10 @@
   },
   {
    "name": "Receita Federal",
-   "ok": true,
+   "ok": false,
    "found": 0,
-   "new": 0
+   "new": 0,
+   "error": "URLError"
   },
   {
    "name": "Agência Brasil",
@@ -43,7 +44,7 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 98,
-   "new": 10
+   "new": 11
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -53,6 +54,19 @@
   }
  ],
  "items": [
+  {
+   "id": "b9ed7f74f9ac",
+   "date": "2026-11-20",
+   "title": "Receita Federal amplia acesso ao Ambiente de Produção Restrita do Piloto da CBS",
+   "resumo": "",
+   "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-amplia-acesso-ao-ambiente-de-producao-restrita-do-piloto-da-cbs",
+   "source": "Governo Federal",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-21T03:12:31Z",
+   "tries": 1
+  },
   {
    "id": "ec8f4af17209",
    "date": "2026-11-20",
@@ -1954,19 +1968,6 @@
    "official": false,
    "category": "aliq",
    "tag": "Alíquotas",
-   "addedAt": "2026-11-17T16:24:09Z",
-   "tries": 1
-  },
-  {
-   "id": "39b9d739c54b",
-   "date": "2026-11-17",
-   "title": "Adiar reforma tributária tiraria R$ 10 bilhões dos mais pobres, diz Receita",
-   "resumo": "Secretário Robinson Barreirinhas defende início das mudanças em 2027 e afirma que cashback beneficiará famílias de baixa renda com devolução de impostos",
-   "link": "https://www.infomoney.com.br/politica/adiar-reforma-tributaria-tiraria-r-10-bilhoes-dos-mais-pobres-diz-receita/",
-   "source": "InfoMoney",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
    "addedAt": "2026-11-17T16:24:09Z",
    "tries": 1
   }

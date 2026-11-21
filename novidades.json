@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-21T07:40:39Z",
- "lastCheckBr": "21/11/2026 04:40",
- "added": 17,
+ "lastCheckAt": "2026-11-21T08:41:15Z",
+ "lastCheckBr": "21/11/2026 05:41",
+ "added": 18,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -44,7 +44,7 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 98,
-   "new": 10
+   "new": 11
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",

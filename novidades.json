@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-21T11:36:02Z",
- "lastCheckBr": "21/11/2026 08:36",
- "added": 17,
+ "lastCheckAt": "2026-11-21T12:40:07Z",
+ "lastCheckBr": "21/11/2026 09:40",
+ "added": 18,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -44,7 +44,7 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 98,
-   "new": 10
+   "new": 11
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -54,6 +54,19 @@
   }
  ],
  "items": [
+  {
+   "id": "c9d1c9414a76",
+   "date": "2026-11-21",
+   "title": "Reforma tributária afeta aluguéis? Entenda o que muda a partir de 2027",
+   "resumo": "Mudanças afetam pessoas físicas e empresas com novas exigências para quem possui mais de três imóveis e recebe acima de R$ 240 mil por ano",
+   "link": "https://www.cnnbrasil.com.br/economia/seu-bolso/meu-dinheiro/reforma-tributaria-afeta-alugueis-entenda-o-que-muda-a-partir-de-2027/",
+   "source": "CNN Brasil",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-21T12:40:07Z",
+   "tries": 1
+  },
   {
    "id": "b9ed7f74f9ac",
    "date": "2026-11-20",
@@ -1086,6 +1099,19 @@
    "tries": 1
   },
   {
+   "id": "c7388d870cd3",
+   "date": "2026-11-17",
+   "title": "Reforma tributária: Receita descarta punição a erros de boa-fé",
+   "resumo": "O secretário da Receita Federal, Robinson Barreirinhas, afirmou em audiência pública na Comissão de Assuntos Econômicos (CAE) do Senado, que o sistema já está sendo testado por 500 empresas e deverá ser disponibilizado para todas as empresas brasileiras nos…",
+   "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/reforma-tributaria-receita-descarta-punicao-erros-de-boa-fe",
+   "source": "Agência Brasil",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-21T12:40:07Z",
+   "tries": 1
+  },
+  {
    "id": "e4634a16ba67",
    "date": "2026-11-17",
    "title": "Virando a Chave para a Reforma Tributária - API para emissão do RAD já está disponível",
@@ -1946,31 +1972,6 @@
    "tag": "Atualização",
    "addedAt": "2026-11-17T18:20:46Z",
    "tries": 1
-  },
-  {
-   "id": "3982655842d3",
-   "date": "2026-11-17",
-   "title": "Vídeo: Durigan fala em comissão sobre alíquota da CBS – 17/11/26",
-   "resumo": "Portal de Notícias do Senado Federal: matérias, entrevistas e informações oficiais sobre a atividade legislativa.",
-   "link": "https://www12.senado.leg.br/noticias/videos/2026/11/ao-vivo-durigan-fala-em-comissao-sobre-aliquota-da-cbs-2013-17-11-26",
-   "source": "Senado Federal",
-   "official": true,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-17T17:28:29Z",
-   "tries": 1
-  },
-  {
-   "id": "d456828b81d4",
-   "date": "2026-11-17",
-   "title": "Durigan defende revisão de isenções e regimes especiais para reduzir CBS em 2028",
-   "resumo": "Dario Durigan, Minister of Finance of Brazil, speaks during an interview with Reuters in Beijing, China, June 25, 2026. REUTERS/Maxim Shemetov \" data-image-caption=\" (Foto: Maxim Shemetov / Reuters) \"…",
-   "link": "https://www.infomoney.com.br/politica/durigan-defende-revisao-de-isencoes-e-regimes-especiais-para-reduzir-cbs-em-2028/",
-   "source": "InfoMoney",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-17T17:28:29Z"
   }
  ]
 }

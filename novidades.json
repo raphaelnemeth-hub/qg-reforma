@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-21T06:21:16Z",
- "lastCheckBr": "21/11/2026 03:21",
- "added": 22,
+ "lastCheckAt": "2026-11-21T07:40:39Z",
+ "lastCheckBr": "21/11/2026 04:40",
+ "added": 17,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -43,8 +43,8 @@
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 94,
-   "new": 15
+   "found": 98,
+   "new": 10
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -180,7 +180,7 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-21T06:21:16Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "5c8ac839f63d",

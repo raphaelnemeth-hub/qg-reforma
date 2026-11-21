@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-21T20:30:41Z",
- "lastCheckBr": "21/11/2026 17:30",
- "added": 17,
+ "lastCheckAt": "2026-11-21T21:29:10Z",
+ "lastCheckBr": "21/11/2026 18:29",
+ "added": 18,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -44,7 +44,7 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 98,
-   "new": 10
+   "new": 11
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -54,6 +54,19 @@
   }
  ],
  "items": [
+  {
+   "id": "d91e5adf7bc2",
+   "date": "2026-11-21",
+   "title": "Reforma tributária: CBS começa em 2027 e atinge MS",
+   "resumo": "A reforma tributária do consumo entra em uma nova etapa em janeiro de 2027, com mudanças que vão atingir consumidores, empresas e, mais adiante, a arrecadaçã...",
+   "link": "https://www.campograndenews.com.br/economia/compras-luz-e-gas-entram-na-nova-fase-da-reforma-tributaria-em-2027",
+   "source": "Campo Grande News",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-21T21:29:10Z",
+   "tries": 1
+  },
   {
    "id": "a957da3aaea0",
    "date": "2026-11-21",
@@ -1958,19 +1971,6 @@
    "tag": "Alíquotas",
    "addedAt": "2026-11-17T18:20:46Z",
    "tries": 2
-  },
-  {
-   "id": "a926633e0d47",
-   "date": "2026-11-17",
-   "title": "Reforma Tributária: preço divulgado ao consumidor – Mix Legal 290 / 2026",
-   "resumo": "Em atenção às consultas formuladas por sindicatos filiados, apresentamos esclarecimentos sobre a divulgação dos preços de bens e serviços a partir de janeiro de 2027, considerando o início da cobrança da CBS em substituição ao PIS/Cofins. A implantação da…",
-   "link": "https://www.sincovaganoticias.com.br/reforma-tributaria-preco-divulgado-ao-consumidor-mix-legal-290-2026/",
-   "source": "Sincovaga Notícias",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-17T18:20:46Z",
-   "tries": 1
   }
  ]
 }

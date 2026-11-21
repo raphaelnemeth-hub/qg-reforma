@@ -1,6 +1,6 @@
 {
- "lastCheckAt": "2026-11-21T08:41:15Z",
- "lastCheckBr": "21/11/2026 05:41",
+ "lastCheckAt": "2026-11-21T09:38:50Z",
+ "lastCheckBr": "21/11/2026 06:38",
  "added": 18,
  "feeds": [
   {
@@ -167,6 +167,19 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-20T09:28:54Z",
+   "tries": 1
+  },
+  {
+   "id": "faecb36dbaf9",
+   "date": "2026-11-19",
+   "title": "CBS de 11,3%: impactos para empresas em 2027",
+   "resumo": "Entenda como a alíquota de referência da CBS pode afetar empresas do Lucro Real, Lucro Presumido e Simples Nacional a partir de 2027.",
+   "link": "https://www.contabeis.com.br/artigos/80998/cbs-de-11-3-impactos-para-empresas-em-2027/",
+   "source": "Portal Contabeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-21T09:38:50Z",
    "tries": 1
   },
   {
@@ -1955,19 +1968,6 @@
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-17T16:24:09Z",
-   "tries": 1
-  },
-  {
-   "id": "a4ef9a648d47",
-   "date": "2026-11-17",
-   "title": "AO VIVO: Senado ouve Durigan, Vital e Barreirinhas sobre a CBS",
-   "resumo": "Ministro da Fazenda, presidente do TCU e secretário da Receita debatem alíquota de 11,3% do novo tributo federal sobre o consumo.",
-   "link": "https://www.congressoemfoco.com.br/noticia/131646/ao-vivo-senado-ouve-durigan-vital-e-barreirinhas-sobre-a-cbs",
-   "source": "Congresso em Foco",
-   "official": false,
-   "category": "lei",
-   "tag": "Legislação",
    "addedAt": "2026-11-17T16:24:09Z",
    "tries": 1
   }

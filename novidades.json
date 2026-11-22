@@ -1,6 +1,6 @@
 {
- "lastCheckAt": "2026-11-22T09:11:57Z",
- "lastCheckBr": "22/11/2026 06:11",
+ "lastCheckAt": "2026-11-22T10:13:20Z",
+ "lastCheckBr": "22/11/2026 07:13",
  "added": 18,
  "feeds": [
   {
@@ -17,10 +17,9 @@
   },
   {
    "name": "Receita Federal",
-   "ok": false,
+   "ok": true,
    "found": 0,
-   "new": 0,
-   "error": "URLError"
+   "new": 0
   },
   {
    "name": "Agência Brasil",
@@ -1202,6 +1201,19 @@
    "tries": 1
   },
   {
+   "id": "946ca3f5cd4c",
+   "date": "2026-11-17",
+   "title": "Audiência no Senado debate nova alíquota da reforma tributária",
+   "resumo": "A alíquota de 11,3% para novo imposto federal da reforma tributária foi resultado de benefícios aprovados no Congresso Nacional. O esclarecimento foi feito pelo presidente do Tribunal de Contas da União, Vital do Rêgo Filho, na Comissão de Assuntos Econômicos…",
+   "link": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/economia/audio/2026-11/audiencia-no-senado-debate-nova-aliquota-da-reforma-tributaria",
+   "source": "Agência Brasil",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-22T10:13:20Z",
+   "tries": 1
+  },
+  {
    "id": "657065f16cc0",
    "date": "2026-11-17",
    "title": "Alíquota da CBS teve impacto de isenções propostas pelo STF, diz Durigan",
@@ -1958,19 +1970,6 @@
    "category": "aliq",
    "tag": "Alíquotas",
    "addedAt": "2026-11-17T18:20:46Z"
-  },
-  {
-   "id": "93afa5c61f35",
-   "date": "2026-11-17",
-   "title": "Virando a Chave para a Reforma Tributária - API para emissão do RAD já está disponível — Receita Federal",
-   "resumo": "Na prática, a solução viabiliza a automação dos processos relacionados ao RAD, reduzindo etapas operacionais e ampliando a eficiência na apropriação de créditos tributários.",
-   "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/virando-a-chave-para-a-reforma-tributaria-api-para-emissao-do-rad-ja-esta-disponivel",
-   "source": "Governo Federal",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-17T18:20:46Z",
-   "tries": 1
   }
  ]
 }

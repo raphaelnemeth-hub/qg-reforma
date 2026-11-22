@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-22T04:49:14Z",
- "lastCheckBr": "22/11/2026 01:49",
- "added": 17,
+ "lastCheckAt": "2026-11-22T05:47:42Z",
+ "lastCheckBr": "22/11/2026 02:47",
+ "added": 20,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -44,7 +44,7 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 98,
-   "new": 10
+   "new": 13
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -550,6 +550,32 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-19T10:51:36Z",
+   "tries": 1
+  },
+  {
+   "id": "72db251edb2c",
+   "date": "2026-11-18",
+   "title": "Especialistas contestam CBS de 11,3% e propõem alíquota menor",
+   "resumo": "Em audiência no Senado, participantes apresentam cálculos alternativos, apontam riscos de sonegação e questionam premissas utilizadas pelo TCU.",
+   "link": "https://www.congressoemfoco.com.br/noticia/131694/especialistas-contestam-cbs-de-11-3-e-propoem-aliquota-menor",
+   "source": "Congresso em Foco",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-22T05:47:42Z",
+   "tries": 1
+  },
+  {
+   "id": "31dc7f45090e",
+   "date": "2026-11-18",
+   "title": "Reforma tributária 2027: por que revisar a conta de luz",
+   "resumo": "2027 começa agora: com a CBS em alíquota cheia, as reuniões de planejamento ganham peso. A conta de luz é uma linha que o contador já enxerga e que pouca gente revisa.",
+   "link": "https://jornalcontabil.com.br/noticia/reforma-tributaria-2027-por-que-revisar-a-conta-de-luz/",
+   "source": "Jornal Contábil",
+   "official": false,
+   "category": "cont",
+   "tag": "Contabilidade",
+   "addedAt": "2026-11-22T05:47:42Z",
    "tries": 1
   },
   {
@@ -1945,32 +1971,6 @@
    "tag": "Legislação",
    "addedAt": "2026-11-17T18:20:46Z",
    "tries": 1
-  },
-  {
-   "id": "dee2b16e5ddc",
-   "date": "2026-11-17",
-   "title": "Durigan defende alíquota da reforma tributária e estima média efetiva de 8,5%",
-   "resumo": "",
-   "link": "https://monitormercantil.com.br/durigan-defende-aliquota-da-reforma-tributaria-e-estima-media-efetiva-de-85/",
-   "source": "Monitor Mercantil",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-17T18:20:46Z",
-   "tries": 2
-  },
-  {
-   "id": "0fffd145e01a",
-   "date": "2026-11-17",
-   "title": "Senado debate alíquota de 11,3% para a CBS; veja os principais pontos",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNm9oSlEzYVFxX0RrcGtTblpJUlltd0hXTE1oWUpZaWFDa0JHZmluLW93dlBvbU5NRzNCM2x0RmszU3lpWjZSTzlvemY5RE5sOXFKRXJvMjY4emIwVFJ3UWRvNEVUZDFCQzJaNlMwaUN3d2RmWF9rWHdjSVhneTMtQVpobUtpMXBTVV9UVFh4RUV5UkFJOEIzeW9tOWs5SVdYX3JEejFiREtNcUx6aUhOMUw3elJYaXBkbmpHQ09oRUYyVFhOckpmRS1UQjJ1T3ZyY0NiWVZvejk3cHpEUExnbHdNdFpLZ9IB9AFBVV95cUxQSml0RlR0b3lUMHd1dlU0ak1vRjRKNEVtQmU1dFVKSDI0cDZFUVZSX21yWEZwa3R4QnI4LV9ucDRQS2hua2pSeTBocDJqbGlYbl9vVllNSEtJbnJwV0dDelM3QWpEcTVDUFducEIxRHQtVkF2OFMtVlhReG5oMWZMUW1QRHR3QkVIaF9JSmMzenlEN2VyR0R5SzhZTlJkbjNNeGVGOU03RUxBcnB0RUZLcy1ZSWlkYkNHczB5WURmQTd4cW5sYnJlSlU3eWxKcWM1em5TQU0tV3FKUldjQV9Sc1psa3kwRm1lZ0FTdl9rX0Vfb0E5?oc=5",
-   "source": "Pequenas Empresas & Grandes Negócios",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-17T18:20:46Z",
-   "tries": 2
   }
  ]
 }

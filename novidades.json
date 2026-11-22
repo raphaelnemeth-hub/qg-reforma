@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-22T20:12:26Z",
- "lastCheckBr": "22/11/2026 17:12",
- "added": 16,
+ "lastCheckAt": "2026-11-22T21:12:02Z",
+ "lastCheckBr": "22/11/2026 18:12",
+ "added": 0,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -41,15 +41,17 @@
   },
   {
    "name": "Imprensa (Google Notícias)",
-   "ok": true,
-   "found": 95,
-   "new": 9
+   "ok": false,
+   "found": 0,
+   "new": 0,
+   "error": "HTTPError"
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
-   "ok": true,
-   "found": 10,
-   "new": 7
+   "ok": false,
+   "found": 0,
+   "new": 0,
+   "error": "HTTPError"
   }
  ],
  "items": [

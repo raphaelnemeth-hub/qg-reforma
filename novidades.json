@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-22T12:06:41Z",
- "lastCheckBr": "22/11/2026 09:06",
- "added": 17,
+ "lastCheckAt": "2026-11-22T13:26:52Z",
+ "lastCheckBr": "22/11/2026 10:26",
+ "added": 20,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -31,7 +31,7 @@
   {
    "name": "Portal Contábeis",
    "ok": true,
-   "found": 7,
+   "found": 6,
    "new": 0
   },
   {
@@ -43,8 +43,8 @@
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 98,
-   "new": 10
+   "found": 95,
+   "new": 13
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",

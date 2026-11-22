@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-22T13:26:52Z",
- "lastCheckBr": "22/11/2026 10:26",
- "added": 20,
+ "lastCheckAt": "2026-11-22T14:19:22Z",
+ "lastCheckBr": "22/11/2026 11:19",
+ "added": 18,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -43,8 +43,8 @@
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 95,
-   "new": 13
+   "found": 98,
+   "new": 11
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -589,6 +589,19 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-19T10:51:36Z",
+   "tries": 1
+  },
+  {
+   "id": "000ae93ce390",
+   "date": "2026-11-18",
+   "title": "Imposto Seletivo: o que é, o que será taxado e quando começa",
+   "resumo": "O Imposto Seletivo (IS) é um tributo federal criado pela Reforma Tributária, que incidirá sobre a produção e a comercialização de produtos e serviços que sejam prejudiciais à saúde ou à natureza. Também conhecido como […]",
+   "link": "https://meutudo.com.br/blog/imposto-seletivo/",
+   "source": "meutudo",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-22T14:19:22Z",
    "tries": 1
   },
   {
@@ -1959,19 +1972,6 @@
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-17T19:30:12Z",
-   "tries": 1
-  },
-  {
-   "id": "5e4a3f35f23a",
-   "date": "2026-11-17",
-   "title": "Reforma tributária: alíquota média será de 8,5%, diz Durigan",
-   "resumo": "Reforma tributária: na CAE do Senado, Dario Durigan disse que a CBS terá teto de 11,3% e carga efetiva média de 8,5%, com revisão anual.",
-   "link": "https://esbrasil.com.br/reforma-tributaria-durigan-aliquota-media-8-5/",
-   "source": "ES Brasil",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
    "addedAt": "2026-11-17T19:30:12Z",
    "tries": 1
   }

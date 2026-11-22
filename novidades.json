@@ -1,6 +1,6 @@
 {
- "lastCheckAt": "2026-11-22T08:02:20Z",
- "lastCheckBr": "22/11/2026 05:02",
+ "lastCheckAt": "2026-11-22T09:11:57Z",
+ "lastCheckBr": "22/11/2026 06:11",
  "added": 18,
  "feeds": [
   {
@@ -1202,6 +1202,19 @@
    "tries": 1
   },
   {
+   "id": "657065f16cc0",
+   "date": "2026-11-17",
+   "title": "Alíquota da CBS teve impacto de isenções propostas pelo STF, diz Durigan",
+   "resumo": "Ministro da Fazenda voltou a defender uma revisão da tributação para empresas e possível desoneração da folha",
+   "link": "https://www1.folha.uol.com.br/mercado/2026/11/aliquota-da-cbs-teve-impacto-de-isencoes-propostas-pelo-stf-diz-durigan.shtml",
+   "source": "Folha de S.Paulo",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-22T09:11:57Z",
+   "tries": 1
+  },
+  {
    "id": "bdee837ee651",
    "date": "2026-11-17",
    "title": "No Senado, Durigan defende CBS de 11,3% e diz que média será de 8,5%",
@@ -1956,19 +1969,6 @@
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-17T18:20:46Z",
-   "tries": 1
-  },
-  {
-   "id": "946ca3f5cd4c",
-   "date": "2026-11-17",
-   "title": "Audiência no Senado debate nova alíquota da reforma tributária",
-   "resumo": "A alíquota de 11,3% para novo imposto federal da reforma tributária foi resultado de benefícios aprovados no Congresso Nacional. O esclarecimento foi feito pelo presidente do Tribunal de Contas da União, Vital do Rêgo Filho, na Comissão de Assuntos Econômicos…",
-   "link": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/economia/audio/2026-11/audiencia-no-senado-debate-nova-aliquota-da-reforma-tributaria",
-   "source": "Agência Brasil",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
    "addedAt": "2026-11-17T18:20:46Z",
    "tries": 1
   }

@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-22T05:47:42Z",
- "lastCheckBr": "22/11/2026 02:47",
- "added": 20,
+ "lastCheckAt": "2026-11-22T06:51:49Z",
+ "lastCheckBr": "22/11/2026 03:51",
+ "added": 19,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -44,7 +44,7 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 98,
-   "new": 13
+   "new": 12
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -54,6 +54,19 @@
   }
  ],
  "items": [
+  {
+   "id": "1da90df883a7",
+   "date": "2026-11-22",
+   "title": "Observância do art. 166 do CTN na repetição do indébito da CBS/IBS",
+   "resumo": "Grupo de Trabalho ignora a jurisprudência consolidada do próprio STF ou do STJ sobre o tema da repetição de indébito dos tributos indiretos.",
+   "link": "https://www.jota.info/opiniao-e-analise/colunas/pauta-fiscal/observancia-do-art-166-do-ctn-na-repeticao-do-indebito-da-cbs-ibs",
+   "source": "JOTA Info",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-22T06:51:49Z",
+   "tries": 1
+  },
   {
    "id": "d91e5adf7bc2",
    "date": "2026-11-21",
@@ -1189,6 +1202,19 @@
    "tries": 1
   },
   {
+   "id": "dee2b16e5ddc",
+   "date": "2026-11-17",
+   "title": "Durigan defende alíquota da reforma tributária e estima média efetiva de 8,5%",
+   "resumo": "",
+   "link": "https://monitormercantil.com.br/durigan-defende-aliquota-da-reforma-tributaria-e-estima-media-efetiva-de-85/",
+   "source": "Monitor Mercantil",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-22T06:51:49Z",
+   "tries": 1
+  },
+  {
    "id": "c7388d870cd3",
    "date": "2026-11-17",
    "title": "Reforma tributária: Receita descarta punição a erros de boa-fé",
@@ -1943,32 +1969,6 @@
    "official": false,
    "category": "aliq",
    "tag": "Alíquotas",
-   "addedAt": "2026-11-17T18:20:46Z",
-   "tries": 1
-  },
-  {
-   "id": "a94dbff00e30",
-   "date": "2026-11-17",
-   "title": "Reforma tributária: Receita promete orientar empresas e descarta punições por erros de boa-fé",
-   "resumo": "",
-   "link": "https://monitormercantil.com.br/reforma-tributaria-receita-promete-orientar-empresas-e-descarta-punicoes-por-erros-de-boa-fe/",
-   "source": "Monitor Mercantil",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-17T18:20:46Z",
-   "tries": 2
-  },
-  {
-   "id": "bdee837ee651",
-   "date": "2026-11-17",
-   "title": "No Senado, Durigan defende CBS de 11,3% e diz que média será de 8,5%",
-   "resumo": "Em audiência no Senado com o presidente do TCU, Vital do Rêgo, e o secretário da Receita, Robinson Barreirinhas, ministro da Fazenda rejeita adiamento da reforma tributária.",
-   "link": "https://www.congressoemfoco.com.br/noticia/131646/no-senado-durigan-defende-cbs-de-11-3-e-diz-que-media-sera-de-8-5",
-   "source": "Congresso em Foco",
-   "official": false,
-   "category": "lei",
-   "tag": "Legislação",
    "addedAt": "2026-11-17T18:20:46Z",
    "tries": 1
   }

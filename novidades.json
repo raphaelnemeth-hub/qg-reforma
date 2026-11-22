@@ -1,6 +1,6 @@
 {
- "lastCheckAt": "2026-11-22T14:19:22Z",
- "lastCheckBr": "22/11/2026 11:19",
+ "lastCheckAt": "2026-11-22T15:11:55Z",
+ "lastCheckBr": "22/11/2026 12:11",
  "added": 18,
  "feeds": [
   {
@@ -31,7 +31,7 @@
   {
    "name": "Portal Contábeis",
    "ok": true,
-   "found": 6,
+   "found": 5,
    "new": 0
   },
   {
@@ -1254,6 +1254,19 @@
    "tries": 1
   },
   {
+   "id": "e153c4382b83",
+   "date": "2026-11-17",
+   "title": "Reforma Tributária altera regras de preenchimento do PGDAS-D para empresas do Simples Nacional",
+   "resumo": "",
+   "link": "https://www.contadores.cnt.br/noticias/tecnicas/2026/11/17/reforma-tributaria-altera-regras-de-preenchimento-do-pgdas-d-para-empresas-do-simples-nacional.html",
+   "source": "Contadores.cnt.br",
+   "official": false,
+   "category": "simples",
+   "tag": "Simples",
+   "addedAt": "2026-11-22T15:11:55Z",
+   "tries": 1
+  },
+  {
    "id": "946ca3f5cd4c",
    "date": "2026-11-17",
    "title": "Audiência no Senado debate nova alíquota da reforma tributária",
@@ -1961,19 +1974,6 @@
    "tag": "Contabilidade",
    "addedAt": "2026-11-17T19:30:12Z",
    "tries": 2
-  },
-  {
-   "id": "683ab5fcc5f8",
-   "date": "2026-11-17",
-   "title": "A reforma tributária, o ‘ajuste fiscal’ e os desafios para o agronegócio",
-   "resumo": "Esperamos contar com a Frente Parlamentar Agropecuária e com o diálogo entre os Poderes para evitar que o ajuste nas contas públicas se transforme em argumento para taxar injustamente o agro",
-   "link": "https://www.estadao.com.br/economia/agronegocios/a-reforma-tributaria-o-ajuste-fiscal-e-os-desafios-para-o-agronegocio/",
-   "source": "Estadão",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-17T19:30:12Z",
-   "tries": 1
   }
  ]
 }

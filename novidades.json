@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-22T16:10:27Z",
- "lastCheckBr": "22/11/2026 13:10",
- "added": 19,
+ "lastCheckAt": "2026-11-22T17:10:40Z",
+ "lastCheckBr": "22/11/2026 14:10",
+ "added": 20,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -37,8 +37,8 @@
   {
    "name": "InfoMoney",
    "ok": true,
-   "found": 0,
-   "new": 0
+   "found": 1,
+   "new": 1
   },
   {
    "name": "Imprensa (Google Notícias)",
@@ -54,6 +54,18 @@
   }
  ],
  "items": [
+  {
+   "id": "8561c5ffa902",
+   "date": "2026-11-22",
+   "title": "EUA buscam respostas sobre venda de chips da Nvidia para China, diz secretário",
+   "resumo": "Secretário do Tesouro dos EUA, Scott Bessent 24/06/2025. REUTERS/Kevin Mohatt \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2025/10/2025-10-13T123531Z_1_LYNXNPEL9C0IL_RTROPTP_4_USA-CONGRESS-TAX.jpg?fit=1280%2C853&quality=70&strip=all\"…",
+   "link": "https://www.infomoney.com.br/mundo/eua-buscam-respostas-sobre-venda-de-chips-da-nvidia-para-china-diz-secretario/",
+   "source": "InfoMoney",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-22T17:10:40Z"
+  },
   {
    "id": "1da90df883a7",
    "date": "2026-11-22",
@@ -1955,19 +1967,6 @@
    "title": "Imposto seletivo: Onde termina a dissuasão e começa a arrecadação? Noventena, caducidade e a conta de janeiro",
    "resumo": "",
    "link": "https://www.contadores.cnt.br/noticias/tecnicas/2026/11/17/imposto-seletivo-onde-termina-a-dissuasao-e-comeca-a-arrecadacao-noventena-caducidade-e-a-conta-de-janeiro.html",
-   "source": "Contadores.cnt.br",
-   "official": false,
-   "category": "cont",
-   "tag": "Contabilidade",
-   "addedAt": "2026-11-17T19:30:12Z",
-   "tries": 2
-  },
-  {
-   "id": "41384b8d800b",
-   "date": "2026-11-17",
-   "title": "CBS e IBS nos serviços B2B: por que o impacto é nulo e como proteger seu lucro na negociação",
-   "resumo": "",
-   "link": "https://www.contadores.cnt.br/noticias/tecnicas/2026/11/17/cbs-e-ibs-nos-servicos-b2b-por-que-o-impacto-e-nulo-e-como-proteger-seu-lucro-na-negociacao.html",
    "source": "Contadores.cnt.br",
    "official": false,
    "category": "cont",

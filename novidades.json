@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-22T10:13:20Z",
- "lastCheckBr": "22/11/2026 07:13",
- "added": 18,
+ "lastCheckAt": "2026-11-22T11:09:19Z",
+ "lastCheckBr": "22/11/2026 08:09",
+ "added": 23,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -17,9 +17,10 @@
   },
   {
    "name": "Receita Federal",
-   "ok": true,
+   "ok": false,
    "found": 0,
-   "new": 0
+   "new": 0,
+   "error": "URLError"
   },
   {
    "name": "Agência Brasil",
@@ -42,13 +43,13 @@
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 98,
-   "new": 11
+   "found": 95,
+   "new": 16
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
    "ok": true,
-   "found": 10,
+   "found": 9,
    "new": 7
   }
  ],
@@ -64,6 +65,19 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-22T06:51:49Z",
+   "tries": 1
+  },
+  {
+   "id": "255e3e3d7e30",
+   "date": "2026-11-21",
+   "title": "Reforma Tributária: o que muda para o consumidor em 2027",
+   "resumo": "A reforma tributária do consumo entra em uma nova etapa em janeiro de 2027, com mudanças que vão atingir consumidores, empresas e, mais adiante, a arrecadaçã...",
+   "link": "https://www.campograndenews.com.br/economia/reforma-tributaria-muda-impostos-sobre-compras-e-servicos",
+   "source": "Campo Grande News",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-22T11:09:19Z",
    "tries": 1
   },
   {
@@ -230,6 +244,19 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-20T09:28:54Z",
+   "tries": 1
+  },
+  {
+   "id": "301daad097d4",
+   "date": "2026-11-19",
+   "title": "Receita Federal divulga quantidade de solicitações de opções pelo Simples Nacional e pelo regime regular do IBS e da CBS",
+   "resumo": "Foram registradas pelo menos 657 mil solicitações pelo Simples Nacional e quase 1,1 milhão pelo regime regular do IBS e da CBS O prazo para formalização da opção pelo Simples...",
+   "link": "https://fenacon.org.br/reforma-tributaria/receita-federal-divulga-quantidade-de-solicitacoes-de-opcoes-pelo-simples-nacional-e-pelo-regime-regular-do-ibs-e-da-cbs/",
+   "source": "Sistema FENACON",
+   "official": false,
+   "category": "simples",
+   "tag": "Simples",
+   "addedAt": "2026-11-22T11:09:19Z",
    "tries": 1
   },
   {
@@ -562,6 +589,19 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-19T10:51:36Z",
+   "tries": 1
+  },
+  {
+   "id": "6a602568b7b9",
+   "date": "2026-11-18",
+   "title": "Exclusão de IBS e CBS da base do ISS ganha força como ‘filhote’ de discussão do ICMS",
+   "resumo": "Na Justiça, contribuintes argumentam que IBS e CBS não constituem receita, apenas transitam pelo caixa das empresas até serem repassados ao Fisco Magnific Por Silvia Pimentel A disputa judicial para...",
+   "link": "https://fenacon.org.br/noticias/exclusao-de-ibs-e-cbs-da-base-do-iss-ganha-forca-como-filhote-de-discussao-do-icms/",
+   "source": "Sistema FENACON",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-22T11:09:19Z",
    "tries": 1
   },
   {
@@ -1934,42 +1974,6 @@
    "tag": "Alíquotas",
    "addedAt": "2026-11-17T19:30:12Z",
    "tries": 1
-  },
-  {
-   "id": "6c58efe1bf9d",
-   "date": "2026-11-17",
-   "title": "Vídeo: Reforma Tributária: alíquota da CBS divide opiniões em debate na CAE",
-   "resumo": "O Tribunal de Contas da União (TCU) estimou a Contribuição sobre Bens e Serviços (CBS) em 11,3%, alíquota maior do que a previsão inicial. Mas o Senado é quem vai dar a palavra final. Por isso, a Comissão de Assuntos Econômicos (CAE) começou nesta terça-feira…",
-   "link": "https://www12.senado.leg.br/noticias/videos/2026/11/reforma-tributaria-aliquota-da-cbs-divide-opinioes-em-debate-na-cae",
-   "source": "Senado Federal",
-   "official": true,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-17T18:20:46Z"
-  },
-  {
-   "id": "e3829e5e49e7",
-   "date": "2026-11-17",
-   "title": "Durigan defende alíquota da reforma e estima média efetiva de 8,5%",
-   "resumo": "O ministro da Fazenda, Dario Durigan, afirmou que a reforma tributária trará ganhos permanentes de responsabilidade fiscal, justiça social e transparência ao sistema tributário brasileiro. Ao defender o modelo aprovado, o ministro reiterou que a alíquota…",
-   "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/durigan-defende-aliquota-da-reforma-e-estima-media-efetiva-de-85",
-   "source": "Agência Brasil",
-   "official": true,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-17T18:20:46Z"
-  },
-  {
-   "id": "1dec65028dd5",
-   "date": "2026-11-17",
-   "title": "Vital do Rêgo: senadores de diferentes matizes na CAE rejeitaram adiamento da reforma",
-   "resumo": "Vital do Rêgo Filho, presidente do Tribunal de Contas da União (TCU) (Foto: Marcelo Camargo/Agência Brasil) \" data-image-caption=\" Vital do Rêgo Filho, presidente do Tribunal de Contas da União (TCU) (Foto: Marcelo Camargo/Agência Brasil) \"…",
-   "link": "https://www.infomoney.com.br/politica/vital-do-rego-senadores-de-diferentes-matizes-na-cae-rejeitaram-adiamento-da-reforma/",
-   "source": "InfoMoney",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-17T18:20:46Z"
   }
  ]
 }

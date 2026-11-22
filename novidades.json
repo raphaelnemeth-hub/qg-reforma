@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-22T06:51:49Z",
- "lastCheckBr": "22/11/2026 03:51",
- "added": 19,
+ "lastCheckAt": "2026-11-22T08:02:20Z",
+ "lastCheckBr": "22/11/2026 05:02",
+ "added": 18,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -44,7 +44,7 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 98,
-   "new": 12
+   "new": 11
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -1202,6 +1202,19 @@
    "tries": 1
   },
   {
+   "id": "bdee837ee651",
+   "date": "2026-11-17",
+   "title": "No Senado, Durigan defende CBS de 11,3% e diz que média será de 8,5%",
+   "resumo": "Em audiência no Senado com o presidente do TCU, Vital do Rêgo, e o secretário da Receita, Robinson Barreirinhas, ministro da Fazenda rejeita adiamento da reforma tributária.",
+   "link": "https://www.congressoemfoco.com.br/noticia/131646/no-senado-durigan-defende-cbs-de-11-3-e-diz-que-media-sera-de-8-5",
+   "source": "Congresso em Foco",
+   "official": false,
+   "category": "lei",
+   "tag": "Legislação",
+   "addedAt": "2026-11-22T08:02:20Z",
+   "tries": 1
+  },
+  {
    "id": "dee2b16e5ddc",
    "date": "2026-11-17",
    "title": "Durigan defende alíquota da reforma tributária e estima média efetiva de 8,5%",
@@ -1212,7 +1225,7 @@
    "category": "aliq",
    "tag": "Alíquotas",
    "addedAt": "2026-11-22T06:51:49Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "c7388d870cd3",
@@ -1953,19 +1966,6 @@
    "resumo": "A alíquota de 11,3% para novo imposto federal da reforma tributária foi resultado de benefícios aprovados no Congresso Nacional. O esclarecimento foi feito pelo presidente do Tribunal de Contas da União, Vital do Rêgo Filho, na Comissão de Assuntos Econômicos…",
    "link": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/economia/audio/2026-11/audiencia-no-senado-debate-nova-aliquota-da-reforma-tributaria",
    "source": "Agência Brasil",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-17T18:20:46Z",
-   "tries": 1
-  },
-  {
-   "id": "657065f16cc0",
-   "date": "2026-11-17",
-   "title": "Alíquota da CBS teve impacto de isenções propostas pelo STF, diz Durigan",
-   "resumo": "Ministro da Fazenda voltou a defender uma revisão da tributação para empresas e possível desoneração da folha",
-   "link": "https://www1.folha.uol.com.br/mercado/2026/11/aliquota-da-cbs-teve-impacto-de-isencoes-propostas-pelo-stf-diz-durigan.shtml",
-   "source": "Folha de S.Paulo",
    "official": false,
    "category": "aliq",
    "tag": "Alíquotas",

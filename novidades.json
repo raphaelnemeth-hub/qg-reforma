@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-22T17:10:40Z",
- "lastCheckBr": "22/11/2026 14:10",
- "added": 20,
+ "lastCheckAt": "2026-11-22T18:05:00Z",
+ "lastCheckBr": "22/11/2026 15:05",
+ "added": 16,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -38,18 +38,18 @@
    "name": "InfoMoney",
    "ok": true,
    "found": 1,
-   "new": 1
+   "new": 0
   },
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 95,
-   "new": 12
+   "found": 98,
+   "new": 9
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
    "ok": true,
-   "found": 9,
+   "found": 10,
    "new": 7
   }
  ],

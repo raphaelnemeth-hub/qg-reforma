@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-22T22:09:39Z",
- "lastCheckBr": "22/11/2026 19:09",
- "added": 16,
+ "lastCheckAt": "2026-11-22T23:09:41Z",
+ "lastCheckBr": "22/11/2026 20:09",
+ "added": 22,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -43,8 +43,8 @@
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 95,
-   "new": 9
+   "found": 98,
+   "new": 15
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -54,6 +54,45 @@
   }
  ],
  "items": [
+  {
+   "id": "e046908b099f",
+   "date": "2026-11-22",
+   "title": "Reforma tributária é positiva para nanoempreendedores, diz associação",
+   "resumo": "Adriana Colloca, do setor de vendas diretas, destacou a isenção de IBS e CBS e a dispensa de obrigações acessórias. Leia no Poder360.",
+   "link": "https://www.poder360.com.br/poder-economia/reforma-tributaria-e-positiva-para-nanoempreendedores-diz-associacao/",
+   "source": "Poder360",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-22T23:09:41Z",
+   "tries": 1
+  },
+  {
+   "id": "4eba1007e540",
+   "date": "2026-11-22",
+   "title": "Reforma tributária",
+   "resumo": "Todos estão preparados para as mudanças?",
+   "link": "https://www.revide.com.br/noticias/artigo/reforma-tributaria/",
+   "source": "Revide",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-22T23:09:41Z",
+   "tries": 1
+  },
+  {
+   "id": "0f3e9a39f44d",
+   "date": "2026-11-22",
+   "title": "Empresas em Campinas discutem impactos da reforma tributária",
+   "resumo": "Representantes do setor empresarial de Campinas e região participaram de um encontro promovido por TozziniFreire Advogados para discutir os impactos",
+   "link": "https://horacampinas.com.br/empresas-em-campinas-discutem-impactos-da-reforma-tributaria/",
+   "source": "Hora Campinas",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-22T23:09:41Z",
+   "tries": 1
+  },
   {
    "id": "8561c5ffa902",
    "date": "2026-11-22",
@@ -77,6 +116,19 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-22T06:51:49Z",
+   "tries": 1
+  },
+  {
+   "id": "025d47228b0c",
+   "date": "2026-11-21",
+   "title": "Reforma tributária e notas fiscais de bares e restaurantes",
+   "resumo": "Reforma tributária: bares e restaurantes precisam separar nas notas fiscais itens com regimes diferentes; a redução de 40% não vale para todos.",
+   "link": "https://agorarn.com.br/economia/reforma-tributaria-notas-fiscais-bares-restaurantes/",
+   "source": "Agora RN",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-22T23:09:41Z",
    "tries": 1
   },
   {
@@ -128,6 +180,19 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-21T12:40:07Z",
+   "tries": 1
+  },
+  {
+   "id": "6d5208bdb157",
+   "date": "2026-11-20",
+   "title": "Quem tem medo da reforma tributária?",
+   "resumo": "Por Alessandro Rostagno. A transição exige estabilidade normativa, previsibilidade e alinhamento entre as administrações tributárias para evitar novos custos e insegurança jurídica aos contribuintes.",
+   "link": "https://www.migalhas.com.br/depeso/468943/quem-tem-medo-da-reforma-tributaria",
+   "source": "Migalhas",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-22T23:09:41Z",
    "tries": 1
   },
   {
@@ -256,6 +321,19 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-20T09:28:54Z",
+   "tries": 1
+  },
+  {
+   "id": "88040bbcf410",
+   "date": "2026-11-19",
+   "title": "Quando a reforma tributária chega à mesa de negociação",
+   "resumo": "Por Bruna Belisario Vaintraub, Lucas Pinheiro Tavares. A mudança na tributação sobre o consumo pode alterar preços, margens e créditos, exigindo atenção aos critérios de revisão dos contratos ...",
+   "link": "https://www.migalhas.com.br/depeso/468870/quando-a-reforma-tributaria-chega-a-mesa-de-negociacao",
+   "source": "Migalhas",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-22T23:09:41Z",
    "tries": 1
   },
   {
@@ -1896,83 +1974,6 @@
    "category": "aliq",
    "tag": "Alíquotas",
    "addedAt": "2026-11-17T19:30:12Z"
-  },
-  {
-   "id": "f743598ce4c7",
-   "date": "2026-11-17",
-   "title": "Veterinários podem ter redução maior de IBS e CBS",
-   "resumo": "Projeto apresentado na Câmara propõe ampliar de 30% para 60% a redução dos tributos sobre serviços veterinários. Veja quem poderá ser beneficiado. Leia mais em https://www.contabeis.com.br/noticias/80937/veterinarios-podem-ter-reducao-maior-de-ibs-e-cbs/",
-   "link": "https://www.contabeis.com.br/noticias/80937/veterinarios-podem-ter-reducao-maior-de-ibs-e-cbs/",
-   "source": "Portal Contábeis",
-   "official": false,
-   "category": "lei",
-   "tag": "Legislação",
-   "addedAt": "2026-11-17T19:30:12Z"
-  },
-  {
-   "id": "c2e3e6f031b0",
-   "date": "2026-11-17",
-   "title": "Reforma Tributária: alíquota da CBS divide opiniões em debate na CAE",
-   "resumo": "O Tribunal de Contas da União (TCU) estimou a Contribuição sobre Bens e Serviços (CBS) em 11,3%, alíquota maior do que a previsão inicial. Mas o Senado é quem vai dar a palavra final. Por isso, a Comissão de Assuntos Econômicos (CAE) começou nesta terça-feira…",
-   "link": "https://www12.senado.leg.br/noticias/videos/2026/11/reforma-tributaria-aliquota-da-cbs-divide-opinioes-em-debate-na-cae",
-   "source": "Senado",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-17T19:30:12Z",
-   "tries": 1
-  },
-  {
-   "id": "e5d309467701",
-   "date": "2026-11-17",
-   "title": "Reforma Tributária: Simulador do Sebrae atende empresas com faturamento anual de até R$ 3,6 milhões",
-   "resumo": "Instituição orienta sobre o uso da ferramenta gratuita e a escolha de regime para autônomos e serviços; apoio contábil é indispensável para evitar custos extras",
-   "link": "https://agenciasebrae.com.br/economia-e-politica/reforma-tributaria-simulador-do-sebrae-atende-empresas-com-faturamento-anual-de-ate-r-36-milhoes/",
-   "source": "Agência Sebrae de Notícias",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-17T19:30:12Z",
-   "tries": 1
-  },
-  {
-   "id": "33423cdc0dd3",
-   "date": "2026-11-17",
-   "title": "Durigan diz que governo não vai adiar início da reforma tributária e prevê alíquota da CBS em 8,5%",
-   "resumo": "O ministro da Fazenda destacou, em audiência na CAE do Senado, ganhos de produtividade e justiça fiscal com a mudança no sistema tributário do país",
-   "link": "https://dcomercio.com.br/publicacao/s/durigan-diz-que-governo-nao-vai-adiar-inicio-da-reforma-tributaria-e-preve-aliquota-da-cbs-em-8-5",
-   "source": "DComercio",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-17T19:30:12Z",
-   "tries": 1
-  },
-  {
-   "id": "59d3829ace5f",
-   "date": "2026-11-17",
-   "title": "Reforma tributária: como funciona a revisão de preço dos contratos em 2027",
-   "resumo": "Lei que regulamentou reforma tributária prevê revisão em contratos antigos com o governo; entre empresas, vale o que foi assinado",
-   "link": "https://investnews.com.br/economia/reforma-tributaria-revisao-contratos-2027/",
-   "source": "InvestNews",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-17T19:30:12Z",
-   "tries": 1
-  },
-  {
-   "id": "51edd4f80864",
-   "date": "2026-11-17",
-   "title": "Imposto seletivo: Onde termina a dissuasão e começa a arrecadação? Noventena, caducidade e a conta de janeiro",
-   "resumo": "",
-   "link": "https://www.contadores.cnt.br/noticias/tecnicas/2026/11/17/imposto-seletivo-onde-termina-a-dissuasao-e-comeca-a-arrecadacao-noventena-caducidade-e-a-conta-de-janeiro.html",
-   "source": "Contadores.cnt.br",
-   "official": false,
-   "category": "cont",
-   "tag": "Contabilidade",
-   "addedAt": "2026-11-17T19:30:12Z",
-   "tries": 2
   }
  ]
 }

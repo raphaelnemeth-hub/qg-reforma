@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-23T05:03:59Z",
- "lastCheckBr": "23/11/2026 02:03",
- "added": 17,
+ "lastCheckAt": "2026-11-23T06:35:11Z",
+ "lastCheckBr": "23/11/2026 03:35",
+ "added": 16,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -44,7 +44,7 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 98,
-   "new": 10
+   "new": 9
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -54,6 +54,19 @@
   }
  ],
  "items": [
+  {
+   "id": "9547f634a3e0",
+   "date": "2026-11-23",
+   "title": "Split payment e os impactos da reforma tributária no fluxo de caixa das empresas",
+   "resumo": "Novo modelo exigirá integração entre sistemas fiscais e de pagamento e poderá afetar a disponibilidade de recursos das empresas",
+   "link": "https://www.jota.info/opiniao-e-analise/artigos/split-payment-e-os-impactos-da-reforma-tributaria-no-fluxo-de-caixa-das-empresas",
+   "source": "JOTA Info",
+   "official": false,
+   "category": "pag",
+   "tag": "Split payment",
+   "addedAt": "2026-11-23T06:35:11Z",
+   "tries": 1
+  },
   {
    "id": "88f077be8be7",
    "date": "2026-11-23",
@@ -1962,19 +1975,6 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-17T20:43:03Z"
-  },
-  {
-   "id": "a1eef30859a3",
-   "date": "2026-11-17",
-   "title": "Virando a Chave na Reforma Tributária: API do RAD - documentação técnica já está disponível",
-   "resumo": "Na prática, a solução viabiliza a automação dos processos relacionados ao RAD, reduzindo etapas operacionais e ampliando a eficiência na apropriação de créditos tributários.",
-   "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/virando-a-chave-para-a-reforma-tributaria-api-para-emissao-do-rad-ja-esta-disponivel",
-   "source": "Governo Federal",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-17T20:43:03Z",
-   "tries": 1
   }
  ]
 }

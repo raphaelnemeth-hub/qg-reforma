@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-23T12:56:35Z",
- "lastCheckBr": "23/11/2026 09:56",
- "added": 31,
+ "lastCheckAt": "2026-11-23T14:19:58Z",
+ "lastCheckBr": "23/11/2026 11:19",
+ "added": 27,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -25,13 +25,13 @@
   {
    "name": "Agência Brasil",
    "ok": true,
-   "found": 1,
-   "new": 0
+   "found": 2,
+   "new": 1
   },
   {
    "name": "Portal Contábeis",
    "ok": true,
-   "found": 6,
+   "found": 7,
    "new": 1
   },
   {
@@ -43,17 +43,145 @@
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 100,
-   "new": 24
+   "found": 98,
+   "new": 18
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
    "ok": true,
    "found": 10,
-   "new": 6
+   "new": 7
   }
  ],
  "items": [
+  {
+   "id": "463f117a7ee9",
+   "date": "2026-11-23",
+   "title": "Mercado eleva projeção do dólar para R$ 5,55 em 2026",
+   "resumo": "Analistas do mercado financeiro elevaram de R$ 5,40 para R$ 5,55 a estimativa para a cotação do dólar no fim de 2026. O dado consta do boletim Focus, divulgado nesta segunda-feira (23) pelo Banco Central, com expectativas de instituições financeiras para os…",
+   "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/mercado-eleva-projecao-do-dolar-para-r-555-em-2026",
+   "source": "Agência Brasil",
+   "official": true,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-23T14:19:58Z"
+  },
+  {
+   "id": "cff3cafb9b98",
+   "date": "2026-11-23",
+   "title": "Receita vai orientar 25 mil contadores sobre CBS e IBS",
+   "resumo": "Ação envolve profissionais responsáveis por cerca de 72 mil empresas com indícios de ausência ou preenchimento parcial dos novos tributos nas notas fiscais. Leia mais em…",
+   "link": "https://www.contabeis.com.br/noticias/81047/receita-vai-orientar-25-mil-contadores-sobre-cbs-e-ibs/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "cont",
+   "tag": "Contabilidade",
+   "addedAt": "2026-11-23T14:19:58Z"
+  },
+  {
+   "id": "3b9f8080dcf1",
+   "date": "2026-11-23",
+   "title": "OAB/SP lança simulador gratuito para calcular imposto da reforma tributária",
+   "resumo": "Ferramenta da Comissão de Direito Tributário compara quatro regimes, calcula créditos de IBS e CBS e projeta a transição até 2033, sem enviar dados a terceiros.",
+   "link": "https://www.migalhas.com.br/quentes/468875/oab-sp-lanca-simulador-gratuito-para-calcular-imposto-da-reforma",
+   "source": "Migalhas",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-23T14:19:58Z",
+   "tries": 1
+  },
+  {
+   "id": "10ec7920f30c",
+   "date": "2026-11-23",
+   "title": "Todas as empresas poderão testar novo imposto da Reforma Tributária",
+   "resumo": "A partir desta semana, todas as empresas inscritas no Cadastro Nacional da Pessoa Jurídica (CNPJ) poderão participar do ambiente de testes da Contribuição sobre Bens e Serviços (CBS), um dos",
+   "link": "https://www.atribunarj.com.br/materia/todas-as-empresas-poderao-testar-novo-imposto-da-reforma-tributaria",
+   "source": "A Tribuna RJ",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-23T14:19:58Z",
+   "tries": 1
+  },
+  {
+   "id": "ff013c82fc65",
+   "date": "2026-11-23",
+   "title": "\"Imposto do pecado\" pode ser o mais inteligente da reforma tributária",
+   "resumo": "Cigarro, cerveja e refrigerante vão pagar o Imposto Seletivo a partir de 2027. A pergunta é se ele vai mudar comportamentos ou apenas reforçar o caixa",
+   "link": "https://www.cnnbrasil.com.br/blogs/thiago-godoy/economia/money/macroeconomia/imposto-do-pecado-pode-ser-o-mais-inteligente-da-reforma-tributaria/",
+   "source": "CNN Brasil",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-23T14:19:58Z",
+   "tries": 1
+  },
+  {
+   "id": "b46d015d78b9",
+   "date": "2026-11-23",
+   "title": "Receita abre sistema de testes da CBS para todas as empresas",
+   "resumo": "A partir de hoje, todas as empresas inscritas no Cadastro Nacional da Pessoa Jurídica (CNPJ) poderão participar do ambiente de testes do piloto da Reforma...",
+   "link": "https://amanha.com.br/brasil/receita-disponibiliza-sistema-de-testes-da-cbs-para-todas-as-empresas",
+   "source": "Grupo AMANHÃ",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-23T14:19:58Z",
+   "tries": 1
+  },
+  {
+   "id": "1db904e48c25",
+   "date": "2026-11-23",
+   "title": "Receita libera participação de empresas em testes da Reforma Tributária",
+   "resumo": "Medida tem como finalidade acelerar a implementação da Contribuição sobre Bens e Serviços (CBS), que irá substituir PIS e Cofins",
+   "link": "https://odia.ig.com.br/economia/2026/11/7324970-receita-libera-participacao-de-empresas-em-testes-da-reforma-tributaria.html",
+   "source": "O Dia",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-23T14:19:58Z",
+   "tries": 1
+  },
+  {
+   "id": "7f4ca480e70b",
+   "date": "2026-11-23",
+   "title": "Empresas podem agora participar do piloto da CBS sem necessidade de indicação prévia",
+   "resumo": "Qualquer empresa registrada no Cadastro Nacional da Pessoa Jurídica (CNPJ) tem a oportunidade de se envolver no ambiente de testes da Reforma Tributária, que diz respeito à Contribuição sobre Bens e Serviços (CBS). Conforme a portaria da Receita Federal…",
+   "link": "https://metronews.com.br/empresas-podem-agora-participar-do-piloto-da-cbs-sem-necessidade-de-indicacao-previa/",
+   "source": "Metrô News Jornal",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-23T14:19:58Z",
+   "tries": 1
+  },
+  {
+   "id": "132b84bb57c1",
+   "date": "2026-11-23",
+   "title": "Empresas com CNPJ poderão participar de testes da Reforma Tributária sem indicação prévia",
+   "resumo": "A TODO MOMENTO, O SEU CANAL DE INFORMAÇÃO - News Cariri",
+   "link": "https://www.newscariri.com.br/2026/11/empresas-com-cnpj-poderao-participar-de-testes-da-reforma-tributaria-sem-indicacao-previa",
+   "source": "News Cariri",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-23T14:19:58Z",
+   "tries": 1
+  },
+  {
+   "id": "d6d81007999a",
+   "date": "2026-11-23",
+   "title": "Ajuste fiscal abre semana que terá alíquota da CBS e Orçamento de 2027 na pauta do Congresso",
+   "resumo": "Congresso também prevê debates sobre combustíveis, saúde pública, violência sexual contra crianças e segurança pública",
+   "link": "https://brasil61.com/n/ajuste-fiscal-abre-semana-que-tera-aliquota-da-cbs-e-orcamento-de-2027-na-pauta-do-congresso-bras2617503",
+   "source": "Brasil 61",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-23T14:19:58Z",
+   "tries": 1
+  },
   {
    "id": "7639ae981e1c",
    "date": "2026-11-23",
@@ -109,27 +237,27 @@
    "id": "2b39c96da41b",
    "date": "2026-11-23",
    "title": "Receita libera testes da CBS para todas as empresas com CNPJ",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPck5RbGJiNGUxa1hOMjMxZWl2T3VOUXJwczQ3X1BpTmZjWkUwNHhPZHZ1ei1NSGNoT2pUNDlqM3c4bHFla2xOZnlyeHpmWTdlSkV1Tm5yUmZock1BR2Mtd1BhQ1V6bzBNWUtpcFNBeUM1bE5XZWE1NlZpenBwa1F5Q1BYcm12eGNhZ1JFM3pPZ1Fyc2xLZ0k3YmVLQVdUb3ZsTXNObDdfeHlTX3FR0gGyAUFVX3lxTE50ZUhmVE02aXhMcEtMNEtUcF9pMlEzQUN5TGNQcFRYWGtfejZ1dFl5MTVoUnk4UkF1U3k3SS1GLURhVUdNTFZleVJZVnJXaXNaNWhtWDVmUGx6MWFCcXhGRVRYaU9EN182S2c0eXFSNGpCQnVITXBSZVNhdnFkTGVsa09UaHZnX3BYX1l0MTRGX1FvdW9DSE5Dd3IxejNPa3gtTGdRbzQxemdUR3JHbWJJUmc?oc=5",
+   "resumo": "Qualquer empresa pode participar do piloto da Reforma Tributária sem autorização prévia. Leia mais na Tribuna do Paraná",
+   "link": "https://www.tribunapr.com.br/noticias/economia/empresas-com-cnpj-podem-testar-sistema-da-reforma-tributaria/",
    "source": "Tribuna do Paraná",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-23T12:56:35Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "031d16e42c98",
    "date": "2026-11-23",
    "title": "Receita Federal amplia acesso de empresas ao ambiente de testes da CBS no Brasil",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaE9tcHJ3a2wxVXU5QzIyRFVJT3l0MmpsZFJtSDNrZjhEVTJsVGJDYVFuWDdpQ0F6WFZVeDNBMFdOVllLLVBtX1VQRDRvbFZoQ0NIcEx5WnlLdmFvR1o3UU9CTXZnV2tQR0tPYkQxZGEwcjFaODZTamlyMGtHUHBJNUt5VC1CNjd5aU1BNVQ2YUExZldrZGlQSjRGV05lNWVCelhOYzBFYlNENy1XZGhvLW54WFhHMW9C?oc=5",
+   "resumo": "Portaria permite que todas as empresas participem do piloto da Reforma Tributária sem necessidade de indicação prévia por entidades representativas.",
+   "link": "https://www.conexaoes.com.br/noticia/receita-federal-amplia-acesso-de-empresas-ao-ambiente-de-testes-da-cbs-no-brasil",
    "source": "conexaoes.com.br",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-23T12:56:35Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "d08174d05753",
@@ -181,6 +309,19 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-23T05:03:59Z",
+   "tries": 1
+  },
+  {
+   "id": "0fa0b490a87b",
+   "date": "2026-11-22",
+   "title": "Reforma tributária muda regras do aluguel em 2027; entenda",
+   "resumo": "Pessoas físicas e empresas terão enquadramentos diferentes, e contratos em vigor continuam limitando reajustes feitos pelos proprietários",
+   "link": "https://www.terra.com.br/economia/reforma-tributaria-muda-regras-do-aluguel-em-2027-entenda,f8cce46a8e5b76cfaff63fa7093ca73bjau76h1o.html",
+   "source": "Terra",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-23T14:19:58Z",
    "tries": 1
   },
   {
@@ -258,7 +399,7 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-23T12:56:35Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "025d47228b0c",
@@ -528,7 +669,7 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-23T12:56:35Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "d14b51514751",
@@ -554,7 +695,7 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-23T12:56:35Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "0a25be6e8aa2",
@@ -1668,6 +1809,58 @@
    "tries": 1
   },
   {
+   "id": "19a3f94da766",
+   "date": "2026-11-17",
+   "title": "CBS: No Senado, TCU e Fazenda dividem com Congresso responsabilidade por alíquota",
+   "resumo": "Ministro da Fazenda defende reforma tributária em 2027 e diz que caberá ao Senado validar alíquota da CBS.",
+   "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/cbs-no-senado-tcu-e-fazenda-dividem-com-congresso-responsabilidade-por-aliquota",
+   "source": "JOTA Info",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-23T14:19:58Z",
+   "tries": 1
+  },
+  {
+   "id": "fdd59c382f17",
+   "date": "2026-11-17",
+   "title": "Black Friday exige preparo fiscal para IBS e CBS",
+   "resumo": "Black Friday aumenta a pressão sobre as operações fiscais. Veja como preparar sistemas para o pico de vendas e as novas exigências de IBS e CBS.",
+   "link": "https://www.contabeis.com.br/noticias/80938/black-friday-exige-preparo-fiscal-para-ibs-e-cbs/",
+   "source": "Portal Contabeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-23T14:19:58Z",
+   "tries": 1
+  },
+  {
+   "id": "adb1e90dbab6",
+   "date": "2026-11-17",
+   "title": "IBS e CBS na base do ICMS: TJSP suspende decisões",
+   "resumo": "TJSP suspende decisões que excluíam IBS e CBS da base do ICMS em São Paulo; medida não encerra a discussão tributária.",
+   "link": "https://www.contabeis.com.br/noticias/80944/ibs-e-cbs-na-base-do-icms-tjsp-suspende-decisoes/",
+   "source": "Portal Contabeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-23T14:19:58Z",
+   "tries": 1
+  },
+  {
+   "id": "0d93c438d38d",
+   "date": "2026-11-17",
+   "title": "COMITÊ GESTOR DO IMPOSTO SOBRE BENS E SERVIÇOS - CGIBS RESOLUÇÃO CGIBS Nº 20, DE 17 DE NOVEMBRO DE 2026 Dispõe sobre a tip",
+   "resumo": "",
+   "link": "https://cgibs.gov.br/upload/arquivos/202611/17165820-resoluc-a-o-cgibs-n-20-de-17-de-novembro-de-2026.pdf",
+   "source": "Comitê Gestor do IBS",
+   "official": false,
+   "category": "lei",
+   "tag": "Legislação",
+   "addedAt": "2026-11-23T14:19:58Z",
+   "tries": 1
+  },
+  {
    "id": "ae38c1fa2f8f",
    "date": "2026-11-17",
    "title": "CBS em 11,3% é por exceções da reforma tributária, diz TCU",
@@ -1782,201 +1975,6 @@
    "category": "aliq",
    "tag": "Alíquotas",
    "addedAt": "2026-11-22T06:51:49Z",
-   "tries": 2
-  },
-  {
-   "id": "c7388d870cd3",
-   "date": "2026-11-17",
-   "title": "Reforma tributária: Receita descarta punição a erros de boa-fé",
-   "resumo": "O secretário da Receita Federal, Robinson Barreirinhas, afirmou em audiência pública na Comissão de Assuntos Econômicos (CAE) do Senado, que o sistema já está sendo testado por 500 empresas e deverá ser disponibilizado para todas as empresas brasileiras nos…",
-   "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/reforma-tributaria-receita-descarta-punicao-erros-de-boa-fe",
-   "source": "Agência Brasil",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-21T12:40:07Z",
-   "tries": 1
-  },
-  {
-   "id": "e4634a16ba67",
-   "date": "2026-11-17",
-   "title": "Virando a Chave para a Reforma Tributária - API para emissão do RAD já está disponível",
-   "resumo": "Agilize decisões seguras. Legislação, Comentários e Consultoria nas áreas de IR e Contribuições, ICMS, IPI, ISS, Contabilidade e Societário, Simples Nacional, Trabalhista e Previdenciária. Cálculos e Tabelas de Substituição Tributária. Agenda Tributária…",
-   "link": "https://www.legisweb.com.br/noticia/?id",
-   "source": "LegisWeb",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-21T11:36:02Z",
-   "tries": 1
-  },
-  {
-   "id": "39b9d739c54b",
-   "date": "2026-11-17",
-   "title": "Adiar reforma tributária tiraria R$ 10 bilhões dos mais pobres, diz Receita",
-   "resumo": "Secretário Robinson Barreirinhas defende início das mudanças em 2027 e afirma que cashback beneficiará famílias de baixa renda com devolução de impostos",
-   "link": "https://www.infomoney.com.br/politica/adiar-reforma-tributaria-tiraria-r-10-bilhoes-dos-mais-pobres-diz-receita/",
-   "source": "InfoMoney",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-21T10:38:22Z",
-   "tries": 1
-  },
-  {
-   "id": "69d4edb5a5d7",
-   "date": "2026-11-17",
-   "title": "Segunda versão do regulamento da CBS deve sair nesta semana, diz Receita",
-   "resumo": "O secretário da Receita Federal, Robinson Barreirinhas, disse que o sistema base da reforma tributária já está pronto e sendo testado desde janeiro e que a maior parte dos documentos fiscais já está sendo emitida adequadamente",
-   "link": "https://valor.globo.com/brasil/noticia/2026/11/17/segunda-versao-do-regulamento-da-cbs-deve-sair-nesta-semana-diz-receita.ghtml",
-   "source": "Valor Econômico",
-   "official": false,
-   "category": "lei",
-   "tag": "Legislação",
-   "addedAt": "2026-11-20T15:47:01Z",
-   "tries": 1
-  },
-  {
-   "id": "dc75991c1787",
-   "date": "2026-11-17",
-   "title": "Presidente do TCU atribui CBS em 11,3% às exceções da reforma tributária",
-   "resumo": "Vital do Rêgo Filho participou de audiência pública na CAE do Senado nesta terça-feira (17) para discutir o cálculo da alíquota de referência da CBS",
-   "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/presidente-do-tcu-atribui-cbs-em-113-as-excecoes-da-reforma-tributaria/",
-   "source": "CNN Brasil",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-20T15:47:01Z",
-   "tries": 1
-  },
-  {
-   "id": "136daaa93ec7",
-   "date": "2026-11-17",
-   "title": "Comitê Tributário do IBEF-RS debate impactos da Reforma Tributária, CBS e IFRS 18 nas empresas",
-   "resumo": "O Comitê Tributário do IBEF-RS promove no dia 18 de novembro de 2026, das 14h às 18h, na sede do escritório Martinelli Advogados, em Porto Alegre, um encontro",
-   "link": "https://brasilinovador.com.br/comite-tributario-do-ibef-rs-debate-impactos-da-reforma-tributaria-cbs-e-ifrs-18-nas-empresas/",
-   "source": "Brasil Inovador",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-20T14:47:00Z",
-   "tries": 1
-  },
-  {
-   "id": "45b4be580439",
-   "date": "2026-11-17",
-   "title": "Reforma tributária: Como proteger os créditos de IBS e CBS",
-   "resumo": "Por Aurélio Longo Guerzoni. A reforma tributária exigirá a revisão dos contratos com fornecedores para proteger os créditos de IBS e CBS, inclusive mediante o RAD - Recolhimento pelo Adquirente.",
-   "link": "https://www.migalhas.com.br/depeso/468351/reforma-tributaria-como-proteger-os-creditos-de-ibs-e-cbs",
-   "source": "Migalhas",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-20T13:43:29Z",
-   "tries": 1
-  },
-  {
-   "id": "9bc392c999a7",
-   "date": "2026-11-17",
-   "title": "Reforma Tributária: veja quem recebe cashback e como funcionará a devolução",
-   "resumo": "",
-   "link": "https://www.contadores.cnt.br/noticias/tecnicas/2026/11/17/reforma-tributaria-veja-quem-recebe-cashback-e-como-funcionara-a-devolucao.html",
-   "source": "Contadores.cnt.br",
-   "official": false,
-   "category": "cont",
-   "tag": "Contabilidade",
-   "addedAt": "2026-11-20T05:53:09Z",
-   "tries": 2
-  },
-  {
-   "id": "98676b49488c",
-   "date": "2026-11-17",
-   "title": "IBS: Comitê Gestor aprova ajustes para o setor financeiro",
-   "resumo": "CGIBS altera três artigos do regulamento do IBS e adia etapa da DeRE, declaração exigida de setores com regimes específicos.",
-   "link": "https://www.contabeis.com.br/noticias/80929/ibs-comite-gestor-aprova-ajustes-para-o-setor-financeiro/",
-   "source": "Portal Contabeis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-20T02:43:22Z",
-   "tries": 1
-  },
-  {
-   "id": "58b93455e2d9",
-   "date": "2026-11-17",
-   "title": "Senado debate alíquota de 11,3% da CBS para 2027",
-   "resumo": "Ministro da Fazenda participa de audiência nesta terça-feira (17) para discutir o cálculo da alíquota de referência da CBS recomendada pelo TCU.",
-   "link": "https://www.contabeis.com.br/noticias/80927/senado-debate-aliquota-de-11-3-da-cbs-para-2027/",
-   "source": "Portal Contabeis",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-19T23:12:40Z",
-   "tries": 1
-  },
-  {
-   "id": "11ae9a2db00b",
-   "date": "2026-11-17",
-   "title": "Receita libera Calculadora de Tributos da Reforma Tributária no GitHub",
-   "resumo": "Código-fonte da ferramenta poderá ser consultado e integrado por empresas, desenvolvedores e profissionais da contabilidade.",
-   "link": "https://www.contabeis.com.br/noticias/80925/receita-libera-calculadora-de-tributos-da-reforma-tributaria-no-github/",
-   "source": "Portal Contabeis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-19T22:17:05Z",
-   "tries": 1
-  },
-  {
-   "id": "7791cd7ef753",
-   "date": "2026-11-17",
-   "title": "Reforma Tributária: Receita disponibiliza calculadoras de IBS e CBS | SEGS Portal Nacional de Seguros,...",
-   "resumo": "",
-   "link": "https://www.segs.com.br/mais/economia/459409-reforma-tributaria-receita-disponibiliza-calculadoras-de-ibs-e-cbs/amp",
-   "source": "SEGS Portal Nacional",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-19T22:17:05Z",
-   "tries": 2
-  },
-  {
-   "id": "c5e7b4245e15",
-   "date": "2026-11-17",
-   "title": "Durigan explica no Senado alíquota de 11,3% da CBS",
-   "resumo": "Percentual recomendado pelo TCU provocou questionamentos de parlamentares e representantes do setor produtivo, que pedem esclarecimentos sobre os critérios utilizados no cálculo.",
-   "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/durigan-explica-no-senado-aliquota-de-113-da-cbs",
-   "source": "Agência Brasil",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-19T21:17:39Z",
-   "tries": 1
-  },
-  {
-   "id": "13d095b67bab",
-   "date": "2026-11-17",
-   "title": "Reforma Tributária: ministro da Fazenda vai ao Senado explicar alíquota de 11,3% para a CBS",
-   "resumo": "Percentual calculado pelo TCU superou estimativa e provocou questionamentos de senadores; audiência ocorre nesta terça-feira",
-   "link": "https://extra.globo.com/economia/noticia/2026/11/reforma-tributaria-ministro-da-fazenda-vai-ao-senado-explicar-aliquota-de-113percent-para-a-cbs.ghtml",
-   "source": "Extra online",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-19T20:25:49Z",
-   "tries": 1
-  },
-  {
-   "id": "96f9474b4ba0",
-   "date": "2026-11-17",
-   "title": "Reforma Tributária – CBS e IBS e seus impactos no comércio varejista",
-   "resumo": "",
-   "link": "https://sindilojas.rio/2026/11/17/reforma-tributaria-cbs-e-ibs-e-seus-impactos-no-comercio-varejista-2/",
-   "source": "SindilojasRio",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-18T16:53:18Z",
    "tries": 2
   }
  ]

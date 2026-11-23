@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-23T22:41:43Z",
- "lastCheckBr": "23/11/2026 19:41",
- "added": 31,
+ "lastCheckAt": "2026-11-23T23:40:17Z",
+ "lastCheckBr": "23/11/2026 20:40",
+ "added": 24,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -32,7 +32,7 @@
    "name": "Portal Contábeis",
    "ok": true,
    "found": 6,
-   "new": 1
+   "new": 0
   },
   {
    "name": "InfoMoney",
@@ -43,8 +43,8 @@
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 96,
-   "new": 22
+   "found": 98,
+   "new": 16
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -54,6 +54,58 @@
   }
  ],
  "items": [
+  {
+   "id": "106f0c671d8f",
+   "date": "2026-11-23",
+   "title": "Exclusão de IBS e CBS da base do ISS ganha força como ‘filhote’ de discussão do ICMS",
+   "resumo": "Na Justiça, contribuintes argumentam que IBS e CBS não constituem receita, apenas transitam pelo caixa das empresas até serem repassados ao Fisco A disputa judi",
+   "link": "https://crcma.org.br/noticias/exclusao-de-ibs-e-cbs-da-base-do-iss-ganha-forca-como-filhote-de-discussao-do-icms",
+   "source": "Conselho Regional de Contabilidade do Maranhão",
+   "official": false,
+   "category": "cont",
+   "tag": "Contabilidade",
+   "addedAt": "2026-11-23T23:40:17Z",
+   "tries": 1
+  },
+  {
+   "id": "e3e1e9af0bea",
+   "date": "2026-11-23",
+   "title": "Teste piloto da CBS liberado para todos: como organizar as finanças do seu negócio?",
+   "resumo": "Antecipe os impactos do piloto da CBS no fluxo de caixa da sua empresa e garanta a conformidade com as novas regras tributárias com mais tranquilidade.",
+   "link": "https://www.omie.com.br/blog/piloto-cbs-liberado-como-organizar-financas-negocio/",
+   "source": "Omie",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-23T23:40:17Z",
+   "tries": 1
+  },
+  {
+   "id": "84eea330e0c6",
+   "date": "2026-11-23",
+   "title": "Reforma tributária corta 60% do imposto das faculdades, mas o aluno pode não sentir no bolso",
+   "resumo": "Para a ABMES, custos, compras e créditos tributários de cada instituição vão decidir se haverá reflexo na mensalidade até o fim da transição, em 2032.",
+   "link": "https://ndmais.com.br/politica/faculdade-reforma-tributaria-prouni-preco/",
+   "source": "ND Mais",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-23T23:40:17Z",
+   "tries": 1
+  },
+  {
+   "id": "c5f060b27131",
+   "date": "2026-11-23",
+   "title": "Reforma tributária entra em nova fase em 2027 e exige preparação das empresas",
+   "resumo": "O início de 2027 será marcado não apenas pela posse dos governadores e pela recondução do presidente da República, mas também por uma nova etapa da",
+   "link": "https://emtemponoticias.com.br/blogs-e-colunas/blog-do-arnobio/reforma-tributaria-entra-em-nova-fase-em-2027-e-exige-preparacao-das-empresas/",
+   "source": "Em Tempo Notícias",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-23T23:40:17Z",
+   "tries": 1
+  },
   {
    "id": "434371ed2737",
    "date": "2026-11-23",
@@ -90,7 +142,7 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-23T22:41:43Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "9ffbb4305eaf",
@@ -116,7 +168,7 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-23T22:41:43Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "391cf6b617e0",
@@ -1725,6 +1777,32 @@
    "tries": 1
   },
   {
+   "id": "ddcb397bf89d",
+   "date": "2026-11-18",
+   "title": "RFB e CGIBS alinham próximos passos da Reforma Tributária e reforçam compromisso com a conformidade",
+   "resumo": "Encontro reuniu lideranças das duas instituições e teve como foco o aperfeiçoamento da governança da atuação integrada entre a RFB e o CGIBS, buscando assegurar maior coordenação, alinhamento institucional e eficiência na construção dos processos",
+   "link": "https://cgibs.gov.br/rfb-e-cgibs-alinham-proximos-passos-da-implementacao-da-reforma-tributaria-e-reforcam-compromisso-com-a-conformidade-fiscal",
+   "source": "Comitê Gestor do IBS",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-23T23:40:17Z",
+   "tries": 1
+  },
+  {
+   "id": "7fbc9339f310",
+   "date": "2026-11-18",
+   "title": "ARTIGO: Dívida ativa e reforma tributária: uma agenda de responsabilidade fiscal municipal - a arrecadação de 2026, a transição do IBS e os desafios fiscais dos municípios",
+   "resumo": "",
+   "link": "https://www.tce.sp.gov.br/6524-artigo-divida-ativa-e-reforma-tributaria-agenda-responsabilidade-fiscal-municipal-arrecadacao",
+   "source": "Tribunal de Contas do Estado de São Paulo",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-23T23:40:17Z",
+   "tries": 1
+  },
+  {
    "id": "7f56f412784b",
    "date": "2026-11-18",
    "title": "Receita libera apuração assistida da reforma tributária para empresas nesta semana",
@@ -1904,84 +1982,6 @@
    "category": "aliq",
    "tag": "Alíquotas",
    "addedAt": "2026-11-23T17:50:16Z",
-   "tries": 1
-  },
-  {
-   "id": "9641adc4f14d",
-   "date": "2026-11-18",
-   "title": "Adiamento da CBS: esperar uma decisão não é motivo para deixar a preparação para depois",
-   "resumo": "Entidades pedem que a cobrança efetiva da CBS seja transferida para 2028, mas o calendário continua prevendo janeiro de 2027. Revisar cadastros, testar sistemas e calcular os efeitos sobre preços e tributos são providências que as empresas já precisa",
-   "link": "https://www.contabeis.com.br/noticias/80870/adiamento-da-cbs-esperar-uma-decisao-nao-e-motivo-para-deixar-a-preparacao-para-depois/",
-   "source": "Portal Contabeis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T17:50:16Z",
-   "tries": 1
-  },
-  {
-   "id": "2b8443eece21",
-   "date": "2026-11-18",
-   "title": "Alíquota da CBS em 2027: Fazenda projeta 8,5% e TCU aponta 11,3%",
-   "resumo": "Entenda a diferença entre a projeção de 8,5% da Fazenda e o cálculo de 11,3% do TCU para a alíquota da CBS em 2027 e proteja seu caixa.",
-   "link": "https://www.omie.com.br/blog/aliquota-cbs-2027-fazenda-tcu-caixa-empresas/",
-   "source": "Omie",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-23T12:56:35Z",
-   "tries": 1
-  },
-  {
-   "id": "db6d3c2b4267",
-   "date": "2026-11-18",
-   "title": "Reforma Tributária: Receita Federal defende que conformidade reduz a carga efetiva no Brasil",
-   "resumo": "Acompanhe a defesa da Receita Federal no Senado e entenda como a não cumulatividade e a conformidade da Reforma Tributária impactam a carga tributária efetiva das empresas.",
-   "link": "https://www.omie.com.br/blog/reforma-tributaria-receita-federal-conformidade-carga-efetiva/",
-   "source": "Omie",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T12:56:35Z",
-   "tries": 1
-  },
-  {
-   "id": "7f8acc394fd2",
-   "date": "2026-11-18",
-   "title": "Ponte, pedágio e caminhão: obra pública diante da reforma tributária",
-   "resumo": "Com o IBS e a CBS, o tributo devido pela obra passa a depender do lugar em que a operação se considera ocorrida",
-   "link": "https://conjur.com.br/2026-nov-18/ponte-pedagio-e-caminhao-obra-publica-diante-da-reforma-tributaria/",
-   "source": "Consultor Jurídico",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T08:22:50Z",
-   "tries": 1
-  },
-  {
-   "id": "b4c0c2d28c13",
-   "date": "2026-11-18",
-   "title": "Reforma tributária: alíquota de 11,3% da CBS valerá só em 2027",
-   "resumo": "Com início em 2027, a alíquota de 11,3% da reforma tributária para a CBS poderá subir ou descer anualmente para manter o atual patamar da carga tributária no país.",
-   "link": "https://avozdocampo.com/economia/reforma-tributaria-aliquota-de-11-3-da-cbs-valera-so-em-2027/",
-   "source": "avozdocampo",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-23T00:08:23Z",
-   "tries": 1
-  },
-  {
-   "id": "000ae93ce390",
-   "date": "2026-11-18",
-   "title": "Imposto Seletivo: o que é, o que será taxado e quando começa",
-   "resumo": "O Imposto Seletivo (IS) é um tributo federal criado pela Reforma Tributária, que incidirá sobre a produção e a comercialização de produtos e serviços que sejam prejudiciais à saúde ou à natureza. Também conhecido como […]",
-   "link": "https://meutudo.com.br/blog/imposto-seletivo/",
-   "source": "meutudo",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-22T14:19:22Z",
    "tries": 1
   }
  ]

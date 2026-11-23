@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-23T19:54:32Z",
- "lastCheckBr": "23/11/2026 16:54",
- "added": 29,
+ "lastCheckAt": "2026-11-23T20:42:20Z",
+ "lastCheckBr": "23/11/2026 17:42",
+ "added": 25,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -25,7 +25,7 @@
   {
    "name": "Agência Brasil",
    "ok": true,
-   "found": 3,
+   "found": 4,
    "new": 1
   },
   {
@@ -37,14 +37,14 @@
   {
    "name": "InfoMoney",
    "ok": true,
-   "found": 2,
-   "new": 2
+   "found": 0,
+   "new": 0
   },
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 97,
-   "new": 18
+   "new": 16
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -54,6 +54,31 @@
   }
  ],
  "items": [
+  {
+   "id": "4431eb46815e",
+   "date": "2026-11-23",
+   "title": "Câmara pode votar ajuste fiscal nesta segunda-feira",
+   "resumo": "A Câmara dos Deputados pode votar nesta segunda-feira (23) o projeto de lei complementar (PLP) 299/26, que trata de medidas de ajuste fiscal das contas públicas. O texto foi aprovado pelo Senado na quarta-feira (18) e prevê redução de despesas para se atingir…",
+   "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/camara-pode-votar-ajuste-fiscal-nesta-segunda-feira",
+   "source": "Agência Brasil",
+   "official": true,
+   "category": "cap",
+   "tag": "Capacitação",
+   "addedAt": "2026-11-23T20:42:20Z"
+  },
+  {
+   "id": "f1fa6860a27f",
+   "date": "2026-11-23",
+   "title": "Empresas podem simular CBS em ambiente da Receita",
+   "resumo": "Receita libera testes da CBS a empresas com CNPJ e dispensa pedido prévio",
+   "link": "https://www.spacemoney.com.br/economia/legislacao/receita-federal-piloto-cbs-empresas/",
+   "source": "SpaceMoney",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-23T20:42:20Z",
+   "tries": 1
+  },
   {
    "id": "8f26e8b61c86",
    "date": "2026-11-23",
@@ -127,7 +152,7 @@
    "category": "cont",
    "tag": "Contabilidade",
    "addedAt": "2026-11-23T19:54:32Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "6fd74bfea809",
@@ -140,7 +165,7 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-23T19:54:32Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "483efe19655a",
@@ -1584,6 +1609,45 @@
    "tries": 1
   },
   {
+   "id": "57586dcc4b76",
+   "date": "2026-11-18",
+   "title": "Senado pede explicações a TCU sobre alíquota de 11,3% da CBS",
+   "resumo": "Em audiências públicas, especialistas e empresários propõem percentual menor do imposto que substituirá o PIS e a Cofins em 2027. Governo defende alíquota definida pelo TCU.",
+   "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/senado-pede-explicacoes-tcu-sobre-aliquota-de-113-da-cbs",
+   "source": "Agência Brasil",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-23T20:42:20Z",
+   "tries": 1
+  },
+  {
+   "id": "389800182b73",
+   "date": "2026-11-18",
+   "title": "Reforma tributária: Decisão da Justiça afasta IBS e CBS da base do ISS",
+   "resumo": "Por Luciana Portinari. Liminar permite afastar novos tributos do cálculo do ISS em 2027 e reforça a necessidade de planejamento tributário preventivo.",
+   "link": "https://www.migalhas.com.br/depeso/468871/reforma-tributaria-decisao-da-justica-afasta-ibs-e-cbs-da-base-do-iss",
+   "source": "Migalhas",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-23T20:42:20Z",
+   "tries": 1
+  },
+  {
+   "id": "0e1b3ca24b3f",
+   "date": "2026-11-18",
+   "title": "OAB vê \"caixa preta\" na CBS e pede adiamento da reforma tributária",
+   "resumo": "Em audiência na CAE, representante da entidade criticou os cálculos da CBS de 11,3% e apontou cenário de insegurança jurídica.",
+   "link": "https://www.congressoemfoco.com.br/noticia/131701/oab-ve-caixa-preta-na-cbs-e-pede-adiamento-da-reforma-tributaria",
+   "source": "Congresso em Foco",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-23T20:42:20Z",
+   "tries": 1
+  },
+  {
    "id": "522624e8c827",
    "date": "2026-11-18",
    "title": "Reforma tributária: Veja o calendário e o que muda em 2027",
@@ -1918,69 +1982,6 @@
    "category": "cont",
    "tag": "Contabilidade",
    "addedAt": "2026-11-18T22:42:38Z"
-  },
-  {
-   "id": "6aeaa264c699",
-   "date": "2026-11-18",
-   "title": "Congresso debate Reforma Tributária e defesa do contribuinte",
-   "resumo": "Congresso de Direito Tributário do Codecon/SP debate Reforma Tributária , segurança jurídica e a relação entre Fisco e contribuinte. Veja a programação. Leia mais em…",
-   "link": "https://www.contabeis.com.br/noticias/80990/congresso-debate-reforma-tributaria-e-defesa-do-contribuinte/",
-   "source": "Portal Contábeis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-18T22:42:38Z"
-  },
-  {
-   "id": "de0d35f91a0b",
-   "date": "2026-11-18",
-   "title": "Reforma tributária e os custos da mão de obra",
-   "resumo": "Reforma traz desafios para o setor de serviços e para empresas cuja estrutura de custos está concentrada na contratação de mão de obra",
-   "link": "https://conjur.com.br/2026-nov-18/os-custos-da-mao-de-obra-na-reforma-tributaria/",
-   "source": "Consultor Jurídico",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-18T22:42:38Z",
-   "tries": 1
-  },
-  {
-   "id": "a65d4bb13abf",
-   "date": "2026-11-18",
-   "title": "Dívida ativa e reforma tributária: uma agenda de responsabilidade fiscal municipal - a arrecadação de 2026, a transição do IBS e os desafios fiscais dos municípios | Tribunal de Contas do Estado de São Paulo",
-   "resumo": "\"A preparação dos municípios para a reforma tributária também passa pelo aprimoramento da gestão dos créditos inscritos em dívida ativa.",
-   "link": "https://www.tce.sp.gov.br/publicacoes/divida-ativa-e-reforma-tributaria-agenda-responsabilidade-fiscal-municipal-arrecadacao",
-   "source": "Tribunal de Contas do Estado de São Paulo",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-18T21:42:59Z",
-   "tries": 1
-  },
-  {
-   "id": "940b6376f917",
-   "date": "2026-11-18",
-   "title": "Reforma tributária: alíquota de 11,3% da CBS pode valer só em 2027 e mudar depois; entenda",
-   "resumo": "Secretário especial da Receita Federal do Brasil, Robinson Sakiyama Barreirinhas Saulo Cruz/Agência Senado O secretário da Receita Federal, Robinson Barreirinhas, lembrou nesta quarta-feira (18) que,",
-   "link": "https://expressaorondonia.com.br/reforma-tributaria-aliquota-de-113-da-cbs-pode-valer-so-em-2027-e-mudar-depois-entenda/",
-   "source": "Expressão Rondônia",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-18T21:42:59Z",
-   "tries": 1
-  },
-  {
-   "id": "af58ae7e4fe8",
-   "date": "2026-11-18",
-   "title": "CAE debate redução da sonegação como saída para baixar alíquota da futura CBS",
-   "resumo": "Até que ponto a reforma tributária sobre o consumo diminuirá a sonegação, melhorando a arrecadação? A Comissão de Assuntos Econômicos (CAE) debateu nesta quarta-feira (18) essa possibilidade, apontada como caminho para reduzir a alíquota de 11,3% proposta…",
-   "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/cae-debate-reducao-da-sonegacao-como-saida-para-baixar-aliquota-da-futura-cbs",
-   "source": "Senado Federal",
-   "official": true,
-   "category": "pag",
-   "tag": "Split payment",
-   "addedAt": "2026-11-18T20:44:29Z"
   }
  ]
 }

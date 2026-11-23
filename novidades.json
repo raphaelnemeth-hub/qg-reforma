@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-22T23:09:41Z",
- "lastCheckBr": "22/11/2026 20:09",
- "added": 22,
+ "lastCheckAt": "2026-11-23T00:08:23Z",
+ "lastCheckBr": "22/11/2026 21:08",
+ "added": 20,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -44,7 +44,7 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 98,
-   "new": 15
+   "new": 13
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -679,6 +679,19 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-19T10:51:36Z",
+   "tries": 1
+  },
+  {
+   "id": "b4c0c2d28c13",
+   "date": "2026-11-18",
+   "title": "Reforma tributária: alíquota de 11,3% da CBS valerá só em 2027",
+   "resumo": "Com início em 2027, a alíquota de 11,3% da reforma tributária para a CBS poderá subir ou descer anualmente para manter o atual patamar da carga tributária no país.",
+   "link": "https://avozdocampo.com/economia/reforma-tributaria-aliquota-de-11-3-da-cbs-valera-so-em-2027/",
+   "source": "avozdocampo",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-23T00:08:23Z",
    "tries": 1
   },
   {
@@ -1344,6 +1357,45 @@
    "tries": 1
   },
   {
+   "id": "c2e3e6f031b0",
+   "date": "2026-11-17",
+   "title": "Reforma Tributária: alíquota da CBS divide opiniões em debate na CAE",
+   "resumo": "O Tribunal de Contas da União (TCU) estimou a Contribuição sobre Bens e Serviços (CBS) em 11,3%, alíquota maior do que a previsão inicial. Mas o Senado é quem vai dar a palavra final. Por isso, a Comissão de Assuntos Econômicos (CAE) começou nesta terça-feira…",
+   "link": "https://www12.senado.leg.br/noticias/videos/2026/11/reforma-tributaria-aliquota-da-cbs-divide-opinioes-em-debate-na-cae",
+   "source": "Senado",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-23T00:08:23Z",
+   "tries": 1
+  },
+  {
+   "id": "33423cdc0dd3",
+   "date": "2026-11-17",
+   "title": "Durigan diz que governo não vai adiar início da reforma tributária e prevê alíquota da CBS em 8,5%",
+   "resumo": "O ministro da Fazenda destacou, em audiência na CAE do Senado, ganhos de produtividade e justiça fiscal com a mudança no sistema tributário do país",
+   "link": "https://dcomercio.com.br/publicacao/s/durigan-diz-que-governo-nao-vai-adiar-inicio-da-reforma-tributaria-e-preve-aliquota-da-cbs-em-8-5",
+   "source": "DComercio",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-23T00:08:23Z",
+   "tries": 1
+  },
+  {
+   "id": "59d3829ace5f",
+   "date": "2026-11-17",
+   "title": "Reforma tributária: como funciona a revisão de preço dos contratos em 2027",
+   "resumo": "Lei que regulamentou reforma tributária prevê revisão em contratos antigos com o governo; entre empresas, vale o que foi assinado",
+   "link": "https://investnews.com.br/economia/reforma-tributaria-revisao-contratos-2027/",
+   "source": "InvestNews",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-23T00:08:23Z",
+   "tries": 1
+  },
+  {
    "id": "e153c4382b83",
    "date": "2026-11-17",
    "title": "Reforma Tributária altera regras de preenchimento do PGDAS-D para empresas do Simples Nacional",
@@ -1923,57 +1975,6 @@
    "tag": "Simples",
    "addedAt": "2026-11-17T20:43:03Z",
    "tries": 1
-  },
-  {
-   "id": "ae38c1fa2f8f",
-   "date": "2026-11-17",
-   "title": "CBS em 11,3% é por exceções da reforma tributária, diz TCU",
-   "resumo": "Presidente do tribunal, Vital do Rêgo Filho, diz que regras aprovadas são diferentes das de quando tema estava em análise. Leia no Poder360.",
-   "link": "https://www.poder360.com.br/poder-economia/cbs-em-113-e-por-excecoes-da-reforma-tributaria-diz-presidente-do-tcu/",
-   "source": "Poder360",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-17T20:43:03Z",
-   "tries": 1
-  },
-  {
-   "id": "f94c63be0d33",
-   "date": "2026-11-17",
-   "title": "Reforma tributária: Ministro da Fazenda vai ao Senado discutir implementação da CBS",
-   "resumo": "Durigan afirmou que a reforma tributária trará ganhos de responsabilidade fiscal, justiça social e transparência ao sistema tributário brasileiro",
-   "link": "https://agorars.com/economia/reforma-tributaria-ministro-da-fazenda-vai-ao-senado-discutir-implementacao-da-cbs/",
-   "source": "Agora RS",
-   "official": false,
-   "category": "lei",
-   "tag": "Legislação",
-   "addedAt": "2026-11-17T20:43:03Z",
-   "tries": 1
-  },
-  {
-   "id": "801adb8a61b7",
-   "date": "2026-11-17",
-   "title": "Reforma tributária é cobrada por falta de transparência e incerteza sobre impostos",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeFdha2dRS2hoQ0g0a2ZfQUFDVnRRc0JzQnhLQWRIU2RjTlNKU3R6QnotMzlnRDBxaWtpZXY1M3NWSFpueFB3VU9xMURFTkpxZlRobDFDSFAzNlNBX2Q4dDVOQXBXXzU1cEI0OG9MLXhIRVBuRDRZa1IxbXdZNmY3TEZjbUhFcEVRMHUxbHVEN20tZEEyUzNRdnV2VlNrTEtNaGx6bF9Pb3VtWndjZjF3TWtLZkt2aC0wdlVjaHUwZFh1cVRDOS02aUM2QzU3czR4SUFVRzFn0gHbAUFVX3lxTE5USWlva0hacmFGdXVrQ0daVVU1N1k5OEZGVDZkYUF3bm9MZlE3dWFKczYyQXpWVmVoYVpYTE94REE5ZVZnWnEya2tIY0UtMWxxcERXZTkzQ0VCa1FTc29oMUl2bTJtRG1fNmJTSUt5c0ZLNFdmOEhQODNSenR1YkpxNC1ZaE90a0dneFFPT1dDTmlxMVJCcDg0SnJYeHBiZE1SaGQzcVEyRDlwZS1BbW4ta0JMUU8tUXI1ZVVtMVFiZ1F4V1p5LW5HdlFLMFJ4RU45VV9UOUxGZDZydw?oc=5",
-   "source": "Diário do Poder",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-17T20:43:03Z",
-   "tries": 2
-  },
-  {
-   "id": "8e397f7dedbf",
-   "date": "2026-11-17",
-   "title": "Durigan prevê impacto inicial da reforma tributária sobre inflação",
-   "resumo": "O ministro da Fazenda, Dario Durigan, afirmou, nesta terça-feira (17), que a implementação da reforma tributária pode gerar pequeno impacto inicial sobre a inflação. A observação foi em resposta à preocupação manifestada por senadores com uma eventual alta do…",
-   "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/durigan-preve-impacto-inicial-da-reforma-tributaria-sobre-inflacao",
-   "source": "Agência Brasil",
-   "official": true,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-17T19:30:12Z"
   }
  ]
 }

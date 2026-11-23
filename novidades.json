@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-23T14:19:58Z",
- "lastCheckBr": "23/11/2026 11:19",
- "added": 27,
+ "lastCheckAt": "2026-11-23T15:32:54Z",
+ "lastCheckBr": "23/11/2026 12:32",
+ "added": 25,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -26,19 +26,19 @@
    "name": "Agência Brasil",
    "ok": true,
    "found": 2,
-   "new": 1
+   "new": 0
   },
   {
    "name": "Portal Contábeis",
    "ok": true,
-   "found": 7,
-   "new": 1
+   "found": 6,
+   "new": 0
   },
   {
    "name": "InfoMoney",
    "ok": true,
-   "found": 0,
-   "new": 0
+   "found": 1,
+   "new": 1
   },
   {
    "name": "Imprensa (Google Notícias)",
@@ -50,10 +50,100 @@
    "name": "CGIBS / NF-e (Google Notícias)",
    "ok": true,
    "found": 10,
-   "new": 7
+   "new": 6
   }
  ],
  "items": [
+  {
+   "id": "3172a2471d68",
+   "date": "2026-11-23",
+   "title": "Galípolo: dentro do governo não há qualquer debate sobre meta de inflação, é zero",
+   "resumo": "Gabriel Galípolo Imagem: Lula Marques/ Agência Brasil \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2025/04/gabriel-galipolo-1724674134390_v2_900x506.jpg.webp?fit=900%2C506&quality=70&strip=all\" />Em evento do Itaú BBA, presidente do…",
+   "link": "https://www.infomoney.com.br/economia/galipolo-dentro-do-governo-nao-ha-qualquer-debate-sobre-meta-de-inflacao-e-zero/",
+   "source": "InfoMoney",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-23T15:32:54Z"
+  },
+  {
+   "id": "35d909a2a8db",
+   "date": "2026-11-23",
+   "title": "Reforma Tributária: Receita define piloto sobre CBS e qualquer empresa poderá participar dos testes",
+   "resumo": "",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTE51blNWVWtkNDJ4OUF4ZjdmU182aGg5Nm1QeFZ1NzZKV2tfNDRrU3hGZWtyUlZldWpxY201NFhsS3ZZSC1WZXQwSGd4VDZNd3B1SG9nb1FKZHJMbWZiQ2ZFZWZwRXdTMUg0alZjN2Q3emlfUk80NjdLMmI3dW9yRC1SbTlCdXN0b0tMSktBSFVLeDA5bGNuRm8wOXN6d003QllxWkppUVo3Wnp1NUZMMjFCWXNDV2Y4SWxPWnhjbm8tZGVjdTdETUdLa0Z0Mm1lX1F6cUs1Ni1sQUVueVEtclNnV1VwNXpH0gH3AUFVX3lxTE5tazFKSUx1SXN3UnNhZlJac3J1UFpTdU54NTR2QjQ4VEZheE1mOFh5aXFhMHVIWU4ySmp5dlFFQ0hUdHpYSDVEQ1gwVUZoMnlHR0FvdG1XNkozS1NuVC1nMW1kSFdDWjJ4NHNfYWVBaktaRDFkMnROQnpmMzlZY2RzaFRiT21jVFVtbThxLWItb3RYN0w5RjRGRl80bUJ2UHJSbGJESms2RklBVF9UOU9uenQtVlRJQUhScWYwcTUwbHh6emZBZEZiUjEwQm5VUVJrdTdZbHBPMWhESkFKWE8xQy15aVZJczdQVndwSDZ5cUNoMVZoSjQ?oc=5",
+   "source": "Extra online",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-23T15:32:54Z",
+   "tries": 1
+  },
+  {
+   "id": "6601c7a8082d",
+   "date": "2026-11-23",
+   "title": "Receita Federal abre piloto da CBS para todas as empresas com CNPJ",
+   "resumo": "",
+   "link": "https://83agora.com.br/receita-federal-abre-piloto-da-cbs-para-todas-as-empresas-com-cnpj-2/",
+   "source": "83 Agora",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-23T15:32:54Z",
+   "tries": 1
+  },
+  {
+   "id": "19c8eec7d108",
+   "date": "2026-11-23",
+   "title": "Receita Federal libera participação de empresas no piloto da Reforma Tributária",
+   "resumo": "A Receita Federal ampliou o acesso ao ambiente de testes do piloto da Reforma Tributária. A partir de agora, qualquer empresa inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) poderá participar das atividades relacionadas à Contribuição sobre Bens e…",
+   "link": "https://geraisnews.com.br/2026/11/23/receita-federal-libera-participacao-de-empresas-no-piloto-da-reforma-tributaria/",
+   "source": "Gerais News",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-23T15:32:54Z",
+   "tries": 1
+  },
+  {
+   "id": "b79d91a604cb",
+   "date": "2026-11-23",
+   "title": "Receita Federal amplia acesso ao ambiente de testes da Reforma Tributária",
+   "resumo": "Portaria publicada nesta segunda-feira (23) permite que qualquer empresa inscrita no CNPJ participe do piloto da Contribuição sobre Bens e Serviços.",
+   "link": "https://www.rcwtv.com.br/noticia/receita-federal-amplia-acesso-ao-ambiente-de-testes-da-reforma-tributaria",
+   "source": "RCWTV",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-23T15:32:54Z",
+   "tries": 1
+  },
+  {
+   "id": "a9b39552cb14",
+   "date": "2026-11-23",
+   "title": "Receita Federal amplia piloto da Reforma Tributária para todas as empresas",
+   "resumo": "Portaria publicada nesta segunda-feira (23) retira exigência de indicação para o ambiente de testes da Contribuição sobre Bens e Serviços.",
+   "link": "https://www.araraquaranews.com.br/noticia/receita-federal-amplia-piloto-da-reforma-tributaria-para-todas-as-empresas",
+   "source": "Araraquara News",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-23T15:32:54Z",
+   "tries": 1
+  },
+  {
+   "id": "2b14eea47fe2",
+   "date": "2026-11-23",
+   "title": "Empresas com CNPJ já podem participar de piloto da Reforma Tributária",
+   "resumo": "",
+   "link": "https://www.powermix.com.br/politica/empresas-com-cnpj-ja-podem-participar-de-piloto-da-reforma-tributaria/59597",
+   "source": "Power Mix",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-23T15:32:54Z",
+   "tries": 1
+  },
   {
    "id": "463f117a7ee9",
    "date": "2026-11-23",
@@ -312,6 +402,19 @@
    "tries": 1
   },
   {
+   "id": "32ac5ca37dbb",
+   "date": "2026-11-22",
+   "title": "Reforma tributária muda regras para aluguel de imóveis a partir de 2027",
+   "resumo": "As novas regras estabelecem critérios para definir quais proprietários estarão sujeitos aos tributos sobre o consumo. Confira!",
+   "link": "https://dol.com.br/noticias/brasil/969113/reforma-tributaria-muda-regras-para-aluguel-de-imoveis-a-partir-de-2027",
+   "source": "DOL",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-23T15:32:54Z",
+   "tries": 1
+  },
+  {
    "id": "0fa0b490a87b",
    "date": "2026-11-22",
    "title": "Reforma tributária muda regras do aluguel em 2027; entenda",
@@ -463,6 +566,19 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-21T12:40:07Z",
+   "tries": 1
+  },
+  {
+   "id": "45b4be580439",
+   "date": "2026-11-20",
+   "title": "Reforma tributária: Como proteger os créditos de IBS e CBS",
+   "resumo": "Por Aurélio Longo Guerzoni. A reforma tributária exigirá a revisão dos contratos com fornecedores para proteger os créditos de IBS e CBS, inclusive mediante o RAD - Recolhimento pelo Adquirente.",
+   "link": "https://www.migalhas.com.br/depeso/468351/reforma-tributaria-como-proteger-os-creditos-de-ibs-e-cbs",
+   "source": "Migalhas",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-23T15:32:54Z",
    "tries": 1
   },
   {
@@ -1809,173 +1925,56 @@
    "tries": 1
   },
   {
-   "id": "19a3f94da766",
+   "id": "c5e7b4245e15",
    "date": "2026-11-17",
-   "title": "CBS: No Senado, TCU e Fazenda dividem com Congresso responsabilidade por alíquota",
-   "resumo": "Ministro da Fazenda defende reforma tributária em 2027 e diz que caberá ao Senado validar alíquota da CBS.",
-   "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/cbs-no-senado-tcu-e-fazenda-dividem-com-congresso-responsabilidade-por-aliquota",
-   "source": "JOTA Info",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-23T14:19:58Z",
-   "tries": 1
-  },
-  {
-   "id": "fdd59c382f17",
-   "date": "2026-11-17",
-   "title": "Black Friday exige preparo fiscal para IBS e CBS",
-   "resumo": "Black Friday aumenta a pressão sobre as operações fiscais. Veja como preparar sistemas para o pico de vendas e as novas exigências de IBS e CBS.",
-   "link": "https://www.contabeis.com.br/noticias/80938/black-friday-exige-preparo-fiscal-para-ibs-e-cbs/",
-   "source": "Portal Contabeis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T14:19:58Z",
-   "tries": 1
-  },
-  {
-   "id": "adb1e90dbab6",
-   "date": "2026-11-17",
-   "title": "IBS e CBS na base do ICMS: TJSP suspende decisões",
-   "resumo": "TJSP suspende decisões que excluíam IBS e CBS da base do ICMS em São Paulo; medida não encerra a discussão tributária.",
-   "link": "https://www.contabeis.com.br/noticias/80944/ibs-e-cbs-na-base-do-icms-tjsp-suspende-decisoes/",
-   "source": "Portal Contabeis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T14:19:58Z",
-   "tries": 1
-  },
-  {
-   "id": "0d93c438d38d",
-   "date": "2026-11-17",
-   "title": "COMITÊ GESTOR DO IMPOSTO SOBRE BENS E SERVIÇOS - CGIBS RESOLUÇÃO CGIBS Nº 20, DE 17 DE NOVEMBRO DE 2026 Dispõe sobre a tip",
-   "resumo": "",
-   "link": "https://cgibs.gov.br/upload/arquivos/202611/17165820-resoluc-a-o-cgibs-n-20-de-17-de-novembro-de-2026.pdf",
-   "source": "Comitê Gestor do IBS",
-   "official": false,
-   "category": "lei",
-   "tag": "Legislação",
-   "addedAt": "2026-11-23T14:19:58Z",
-   "tries": 1
-  },
-  {
-   "id": "ae38c1fa2f8f",
-   "date": "2026-11-17",
-   "title": "CBS em 11,3% é por exceções da reforma tributária, diz TCU",
-   "resumo": "Presidente do tribunal, Vital do Rêgo Filho, diz que regras aprovadas são diferentes das de quando tema estava em análise. Leia no Poder360.",
-   "link": "https://www.poder360.com.br/poder-economia/cbs-em-113-e-por-excecoes-da-reforma-tributaria-diz-presidente-do-tcu/",
-   "source": "Poder360",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-23T01:47:32Z",
-   "tries": 1
-  },
-  {
-   "id": "c2e3e6f031b0",
-   "date": "2026-11-17",
-   "title": "Reforma Tributária: alíquota da CBS divide opiniões em debate na CAE",
-   "resumo": "O Tribunal de Contas da União (TCU) estimou a Contribuição sobre Bens e Serviços (CBS) em 11,3%, alíquota maior do que a previsão inicial. Mas o Senado é quem vai dar a palavra final. Por isso, a Comissão de Assuntos Econômicos (CAE) começou nesta terça-feira…",
-   "link": "https://www12.senado.leg.br/noticias/videos/2026/11/reforma-tributaria-aliquota-da-cbs-divide-opinioes-em-debate-na-cae",
-   "source": "Senado",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-23T00:08:23Z",
-   "tries": 1
-  },
-  {
-   "id": "33423cdc0dd3",
-   "date": "2026-11-17",
-   "title": "Durigan diz que governo não vai adiar início da reforma tributária e prevê alíquota da CBS em 8,5%",
-   "resumo": "O ministro da Fazenda destacou, em audiência na CAE do Senado, ganhos de produtividade e justiça fiscal com a mudança no sistema tributário do país",
-   "link": "https://dcomercio.com.br/publicacao/s/durigan-diz-que-governo-nao-vai-adiar-inicio-da-reforma-tributaria-e-preve-aliquota-da-cbs-em-8-5",
-   "source": "DComercio",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-23T00:08:23Z",
-   "tries": 1
-  },
-  {
-   "id": "59d3829ace5f",
-   "date": "2026-11-17",
-   "title": "Reforma tributária: como funciona a revisão de preço dos contratos em 2027",
-   "resumo": "Lei que regulamentou reforma tributária prevê revisão em contratos antigos com o governo; entre empresas, vale o que foi assinado",
-   "link": "https://investnews.com.br/economia/reforma-tributaria-revisao-contratos-2027/",
-   "source": "InvestNews",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T00:08:23Z",
-   "tries": 1
-  },
-  {
-   "id": "e153c4382b83",
-   "date": "2026-11-17",
-   "title": "Reforma Tributária altera regras de preenchimento do PGDAS-D para empresas do Simples Nacional",
-   "resumo": "",
-   "link": "https://www.contadores.cnt.br/noticias/tecnicas/2026/11/17/reforma-tributaria-altera-regras-de-preenchimento-do-pgdas-d-para-empresas-do-simples-nacional.html",
-   "source": "Contadores.cnt.br",
-   "official": false,
-   "category": "simples",
-   "tag": "Simples",
-   "addedAt": "2026-11-22T15:11:55Z",
-   "tries": 2
-  },
-  {
-   "id": "946ca3f5cd4c",
-   "date": "2026-11-17",
-   "title": "Audiência no Senado debate nova alíquota da reforma tributária",
-   "resumo": "A alíquota de 11,3% para novo imposto federal da reforma tributária foi resultado de benefícios aprovados no Congresso Nacional. O esclarecimento foi feito pelo presidente do Tribunal de Contas da União, Vital do Rêgo Filho, na Comissão de Assuntos Econômicos…",
-   "link": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/economia/audio/2026-11/audiencia-no-senado-debate-nova-aliquota-da-reforma-tributaria",
+   "title": "Durigan explica no Senado alíquota de 11,3% da CBS",
+   "resumo": "Percentual recomendado pelo TCU provocou questionamentos de parlamentares e representantes do setor produtivo, que pedem esclarecimentos sobre os critérios utilizados no cálculo.",
+   "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/durigan-explica-no-senado-aliquota-de-113-da-cbs",
    "source": "Agência Brasil",
    "official": false,
    "category": "aliq",
    "tag": "Alíquotas",
-   "addedAt": "2026-11-22T10:13:20Z",
+   "addedAt": "2026-11-23T15:32:54Z",
    "tries": 1
   },
   {
-   "id": "657065f16cc0",
+   "id": "96f9474b4ba0",
    "date": "2026-11-17",
-   "title": "Alíquota da CBS teve impacto de isenções propostas pelo STF, diz Durigan",
-   "resumo": "Ministro da Fazenda voltou a defender uma revisão da tributação para empresas e possível desoneração da folha",
-   "link": "https://www1.folha.uol.com.br/mercado/2026/11/aliquota-da-cbs-teve-impacto-de-isencoes-propostas-pelo-stf-diz-durigan.shtml",
-   "source": "Folha de S.Paulo",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-22T09:11:57Z",
-   "tries": 1
-  },
-  {
-   "id": "bdee837ee651",
-   "date": "2026-11-17",
-   "title": "No Senado, Durigan defende CBS de 11,3% e diz que média será de 8,5%",
-   "resumo": "Em audiência no Senado com o presidente do TCU, Vital do Rêgo, e o secretário da Receita, Robinson Barreirinhas, ministro da Fazenda rejeita adiamento da reforma tributária.",
-   "link": "https://www.congressoemfoco.com.br/noticia/131646/no-senado-durigan-defende-cbs-de-11-3-e-diz-que-media-sera-de-8-5",
-   "source": "Congresso em Foco",
-   "official": false,
-   "category": "lei",
-   "tag": "Legislação",
-   "addedAt": "2026-11-22T08:02:20Z",
-   "tries": 1
-  },
-  {
-   "id": "dee2b16e5ddc",
-   "date": "2026-11-17",
-   "title": "Durigan defende alíquota da reforma tributária e estima média efetiva de 8,5%",
+   "title": "Reforma Tributária – CBS e IBS e seus impactos no comércio varejista",
    "resumo": "",
-   "link": "https://monitormercantil.com.br/durigan-defende-aliquota-da-reforma-tributaria-e-estima-media-efetiva-de-85/",
-   "source": "Monitor Mercantil",
+   "link": "https://sindilojas.rio/2026/11/17/reforma-tributaria-cbs-e-ibs-e-seus-impactos-no-comercio-varejista-2/",
+   "source": "SindilojasRio",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-23T15:32:54Z",
+   "tries": 1
+  },
+  {
+   "id": "c7388d870cd3",
+   "date": "2026-11-17",
+   "title": "Reforma tributária: Receita descarta punição a erros de boa-fé",
+   "resumo": "O secretário da Receita Federal, Robinson Barreirinhas, afirmou em audiência pública na Comissão de Assuntos Econômicos (CAE) do Senado, que o sistema já está sendo testado por 500 empresas e deverá ser disponibilizado para todas as empresas brasileiras nos…",
+   "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/reforma-tributaria-receita-descarta-punicao-erros-de-boa-fe",
+   "source": "Agência Brasil",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-23T15:32:54Z",
+   "tries": 1
+  },
+  {
+   "id": "27b0d78662b2",
+   "date": "2026-11-17",
+   "title": "Reforma Tributária: ministro da Fazenda vai ao Senado explicar alíquota de 11,3% para a CBS",
+   "resumo": "",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNcWoyVThKd294QkNkMkwxV0lSTkZfVlFFcUM0NUdPbHVZcC1wVFc4Szl2VVVlNDI4N2t3NGhTX0VJQlZrY0ktd1BKR0VINTViZjZhd2xoeF9sWXZLWFIzb2dHOUpVXzB2eVh4MmQ0U3dTY29fN0lnVnMzZXBTWi1xZ2lTMjlyWDhrZW9pWTBKVlpIdFFoUXlWWmo2UWJOSGlsWmVLMERQQ3Z1UkVRb0hCTk10YTBWdTVwTmdmdThWQlNhcmwtVjJwLVRfTWo5NVdpR001eXZmZE5nTlFYXy1CS29Nd2Q4dzJPcFHSAfgBQVVfeXFMTmI2Q2tsSm9aX1lBcGxDUDM5LU1Xd3pzT0J2cEhLME94SlN4VkFRS1F4allsWXExMVlqWGtSa0NPMVM1SnBOcWVWUXdqWUpuLTRBRVNFQThDRUVaU3IxYTN4LTZSYWVWdU1MSVF4ZjU5V0V5T1A1U25IdWJfUWpDQVFjMmhxbHQySlZ0dVdGdVlFVjA1SWlYVWotOW5UbmNxUUJBM0YtTjE0OFhOS05hTlVwaERpOUtfT3ZZWXpTWENzaXhROU9QN3lva0xlRUpzRXVJdVdIbjVXVldXem9ld1ExaWxpQnF3NS1HM3ZyQ1hyRUZzUU0zdm8?oc=5",
+   "source": "O GLOBO",
    "official": false,
    "category": "aliq",
    "tag": "Alíquotas",
-   "addedAt": "2026-11-22T06:51:49Z",
-   "tries": 2
+   "addedAt": "2026-11-23T15:32:54Z",
+   "tries": 1
   }
  ]
 }

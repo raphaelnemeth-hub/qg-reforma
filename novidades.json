@@ -1,6 +1,6 @@
 {
- "lastCheckAt": "2026-11-23T18:48:11Z",
- "lastCheckBr": "23/11/2026 15:48",
+ "lastCheckAt": "2026-11-23T19:54:32Z",
+ "lastCheckBr": "23/11/2026 16:54",
  "added": 29,
  "feeds": [
   {
@@ -25,26 +25,26 @@
   {
    "name": "Agência Brasil",
    "ok": true,
-   "found": 2,
-   "new": 0
+   "found": 3,
+   "new": 1
   },
   {
    "name": "Portal Contábeis",
    "ok": true,
-   "found": 6,
+   "found": 5,
    "new": 0
   },
   {
    "name": "InfoMoney",
    "ok": true,
-   "found": 0,
-   "new": 0
+   "found": 2,
+   "new": 2
   },
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 96,
-   "new": 21
+   "found": 97,
+   "new": 18
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -54,6 +54,133 @@
   }
  ],
  "items": [
+  {
+   "id": "8f26e8b61c86",
+   "date": "2026-11-23",
+   "title": "Fazenda reduz previsão do PIB e eleva inflação para 2027",
+   "resumo": "O Ministério da Fazenda reduziu a previsão de crescimento da economia brasileira em 2027 e elevou a estimativa de inflação para o próximo ano. Segundo o Boletim Macrofiscal de novembro, divulgado nesta segunda-feira (23) pela Secretaria de Política Econômica…",
+   "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/fazenda-reduz-previsao-do-pib-e-eleva-inflacao-para-2027",
+   "source": "Agência Brasil",
+   "official": true,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-23T19:54:32Z"
+  },
+  {
+   "id": "8deaa9a93dfc",
+   "date": "2026-11-23",
+   "title": "Durigan defende superávit de até 2% e descarta adiamento da reforma tributária",
+   "resumo": "Dario Durigan, em participação online no evento Itaú Macro Vision 2026, em painel com Diogo Guillen, economista-chefe do Itaú Unibanco. (Foto: Artur Medina / Divulgação) \"…",
+   "link": "https://www.infomoney.com.br/economia/durigan-descarta-adiamento-reforma-tributaria-superavit-2/",
+   "source": "InfoMoney",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-23T19:54:32Z"
+  },
+  {
+   "id": "52478d59d87b",
+   "date": "2026-11-23",
+   "title": "Minha Casa, Minha Vida segura lançamentos e vendas no 3º tri, mas 2027 preocupa CBIC",
+   "resumo": "Minha Casa, Minha Vida (Foto: Ricardo Stuckert/PR) \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2025/04/53804115232_02913618b5_o.jpg?fit=1170%2C700&quality=70&strip=all\" />Entidade avalia que juros altos, reforma tributária e aumento de…",
+   "link": "https://www.infomoney.com.br/economia/minha-casa-minha-vida-segura-lancamentos-e-vendas-no-3o-tri-mas-2027-preocupa-cbic/",
+   "source": "InfoMoney",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-23T19:54:32Z"
+  },
+  {
+   "id": "31255c19f9ed",
+   "date": "2026-11-23",
+   "title": "Crédito da CBS: quem paga a conta quando o fornecedor não paga?",
+   "resumo": "Estimativa anunciada pela Receita alivia o caixa na estreia da CBS, mas não diz quem suporta o inadimplemento do fornecedor.",
+   "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/credito-da-cbs-quem-paga-a-conta-quando-o-fornecedor-nao-paga",
+   "source": "JOTA Info",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-23T19:54:32Z",
+   "tries": 1
+  },
+  {
+   "id": "3b8ece2a9307",
+   "date": "2026-11-23",
+   "title": "Menos de 40 dias para 2027: como preparar o caixa da empresa para a nova fase da Reforma Tributária",
+   "resumo": "Entenda como a Reforma Tributária, o split payment e o RAD podem afetar o caixa das empresas e veja medidas para planejar 2027.",
+   "link": "https://www.contabeis.com.br/artigos/81076/como-preparar-o-caixa-da-empresa-para-a-nova-fase-da-reforma-tributaria/",
+   "source": "Portal Contabeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-23T19:54:32Z",
+   "tries": 1
+  },
+  {
+   "id": "4749a34f9dee",
+   "date": "2026-11-23",
+   "title": "Outsourcing de TI e Reforma Tributária: como o IBS e a CBS podem favorecer o Bodyshop e o Staff Augmentation",
+   "resumo": "",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNXzhUOExqazRLSXRUVmZjcU4wUlc0R0xEY3VCLTJMU010WFZuSzJ5bGYya2twSFhqZEhpOGFuWTFaazB0VEktdGhEc25SRVFDdVJzRzZCM0h5TTZ3d3JBOW5laTlkLWVIc1l4cjRlZmk0RGRIb18tenJUS3ZLaHpJejlxWlZZMHhST18wNnQ3MUxlUDNzb3lIYUU3bjRGQUJmS1lNRUtVWGRvQV9jWGptQUlaOXp2OUFVVDRLR21QZVUtdDFkbTZTUGw4QnhJQmE4Uzh1TVJDazJjeUV5LTRn0gHkAUFVX3lxTE52bURVdUNmaHp1Yk5VQ0wyNE82SEdoa1hRYjQ0Uy1ZZkplLWlOZnVFbkVFdDMxQkpLY3BiN2NPSGlCLWQ2STNpcVRFblI0cVJwcEdpcjYxUGRTbWRKRHRlV3JxcGgyZ1RJZWJyZGFjeFVRQ1ZualpHeFhvMlBZY1JjNWlLQmVSYzNLS1J3RTNybS1fTW9Bc2VZYldoQzJoa1VsTmNGNkxQYURwMEw1cXFVbjV5VFlJb25oX3p6eVJ0ckpPLVFvSk5fUUVjLUZIUUxQZF9XS09PbndvcXNkeTBlNWc5Mw?oc=5",
+   "source": "Jornal Contábil",
+   "official": false,
+   "category": "cont",
+   "tag": "Contabilidade",
+   "addedAt": "2026-11-23T19:54:32Z",
+   "tries": 1
+  },
+  {
+   "id": "6fd74bfea809",
+   "date": "2026-11-23",
+   "title": "Receita libera testes da CBS para todas as empresas; veja como participar",
+   "resumo": "",
+   "link": "https://exame.com/economia/receita-libera-testes-da-cbs-para-todas-as-empresas-veja-como-participar/",
+   "source": "Exame",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-23T19:54:32Z",
+   "tries": 1
+  },
+  {
+   "id": "483efe19655a",
+   "date": "2026-11-23",
+   "title": "Empresas podem participar do piloto da Reforma Tributária da CBS",
+   "resumo": "A implementação do novo sistema tributário brasileiro avança com a abertura do ambiente de testes para empresas interessadas. O objetivo é tornar o",
+   "link": "https://planetaosasco.com/economia/902895-empresas-podem-participar-do-piloto-da-reforma-tributaria-da-cbs",
+   "source": "planetaosasco.com",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-23T19:54:32Z",
+   "tries": 1
+  },
+  {
+   "id": "31004ef1cd4e",
+   "date": "2026-11-23",
+   "title": "Empresas com CNPJ poderão participar de piloto da CBS sem indicação prévia",
+   "resumo": "Para participar, as empresas deverão cumprir os requisitos operacionais, cadastrais e de segurança estabelecidos pela Receita Federal. O ambiente permitirá",
+   "link": "https://focuspoder.com.br/empresas-com-cnpj-poderao-participar-de-piloto-da-cbs-sem-indicacao-previa/",
+   "source": "Focus Poder",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-23T19:54:32Z",
+   "tries": 1
+  },
+  {
+   "id": "4a076b5db66f",
+   "date": "2026-11-23",
+   "title": "Reforma Tributária: Projeto piloto amplia número de participantes",
+   "resumo": "Portaria da Receita libera qualquer empresa com CNPJ a participar do piloto da CBS, sem indicação prévia, mediante requisitos de segurança",
+   "link": "https://redeondadigital.com.br/destaque/receita-libera-participacao-de-todas-as-empresas-em-testes-do-novo-imposto",
+   "source": "Rede Onda Digital",
+   "official": false,
+   "category": "lei",
+   "tag": "Legislação",
+   "addedAt": "2026-11-23T19:54:32Z",
+   "tries": 1
+  },
   {
    "id": "b1261f98c725",
    "date": "2026-11-23",
@@ -91,7 +218,7 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-23T18:48:11Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "fd5d065f3bed",
@@ -1854,133 +1981,6 @@
    "category": "pag",
    "tag": "Split payment",
    "addedAt": "2026-11-18T20:44:29Z"
-  },
-  {
-   "id": "a79145d0b57c",
-   "date": "2026-11-18",
-   "title": "Senado pede explicações a TCU sobre alíquota de 11,3% da CBS",
-   "resumo": "Após dois dias de audiência pública, a Comissão de Assuntos Econômicos (CAE) do Senado aprovou nesta quarta-feira (18) um requerimento para pedir explicações ao Tribunal de Contas da União (TCU) sobre a alíquota de referência de 11,3% da Contribuição sobre…",
-   "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/senado-pede-explicacoes-tcu-sobre-aliquota-de-113-da-cbs",
-   "source": "Agência Brasil",
-   "official": true,
-   "category": "nt",
-   "tag": "Nota técnica",
-   "addedAt": "2026-11-18T20:44:29Z"
-  },
-  {
-   "id": "389800182b73",
-   "date": "2026-11-18",
-   "title": "Reforma tributária: Decisão da Justiça afasta IBS e CBS da base do ISS",
-   "resumo": "Por Luciana Portinari. Liminar permite afastar novos tributos do cálculo do ISS em 2027 e reforça a necessidade de planejamento tributário preventivo.",
-   "link": "https://www.migalhas.com.br/depeso/468871/reforma-tributaria-decisao-da-justica-afasta-ibs-e-cbs-da-base-do-iss",
-   "source": "Migalhas",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-18T20:44:29Z",
-   "tries": 1
-  },
-  {
-   "id": "8d05670a1f2f",
-   "date": "2026-11-18",
-   "title": "Deputado Domingos Sávio defende prudência na implementação da reforma tributária",
-   "resumo": "Presidente da Frente Parlamentar do Comércio e Serviços (FCS) apontou pendências na regulamentação da reforma, dúvidas sobre alíquotas e riscos de aumento de custos",
-   "link": "https://agenciadcnews.com.br/publicacao/s/deputado-domingos-savio-defende-prudencia-na-implementacao-da-reforma-tributaria",
-   "source": "DComercio",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-18T20:44:29Z",
-   "tries": 1
-  },
-  {
-   "id": "da73d51d084f",
-   "date": "2026-11-18",
-   "title": "Senado debate alíquota da CBS para 2027 e medidas de adaptação do setor imobiliário à Reforma Tributária",
-   "resumo": "A Comissão de Assuntos Econômicos (CAE) do Senado Federal realizou, nesta terça-feira (17), audiência pública para discutir o cálculo da alíquota de referência da Contribuição sobre Bens e Serviços (CBS) para 2027. O debate reuniu representantes do governo…",
-   "link": "https://cbic.org.br/senado-debate-aliquota-da-cbs-para-2027-e-medidas-de-adaptacao-do-setor-imobiliario-a-reforma-tributaria/",
-   "source": "CBIC - Câmara Brasileira da Indústria da Construção",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-18T19:49:12Z",
-   "tries": 1
-  },
-  {
-   "id": "19c1c5abc02d",
-   "date": "2026-11-18",
-   "title": "Barreirinhas diz que split payment se tornará obrigatório durante ‘evolução dos sistemas’",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVC1oTC10RDZSOGpXRk5BQ2xWYkpYVEVqZzZEZmhkZ0NaRjZNOTlwOEFkZDV5QzdhMFUyNTQ0VzFQcGZXQTRvSC03Y0dqVUlGRFpZMkZFcGpWbFp3c1lkRzd0WVFtSzlPdWJxbDlwdmtZUU5hVGJSQWFFd2ZIZlprbmRPemRrODBzZ3VweU1waUdwWVBsV1NPc1FoSzdZU21KWFpvVGNKaVgzXzYzcm83T1h2Mi1VdG5MaXlWeDFHRmlKbWN1Uk1wanF0NzV1ZHhDUS03dW9CemlsUFRj0gHrAUFVX3lxTE5sMFA4QWdzSzB2UjVKOUxyVHl4R2toUzhvelJTS1RzQW9LTVdhcTZXcnJlUEw0Z1VTbGVxTlRCVldmRnVsTFVNYkFIV1Q3TGxmcVd3VjdFMXg5VzB1ZGdORllXVFk5X2Rwd1VwYmlmRG4yMXpReEZwRjBBZ0RGdjkySzVGTk9kb3ZRX1RvbVBwLU5sem9TTElXQjFKOWhhRVpKN1Z3ajA3blhaRnJPOW9LVEtzUm1nYkhXZWlNeXc4Wi1LMlJ5R2NaRGRNcjNqV2k2TlNaRXVPS1lXc2ZOWFQybng2MG5aTGJzQVU?oc=5",
-   "source": "Valor Econômico",
-   "official": false,
-   "category": "pag",
-   "tag": "Split payment",
-   "addedAt": "2026-11-18T19:49:12Z",
-   "tries": 2
-  },
-  {
-   "id": "f2b016b79881",
-   "date": "2026-11-18",
-   "title": "Contratos e reforma tributária: O que revisar com a CBS em 2027",
-   "resumo": "Por Carolina Fernandes. CBS substitui PIS/Cofins em 2027, com transição até 2033. Contratos novos ou renovados devem prever repasse de custos, créditos, split payment e local da operação.",
-   "link": "https://www.migalhas.com.br/depeso/468529/contratos-e-reforma-tributaria-o-que-revisar-com-a-cbs-em-2027",
-   "source": "Migalhas",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-18T18:42:13Z",
-   "tries": 1
-  },
-  {
-   "id": "0e1b3ca24b3f",
-   "date": "2026-11-18",
-   "title": "OAB vê \"caixa preta\" na CBS e pede adiamento da reforma tributária",
-   "resumo": "Em audiência na CAE, representante da entidade criticou os cálculos da CBS de 11,3% e apontou cenário de insegurança jurídica.",
-   "link": "https://www.congressoemfoco.com.br/noticia/131701/oab-ve-caixa-preta-na-cbs-e-pede-adiamento-da-reforma-tributaria",
-   "source": "Congresso em Foco",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-18T18:42:13Z",
-   "tries": 1
-  },
-  {
-   "id": "498a4095959e",
-   "date": "2026-11-18",
-   "title": "11,3% de CBS: o que muda e o que exige urgência do empresariado",
-   "resumo": "",
-   "link": "https://www.contadores.cnt.br/noticias/tecnicas/2026/11/18/11-3-de-cbs-o-que-muda-e-o-que-exige-urgencia-do-empresariado.html",
-   "source": "Contadores.cnt.br",
-   "official": false,
-   "category": "cont",
-   "tag": "Contabilidade",
-   "addedAt": "2026-11-18T18:42:13Z",
-   "tries": 2
-  },
-  {
-   "id": "7171703c7e43",
-   "date": "2026-11-18",
-   "title": "Reforma Tributária: aeroportos avaliam revisão de concessões",
-   "resumo": "Mudanças no IBS e na CBS podem alterar custos e receitas de concessionárias. Empresas avaliam pedidos de reequilíbrio financeiro. Leia mais em https://www.contabeis.com.br/noticias/80977/reforma-tributaria-aeroportos-avaliam-revisao-de-concessoes/",
-   "link": "https://www.contabeis.com.br/noticias/80977/reforma-tributaria-aeroportos-avaliam-revisao-de-concessoes/",
-   "source": "Portal Contábeis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-18T17:48:36Z"
-  },
-  {
-   "id": "d66b92320a0e",
-   "date": "2026-11-18",
-   "title": "Receita libera apuração assistida da reforma tributária para empresas nesta semana",
-   "resumo": "Ferramenta ficará disponível para todas as empresas, segundo Robinson Barreirinhas, e apresentará tributos a pagar e créditos disponíveis. Leia mais em…",
-   "link": "https://www.contabeis.com.br/noticias/80966/receita-libera-apuracao-assistida-da-reforma-tributaria-para-empresas-nesta-semana/",
-   "source": "Portal Contábeis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-18T17:48:36Z"
   }
  ]
 }

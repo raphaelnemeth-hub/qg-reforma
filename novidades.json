@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-23T00:08:23Z",
- "lastCheckBr": "22/11/2026 21:08",
- "added": 20,
+ "lastCheckAt": "2026-11-23T01:47:32Z",
+ "lastCheckBr": "22/11/2026 22:47",
+ "added": 17,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -44,7 +44,7 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 98,
-   "new": 13
+   "new": 10
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -1357,6 +1357,19 @@
    "tries": 1
   },
   {
+   "id": "ae38c1fa2f8f",
+   "date": "2026-11-17",
+   "title": "CBS em 11,3% é por exceções da reforma tributária, diz TCU",
+   "resumo": "Presidente do tribunal, Vital do Rêgo Filho, diz que regras aprovadas são diferentes das de quando tema estava em análise. Leia no Poder360.",
+   "link": "https://www.poder360.com.br/poder-economia/cbs-em-113-e-por-excecoes-da-reforma-tributaria-diz-presidente-do-tcu/",
+   "source": "Poder360",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-23T01:47:32Z",
+   "tries": 1
+  },
+  {
    "id": "c2e3e6f031b0",
    "date": "2026-11-17",
    "title": "Reforma Tributária: alíquota da CBS divide opiniões em debate na CAE",
@@ -1960,19 +1973,6 @@
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-17T20:43:03Z",
-   "tries": 1
-  },
-  {
-   "id": "f257982632ce",
-   "date": "2026-11-17",
-   "title": "Reforma Tributária: mitos e verdades sobre impostos, preços e Simples Nacional",
-   "resumo": "O Simples Nacional vai acabar? Pedreiros e jardineiros terão que abrir empresa e emitir nota fiscal? A Reforma Tributária vai aumentar os preços? O Cidadania recebe Daniel Carvalho, consultor legislativo da área de Direito Tributário, para esclarecer as…",
-   "link": "https://www12.senado.leg.br/tv/programas/cidadania-1/2026/11/reforma-tributaria-mitos-e-verdades-sobre-impostos-precos-e-simples-nacional",
-   "source": "Senado",
-   "official": false,
-   "category": "simples",
-   "tag": "Simples",
    "addedAt": "2026-11-17T20:43:03Z",
    "tries": 1
   }

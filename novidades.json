@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-23T17:50:16Z",
- "lastCheckBr": "23/11/2026 14:50",
- "added": 27,
+ "lastCheckAt": "2026-11-23T18:48:11Z",
+ "lastCheckBr": "23/11/2026 15:48",
+ "added": 29,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -32,7 +32,7 @@
    "name": "Portal Contábeis",
    "ok": true,
    "found": 6,
-   "new": 1
+   "new": 0
   },
   {
    "name": "InfoMoney",
@@ -43,8 +43,8 @@
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 97,
-   "new": 18
+   "found": 96,
+   "new": 21
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -54,6 +54,84 @@
   }
  ],
  "items": [
+  {
+   "id": "b1261f98c725",
+   "date": "2026-11-23",
+   "title": "Receita Abre Piloto da CBS a Empresas de Qualquer Setor",
+   "resumo": "Acesso ao ambiente de testes da reforma tributária não exigirá convite, mas dependerá de requisitos operacionais e de segurança",
+   "link": "https://forbes.com.br/forbes-money/2026/11/piloto-cbs-receita/",
+   "source": "Forbes Brasil",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-23T18:48:11Z",
+   "tries": 1
+  },
+  {
+   "id": "628dcdca7a0b",
+   "date": "2026-11-23",
+   "title": "Receita Federal libera todas as empresas para testar a nova Reforma Tributária",
+   "resumo": "A Receita Federal publicou uma portaria que permite que qualquer empresa com CNPJ ativo participe do ambiente de testes da Contribuição ...",
+   "link": "https://www.bra1.com.br/economia/id-731467/receita_federal_libera_todas_as_empresas_para_testar_a_nova_reforma_tributaria",
+   "source": "bra1.com.br",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-23T18:48:11Z",
+   "tries": 1
+  },
+  {
+   "id": "5196a43054f9",
+   "date": "2026-11-23",
+   "title": "Reforma tributária zera imposto de carnes, arroz e café a partir de 2027; veja os 22 itens isentos",
+   "resumo": "",
+   "link": "https://diariodopara.com.br/seu-bolso/reforma-tributaria-imposto-zero-alimentos-2027/",
+   "source": "Diário do Pará",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-23T18:48:11Z",
+   "tries": 1
+  },
+  {
+   "id": "fd5d065f3bed",
+   "date": "2026-11-23",
+   "title": "Reforma tributária gera impasse jurídico sobre IBS e CBS em salvados de seguradoras",
+   "resumo": "Notícias de Aracaju, Sergipe e do Brasil - Reforma tributária gera impasse jurídico sobre IBS e CBS em salvados de seguradoras",
+   "link": "https://imprensa24h.com.br/reforma-tributaria-ibs-cbs-salvados-de-sinistro/",
+   "source": "Imprensa 24h",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-23T18:48:11Z",
+   "tries": 1
+  },
+  {
+   "id": "e4b394b81e36",
+   "date": "2026-11-23",
+   "title": "Receita Federal abre piloto da CBS a todas as empresas",
+   "resumo": "A Receita Federal publicou nesta segunda-feira (23) portaria que libera o acesso ao ambiente de testes do piloto da Contribuição",
+   "link": "https://monitordomercado.com.br/noticias/economia/437547-receita-federal-abre-participacao-em-piloto-da-cbs-a-todas-as-empresas/",
+   "source": "Monitor do Mercado",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-23T18:48:11Z",
+   "tries": 1
+  },
+  {
+   "id": "68764411f75d",
+   "date": "2026-11-23",
+   "title": "Nova tecnologia de split payment na reforma tributária altera capital de giro das empresas no Brasil",
+   "resumo": "Notícias de Aracaju, Sergipe e do Brasil - Nova tecnologia de split payment na reforma tributária altera capital de giro das empresas no Brasil",
+   "link": "https://imprensa24h.com.br/split-payment-reforma-tributaria-fluxo-de-caixa/",
+   "source": "Imprensa 24h",
+   "official": false,
+   "category": "pag",
+   "tag": "Split payment",
+   "addedAt": "2026-11-23T18:48:11Z",
+   "tries": 1
+  },
   {
    "id": "1766f2b982cf",
    "date": "2026-11-23",
@@ -77,7 +155,7 @@
    "category": "cont",
    "tag": "Contabilidade",
    "addedAt": "2026-11-23T17:50:16Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "2d85af48b527",
@@ -90,7 +168,7 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-23T17:50:16Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "772de5ba7220",
@@ -1379,6 +1457,45 @@
    "tries": 1
   },
   {
+   "id": "522624e8c827",
+   "date": "2026-11-18",
+   "title": "Reforma tributária: Veja o calendário e o que muda em 2027",
+   "resumo": "Após três anos de preparação, novo sistema começa a substituir impostos federais em 2027; Senado tem até 15 de dezembro para definir alíquota da CBS.",
+   "link": "https://www.congressoemfoco.com.br/noticia/131680/reforma-tributaria-veja-o-calendario-e-o-que-muda-em-2027",
+   "source": "Congresso em Foco",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-23T18:48:11Z",
+   "tries": 1
+  },
+  {
+   "id": "35c9cb61f67c",
+   "date": "2026-11-18",
+   "title": "Reforma tributária: O fato gerador do IBS e da CBS nos contratos de tecnologia",
+   "resumo": "Por Aurélio Longo Guerzoni. A reforma tributária estabelece diferentes momentos de ocorrência do fato gerador do IBS e da CBS para operações com bens imateriais e serviços de execução continuada.",
+   "link": "https://www.migalhas.com.br/depeso/468350/reforma-tributaria-gerador-do-ibs-e-cbs-nos-contratos-de-tecnologia",
+   "source": "Migalhas",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-23T18:48:11Z",
+   "tries": 1
+  },
+  {
+   "id": "eb82a1701c54",
+   "date": "2026-11-18",
+   "title": "IBS e CBS no ISS: empresas questionam cobrança na Justiça",
+   "resumo": "Empresas e entidades contestam a inclusão dos novos tributos na base do ISS. Entenda os argumentos e o que está em discussão.",
+   "link": "https://www.contabeis.com.br/noticias/80960/ibs-e-cbs-no-iss-empresas-questionam-cobranca-na-justica/",
+   "source": "Portal Contabeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-23T18:48:11Z",
+   "tries": 1
+  },
+  {
    "id": "7a386cf6feb4",
    "date": "2026-11-18",
    "title": "Durigan defende início da Reforma Tributária em 2027 e prevê alíquota média de 8,5% para a CBS",
@@ -1864,121 +1981,6 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-18T17:48:36Z"
-  },
-  {
-   "id": "31711a154fec",
-   "date": "2026-11-18",
-   "title": "Senado ouve especialistas sobre alíquota de 11,3% da CBS",
-   "resumo": "Especialistas e representantes da OAB e do Comitê Gestor do IBS discutem cálculo apresentado pelo TCU, após audiência com Durigan, Barreirinhas e Vital do Rêgo.",
-   "link": "https://www.congressoemfoco.com.br/noticia/131694/senado-ouve-especialistas-sobre-aliquota-de-11-3-da-cbs",
-   "source": "Congresso em Foco",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-18T17:48:36Z",
-   "tries": 1
-  },
-  {
-   "id": "ae7f8d1edee2",
-   "date": "2026-11-18",
-   "title": "Reforma tributária: PIS e Cofins dão lugar à CBS em janeiro de 2027",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZ0pFZ2lDRGdsTFJrUG0tVEY2U2VvTzZlTEJjMS1fUk92ekhkel95VG5aOE14QzFELWJIVDhGN0lxZExjNG1PcFJjRVNTcTQzZFJORWpDbTV1YUluZkVwY1MtQXZxVzNqOGN0SzVMYldIQVlrSjJzWlRZZlJRWWlyWmxWTlpLVHgzUWpmVFphY0l2VFdwOU12aUtQUEh6TjVJVWpUOUpTc082c1F0NXlVWktoRjZTb1VPUnFnMml0S29nZno2Sm1xZEc1QzJDZVQ2dmZxcdIB4wFBVV95cUxNTHRVcURoVDUxTWQyOXBQRGhRUzNrRjRkcmVOeVF0MWU5Q3cwdmlTYnV1M2dlN01vQmZNMnlBYUNFQndOdHhENWNNeW0xZEE2aXNnZTNTRXBaLVRBdEdpWGlUaE9YZ1FxazRLTzhQUkRyODM1NFU4amxDZDhzRlk1elk0ejBjV0NqbmJKT0otaVh0ZHIxMVJsM0o5Ri1hSDVNaXQ2R2ZRd0pOREdpNlhaU2JOMHU3cndBRzByRDRWZUpKNkp1OVBJYlNRN2tZbWE5TUl6Nm1PMF9FMjlRWlAxajZ5UQ?oc=5",
-   "source": "G1",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-18T17:48:36Z",
-   "tries": 2
-  },
-  {
-   "id": "ee0f0c973492",
-   "date": "2026-11-18",
-   "title": "Braga nega que haja acordo com oposição de trecho do PLP que trata de Lei Kandir",
-   "resumo": "Eduardo Braga (MDB-AM), relator do projeto de regulamentação da reforma tributária (Foto: Roque de Sá/Agência Senado) \" data-image-caption=\" Eduardo Braga (MDB-AM), relator do projeto de regulamentação da reforma tributária (Foto: Roque de Sá/Agência Senado)…",
-   "link": "https://www.infomoney.com.br/politica/braga-nega-que-haja-acordo-com-oposicao-de-trecho-do-plp-que-trata-de-lei-kandir/",
-   "source": "InfoMoney",
-   "official": false,
-   "category": "lei",
-   "tag": "Legislação",
-   "addedAt": "2026-11-18T16:53:18Z"
-  },
-  {
-   "id": "809bf0a52782",
-   "date": "2026-11-18",
-   "title": "Senado aprova pedido de acesso a cálculos da CBS de 11,3%",
-   "resumo": "Comissão de Assuntos Econômicos cobra metodologias e atas de reuniões técnicas após Eduardo Braga questionar estimativas de sonegação e inadimplência usadas pelo TCU.",
-   "link": "https://www.congressoemfoco.com.br/noticia/131699/senado-aprova-pedido-de-acesso-a-calculos-da-cbs-de-11-3",
-   "source": "Congresso em Foco",
-   "official": false,
-   "category": "lei",
-   "tag": "Legislação",
-   "addedAt": "2026-11-18T16:53:18Z",
-   "tries": 1
-  },
-  {
-   "id": "486f9f6d0bcd",
-   "date": "2026-11-18",
-   "title": "Vídeo: Ao vivo: CAE debate cálculo da alíquota da CBS - 18/11/26",
-   "resumo": "Portal de Notícias do Senado Federal: matérias, entrevistas e informações oficiais sobre a atividade legislativa.",
-   "link": "https://www12.senado.leg.br/noticias/videos/2026/11/ao-vivo-cae-debate-calculo-da-aliquota-da-cbs-18-11-26",
-   "source": "Senado Federal",
-   "official": true,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-18T15:47:52Z",
-   "tries": 1
-  },
-  {
-   "id": "2f4d83634593",
-   "date": "2026-11-18",
-   "title": "AO VIVO: Senado ouve especialistas sobre alíquota de 11,3% da CBS",
-   "resumo": "Especialistas e representantes da OAB e do Comitê Gestor do IBS discutem cálculo apresentado pelo TCU, após audiência com Durigan, Barreirinhas e Vital do Rêgo.",
-   "link": "https://www.congressoemfoco.com.br/noticia/131694/ao-vivo-senado-ouve-especialistas-sobre-aliquota-de-11-3-da-cbs",
-   "source": "Congresso em Foco",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-18T15:47:52Z",
-   "tries": 1
-  },
-  {
-   "id": "6ea2bf546414",
-   "date": "2026-11-18",
-   "title": "Receita mapeia riscos da reforma tributária e prepara orientação aos contribuintes",
-   "resumo": "Robinson Barreirinhas afirma que Fisco identificou dificuldades na transição e prepara apuração assistida e módulo para correção de informações. Leia mais em…",
-   "link": "https://www.contabeis.com.br/noticias/80965/receita-mapeia-riscos-da-reforma-tributaria-e-prepara-orientacao-aos-contribuintes/",
-   "source": "Portal Contábeis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-18T14:44:37Z"
-  },
-  {
-   "id": "01ff03e6382f",
-   "date": "2026-11-18",
-   "title": "Receita abre código de ferramenta que calcula novos impostos da Reforma Tributária",
-   "resumo": "Empresas poderão usar o cálculo oficial da Receita para adaptar seus sistemas às novas regras tributárias",
-   "link": "https://investnews.com.br/negocios/receita-abre-codigo-de-ferramenta-que-calcula-novos-impostos-da-reforma-tributaria/",
-   "source": "InvestNews",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-18T14:44:37Z",
-   "tries": 1
-  },
-  {
-   "id": "29b586de592f",
-   "date": "2026-11-18",
-   "title": "Saga da reforma tributária: agora o ISS é o novo susto dos contribuintes?",
-   "resumo": "Saga da reforma é cheia de lances e sustos que a torna comparável mais a uma comédia de erros do que a uma narração de feitos heroicos",
-   "link": "https://conjur.com.br/2026-nov-18/saga-da-reforma-tributaria-agora-o-iss-e-o-novo-susto-dos-contribuintes/",
-   "source": "Consultor Jurídico",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-18T14:44:37Z",
-   "tries": 1
   }
  ]
 }

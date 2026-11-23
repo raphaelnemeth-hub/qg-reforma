@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-23T21:42:13Z",
- "lastCheckBr": "23/11/2026 18:42",
- "added": 24,
+ "lastCheckAt": "2026-11-23T22:41:43Z",
+ "lastCheckBr": "23/11/2026 19:41",
+ "added": 31,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -31,8 +31,8 @@
   {
    "name": "Portal Contábeis",
    "ok": true,
-   "found": 5,
-   "new": 0
+   "found": 6,
+   "new": 1
   },
   {
    "name": "InfoMoney",
@@ -43,8 +43,8 @@
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 97,
-   "new": 16
+   "found": 96,
+   "new": 22
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -54,6 +54,83 @@
   }
  ],
  "items": [
+  {
+   "id": "434371ed2737",
+   "date": "2026-11-23",
+   "title": "Alíquota da CBS: Senado pede estudos ao TCU",
+   "resumo": "Senado pede ao TCU os estudos sobre a alíquota de referência da CBS e preserva créditos de PIS e Cofins para abater débitos do novo tributo. Leia mais em https://www.contabeis.com.br/noticias/81063/aliquota-da-cbs-senado-pede-estudos-ao-tcu/",
+   "link": "https://www.contabeis.com.br/noticias/81063/aliquota-da-cbs-senado-pede-estudos-ao-tcu/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-23T22:41:43Z"
+  },
+  {
+   "id": "784bb6cc6548",
+   "date": "2026-11-23",
+   "title": "Entenda a Reforma Tributária e quais são as novas regras de consumo",
+   "resumo": "Com transição prevista para começar em 2027, novo modelo unifica impostos sobre o consumo, isenta itens da cesta básica e cria taxa extra para produtos nocivos à saúde e ao meio ambiente",
+   "link": "https://unifor.br/pt/-/entenda-a-reforma-tributaria-e-quais-sao-as-novas-regras-de-consumo",
+   "source": "Unifor",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-23T22:41:43Z",
+   "tries": 1
+  },
+  {
+   "id": "8170ae1b0ecc",
+   "date": "2026-11-23",
+   "title": "Palestra gratuita: Reforma Tributária – CBS e IBS e seus impactos no comércio varejista",
+   "resumo": "",
+   "link": "https://sindilojas.rio/2026/11/23/palestra-gratuita-reforma-tributaria-cbs-e-ibs-e-seus-impactos-no-comercio-varejista/",
+   "source": "SindilojasRio",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-23T22:41:43Z",
+   "tries": 1
+  },
+  {
+   "id": "9ffbb4305eaf",
+   "date": "2026-11-23",
+   "title": "Depois do PIS/Cofins: o futuro do contencioso da CBS no Carf e na Justiça",
+   "resumo": "O litígio do consumo não acaba de uma vez: muda de objeto, de lugar e de linguagem",
+   "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/depois-do-pis-cofins-o-futuro-do-contencioso-da-cbs-no-carf-e-na-justica",
+   "source": "JOTA Info",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-23T22:41:43Z",
+   "tries": 1
+  },
+  {
+   "id": "68e1c109162e",
+   "date": "2026-11-23",
+   "title": "Reforma tributária embute riscos que exigem atenção",
+   "resumo": "",
+   "link": "https://fenafisco.org.br/amp/23/11/2026/reforma-tributaria-embute-riscos-que-exigem-atencao/",
+   "source": "Fenafisco",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-23T22:41:43Z",
+   "tries": 1
+  },
+  {
+   "id": "391cf6b617e0",
+   "date": "2026-11-23",
+   "title": "Reforma Tributária: empresas com CNPJ podem participar de piloto da CBS",
+   "resumo": "Receita Federal libera acesso ao ambiente de testes da Contribuição sobre Bens e Serviços sem necessidade de indicação por entidades representativas; iniciativa integra Reforma Tributária e busca validar sistemas antes da implementação do novo modelo de…",
+   "link": "https://movimentoeconomico.com.br/economia/lei-de-incentivos/tributacao/2026/11/23/reforma-tributaria-empresas-com-cnpj-podem-participar-de-piloto-da-cbs/",
+   "source": "Movimento Econômico",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-23T22:41:43Z",
+   "tries": 1
+  },
   {
    "id": "bd085d8587ee",
    "date": "2026-11-23",
@@ -1648,6 +1725,71 @@
    "tries": 1
   },
   {
+   "id": "7f56f412784b",
+   "date": "2026-11-18",
+   "title": "Receita libera apuração assistida da reforma tributária para empresas nesta semana",
+   "resumo": "Ferramenta ficará disponível para todas as empresas, segundo Robinson Barreirinhas, e apresentará tributos a pagar e créditos disponíveis.",
+   "link": "https://www.contabeis.com.br/noticias/80966/receita-libera-apuracao-assistida-da-reforma-tributaria-para-empresas-nesta-semana/",
+   "source": "Portal Contabeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-23T22:41:43Z",
+   "tries": 1
+  },
+  {
+   "id": "2e3bc4d1c35b",
+   "date": "2026-11-18",
+   "title": "Os custos da mão de obra na reforma tributária",
+   "resumo": "Reforma traz desafios para o setor de serviços e para empresas cuja estrutura de custos está concentrada na contratação de mão de obra",
+   "link": "https://conjur.com.br/2026-nov-18/os-custos-da-mao-de-obra-na-reforma-tributaria/",
+   "source": "Consultor Jurídico",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-23T22:41:43Z",
+   "tries": 1
+  },
+  {
+   "id": "3a822eb8ebbc",
+   "date": "2026-11-18",
+   "title": "CBS em 2027: empresas pedem mais prazo para adaptação",
+   "resumo": "A cobrança da CBS está prevista para janeiro de 2027, mas empresas e contadores apontam desafios para adaptar sistemas, processos e equipes.",
+   "link": "https://www.contabeis.com.br/noticias/80951/cbs-em-2027-empresas-pedem-mais-prazo-para-adaptacao/",
+   "source": "Portal Contabeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-23T22:41:43Z",
+   "tries": 1
+  },
+  {
+   "id": "bda4330d7163",
+   "date": "2026-11-18",
+   "title": "Ministro defende alíquota média de 8,5% na reforma tributária",
+   "resumo": "Durigan afirma que alíquota máxima da CBS será de 11,3% e destaca benefícios sociais e revisão anual dos percentuais.",
+   "link": "https://www.contabeis.com.br/noticias/80963/ministro-defende-aliquota-media-de-8-5-na-reforma-tributaria/",
+   "source": "Portal Contabeis",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-23T22:41:43Z",
+   "tries": 1
+  },
+  {
+   "id": "ffebdda1bcb2",
+   "date": "2026-11-18",
+   "title": "Reforma Tributária: Receita publica primeiro código-fonte aberto no GitHub",
+   "resumo": "A Receita Federal deu mais um passo na implementação da Reforma Tributária do Consumo ao autorizar a",
+   "link": "https://convergenciadigital.com.br/governo/reforma-tributaria-receita-publica-primeiro-codigo-fonte-aberto-no-github/",
+   "source": "ConvergenciaDigital",
+   "official": false,
+   "category": "lei",
+   "tag": "Legislação",
+   "addedAt": "2026-11-23T22:41:43Z",
+   "tries": 1
+  },
+  {
    "id": "7946ee49665d",
    "date": "2026-11-18",
    "title": "Reforma tributária: alíquota de 11,3% da CBS pode valer só em 2027 e mudar depois; entenda",
@@ -1658,7 +1800,7 @@
    "category": "aliq",
    "tag": "Alíquotas",
    "addedAt": "2026-11-23T21:42:13Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "f2b016b79881",
@@ -1840,149 +1982,6 @@
    "category": "aliq",
    "tag": "Alíquotas",
    "addedAt": "2026-11-22T14:19:22Z",
-   "tries": 1
-  },
-  {
-   "id": "6a602568b7b9",
-   "date": "2026-11-18",
-   "title": "Exclusão de IBS e CBS da base do ISS ganha força como ‘filhote’ de discussão do ICMS",
-   "resumo": "Na Justiça, contribuintes argumentam que IBS e CBS não constituem receita, apenas transitam pelo caixa das empresas até serem repassados ao Fisco Magnific Por Silvia Pimentel A disputa judicial para...",
-   "link": "https://fenacon.org.br/noticias/exclusao-de-ibs-e-cbs-da-base-do-iss-ganha-forca-como-filhote-de-discussao-do-icms/",
-   "source": "Sistema FENACON",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-22T11:09:19Z",
-   "tries": 1
-  },
-  {
-   "id": "72db251edb2c",
-   "date": "2026-11-18",
-   "title": "Especialistas contestam CBS de 11,3% e propõem alíquota menor",
-   "resumo": "Em audiência no Senado, participantes apresentam cálculos alternativos, apontam riscos de sonegação e questionam premissas utilizadas pelo TCU.",
-   "link": "https://www.congressoemfoco.com.br/noticia/131694/especialistas-contestam-cbs-de-11-3-e-propoem-aliquota-menor",
-   "source": "Congresso em Foco",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-22T05:47:42Z",
-   "tries": 1
-  },
-  {
-   "id": "31dc7f45090e",
-   "date": "2026-11-18",
-   "title": "Reforma tributária 2027: por que revisar a conta de luz",
-   "resumo": "2027 começa agora: com a CBS em alíquota cheia, as reuniões de planejamento ganham peso. A conta de luz é uma linha que o contador já enxerga e que pouca gente revisa.",
-   "link": "https://jornalcontabil.com.br/noticia/reforma-tributaria-2027-por-que-revisar-a-conta-de-luz/",
-   "source": "Jornal Contábil",
-   "official": false,
-   "category": "cont",
-   "tag": "Contabilidade",
-   "addedAt": "2026-11-22T05:47:42Z",
-   "tries": 1
-  },
-  {
-   "id": "94569d30e02a",
-   "date": "2026-11-18",
-   "title": "Senado questiona alíquota de 11,3% da CBS prevista na reforma tributária",
-   "resumo": "A taxa de imposto que deverá entrar em vigor com a próxima etapa da reforma tributária continua sendo motivo de",
-   "link": "https://dgrj.com.br/economia/senado-questiona-aliquota-de-113-da-cbs-prevista-na-reforma-tributaria",
-   "source": "Diário da Guanabara",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-21T18:31:45Z",
-   "tries": 1
-  },
-  {
-   "id": "585aec7392c7",
-   "date": "2026-11-18",
-   "title": "CBS: nova API da Receita muda rotina de empresas e contadores",
-   "resumo": "Nova ferramenta permite integrar sistemas empresariais aos serviços de emissão de DARF e consulta de pagamentos pelo RAD",
-   "link": "https://jornalcontabil.com.br/noticia/cbs-nova-api-da-receita-muda-rotina-de-empresas-e-contadores/",
-   "source": "Jornal Contábil",
-   "official": false,
-   "category": "cont",
-   "tag": "Contabilidade",
-   "addedAt": "2026-11-21T00:45:49Z",
-   "tries": 1
-  },
-  {
-   "id": "a8c1886aafdc",
-   "date": "2026-11-18",
-   "title": "RFB e CGIBS alinham próximos passos da implementação da Reforma e reforçam compromisso com a conformidade tributária — Receita Federal",
-   "resumo": "Reunião reforçou a atuação conjunta, o programa de conformidade tributária e a oferta de canais de orientação e suporte aos contribuintes durante a transição para o novo modelo.",
-   "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/rfb-e-cgibs-alinham-proximos-passos-da-implementacao-da-reforma-e-reforcam-compromisso-com-a-conformidade-tributaria",
-   "source": "GOV.BR",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-19T19:29:11Z",
-   "tries": 1
-  },
-  {
-   "id": "5feff7562029",
-   "date": "2026-11-18",
-   "title": "FAQ da Reforma Tributária para Corretores e Corretoras de Seguros",
-   "resumo": "",
-   "link": "https://www.fenacor.org.br/Servicos/ArtigosDetalhes?Slug",
-   "source": "Fenacor",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-19T16:28:13Z",
-   "tries": 2
-  },
-  {
-   "id": "5a1e10446a84",
-   "date": "2026-11-18",
-   "title": "Regulamento 2.0 da reforma tributária deve sair até a próxima semana, diz Barreirinhas",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMjZJOXBpem5KSklUa1J3cXlfcGIzVm9UMzFvbEJuYWJnbVYzdmhaWWx3ZVo3RnRDaDBZQmc1STlwcmdKVi1hN2JWZWhkSXA3aEVDa0UzZjE0b3hORUw1YUlycHU4U3VxOHFnU1lIODdoSXpGNWZ1VDhpcTh5aHdNVFRaWE5TS09jSm5FNnlmWnJwZXpweTU5LVBKWGpHXzFiTkRPMXhzV1dTWGVPSTlqUjNJUHcxMUVwb09wRjRsRnh3cVMwVUhLVjdpdWV3ZnBiZnZuMDZUa9IB5gFBVV95cUxQOHBqdXltZGlENlF6WlVnQTdQSnZteTZabm9MMnRDRDczaVRjNGNiQWdYWndpSk0wSkhUQVE0aG1JWU9qS2hFQy1rcFhkbzJJcEVmMXNSMGdsR1pkRGdldFVVS0NsRVZ6UkdmMGhrLWlpTGo2cFIyTWNnblZ6WnVqcTE0bmxsN29vWVhqTXlab0Z3ZGZBblRhVEVoeEo0bDRjclRkTTEzZVNIZzVMQjBEeXVod1ZrWkV0UEFoUlktT3hCSndHQUs0bFpsRngyam4wVm1zWnRQYll2NDJKRF90TDZaNUM4Zw?oc=5",
-   "source": "Valor Econômico",
-   "official": false,
-   "category": "lei",
-   "tag": "Legislação",
-   "addedAt": "2026-11-19T12:56:09Z",
-   "tries": 2
-  },
-  {
-   "id": "69a088d01ca6",
-   "date": "2026-11-18",
-   "title": "Receita garantirá uso de créditos de PIS/Cofins para quitar CBS",
-   "resumo": "Norma permitirá compensação com créditos reconhecidos em decisão judicial transitada em julgado a partir de janeiro",
-   "link": "https://valor.globo.com/legislacao/noticia/2026/11/18/receita-garantira-uso-de-creditos-de-pis-cofins-para-quitar-cbs.ghtml",
-   "source": "Valor Econômico",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-19T09:32:24Z",
-   "tries": 1
-  },
-  {
-   "id": "ddcb397bf89d",
-   "date": "2026-11-18",
-   "title": "RFB e CGIBS alinham próximos passos da Reforma Tributária e reforçam compromisso com a conformidade",
-   "resumo": "Encontro reuniu lideranças das duas instituições e teve como foco o aperfeiçoamento da governança da atuação integrada entre a RFB e o CGIBS, buscando assegurar maior coordenação, alinhamento institucional e eficiência na construção dos processos",
-   "link": "https://www.cgibs.gov.br/rfb-e-cgibs-alinham-proximos-passos-da-implementacao-da-reforma-tributaria-e-reforcam-compromisso-com-a-conformidade-fiscal",
-   "source": "Comitê Gestor do IBS",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-19T05:32:16Z",
-   "tries": 1
-  },
-  {
-   "id": "914fc4f2dc4c",
-   "date": "2026-11-18",
-   "title": "RFB e CGIBS alinham próximos passos da implementação da Reforma e reforçam compromisso com a conformidade tributária",
-   "resumo": "Reunião reforçou a atuação conjunta, o programa de conformidade tributária e a oferta de canais de orientação e suporte aos contribuintes durante a transição para o novo modelo.",
-   "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/rfb-e-cgibs-alinham-proximos-passos-da-implementacao-da-reforma-e-reforcam-compromisso-com-a-conformidade-tributaria",
-   "source": "GOV.BR",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-19T04:28:30Z",
    "tries": 1
   }
  ]

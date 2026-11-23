@@ -1,6 +1,6 @@
 {
- "lastCheckAt": "2026-11-23T06:35:11Z",
- "lastCheckBr": "23/11/2026 03:35",
+ "lastCheckAt": "2026-11-23T08:22:50Z",
+ "lastCheckBr": "23/11/2026 05:22",
  "added": 16,
  "feeds": [
   {
@@ -206,6 +206,19 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-21T12:40:07Z",
+   "tries": 1
+  },
+  {
+   "id": "b6b77a43f1f4",
+   "date": "2026-11-20",
+   "title": "Contratos de 2027 são assinados antes da alíquota da CBS",
+   "resumo": "Reforma promete transparência: a nota vai mostrar quanto do preço é imposto; promessa começa no contrato",
+   "link": "https://www.estadao.com.br/economia/contratos-2027-assinados-antes-aliquota-cbs/",
+   "source": "Estadão",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-23T08:22:50Z",
    "tries": 1
   },
   {
@@ -705,6 +718,19 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-19T10:51:36Z",
+   "tries": 1
+  },
+  {
+   "id": "7f8acc394fd2",
+   "date": "2026-11-18",
+   "title": "Ponte, pedágio e caminhão: obra pública diante da reforma tributária",
+   "resumo": "Com o IBS e a CBS, o tributo devido pela obra passa a depender do lugar em que a operação se considera ocorrida",
+   "link": "https://conjur.com.br/2026-nov-18/ponte-pedagio-e-caminhao-obra-publica-diante-da-reforma-tributaria/",
+   "source": "Consultor Jurídico",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-23T08:22:50Z",
    "tries": 1
   },
   {
@@ -1951,30 +1977,6 @@
    "tag": "Alíquotas",
    "addedAt": "2026-11-17T21:41:42Z",
    "tries": 1
-  },
-  {
-   "id": "c710a96cd23c",
-   "date": "2026-11-17",
-   "title": "No Senado, ministro da Fazenda defende novo tributo sobre o consumo",
-   "resumo": "O ministro da Fazenda, Dario Durigan, previu que a nova Contribuição sobre Bens e Serviços (CBS), criada pela reforma tributária, terá uma alíquota efetiva de 8,5%, beneficiando o consumidor médio. Durigan defendeu a implementação da reforma em audiência…",
-   "link": "https://www12.senado.leg.br/noticias/materias/2026/11/17/no-senado-ministro-da-fazenda-defende-novo-tributo-sobre-o-consumo",
-   "source": "Senado Federal",
-   "official": true,
-   "category": "cap",
-   "tag": "Capacitação",
-   "addedAt": "2026-11-17T20:43:03Z"
-  },
-  {
-   "id": "b48278bf6281",
-   "date": "2026-11-17",
-   "title": "Clima afeta produção e eleva preço do tomate em diversas capitais",
-   "resumo": "Nos últimos meses, o preço do tomate disparou em diversas partes do país. O aumento é provocado pelas condições climáticas que afetaram a produção. Em algumas capitais, o quilo do produto está custando até duas vezes mais do que na comparação com o início do…",
-   "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/clima-afeta-producao-e-eleva-preco-do-tomate-em-diversas-capitais",
-   "source": "Agência Brasil",
-   "official": true,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-17T20:43:03Z"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-23T10:54:56Z",
- "lastCheckBr": "23/11/2026 07:54",
- "added": 15,
+ "lastCheckAt": "2026-11-23T11:45:20Z",
+ "lastCheckBr": "23/11/2026 08:45",
+ "added": 16,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -43,17 +43,43 @@
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 98,
-   "new": 8
+   "found": 99,
+   "new": 10
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
    "ok": true,
-   "found": 11,
-   "new": 7
+   "found": 9,
+   "new": 6
   }
  ],
  "items": [
+  {
+   "id": "d08174d05753",
+   "date": "2026-11-23",
+   "title": "Receita amplia participação em piloto da CBS para todas as empresas",
+   "resumo": "Portaria abre acesso a ambiente de testes da Reforma Tributária, em relação à Contribuição sobre Bens e Serviços (CBS).",
+   "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/receita-amplia-participacao-em-piloto-da-cbs-para-todas-empresas",
+   "source": "Agência Brasil",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-23T11:45:20Z",
+   "tries": 1
+  },
+  {
+   "id": "b11d86da331f",
+   "date": "2026-11-23",
+   "title": "Reforma tributária: o que muda para MEIs após período de testes de IBS e CBS",
+   "resumo": "",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOX1lqRlFhWlBsdkE0eUFvYkRsYTFFeTJPWVhSU05RbG43WHFTenBpaXVORzhSOXdBdllLaVljcWpabEdhRWxRcktYaTUwcldSQm1GSVFGamJoLWxWMnd6c1JhNFFQdGJiMDBTYUgwWk9xSTF2OHhRWUJoclF1eUpTUjM4bTE2b1NDV2tJa3pCOThqVmJjaUxVN3RFRGdoOWszUkJxNi1kSzZYcFFxRnF0YU5hQ016d2V0UXJ3Mjg0OXkxc0dfMEtDRmVHYTZhbTltcUxpNXVad2VkeHYtM2ZF0gHuAUFVX3lxTFBuTG9jTjdDcVA5UUdPWWtmSndJMkpLU3NuNnZ0SlVkZTV0bmFDOHFxb2N1MVotb2lsNktHdVV5X3NuMm9pMnF2TkxfZVg0ODhIdzNXdGhybTJTZFJDcjgtOTllS1M0TUpoR3FFRjhsMU51dHdZMzItWmU1UEpnNlEtTk8wUGV0cXFhU015dTFkb3JaQ0RKS0JGU1dUSlptamhnUWlhd3ByTUJVR3pkYlZaSkZMT1BWdUNFVHV5SXhRM2pJNXJsVDR4SUNxMTdEa1VFcGZPQks2d3IwSTNKVjVsb2xJbl9qVWtzT2FlLUE?oc=5",
+   "source": "G1",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-23T11:45:20Z",
+   "tries": 1
+  },
   {
    "id": "9547f634a3e0",
    "date": "2026-11-23",
@@ -1949,32 +1975,6 @@
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-17T21:41:42Z",
-   "tries": 1
-  },
-  {
-   "id": "24b8d09cf802",
-   "date": "2026-11-17",
-   "title": "Nova API da Receita Federal automatiza recolhimento da CBS e agiliza créditos tributários",
-   "resumo": "Sistema do Recolhimento como Adquirente (RAD) já está disponível para desenvolvedores e empresas iniciarem a adaptação ao novo modelo de consumo",
-   "link": "https://agenciadcnews.com.br/publicacao/s/nova-api-da-receita-federal-automatiza-recolhimento-da-cbs-e-agiliza-creditos-tributarios",
-   "source": "DComercio",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-17T21:41:42Z",
-   "tries": 1
-  },
-  {
-   "id": "6f0620764f77",
-   "date": "2026-11-17",
-   "title": "Reforma tributária: Durigan estima alíquota média de 8,5%",
-   "resumo": "Reforma tributária: na CAE do Senado, Dario Durigan disse que a CBS terá teto de 11,3% e carga efetiva média de 8,5%, com revisão anual.",
-   "link": "https://esbrasil.com.br/reforma-tributaria-durigan-aliquota-media-8-5/",
-   "source": "ES Brasil",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
    "addedAt": "2026-11-17T21:41:42Z",
    "tries": 1
   }

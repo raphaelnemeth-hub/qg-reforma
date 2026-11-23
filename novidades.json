@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-23T16:50:17Z",
- "lastCheckBr": "23/11/2026 13:50",
- "added": 26,
+ "lastCheckAt": "2026-11-23T17:50:16Z",
+ "lastCheckBr": "23/11/2026 14:50",
+ "added": 27,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -32,28 +32,92 @@
    "name": "Portal Contábeis",
    "ok": true,
    "found": 6,
-   "new": 0
+   "new": 1
   },
   {
    "name": "InfoMoney",
    "ok": true,
-   "found": 1,
+   "found": 0,
    "new": 0
   },
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 97,
-   "new": 17
+   "new": 18
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
    "ok": true,
    "found": 12,
-   "new": 9
+   "new": 8
   }
  ],
  "items": [
+  {
+   "id": "1766f2b982cf",
+   "date": "2026-11-23",
+   "title": "Devolução em 2027 garante crédito de CBS sobre venda de 2026",
+   "resumo": "Lei Complementar 214/2025 preserva crédito da CBS para empresas que receberem de volta mercadorias vendidas antes de 2027, com restrições de uso. Leia mais em…",
+   "link": "https://www.contabeis.com.br/noticias/81066/devolucao-em-2027-garante-credito-de-cbs-sobre-venda-de-2026/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "lei",
+   "tag": "Legislação",
+   "addedAt": "2026-11-23T17:50:16Z"
+  },
+  {
+   "id": "5ef234e13d31",
+   "date": "2026-11-23",
+   "title": "Centro de distribuição próprio a partir de 2027: como o IBS no destino muda a escolha de onde instalar o galpão logístico",
+   "resumo": "",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQQXpzSWhlbnFxaVU2Tk1HOHh3ZHhqV2xiOUdlWWNRcjl0bWpVTXVsMEtsR3Z1TkMzZ1hwd09ZZ1JXN2hEcU4xMmY5TzM4UVBfTEZ1ZUNRYjZjMjY5b2ExQngtOUxzc1ZpbU1qOHJ1WWJkc0U1U2Uzczk5R19mOG9uUUwzZTFjYUhOcE5oUkZwcmFlNUZHRUROcXlKYmV2OTNyTmh2Nl9BLUhGLWRiekJfSG5wdXllYUtmcG1OZmxxc2JUa0owTjNQellPdTMydkNMc0ZsSXEzVmdrNXZuSG5zOXJLbzdLclZUdm9qQlJoU0ppRmRicVHSAfYBQVVfeXFMUEF6c0loZW5xcWlVNk5NRzh4d2R4aldsYjlHZVljUXI5dG1qVU11bDBLbEd2dU5DM2dYcHdPWWdSVzdoRHFOMTJmOU8zOFFQX0xGdWVDUWI2YzI2OW9hMUJ4LTlMc3NWaW1NajhydVliZHNFNVNlM3M5OUdfZjhvblFMM2UxY2FITnBOaFJGcHJhZTVGR0VETnF5SmJldjkzck5odjZfQS1IRi1kYnpCX0hucHV5ZWFLZnBtTmZscXNiVGtKME4zUHpZT3UzMnZDTHNGbElxM1ZnazV2bkhuczlyS283S3JWVHZvakJSaFNKaUZkYnFR?oc=5",
+   "source": "Jornal Contábil",
+   "official": false,
+   "category": "cont",
+   "tag": "Contabilidade",
+   "addedAt": "2026-11-23T17:50:16Z",
+   "tries": 1
+  },
+  {
+   "id": "2d85af48b527",
+   "date": "2026-11-23",
+   "title": "Reforma Tributária no agro: o que muda para o produtor rural em 2027?",
+   "resumo": "",
+   "link": "https://www.comprerural.com/reforma-tributaria-no-agro-o-que-muda-para-o-produtor-rural-em-2027/",
+   "source": "CompreRural",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-23T17:50:16Z",
+   "tries": 1
+  },
+  {
+   "id": "772de5ba7220",
+   "date": "2026-11-23",
+   "title": "Qualquer empresa com CNPJ pode acessar piloto da CBS sem indicação prévia",
+   "resumo": "Portaria da Receita Federal publicada nesta segunda-feira (23) dispensa pedido prévio e exige procuração digital para uso do ambiente de testes.",
+   "link": "https://newsrondonia.com.br/economia/2026/11/23/qualquer-empresa-com-cnpj-pode-acessar-piloto-da-cbs-sem-indicacao-previa/",
+   "source": "News Rondônia",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-23T17:50:16Z",
+   "tries": 1
+  },
+  {
+   "id": "767a2c8b46b4",
+   "date": "2026-11-23",
+   "title": "Reforma Tributária: Receita Federal abre testes da CBS para todas as empresas",
+   "resumo": "A Receita Federal liberou a participação de qualquer empresa com CNPJ no ambiente de testes da Contribuição sobre Bens e Serviços (CBS), visando acelerar a implementação do novo…",
+   "link": "https://www.plantaobrasil.net/noticias/164971-reforma-tributaria-receita-federal-abre-testes-da-cbs-para-todas-as-empresas",
+   "source": "Plantão Brasil",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-23T17:50:16Z",
+   "tries": 1
+  },
   {
    "id": "126dfaa1a07a",
    "date": "2026-11-23",
@@ -65,7 +129,7 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-23T16:50:17Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "ca6f09cd6f8f",
@@ -91,7 +155,7 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-23T16:50:17Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "d54b9df1a017",
@@ -117,7 +181,7 @@
    "category": "aliq",
    "tag": "Alíquotas",
    "addedAt": "2026-11-23T16:50:17Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "dc0163f7f5fa",
@@ -143,7 +207,7 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-23T16:50:17Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "3172a2471d68",
@@ -837,7 +901,7 @@
    "category": "cont",
    "tag": "Contabilidade",
    "addedAt": "2026-11-23T16:50:17Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "8e77a0727317",
@@ -1312,6 +1376,32 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-19T10:51:36Z",
+   "tries": 1
+  },
+  {
+   "id": "7a386cf6feb4",
+   "date": "2026-11-18",
+   "title": "Durigan defende início da Reforma Tributária em 2027 e prevê alíquota média de 8,5% para a CBS",
+   "resumo": "Em audiência no Senado, ministro da Fazenda afirmou que a transição não será adiada, reconheceu possível impacto inicial na inflação e defendeu a redução dos encargos sobre a folha de...",
+   "link": "https://fenacon.org.br/noticias/durigan-defende-inicio-da-reforma-tributaria-em-2027-e-preve-aliquota-media-de-85-para-a-cbs/",
+   "source": "Sistema FENACON",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-23T17:50:16Z",
+   "tries": 1
+  },
+  {
+   "id": "9641adc4f14d",
+   "date": "2026-11-18",
+   "title": "Adiamento da CBS: esperar uma decisão não é motivo para deixar a preparação para depois",
+   "resumo": "Entidades pedem que a cobrança efetiva da CBS seja transferida para 2028, mas o calendário continua prevendo janeiro de 2027. Revisar cadastros, testar sistemas e calcular os efeitos sobre preços e tributos são providências que as empresas já precisa",
+   "link": "https://www.contabeis.com.br/noticias/80870/adiamento-da-cbs-esperar-uma-decisao-nao-e-motivo-para-deixar-a-preparacao-para-depois/",
+   "source": "Portal Contabeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-23T17:50:16Z",
    "tries": 1
   },
   {
@@ -1889,94 +1979,6 @@
    "tag": "Atualização",
    "addedAt": "2026-11-18T14:44:37Z",
    "tries": 1
-  },
-  {
-   "id": "14bae0fd4a95",
-   "date": "2026-11-18",
-   "title": "Ministro defende alíquota média de 8,5% na reforma tributária",
-   "resumo": "Durigan afirma que alíquota máxima da CBS será de 11,3% e destaca benefícios sociais e revisão anual dos percentuais. Leia mais em https://www.contabeis.com.br/noticias/80963/ministro-defende-aliquota-media-de-8-5-na-reforma-tributaria/",
-   "link": "https://www.contabeis.com.br/noticias/80963/ministro-defende-aliquota-media-de-8-5-na-reforma-tributaria/",
-   "source": "Portal Contábeis",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-18T13:44:51Z"
-  },
-  {
-   "id": "e914f484b3ad",
-   "date": "2026-11-18",
-   "title": "IBS e CBS no ISS: empresas questionam cobrança na Justiça",
-   "resumo": "Empresas e entidades contestam a inclusão dos novos tributos na base do ISS. Entenda os argumentos e o que está em discussão. Leia mais em https://www.contabeis.com.br/noticias/80960/ibs-e-cbs-no-iss-empresas-questionam-cobranca-na-justica/",
-   "link": "https://www.contabeis.com.br/noticias/80960/ibs-e-cbs-no-iss-empresas-questionam-cobranca-na-justica/",
-   "source": "Portal Contábeis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-18T13:44:51Z"
-  },
-  {
-   "id": "35c9cb61f67c",
-   "date": "2026-11-18",
-   "title": "Reforma tributária: O fato gerador do IBS e da CBS nos contratos de tecnologia",
-   "resumo": "Por Aurélio Longo Guerzoni. A reforma tributária estabelece diferentes momentos de ocorrência do fato gerador do IBS e da CBS para operações com bens imateriais e serviços de execução continuada.",
-   "link": "https://www.migalhas.com.br/depeso/468350/reforma-tributaria-gerador-do-ibs-e-cbs-nos-contratos-de-tecnologia",
-   "source": "Migalhas",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-18T13:44:51Z",
-   "tries": 1
-  },
-  {
-   "id": "522624e8c827",
-   "date": "2026-11-18",
-   "title": "Reforma tributária: Veja o calendário e o que muda em 2027",
-   "resumo": "Após três anos de preparação, novo sistema começa a substituir impostos federais em 2027; Senado tem até 15 de dezembro para definir alíquota da CBS.",
-   "link": "https://www.congressoemfoco.com.br/noticia/131680/reforma-tributaria-veja-o-calendario-e-o-que-muda-em-2027",
-   "source": "Congresso em Foco",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-18T13:44:51Z",
-   "tries": 1
-  },
-  {
-   "id": "f91349d4d40e",
-   "date": "2026-11-18",
-   "title": "83ª edição do Encat: Administrações tributárias debatem em Palmas (TO) reforma tributária e modernização fiscal",
-   "resumo": "O secretário de Fazenda do Tocantins, Donizeth Aparecido Silva, representa o presidente do Comsefaz, Flávio César, no encontro.",
-   "link": "https://comsefaz.org.br/novo/83a-edicao-do-encat-administracoes-tributarias-debatem-em-palmas-to-reforma-tributaria-e-modernizacao-fiscal/",
-   "source": "- Comsefaz",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-18T13:44:51Z",
-   "tries": 1
-  },
-  {
-   "id": "7f3445f24cbd",
-   "date": "2026-11-18",
-   "title": "Reforma tributária: sua empresa pode ter crédito tributário, mas terá dinheiro em caixa?",
-   "resumo": "Com a chegada da CBS em 2027, o fluxo de caixa deixa de ser apenas uma ferramenta de gestão e passa a ser essencial para a saúde financeira das empresas...",
-   "link": "https://abradilan.com.br/mercado/reforma-tributaria-sua-empresa-pode-ter-credito-tributario-mas-tera-dinheiro-em-caixa/",
-   "source": "Abradilan",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-18T13:44:51Z",
-   "tries": 1
-  },
-  {
-   "id": "355d59f1233b",
-   "date": "2026-11-18",
-   "title": "Áudio: Governo e senadores defendem início da CBS em janeiro, sem adiamento",
-   "resumo": "A Comissão de Assuntos Econômicos (CAE) debateu na terça-feira (17) a alíquota de referência da Contribuição sobre Bens e Serviços (CBS), que substituirá o Programa de Integração Social (PIS) e a Contribuição para o Financiamento da Seguridade Social (Cofins)…",
-   "link": "https://www12.senado.leg.br/noticias/audios/2026/11/governo-e-senadores-defendem-inicio-da-cbs-em-janeiro-sem-adiamento",
-   "source": "Senado Federal",
-   "official": true,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-18T12:22:18Z"
   }
  ]
 }

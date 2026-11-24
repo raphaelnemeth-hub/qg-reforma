@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-24T16:38:29Z",
- "lastCheckBr": "24/11/2026 13:38",
- "added": 25,
+ "lastCheckAt": "2026-11-24T17:44:44Z",
+ "lastCheckBr": "24/11/2026 14:44",
+ "added": 30,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -17,9 +17,10 @@
   },
   {
    "name": "Receita Federal",
-   "ok": true,
+   "ok": false,
    "found": 0,
-   "new": 0
+   "new": 0,
+   "error": "URLError"
   },
   {
    "name": "Agência Brasil",
@@ -30,7 +31,7 @@
   {
    "name": "Portal Contábeis",
    "ok": true,
-   "found": 8,
+   "found": 9,
    "new": 1
   },
   {
@@ -42,8 +43,8 @@
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 96,
-   "new": 18
+   "found": 97,
+   "new": 23
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -53,6 +54,44 @@
   }
  ],
  "items": [
+  {
+   "id": "1e3261732e31",
+   "date": "2026-11-24",
+   "title": "Empresas do Simples podem cancelar regime híbrido até dezembro",
+   "resumo": "Prazo para desistir do recolhimento regular de IBS e CBS termina em 20 de dezembro de 2026, conforme resolução do CGSN. Leia mais em https://www.contabeis.com.br/noticias/81104/empresas-do-simples-podem-cancelar-regime-hibrido-ate-dezembro/",
+   "link": "https://www.contabeis.com.br/noticias/81104/empresas-do-simples-podem-cancelar-regime-hibrido-ate-dezembro/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "simples",
+   "tag": "Simples",
+   "addedAt": "2026-11-24T17:44:44Z"
+  },
+  {
+   "id": "006736fcbdee",
+   "date": "2026-11-24",
+   "title": "Reforma Tributária: as 7 dúvidas que mais confundem as empresas, a pouco mais de um mês para 2027",
+   "resumo": "",
+   "link": "https://www.contadores.cnt.br/noticias/artigos/2026/11/24/reforma-tributaria-as-7-duvidas-que-mais-confundem-as-empresas-a-pouco-mais-de-um-mes-para-2027.html",
+   "source": "Contadores.cnt.br",
+   "official": false,
+   "category": "cont",
+   "tag": "Contabilidade",
+   "addedAt": "2026-11-24T17:44:44Z",
+   "tries": 1
+  },
+  {
+   "id": "54808e864693",
+   "date": "2026-11-24",
+   "title": "Simples Nacional: veja o que muda com as novas regras da Reforma Tributária",
+   "resumo": "",
+   "link": "https://exame.com/economia/simples-nacional-veja-o-que-muda-com-as-novas-regras-da-reforma-tributaria/",
+   "source": "Exame",
+   "official": false,
+   "category": "simples",
+   "tag": "Simples",
+   "addedAt": "2026-11-24T17:44:44Z",
+   "tries": 1
+  },
   {
    "id": "2f235828b65e",
    "date": "2026-11-24",
@@ -1657,6 +1696,123 @@
    "tries": 1
   },
   {
+   "id": "73db513f335a",
+   "date": "2026-11-19",
+   "title": "ABAT propõe medidas ao STF para disputas da reforma tributária",
+   "resumo": "Contribuições ao CESTF buscam garantir segurança jurídica e proteger contribuintes em disputas sobre IBS e CBS.",
+   "link": "https://www.migalhas.com.br/quentes/468992/abat-propoe-medidas-ao-stf-para-disputas-da-reforma-tributaria",
+   "source": "Migalhas",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-24T17:44:44Z",
+   "tries": 1
+  },
+  {
+   "id": "31eedc163762",
+   "date": "2026-11-19",
+   "title": "Reforma Tributária: créditos da CBS podem pressionar caixa das empresas em 2027",
+   "resumo": "Vinculação dos créditos ao recolhimento do tributo exige revisão do capital de giro; Receita anuncia proposta de transição, que depende de aprovação do Congresso",
+   "link": "https://www.portaldoagronegocio.com.br/gestao-rural/analise-de-mercado/noticias/reforma-tributaria-creditos-da-cbs-podem-pressionar-caixa-das-empresas-em-2027",
+   "source": "Portal do Agronegócio",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-24T17:44:44Z",
+   "tries": 1
+  },
+  {
+   "id": "3b1549d9ecc1",
+   "date": "2026-11-19",
+   "title": "Tributaristas discutem inclusão de CBS e IBS nas bases de cálculo do ICMS e ISS",
+   "resumo": "Falta de clareza sobre o cálculo do imposto estadual e municipal na transição da reforma tributária contraria promessa de redução de litígios",
+   "link": "https://dcomercio.com.br/publicacao/s/tributaristas-discutem-inclusao-de-cbs-e-ibs-nas-bases-de-calculo-do-icms-e-iss",
+   "source": "DComercio",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-24T17:44:44Z",
+   "tries": 1
+  },
+  {
+   "id": "ace88efeb324",
+   "date": "2026-11-19",
+   "title": "Setor de saneamento pede adiamento da reforma tributária para 2028",
+   "resumo": "Beatriz Kawai e Amanda Pupo, da Agência iNFRA As companhias de saneamento pedem ao governo federal o adiamento do início da reforma tributária sobre consumo em um ano, para 2028, devido a pendências na regulamentação do novo sistema. São pelo menos cinco…",
+   "link": "https://agenciainfra.com/blog/setor-de-saneamento-pede-adiamento-da-reforma-tributaria-para-2028/",
+   "source": "Agência iNFRA",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-24T17:44:44Z",
+   "tries": 1
+  },
+  {
+   "id": "125143d99da3",
+   "date": "2026-11-19",
+   "title": "Reforma tributária: o início de uma nova guerra judicial de teses",
+   "resumo": "No Brasil, aquilo que nasce para simplificar frequentemente termina por complicar. A reforma tributária parece caminhar nessa direção",
+   "link": "https://conjur.com.br/2026-nov-19/reforma-tributaria-o-inicio-de-uma-nova-guerra-judicial-de-teses/",
+   "source": "Consultor Jurídico",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-24T17:44:44Z",
+   "tries": 1
+  },
+  {
+   "id": "aa5c88b80818",
+   "date": "2026-11-19",
+   "title": "Cashback da reforma tributária: como funciona e quem recebe a partir de 2027",
+   "resumo": "O cashback da reforma tributária com a devolução de parte da CBS, começa em janeiro e alcança 27,7 milhões de famílias",
+   "link": "https://investnews.com.br/economia/cashback-da-reforma-tributaria-entenda/",
+   "source": "InvestNews",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-24T17:44:44Z",
+   "tries": 1
+  },
+  {
+   "id": "ecb12db3b554",
+   "date": "2026-11-19",
+   "title": "CBS: novo imposto sobre faturamento das empresas inicia operação em 2027",
+   "resumo": "Economista realça que o novo tributo irá gerar a não cumulatividade plena, acentuando que irá decorrer na geração do crédito financeiro amplo. (Foto: Envato Elements)",
+   "link": "https://www.trendsce.com.br/2026/11/19/cbs-novo-imposto-sobre-faturamento-das-empresas-inicia-operacao-em-2027/",
+   "source": "TrendsCE",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-24T17:44:44Z",
+   "tries": 1
+  },
+  {
+   "id": "a698caae7615",
+   "date": "2026-11-19",
+   "title": "Receita vai mapear falhas na emissão de notas com CBS",
+   "resumo": "Receita Federal identificará empresas com dificuldades para destacar a CBS nas notas fiscais e compartilhará informações com contadores.",
+   "link": "https://www.contabeis.com.br/noticias/81003/receita-vai-mapear-falhas-na-emissao-de-notas-com-cbs/",
+   "source": "Portal Contabeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-24T17:44:44Z",
+   "tries": 1
+  },
+  {
+   "id": "248b6e2b3ae6",
+   "date": "2026-11-19",
+   "title": "Senado questiona cálculo de 11,3% da CBS para 2027",
+   "resumo": "CAE pede ao TCU estudos e memória de cálculo da alíquota de referência da CBS, após especialistas apontarem estimativas menores.",
+   "link": "https://www.contabeis.com.br/noticias/81000/senado-questiona-calculo-de-11-3-da-cbs-para-2027/",
+   "source": "Portal Contabeis",
+   "official": false,
+   "category": "lei",
+   "tag": "Legislação",
+   "addedAt": "2026-11-24T17:44:44Z",
+   "tries": 1
+  },
+  {
    "id": "dab2f3183cfd",
    "date": "2026-11-19",
    "title": "No Senado, OAB defende maior clareza no cálculo da CBS e adiamento de etapas da Reforma Tributária",
@@ -1824,161 +1980,6 @@
    "tag": "Atualização",
    "addedAt": "2026-11-23T12:56:35Z",
    "tries": 2
-  },
-  {
-   "id": "0a25be6e8aa2",
-   "date": "2026-11-19",
-   "title": "Reforma tributária: o que muda para 20,9 milhões de empresas do Simples",
-   "resumo": "Mais de 76% das empresas ativas do Brasil usam o Simples Nacional. A reforma tributária não acaba com o regime, mas muda o crédito e exige ...",
-   "link": "https://www.bra1.com.br/economia/id-729186/reforma_tributaria__o_que_muda_para_20_9_milhoes_de_empresas_do_simples",
-   "source": "bra1.com.br",
-   "official": false,
-   "category": "simples",
-   "tag": "Simples",
-   "addedAt": "2026-11-23T12:56:35Z",
-   "tries": 1
-  },
-  {
-   "id": "e420519b4c87",
-   "date": "2026-11-19",
-   "title": "Alíquota de 11,3% da CBS para 2027: por que o Senado contesta o cálculo do TCU?",
-   "resumo": "Entenda por que o Senado contesta o cálculo de 11,3% da CBS para 2027 e como preparar a Contabilidade e os sistemas fiscais dos clientes para essa transição.",
-   "link": "https://www.omie.com.br/blog/aliquota-cbs-2027-senado-calculo-tcu/",
-   "source": "Omie",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-23T12:56:35Z",
-   "tries": 1
-  },
-  {
-   "id": "2eeca0776651",
-   "date": "2026-11-19",
-   "title": "Alíquota da CBS de 11,3% vai ao Senado",
-   "resumo": "Entenda o impacto da alíquota da CBS em 11,3% sugerida pelo TCU. Veja o que está sendo debatido no Senado e como preparar as empresas.",
-   "link": "https://www.omie.com.br/blog/aliquota-cbs-11-3-senado-setor-produtivo/",
-   "source": "Omie",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-23T12:56:35Z",
-   "tries": 1
-  },
-  {
-   "id": "88040bbcf410",
-   "date": "2026-11-19",
-   "title": "Quando a reforma tributária chega à mesa de negociação",
-   "resumo": "Por Bruna Belisario Vaintraub, Lucas Pinheiro Tavares. A mudança na tributação sobre o consumo pode alterar preços, margens e créditos, exigindo atenção aos critérios de revisão dos contratos ...",
-   "link": "https://www.migalhas.com.br/depeso/468870/quando-a-reforma-tributaria-chega-a-mesa-de-negociacao",
-   "source": "Migalhas",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-22T23:09:41Z",
-   "tries": 1
-  },
-  {
-   "id": "301daad097d4",
-   "date": "2026-11-19",
-   "title": "Receita Federal divulga quantidade de solicitações de opções pelo Simples Nacional e pelo regime regular do IBS e da CBS",
-   "resumo": "Foram registradas pelo menos 657 mil solicitações pelo Simples Nacional e quase 1,1 milhão pelo regime regular do IBS e da CBS O prazo para formalização da opção pelo Simples...",
-   "link": "https://fenacon.org.br/reforma-tributaria/receita-federal-divulga-quantidade-de-solicitacoes-de-opcoes-pelo-simples-nacional-e-pelo-regime-regular-do-ibs-e-da-cbs/",
-   "source": "Sistema FENACON",
-   "official": false,
-   "category": "simples",
-   "tag": "Simples",
-   "addedAt": "2026-11-22T11:09:19Z",
-   "tries": 1
-  },
-  {
-   "id": "8bb7e4395152",
-   "date": "2026-11-19",
-   "title": "Formação de preço com Reforma Tributária: seu cliente pode pagar menos mesmo com nota maior",
-   "resumo": "Com a CBS em 2027, startups podem reajustar a nota e, ainda assim, reduzir o custo líquido do cliente, desde que saibam como a conta fecha",
-   "link": "https://startups.com.br/branded-content/formacao-de-preco-com-a-reforma-tributaria-seu-cliente-pode-pagar-menos-mesmo-com-a-sua-nota-maior/",
-   "source": "Startups",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-21T18:31:45Z",
-   "tries": 1
-  },
-  {
-   "id": "faecb36dbaf9",
-   "date": "2026-11-19",
-   "title": "CBS de 11,3%: impactos para empresas em 2027",
-   "resumo": "Entenda como a alíquota de referência da CBS pode afetar empresas do Lucro Real, Lucro Presumido e Simples Nacional a partir de 2027.",
-   "link": "https://www.contabeis.com.br/artigos/80998/cbs-de-11-3-impactos-para-empresas-em-2027/",
-   "source": "Portal Contabeis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-21T09:38:50Z",
-   "tries": 1
-  },
-  {
-   "id": "4fd0e372d426",
-   "date": "2026-11-19",
-   "title": "Reforma Tributária pode elevar custos e levar aeroportos a rever contratos",
-   "resumo": "",
-   "link": "https://fenafisco.org.br/amp/19/11/2026/reforma-tributaria-pode-elevar-custos-e-levar-aeroportos-a-rever-contratos/",
-   "source": "Fenafisco",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-21T06:21:16Z",
-   "tries": 2
-  },
-  {
-   "id": "5c8ac839f63d",
-   "date": "2026-11-19",
-   "title": "Reforma Tributária: Nota Técnica 2026.010 estabelece novo modelo de DANFE com destaque para o IBS, a CBS e o Imposto Seletivo",
-   "resumo": "A Nota Técnica nº 2026.010 estabelece mudanças significativas no Documento Auxiliar da Nota Fiscal Eletrônica (DANFE), introduzindo campos específicos para os…",
-   "link": "https://www.legal500.com/intelligence/brazil/tax/reforma-tribut%C3%A1ria-nota-t%C3%A9cnica-2026010-estabelece-novo-modelo-de-danfe-com-destaque-para-o-ibs-a-cbs-e-o-imposto-seletivo",
-   "source": "Legal 500",
-   "official": false,
-   "category": "nt",
-   "tag": "Nota técnica",
-   "addedAt": "2026-11-20T14:47:00Z",
-   "tries": 1
-  },
-  {
-   "id": "3825166413ca",
-   "date": "2026-11-19",
-   "title": "Reforma tributária: Empresas avaliam IBS e CBS nas bases do ICMS e ISS",
-   "resumo": "Por Fernanda Botinha Nascimento, Jéssica Aparecida de Loredo, Priscila Santos Rosa, Maria Clara Murray. Inclusão do IBS e da CBS nas bases do ICMS e do ISS já gera disputas judiciais e pode afetar ...",
-   "link": "https://www.migalhas.com.br/depeso/468866/reforma-tributaria-empresas-avaliam-ibs-e-cbs-nas-bases-do-icms-e-iss",
-   "source": "Migalhas",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-20T01:40:57Z",
-   "tries": 1
-  },
-  {
-   "id": "4a2bd2f977a4",
-   "date": "2026-11-19",
-   "title": "RFB, CGIBS e CFC vão orientar mais de 25 mil profissionais da contabilidade sobre destaques da CBS/IBS nos DF-e",
-   "resumo": "Essa iniciativa, em continuidade à reconhecida parceria mantida entre os órgãos em ações voltadas à reforma, contribuirá significativamente para o fortalecimento da conformidade fiscal",
-   "link": "https://www.cgibs.gov.br/rfb-cgibs-e-cfc-vao-orientar-mais-de-25-mil-profissionais-da-contabilidade-sobre-destaques-da-cbs-ibs",
-   "source": "Comitê Gestor do IBS",
-   "official": false,
-   "category": "cont",
-   "tag": "Contabilidade",
-   "addedAt": "2026-11-19T23:12:40Z",
-   "tries": 1
-  },
-  {
-   "id": "2f0bb351fb82",
-   "date": "2026-11-19",
-   "title": "Reforma tributária em 2026: o que muda para empresas",
-   "resumo": "Entenda a fase de testes da reforma tributária em 2026, as mudanças nas notas fiscais e como as empresas podem se preparar para 2027. Leia mais em https://www.contabeis.com.br/noticias/81001/reforma-tributaria-em-2026-o-que-muda-para-empresas/",
-   "link": "https://www.contabeis.com.br/noticias/81001/reforma-tributaria-em-2026-o-que-muda-para-empresas/",
-   "source": "Portal Contábeis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-19T22:17:05Z"
   }
  ]
 }

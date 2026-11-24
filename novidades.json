@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-24T04:30:39Z",
- "lastCheckBr": "24/11/2026 01:30",
- "added": 13,
+ "lastCheckAt": "2026-11-24T05:51:23Z",
+ "lastCheckBr": "24/11/2026 02:51",
+ "added": 19,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -13,7 +13,7 @@
    "name": "Agência Câmara",
    "ok": true,
    "found": 1,
-   "new": 1
+   "new": 0
   },
   {
    "name": "Receita Federal",
@@ -44,14 +44,13 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 98,
-   "new": 12
+   "new": 11
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
-   "ok": false,
-   "found": 0,
-   "new": 0,
-   "error": "HTTPError"
+   "ok": true,
+   "found": 11,
+   "new": 8
   }
  ],
  "items": [
@@ -1842,6 +1841,32 @@
    "tries": 1
   },
   {
+   "id": "7fbc9339f310",
+   "date": "2026-11-18",
+   "title": "ARTIGO: Dívida ativa e reforma tributária: uma agenda de responsabilidade fiscal municipal - a arrecadação de 2026, a transição do IBS e os desafios fiscais dos municípios",
+   "resumo": "",
+   "link": "https://www.tce.sp.gov.br/6524-artigo-divida-ativa-e-reforma-tributaria-agenda-responsabilidade-fiscal-municipal-arrecadacao",
+   "source": "Tribunal de Contas do Estado de São Paulo",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-24T05:51:23Z",
+   "tries": 1
+  },
+  {
+   "id": "3a822eb8ebbc",
+   "date": "2026-11-18",
+   "title": "CBS em 2027: empresas pedem mais prazo para adaptação",
+   "resumo": "A cobrança da CBS está prevista para janeiro de 2027, mas empresas e contadores apontam desafios para adaptar sistemas, processos e equipes.",
+   "link": "https://www.contabeis.com.br/noticias/80951/cbs-em-2027-empresas-pedem-mais-prazo-para-adaptacao/",
+   "source": "Portal Contabeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-24T05:51:23Z",
+   "tries": 1
+  },
+  {
    "id": "7946ee49665d",
    "date": "2026-11-18",
    "title": "Reforma tributária: alíquota de 11,3% da CBS pode valer só em 2027 e mudar depois; entenda",
@@ -1852,20 +1877,20 @@
    "category": "aliq",
    "tag": "Alíquotas",
    "addedAt": "2026-11-24T04:30:39Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "57586dcc4b76",
    "date": "2026-11-18",
    "title": "Senado pede explicações a TCU sobre alíquota de 11,3% da CBS",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNDZSaXFRaHJ3SHpYQ3h0ajJKWGtqNm9QSHpYbks1RFpTbjROU3VNWVZ4TllvLWJSS1ZMeEdLbGoySlNXMVZkdnJHZ1UzOTRBUHZIWUZ5R1BrSWN6aFZvM2V3OEF4T2RnVEhKWGhVTFhnZVY1MVo0ZWF2TlRVRVdlX2drc01EWG9MYzg4Vzc1cWNQRlgwYkVHN0xmYXlmemJVamlvN2JQSTJLVzFmYTIzaXh2eWU?oc=5",
+   "resumo": "Em audiências públicas, especialistas e empresários propõem percentual menor do imposto que substituirá o PIS e a Cofins em 2027. Governo defende alíquota definida pelo TCU.",
+   "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/senado-pede-explicacoes-tcu-sobre-aliquota-de-113-da-cbs",
    "source": "Agência Brasil",
    "official": false,
    "category": "aliq",
    "tag": "Alíquotas",
    "addedAt": "2026-11-24T04:30:39Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "389800182b73",
@@ -1956,32 +1981,6 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-24T02:06:37Z",
-   "tries": 1
-  },
-  {
-   "id": "5feff7562029",
-   "date": "2026-11-18",
-   "title": "FAQ da Reforma Tributária para Corretores e Corretoras de Seguros",
-   "resumo": "",
-   "link": "https://www.fenacor.org.br/Servicos/ArtigosDetalhes?Slug",
-   "source": "Fenacor",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-24T00:47:10Z",
-   "tries": 2
-  },
-  {
-   "id": "ddcb397bf89d",
-   "date": "2026-11-18",
-   "title": "RFB e CGIBS alinham próximos passos da Reforma Tributária e reforçam compromisso com a conformidade",
-   "resumo": "Encontro reuniu lideranças das duas instituições e teve como foco o aperfeiçoamento da governança da atuação integrada entre a RFB e o CGIBS, buscando assegurar maior coordenação, alinhamento institucional e eficiência na construção dos processos",
-   "link": "https://cgibs.gov.br/rfb-e-cgibs-alinham-proximos-passos-da-implementacao-da-reforma-tributaria-e-reforcam-compromisso-com-a-conformidade-fiscal",
-   "source": "Comitê Gestor do IBS",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T23:40:17Z",
    "tries": 1
   }
  ]

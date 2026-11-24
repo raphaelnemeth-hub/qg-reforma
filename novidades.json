@@ -1,13 +1,13 @@
 {
- "lastCheckAt": "2026-11-24T17:44:44Z",
- "lastCheckBr": "24/11/2026 14:44",
- "added": 30,
+ "lastCheckAt": "2026-11-24T18:46:46Z",
+ "lastCheckBr": "24/11/2026 15:46",
+ "added": 24,
  "feeds": [
   {
    "name": "Agência Senado",
    "ok": true,
    "found": 1,
-   "new": 0
+   "new": 1
   },
   {
    "name": "Agência Câmara",
@@ -43,17 +43,54 @@
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 97,
-   "new": 23
+   "found": 96,
+   "new": 15
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
    "ok": true,
-   "found": 9,
-   "new": 6
+   "found": 10,
+   "new": 7
   }
  ],
  "items": [
+  {
+   "id": "bc64826ce7db",
+   "date": "2026-11-24",
+   "title": "Senado celebra 12 anos da Febraf, entidade de fomento ao comércio",
+   "resumo": "O Senado homenageou nesta terça-feira (24), em sessão especial, os 12 anos da Federação Brasileira de Fomento Comercial, Serviços e Atividades Financeiras (Febraf). A entidade representa setores como o factoring, que antecipa às empresas, mediante desconto, o…",
+   "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/senado-celebra-12-anos-da-febraf-entidade-de-fomento-ao-comercio",
+   "source": "Senado Federal",
+   "official": true,
+   "category": "simples",
+   "tag": "Simples",
+   "addedAt": "2026-11-24T18:46:46Z"
+  },
+  {
+   "id": "d41cb1ef8662",
+   "date": "2026-11-24",
+   "title": "Receita amplia acesso ao Piloto da CBS para empresas de todo o país",
+   "resumo": "Empresas poderão testar sistemas da CBS sem indicação prévia de entidades representativas, mediante procuração digital. Leia mais em https://www.contabeis.com.br/noticias/81089/receita-amplia-acesso-ao-piloto-da-cbs-para-empresas-de-todo-o-pais/",
+   "link": "https://www.contabeis.com.br/noticias/81089/receita-amplia-acesso-ao-piloto-da-cbs-para-empresas-de-todo-o-pais/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-24T18:46:46Z"
+  },
+  {
+   "id": "0e0acadfda73",
+   "date": "2026-11-24",
+   "title": "CNI propõe CBS de 10% para evitar alta de R$ 50 bi na carga tributária",
+   "resumo": "Em audiência na Câmara, representante da entidade defende mudanças na legislação da reforma tributária e alerta que alíquota recomendada pelo TCU pode reduzir os ganhos econômicos esperados com o ...",
+   "link": "https://www.congressoemfoco.com.br/noticia/131833/cni-propoe-cbs-de-10-para-evitar-alta-de-r-50-bi-na-carga-tributaria",
+   "source": "Congresso em Foco",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-24T18:46:46Z",
+   "tries": 1
+  },
   {
    "id": "1e3261732e31",
    "date": "2026-11-24",
@@ -77,7 +114,7 @@
    "category": "cont",
    "tag": "Contabilidade",
    "addedAt": "2026-11-24T17:44:44Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "54808e864693",
@@ -90,7 +127,7 @@
    "category": "simples",
    "tag": "Simples",
    "addedAt": "2026-11-24T17:44:44Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "2f235828b65e",
@@ -369,6 +406,19 @@
    "category": "lei",
    "tag": "Legislação",
    "addedAt": "2026-11-24T04:30:39Z"
+  },
+  {
+   "id": "18eae67e812c",
+   "date": "2026-11-23",
+   "title": "Receita Federal amplia acesso de empresas a testes da Reforma Tributária",
+   "resumo": "",
+   "link": "https://jeonline.com.br/noticia/37313/receita-federal-amplia-acesso-de-empresas-a-testes-da-reforma-tributaria",
+   "source": "JE Online",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-24T18:46:46Z",
+   "tries": 1
   },
   {
    "id": "b9bc382e7e46",
@@ -1696,6 +1746,58 @@
    "tries": 1
   },
   {
+   "id": "59450c2d0e39",
+   "date": "2026-11-19",
+   "title": "Reforma tributária em 2026: o que muda para empresas",
+   "resumo": "Entenda a fase de testes da reforma tributária em 2026, as mudanças nas notas fiscais e como as empresas podem se preparar para 2027.",
+   "link": "https://www.contabeis.com.br/noticias/81001/reforma-tributaria-em-2026-o-que-muda-para-empresas/",
+   "source": "Portal Contabeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-24T18:46:46Z",
+   "tries": 1
+  },
+  {
+   "id": "faecb36dbaf9",
+   "date": "2026-11-19",
+   "title": "CBS de 11,3%: impactos para empresas em 2027",
+   "resumo": "Entenda como a alíquota de referência da CBS pode afetar empresas do Lucro Real, Lucro Presumido e Simples Nacional a partir de 2027.",
+   "link": "https://www.contabeis.com.br/artigos/80998/cbs-de-11-3-impactos-para-empresas-em-2027/",
+   "source": "Portal Contabeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-24T18:46:46Z",
+   "tries": 1
+  },
+  {
+   "id": "8bb7e4395152",
+   "date": "2026-11-19",
+   "title": "Formação de preço com Reforma Tributária: seu cliente pode pagar menos mesmo com nota maior",
+   "resumo": "Com a CBS em 2027, startups podem reajustar a nota e, ainda assim, reduzir o custo líquido do cliente, desde que saibam como a conta fecha",
+   "link": "https://startups.com.br/branded-content/formacao-de-preco-com-a-reforma-tributaria-seu-cliente-pode-pagar-menos-mesmo-com-a-sua-nota-maior/",
+   "source": "Startups",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-24T18:46:46Z",
+   "tries": 1
+  },
+  {
+   "id": "4a2bd2f977a4",
+   "date": "2026-11-19",
+   "title": "RFB, CGIBS e CFC vão orientar mais de 25 mil profissionais da contabilidade sobre destaques da CBS/IBS nos DF-e",
+   "resumo": "Essa iniciativa, em continuidade à reconhecida parceria mantida entre os órgãos em ações voltadas à reforma, contribuirá significativamente para o fortalecimento da conformidade fiscal",
+   "link": "https://www.cgibs.gov.br/rfb-cgibs-e-cfc-vao-orientar-mais-de-25-mil-profissionais-da-contabilidade-sobre-destaques-da-cbs-ibs",
+   "source": "Comitê Gestor do IBS",
+   "official": false,
+   "category": "cont",
+   "tag": "Contabilidade",
+   "addedAt": "2026-11-24T18:46:46Z",
+   "tries": 1
+  },
+  {
    "id": "73db513f335a",
    "date": "2026-11-19",
    "title": "ABAT propõe medidas ao STF para disputas da reforma tributária",
@@ -1876,110 +1978,6 @@
    "tag": "Alíquotas",
    "addedAt": "2026-11-24T12:56:57Z",
    "tries": 1
-  },
-  {
-   "id": "2be0ba6aff23",
-   "date": "2026-11-19",
-   "title": "Reforma Tributária exige preparo estratégico das empresas",
-   "resumo": "Reforma Tributária impacta preços, contratos e caixa. Entenda por que a preparação precisa integrar áreas e decisões de negócio.",
-   "link": "https://www.contabeis.com.br/artigos/81024/reforma-tributaria-exige-preparo-estrategico-das-empresas/",
-   "source": "Portal Contabeis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-24T02:06:37Z",
-   "tries": 1
-  },
-  {
-   "id": "6e6fc0a86d22",
-   "date": "2026-11-19",
-   "title": "Receita Federal, CGIBS e CFC vão orientar mais de 25 mil profissionais da contabilidade sobre destaque de CBS/IBS em documentos fiscais",
-   "resumo": "",
-   "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-cgibs-e-cfc-vao-orientar-mais-de-25-mil-profissionais-da-contabilidade-sobre-destaque-de-cbs-ibs-em-documentos-fiscais",
-   "source": "Governo Federal",
-   "official": false,
-   "category": "cont",
-   "tag": "Contabilidade",
-   "addedAt": "2026-11-23T16:50:17Z",
-   "tries": 2
-  },
-  {
-   "id": "8e77a0727317",
-   "date": "2026-11-19",
-   "title": "Reforma Tributária em debate: CRCMA participa de seminário sobre os desafios e as perspectivas do IBS",
-   "resumo": "A implementação do novo modelo tributário brasileiro inaugura uma etapa de profundas mudanças na estrutura fiscal do país e coloca em pauta desafios que exigem",
-   "link": "https://crcma.org.br/noticias/reforma-tributaria-em-debate-crcma-participa-de-seminario-sobre-os-desafios-e-as-perspectivas-do-ibs",
-   "source": "Conselho Regional de Contabilidade do Maranhão",
-   "official": false,
-   "category": "cont",
-   "tag": "Contabilidade",
-   "addedAt": "2026-11-23T12:56:35Z",
-   "tries": 1
-  },
-  {
-   "id": "6eb5c8905549",
-   "date": "2026-11-19",
-   "title": "Receita Federal e notas com CBS: o que muda com o novo mapeamento de falhas?",
-   "resumo": "Acompanhe as novas regras de fiscalização da Receita para a emissão de notas com CBS e garanta a conformidade do seu negócio.",
-   "link": "https://www.omie.com.br/blog/notas-cbs-receita-federal-mapeamento-falhas/",
-   "source": "Omie",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T12:56:35Z",
-   "tries": 1
-  },
-  {
-   "id": "3ceb0293dd25",
-   "date": "2026-11-19",
-   "title": "Imposto Seletivo vai encarecer produtos prejudiciais ao meio ambiente",
-   "resumo": "Estão na mira veículos, aeronaves, embarcações, mineração, entre outros",
-   "link": "https://folhadomate.com/responsabilidade-ambiental/imposto-seletivo-vai-encarecer-produtos-prejudiciais-ao-meio-ambiente/",
-   "source": "Folha do Mate",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-23T12:56:35Z",
-   "tries": 1
-  },
-  {
-   "id": "e0733190629d",
-   "date": "2026-11-19",
-   "title": "Reforma tributária: auditor explica transição que será iniciada em 2027",
-   "resumo": "",
-   "link": "https://cidadeverde.com/economia/466681/reforma-tributaria-auditor-explica-transicao-que-sera-iniciada-em-2027",
-   "source": "CidadeVerde.com",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T12:56:35Z",
-   "tries": 2
-  },
-  {
-   "id": "d14b51514751",
-   "date": "2026-11-19",
-   "title": "Apuração Assistida na Reforma Tributária: o que muda para as empresas?",
-   "resumo": "Descubra agora como a declaração pré-preenchida da Apuração Assistida impacta a rotina da sua empresa na Reforma Tributária.",
-   "link": "https://www.omie.com.br/blog/apuracao-assistida-liberada-empresas-reforma-tributaria/",
-   "source": "Omie",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T12:56:35Z",
-   "tries": 1
-  },
-  {
-   "id": "5f19a50b70e8",
-   "date": "2026-11-19",
-   "title": "Reforma Tributária e mudanças na jornada podem elevar custos do transporte e pressionar fretes em 2027",
-   "resumo": "",
-   "link": "https://gazetadasemana.com.br/noticia/309696/reforma-tributaria-e-mudancas-na-jornada-podem-elevar-custos-do-transporte-e-pressionar-fretes-em-2027",
-   "source": "Gazeta da Semana",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T12:56:35Z",
-   "tries": 2
   }
  ]
 }

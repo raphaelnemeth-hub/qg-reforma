@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-24T22:46:40Z",
- "lastCheckBr": "24/11/2026 19:46",
- "added": 22,
+ "lastCheckAt": "2026-11-24T23:40:13Z",
+ "lastCheckBr": "24/11/2026 20:40",
+ "added": 27,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -43,17 +43,43 @@
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 96,
-   "new": 16
+   "found": 95,
+   "new": 21
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
    "ok": true,
-   "found": 8,
+   "found": 9,
    "new": 6
   }
  ],
  "items": [
+  {
+   "id": "a48cb26a5a65",
+   "date": "2026-11-24",
+   "title": "Bajaj: motos podem ficar até 10% mais caras em 2027 com a Reforma Tributária",
+   "resumo": "",
+   "link": "https://motor1.uol.com.br/news/816629/bajaj-motos-mais-caras-2027/",
+   "source": "Motor1.com Brasil",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-24T23:40:13Z",
+   "tries": 1
+  },
+  {
+   "id": "35eb2577e313",
+   "date": "2026-11-24",
+   "title": "Câmara debate alíquota da CBS e risco de aumento de impostos em 2027",
+   "resumo": "Audiência discutiu cálculo de 11,3% para novo tributo federal, que substituirá PIS e Cofins; entidades apontam possíveis distorções para empresas, enquanto Senado terá palavra final até 15 de dezembro",
+   "link": "https://ndmais.com.br/politica/reforma-tributaria-camara-debate-aliquota-da-cbs/",
+   "source": "ND Mais",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-24T23:40:13Z",
+   "tries": 1
+  },
   {
    "id": "86937af02ebf",
    "date": "2026-11-24",
@@ -1950,31 +1976,6 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-20T13:43:29Z"
-  },
-  {
-   "id": "148d38b70bca",
-   "date": "2026-11-20",
-   "title": "Na Colômbia, protestos contra plano econômico geram confrontos e caos no trânsito",
-   "resumo": "Policiais detêm um manifestante durante confrontos em meio a um protesto nacional contra as políticas econômicas e a proposta de reforma tributária do presidente colombiano Abelardo de la Espriella, em Bogotá, Colômbia, em 19 de novembro de 2026…",
-   "link": "https://www.infomoney.com.br/mundo/na-colombia-protestos-contra-plano-economico-geram-confrontos-e-caos-no-transito/",
-   "source": "InfoMoney",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-20T13:43:29Z"
-  },
-  {
-   "id": "70b98a9a228d",
-   "date": "2026-11-20",
-   "title": "Reforma tributária não pode restringir autonomia federativa",
-   "resumo": "A questão é saber se a reforma promoveu concentração de poderes incompatível com a cláusula pétrea federativa",
-   "link": "https://conjur.com.br/2026-nov-20/reforma-tributaria-nao-pode-restringir-autonomia-federativa/",
-   "source": "Consultor Jurídico",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-20T10:29:33Z",
-   "tries": 1
   }
  ]
 }

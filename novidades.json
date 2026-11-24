@@ -1,13 +1,13 @@
 {
- "lastCheckAt": "2026-11-24T14:15:49Z",
- "lastCheckBr": "24/11/2026 11:15",
- "added": 27,
+ "lastCheckAt": "2026-11-24T15:29:38Z",
+ "lastCheckBr": "24/11/2026 12:29",
+ "added": 31,
  "feeds": [
   {
    "name": "Agência Senado",
    "ok": true,
    "found": 1,
-   "new": 1
+   "new": 0
   },
   {
    "name": "Agência Câmara",
@@ -31,8 +31,8 @@
   {
    "name": "Portal Contábeis",
    "ok": true,
-   "found": 8,
-   "new": 2
+   "found": 7,
+   "new": 1
   },
   {
    "name": "InfoMoney",
@@ -43,8 +43,8 @@
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 95,
-   "new": 18
+   "found": 98,
+   "new": 24
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -54,6 +54,96 @@
   }
  ],
  "items": [
+  {
+   "id": "542230a650ff",
+   "date": "2026-11-24",
+   "title": "Descontos na CBS: o que informar na nota fiscal",
+   "resumo": "Entenda quando descontos reduzem a base da CBS e quais campos conferir na NF-e e na NFS-e para registrar corretamente o abatimento concedido ao cliente. Leia mais em https://www.contabeis.com.br/noticias/81099/descontos-na-cbs-o-que-informar-na-nota-fiscal/",
+   "link": "https://www.contabeis.com.br/noticias/81099/descontos-na-cbs-o-que-informar-na-nota-fiscal/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "nt",
+   "tag": "Nota técnica",
+   "addedAt": "2026-11-24T15:29:38Z"
+  },
+  {
+   "id": "151f2bcb9e05",
+   "date": "2026-11-24",
+   "title": "Comitê Gestor do Simples Nacional publica novas regras para o Simples Nacional e para a transição da Reforma Tributária — Receita Federal",
+   "resumo": "",
+   "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/comite-gestor-do-simples-nacional-publica-novas-regras-para-o-simples-nacional-e-para-a-transicao-da-reforma-tributaria",
+   "source": "Governo Federal",
+   "official": false,
+   "category": "simples",
+   "tag": "Simples",
+   "addedAt": "2026-11-24T15:29:38Z",
+   "tries": 1
+  },
+  {
+   "id": "d63fa6f2cc1d",
+   "date": "2026-11-24",
+   "title": "Reforma tributária: governo promete tolerância com contribuinte que errar de boa-fé",
+   "resumo": "Representantes da União, de estados e de municípios afirmaram que os ajustes da transição serão administrativos e defenderam a alíquota de 11,3% da CBS",
+   "link": "https://www.jota.info/coberturas-especiais/ambiente-negocios-oportunidades/reforma-tributaria-governo-promete-tolerancia-com-contribuinte-que-errar-de-boa-fe",
+   "source": "JOTA Info",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-24T15:29:38Z",
+   "tries": 1
+  },
+  {
+   "id": "d45ff8c3b603",
+   "date": "2026-11-24",
+   "title": "Comitê Gestor atualiza regras do Simples Nacional para transição da reforma tributária",
+   "resumo": "Resolução CGSN nº 196 altera tabelas, procedimentos de apuração e impõe regra de encerramento para quem usa regime de caixa neste ano",
+   "link": "https://agenciadcnews.com.br/publicacao/s/comite-gestor-atualiza-regras-do-simples-nacional-para-transicao-da-reforma-tributaria",
+   "source": "DComercio",
+   "official": false,
+   "category": "simples",
+   "tag": "Simples",
+   "addedAt": "2026-11-24T15:29:38Z",
+   "tries": 1
+  },
+  {
+   "id": "94189b1684ae",
+   "date": "2026-11-24",
+   "title": "Bajaj prevê alta de 5% a 10% em 2027 com reforma tributária: 'melhor comprar motos até dezembro'",
+   "resumo": "",
+   "link": "https://motor1.uol.com.br/news/816629/bajaj-motos-mais-caras-2027/",
+   "source": "Motor1.com Brasil",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-24T15:29:38Z",
+   "tries": 1
+  },
+  {
+   "id": "c4d30647d1c0",
+   "date": "2026-11-24",
+   "title": "Santa Catarina adota critérios ambientais para repasses do IBS aos municípios",
+   "resumo": "",
+   "link": "https://www.correiosc.com.br/santa-catarina-criterios-ambientais-repasses-ibs-municipios/",
+   "source": "Correio SC",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-24T15:29:38Z",
+   "tries": 1
+  },
+  {
+   "id": "354f8513ef57",
+   "date": "2026-11-24",
+   "title": "Regras do Simples Nacional mudam com Reforma Tributária; veja alíquotas",
+   "resumo": "Mudanças valem a partir de 2027 e alteram a partilha de impostos entre União, Estados e Municípios. Entenda o que muda na apuração das receitas, como fica o regime de caixa em 2026 e as alíquotas nominais de cada atividade",
+   "link": "https://www.opovo.com.br/noticias/economia/2026/11/24/regras-do-simples-nacional-vao-mudar-em-2027-veja-aliquotas.html",
+   "source": "O POVO",
+   "official": false,
+   "category": "simples",
+   "tag": "Simples",
+   "addedAt": "2026-11-24T15:29:38Z",
+   "tries": 1
+  },
   {
    "id": "423d016f1d3f",
    "date": "2026-11-24",
@@ -190,6 +280,19 @@
    "category": "lei",
    "tag": "Legislação",
    "addedAt": "2026-11-24T04:30:39Z"
+  },
+  {
+   "id": "b9bc382e7e46",
+   "date": "2026-11-23",
+   "title": "7 pontos que os empresários devem cuidar antes da Reforma Tributária entrar em vigor",
+   "resumo": "\"A Reforma Tributária não começa em 2033, quando o novo sistema estará completo. Ela já começou\", é assim que Marcelo Costa Censoni Filho, sócio do Censoni...",
+   "link": "https://obrasilianista.com.br/2026/11/23/economia/7-pontos-empresarios-cuidar-antes-reforma-tributaria-vigor/",
+   "source": "O Brasilianista",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-24T15:29:38Z",
+   "tries": 1
   },
   {
    "id": "56d269e9e7d8",
@@ -1504,6 +1607,32 @@
    "tries": 1
   },
   {
+   "id": "d23a62070e8c",
+   "date": "2026-11-19",
+   "title": "Reforma Tributária: A Receita Federal divulga a atualização dos números referentes às solicitações de opção pelo Simples Nacional e pelo regime regular do IBS e da CBS",
+   "resumo": "Agilize decisões seguras. Legislação, Comentários e Consultoria nas áreas de IR e Contribuições, ICMS, IPI, ISS, Contabilidade e Societário, Simples Nacional, Trabalhista e Previdenciária. Cálculos e Tabelas de Substituição Tributária. Agenda Tributária…",
+   "link": "https://www.legisweb.com.br/noticia/?id",
+   "source": "LegisWeb",
+   "official": false,
+   "category": "simples",
+   "tag": "Simples",
+   "addedAt": "2026-11-24T15:29:38Z",
+   "tries": 1
+  },
+  {
+   "id": "bb12fa693951",
+   "date": "2026-11-19",
+   "title": "Reforma Tributária: ministro diz que alíquota da CBS será de 8,5%",
+   "resumo": "Em comissão do Senado, Durigan afirma que os 11,3% do TCU não será o percentual cobrado do consumidor mas admitiu ‘pequeno’ impacto nos preços",
+   "link": "https://brasil61.com/n/reforma-tributaria-ministro-diz-que-aliquota-da-cbs-sera-de-8-5-bras2617495",
+   "source": "Brasil 61",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-24T15:29:38Z",
+   "tries": 1
+  },
+  {
    "id": "c541b9cb7c70",
    "date": "2026-11-19",
    "title": "OAB vê \"caixa preta\" na CBS e pede adiamento da reforma tributária",
@@ -1514,7 +1643,7 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-24T14:15:49Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "e35230f1f45a",
@@ -1851,133 +1980,6 @@
    "tag": "Atualização",
    "addedAt": "2026-11-19T20:25:49Z",
    "tries": 1
-  },
-  {
-   "id": "45800a214df5",
-   "date": "2026-11-19",
-   "title": "Leis destinam R$ 522 milhões para gestão fiscal e encargos de fundos internacionais",
-   "resumo": "O presidente Luiz Inácio Lula da Silva sancionou duas leis que destinam R$ 522,1 milhões à implantação de soluções tecnológicas para a reforma tributária e à participação do Brasil no capital de instituições financeiras internacionais. As medidas estão…",
-   "link": "https://www12.senado.leg.br/noticias/materias/2026/11/19/leis-destinam-r-522-milhoes-para-gestao-fiscal-e-encargos-de-fundos-internacionais",
-   "source": "Senado Federal",
-   "official": true,
-   "category": "cap",
-   "tag": "Capacitação",
-   "addedAt": "2026-11-19T19:29:11Z"
-  },
-  {
-   "id": "dab2f3183cfd",
-   "date": "2026-11-19",
-   "title": "No Senado, OAB defende maior clareza no cálculo da CBS e adiamento de etapas da Reforma Tributária",
-   "resumo": "A Ordem dos Advogados do Brasil é a entidade de representação e regulamentação da advocacia e defensora da Constituição Federal",
-   "link": "https://www.oab.org.br/noticia/64817/no-senado-oab-defende-maior-clareza-no-calculo-da-cbs-e-adiamento-de-etapas-da-reforma-tributaria",
-   "source": "OAB",
-   "official": false,
-   "category": "lei",
-   "tag": "Legislação",
-   "addedAt": "2026-11-19T19:29:11Z",
-   "tries": 1
-  },
-  {
-   "id": "3b1549d9ecc1",
-   "date": "2026-11-19",
-   "title": "Tributaristas discutem inclusão de CBS e IBS nas bases de cálculo do ICMS e ISS",
-   "resumo": "Falta de clareza sobre o cálculo do imposto estadual e municipal na transição da reforma tributária contraria promessa de redução de litígios",
-   "link": "https://dcomercio.com.br/publicacao/s/tributaristas-discutem-inclusao-de-cbs-e-ibs-nas-bases-de-calculo-do-icms-e-iss",
-   "source": "DComercio",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-19T19:29:11Z",
-   "tries": 1
-  },
-  {
-   "id": "31eedc163762",
-   "date": "2026-11-19",
-   "title": "Reforma Tributária: créditos da CBS podem pressionar caixa das empresas em 2027",
-   "resumo": "Vinculação dos créditos ao recolhimento do tributo exige revisão do capital de giro; Receita anuncia proposta de transição, que depende de aprovação do Congresso",
-   "link": "https://www.portaldoagronegocio.com.br/gestao-rural/analise-de-mercado/noticias/reforma-tributaria-creditos-da-cbs-podem-pressionar-caixa-das-empresas-em-2027",
-   "source": "Portal do Agronegócio",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-19T19:29:11Z",
-   "tries": 1
-  },
-  {
-   "id": "5d36033fceb3",
-   "date": "2026-11-19",
-   "title": "Senado cobra explicações sobre alíquota de 11,3% da reforma tributária",
-   "resumo": "",
-   "link": "https://portalbenews.com.br/senado-cobra-explicacoes-sobre-aliquota-de-113-da-reforma-tributaria/",
-   "source": "Portal BE News",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-19T19:29:11Z",
-   "tries": 2
-  },
-  {
-   "id": "9e3141102ff5",
-   "date": "2026-11-19",
-   "title": "Simples híbrido supera 1 milhão de solicitações, e modelo tradicional soma 657,3 mil",
-   "resumo": "Os contribuintes que ainda desejam desistir da opção pelo regime regular da CBS e do IBS têm até o próximo dia 20 de dezembro para solicitar o cancelamento",
-   "link": "https://agenciadcnews.com.br/publicacao/s/simples-hibrido-supera-1-milhao-de-solicitacoes-e-modelo-tradicional-soma-657-3-mil",
-   "source": "DComercio",
-   "official": false,
-   "category": "simples",
-   "tag": "Simples",
-   "addedAt": "2026-11-19T19:29:11Z",
-   "tries": 1
-  },
-  {
-   "id": "ecb12db3b554",
-   "date": "2026-11-19",
-   "title": "CBS: novo imposto sobre faturamento das empresas inicia operação em 2027",
-   "resumo": "Economista realça que o novo tributo irá gerar a não cumulatividade plena, acentuando que irá decorrer na geração do crédito financeiro amplo. (Foto: Envato Elements)",
-   "link": "https://www.trendsce.com.br/2026/11/19/cbs-novo-imposto-sobre-faturamento-das-empresas-inicia-operacao-em-2027/",
-   "source": "TrendsCE",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-19T18:18:24Z",
-   "tries": 1
-  },
-  {
-   "id": "81a965a04465",
-   "date": "2026-11-19",
-   "title": "Reforma Tributária: Dispensa do CNPJ para Produtores e Transportador Autônomo de Carga (PF)",
-   "resumo": "Agilize decisões seguras. Legislação, Comentários e Consultoria nas áreas de IR e Contribuições, ICMS, IPI, ISS, Contabilidade e Societário, Simples Nacional, Trabalhista e Previdenciária. Cálculos e Tabelas de Substituição Tributária. Agenda Tributária…",
-   "link": "https://www.legisweb.com.br/noticia/?id",
-   "source": "LegisWeb",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-19T15:23:43Z",
-   "tries": 1
-  },
-  {
-   "id": "55e59d586354",
-   "date": "2026-11-19",
-   "title": "Órgãos discutem ações conjuntas para implementar a Reforma Tributária",
-   "resumo": "Reunião entre Receita Federal e CGIBS discutiu governança do IVA Dual, programa de conformidade e orientação aos contribuintes. Leia mais em https://www.contabeis.com.br/noticias/81004/orgaos-discutem-acoes-conjuntas-para-implementar-a-reforma-tributaria/",
-   "link": "https://www.contabeis.com.br/noticias/81004/orgaos-discutem-acoes-conjuntas-para-implementar-a-reforma-tributaria/",
-   "source": "Portal Contábeis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-19T14:14:36Z"
-  },
-  {
-   "id": "e7db991ea828",
-   "date": "2026-11-19",
-   "title": "Receita vai mapear falhas na emissão de notas com CBS",
-   "resumo": "Receita Federal identificará empresas com dificuldades para destacar a CBS nas notas fiscais e compartilhará informações com contadores. Leia mais em https://www.contabeis.com.br/noticias/81003/receita-vai-mapear-falhas-na-emissao-de-notas-com-cbs/",
-   "link": "https://www.contabeis.com.br/noticias/81003/receita-vai-mapear-falhas-na-emissao-de-notas-com-cbs/",
-   "source": "Portal Contábeis",
-   "official": false,
-   "category": "cont",
-   "tag": "Contabilidade",
-   "addedAt": "2026-11-19T14:14:36Z"
   }
  ]
 }

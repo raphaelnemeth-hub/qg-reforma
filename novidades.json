@@ -1,13 +1,13 @@
 {
- "lastCheckAt": "2026-11-24T18:46:46Z",
- "lastCheckBr": "24/11/2026 15:46",
- "added": 24,
+ "lastCheckAt": "2026-11-24T19:54:40Z",
+ "lastCheckBr": "24/11/2026 16:54",
+ "added": 20,
  "feeds": [
   {
    "name": "Agência Senado",
    "ok": true,
    "found": 1,
-   "new": 1
+   "new": 0
   },
   {
    "name": "Agência Câmara",
@@ -31,8 +31,8 @@
   {
    "name": "Portal Contábeis",
    "ok": true,
-   "found": 9,
-   "new": 1
+   "found": 8,
+   "new": 0
   },
   {
    "name": "InfoMoney",
@@ -43,17 +43,43 @@
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 96,
-   "new": 15
+   "found": 95,
+   "new": 14
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
    "ok": true,
-   "found": 10,
-   "new": 7
+   "found": 9,
+   "new": 6
   }
  ],
  "items": [
+  {
+   "id": "a670b4da54c2",
+   "date": "2026-11-24",
+   "title": "TCU defende cálculo da CBS de 11,3% e diz que alíquota pode mudar",
+   "resumo": "Representante do tribunal afirma que percentual resulta de critérios definidos em lei, não constitui uma recomendação do TCU nem permite prever a arrecadação de 2027.",
+   "link": "https://www.congressoemfoco.com.br/noticia/131839/tcu-defende-calculo-da-cbs-de-11-3-e-diz-que-aliquota-pode-mudar",
+   "source": "Congresso em Foco",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-24T19:54:40Z",
+   "tries": 1
+  },
+  {
+   "id": "66708623f480",
+   "date": "2026-11-24",
+   "title": "Tributaristas defendem redução do teto da CBS para 8,6%",
+   "resumo": "Senado deve definir percentual até o fim do ano, por meio de projeto de resolução relatado por Eduardo Braga (MDB)",
+   "link": "https://sbtnews.sbt.com.br/colunas/coluna-da-victoria/tributaristas-defendem-reducao-do-teto-da-cbs-para-8-6",
+   "source": "SBT News",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-24T19:54:40Z",
+   "tries": 1
+  },
   {
    "id": "bc64826ce7db",
    "date": "2026-11-24",
@@ -418,7 +444,7 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-24T18:46:46Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "b9bc382e7e46",
@@ -1746,6 +1772,32 @@
    "tries": 1
   },
   {
+   "id": "6e6fc0a86d22",
+   "date": "2026-11-19",
+   "title": "Receita Federal, CGIBS e CFC vão orientar mais de 25 mil profissionais da contabilidade sobre destaque de CBS/IBS em documentos fiscais",
+   "resumo": "",
+   "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-cgibs-e-cfc-vao-orientar-mais-de-25-mil-profissionais-da-contabilidade-sobre-destaque-de-cbs-ibs-em-documentos-fiscais",
+   "source": "Governo Federal",
+   "official": false,
+   "category": "cont",
+   "tag": "Contabilidade",
+   "addedAt": "2026-11-24T19:54:40Z",
+   "tries": 1
+  },
+  {
+   "id": "2be0ba6aff23",
+   "date": "2026-11-19",
+   "title": "Reforma Tributária exige preparo estratégico das empresas",
+   "resumo": "Reforma Tributária impacta preços, contratos e caixa. Entenda por que a preparação precisa integrar áreas e decisões de negócio.",
+   "link": "https://www.contabeis.com.br/artigos/81024/reforma-tributaria-exige-preparo-estrategico-das-empresas/",
+   "source": "Portal Contabeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-24T19:54:40Z",
+   "tries": 1
+  },
+  {
    "id": "59450c2d0e39",
    "date": "2026-11-19",
    "title": "Reforma tributária em 2026: o que muda para empresas",
@@ -1925,58 +1977,6 @@
    "category": "lei",
    "tag": "Legislação",
    "addedAt": "2026-11-24T16:38:29Z",
-   "tries": 1
-  },
-  {
-   "id": "d23a62070e8c",
-   "date": "2026-11-19",
-   "title": "Reforma Tributária: A Receita Federal divulga a atualização dos números referentes às solicitações de opção pelo Simples Nacional e pelo regime regular do IBS e da CBS",
-   "resumo": "Agilize decisões seguras. Legislação, Comentários e Consultoria nas áreas de IR e Contribuições, ICMS, IPI, ISS, Contabilidade e Societário, Simples Nacional, Trabalhista e Previdenciária. Cálculos e Tabelas de Substituição Tributária. Agenda Tributária…",
-   "link": "https://www.legisweb.com.br/noticia/?id",
-   "source": "LegisWeb",
-   "official": false,
-   "category": "simples",
-   "tag": "Simples",
-   "addedAt": "2026-11-24T15:29:38Z",
-   "tries": 1
-  },
-  {
-   "id": "bb12fa693951",
-   "date": "2026-11-19",
-   "title": "Reforma Tributária: ministro diz que alíquota da CBS será de 8,5%",
-   "resumo": "Em comissão do Senado, Durigan afirma que os 11,3% do TCU não será o percentual cobrado do consumidor mas admitiu ‘pequeno’ impacto nos preços",
-   "link": "https://brasil61.com/n/reforma-tributaria-ministro-diz-que-aliquota-da-cbs-sera-de-8-5-bras2617495",
-   "source": "Brasil 61",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-24T15:29:38Z",
-   "tries": 1
-  },
-  {
-   "id": "c541b9cb7c70",
-   "date": "2026-11-19",
-   "title": "OAB vê \"caixa preta\" na CBS e pede adiamento da reforma tributária",
-   "resumo": "",
-   "link": "https://fenafisco.org.br/amp/19/11/2026/oab-ve-caixa-preta-na-cbs-e-pede-adiamento-da-reforma-tributaria/",
-   "source": "Fenafisco",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-24T14:15:49Z",
-   "tries": 2
-  },
-  {
-   "id": "e35230f1f45a",
-   "date": "2026-11-19",
-   "title": "Senado pede explicações a TCU sobre alíquota de 11,3% da CBS",
-   "resumo": "Após dois dias de audiência pública, a Comissão de Assuntos Econômicos (CAE) do Senado aprovou nesta quarta-feira (18) um requerimento para pedir",
-   "link": "https://www.moneytimes.com.br/senado-pede-explicacoes-a-tcu-sobre-aliquota-de-113-da-cbs-fets/",
-   "source": "Money Times",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-24T12:56:57Z",
    "tries": 1
   }
  ]

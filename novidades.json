@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-24T11:47:28Z",
- "lastCheckBr": "24/11/2026 08:47",
- "added": 21,
+ "lastCheckAt": "2026-11-24T12:56:57Z",
+ "lastCheckBr": "24/11/2026 09:56",
+ "added": 26,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -25,7 +25,7 @@
   {
    "name": "Agência Brasil",
    "ok": true,
-   "found": 4,
+   "found": 3,
    "new": 0
   },
   {
@@ -43,17 +43,68 @@
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 97,
-   "new": 14
+   "found": 95,
+   "new": 19
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
    "ok": true,
-   "found": 9,
+   "found": 10,
    "new": 6
   }
  ],
  "items": [
+  {
+   "id": "26905b0abb30",
+   "date": "2026-11-24",
+   "title": "CGIBS indica nomes para harmonizar IBS e CBS",
+   "resumo": "Portaria designa quatro titulares e quatro suplentes do Comitê Gestor para o colegiado que uniformizará regras e interpretações dos novos tributos. Leia mais em https://www.contabeis.com.br/noticias/81086/cgibs-indica-nomes-para-harmonizar-ibs-e-cbs/",
+   "link": "https://www.contabeis.com.br/noticias/81086/cgibs-indica-nomes-para-harmonizar-ibs-e-cbs/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-24T12:56:57Z"
+  },
+  {
+   "id": "f160072dde0c",
+   "date": "2026-11-24",
+   "title": "Comitê Gestor do Simples Nacional publica novas regras para o Simples Nacional e para a transição da Reforma Tributária",
+   "resumo": "As mudanças envolvem procedimentos de declaração, apuração de receitas, repartição dos tributos e adaptações necessárias para a transição ao novo modelo tributá",
+   "link": "https://crcma.org.br/noticias/comite-gestor-do-simples-nacional-publica-novas-regras-para-o-simples-nacional-e-para-a-transicao-da-reforma-tributaria",
+   "source": "Conselho Regional de Contabilidade do Maranhão",
+   "official": false,
+   "category": "simples",
+   "tag": "Simples",
+   "addedAt": "2026-11-24T12:56:57Z",
+   "tries": 1
+  },
+  {
+   "id": "d5b14b5eaf2b",
+   "date": "2026-11-24",
+   "title": "Reforma Tributária: os riscos ocultos para importadores e exportadores com a implementação do IBS e da CBS",
+   "resumo": "",
+   "link": "https://www.contadores.cnt.br/noticias/artigos/2026/11/24/reforma-tributaria-os-riscos-ocultos-para-importadores-e-exportadores-com-a-implementacao-do-ibs-e-da-cbs.html",
+   "source": "Contadores.cnt.br",
+   "official": false,
+   "category": "cont",
+   "tag": "Contabilidade",
+   "addedAt": "2026-11-24T12:56:57Z",
+   "tries": 1
+  },
+  {
+   "id": "93a5f1784d04",
+   "date": "2026-11-24",
+   "title": "CBS: Receita amplia participação em piloto da Reforma Tributária para todas as empresas",
+   "resumo": "Portaria abre acesso a ambiente de testes da Reforma Tributária para qualquer empresa inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ)",
+   "link": "https://mais.opovo.com.br/jornal/economia/2026/11/24/cbs-receita-amplia-participacao-em-piloto-da-reforma-tributaria-para-todas-as-empresas.html",
+   "source": "O POVO+",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-24T12:56:57Z",
+   "tries": 1
+  },
   {
    "id": "40ca8dcec6db",
    "date": "2026-11-24",
@@ -1378,6 +1429,19 @@
    "tries": 1
   },
   {
+   "id": "e35230f1f45a",
+   "date": "2026-11-19",
+   "title": "Senado pede explicações a TCU sobre alíquota de 11,3% da CBS",
+   "resumo": "Após dois dias de audiência pública, a Comissão de Assuntos Econômicos (CAE) do Senado aprovou nesta quarta-feira (18) um requerimento para pedir",
+   "link": "https://www.moneytimes.com.br/senado-pede-explicacoes-a-tcu-sobre-aliquota-de-113-da-cbs-fets/",
+   "source": "Money Times",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-24T12:56:57Z",
+   "tries": 1
+  },
+  {
    "id": "2be0ba6aff23",
    "date": "2026-11-19",
    "title": "Reforma Tributária exige preparo estratégico das empresas",
@@ -1879,107 +1943,42 @@
    "tries": 1
   },
   {
-   "id": "7a386cf6feb4",
+   "id": "7946ee49665d",
    "date": "2026-11-18",
-   "title": "Durigan defende início da Reforma Tributária em 2027 e prevê alíquota média de 8,5% para a CBS",
-   "resumo": "Em audiência no Senado, ministro da Fazenda afirmou que a transição não será adiada, reconheceu possível impacto inicial na inflação e defendeu a redução dos encargos sobre a folha de...",
-   "link": "https://fenacon.org.br/noticias/durigan-defende-inicio-da-reforma-tributaria-em-2027-e-preve-aliquota-media-de-85-para-a-cbs/",
-   "source": "Sistema FENACON",
+   "title": "Reforma tributária: alíquota de 11,3% da CBS pode valer só em 2027 e mudar depois; entenda",
+   "resumo": "",
+   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOMGdBTTB5Qkdsc01sRlFqV09KNWo3QTlVeUJST21iSHA0TE5MU25ZRF91clk2cV8yWkxsdnp0YnRKam1xdjg1Y3pPaTJEWGJianJXSWtDazJMcktxSi1xYTFRZ25ZLVhBVDRMNExBUmFhZ0xiVXY1RENmUER1OEV1cGR6R3ZqcXVvRG1qdWFuUHA4OFRKbmFtRWxHTmFNTDUtYVdfM0pUS0dFWWM4Wk84TlpkbEVOVWN5SGxUTTJFQkoyQ3VKcDNYNnZlZ25RamxIWEcwNEZWZ3ZTYk90QVVhMS1GYXhxRHJvVWVYSWNfVHZzYzc5bThmRXcxaDVwNEdXYXdZcmd2cVVDdElDbGfSAZwCQVVfeXFMTl9CUGM1cmRGRWw3bDJsTkVsME96dHA5Qmw0Mzk3Y0N1WjduRUpHYjZPQUNGcXNaMG1mTEZUWW9HaTY0UUdQU2tlbEctZUV4dzdoakRpVzNjMVFfZ3FPLWFIdVd4TVRtaFZha3NFSU9ET1dfcVctZEIwQVo0T2JPTzBfbG42WEVSeG4wRGJVN2Y3MUNzMmJQYTFSOGUyRGZvcE9UdTdxbHg2LW9ZaTJPdTI2WDU4dzBtemUyalhaZXRnd3ZkbExmOWFSaC1DQVJaYTAza3ViZ1VsWGpFT1JnNG1XMHluOHlPV050VmF2Rk5hTDVVeGQzWVM4VGpQeWtGUVJnNXl0eGhvLURfLTlLck5IbmFvRXNTbXZ3RVk?oc=5",
+   "source": "G1",
    "official": false,
    "category": "aliq",
    "tag": "Alíquotas",
-   "addedAt": "2026-11-24T11:47:28Z",
+   "addedAt": "2026-11-24T12:56:57Z",
    "tries": 1
   },
   {
-   "id": "9641adc4f14d",
+   "id": "5feff7562029",
    "date": "2026-11-18",
-   "title": "Adiamento da CBS: esperar uma decisão não é motivo para deixar a preparação para depois",
-   "resumo": "Entidades pedem que a cobrança efetiva da CBS seja transferida para 2028, mas o calendário continua prevendo janeiro de 2027. Revisar cadastros, testar sistemas e calcular os efeitos sobre preços e tributos são providências que as empresas já precisa",
-   "link": "https://www.contabeis.com.br/noticias/80870/adiamento-da-cbs-esperar-uma-decisao-nao-e-motivo-para-deixar-a-preparacao-para-depois/",
-   "source": "Portal Contabeis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-24T11:47:28Z",
-   "tries": 1
-  },
-  {
-   "id": "35c9cb61f67c",
-   "date": "2026-11-18",
-   "title": "Reforma tributária: O fato gerador do IBS e da CBS nos contratos de tecnologia",
-   "resumo": "Por Aurélio Longo Guerzoni. A reforma tributária estabelece diferentes momentos de ocorrência do fato gerador do IBS e da CBS para operações com bens imateriais e serviços de execução continuada.",
-   "link": "https://www.migalhas.com.br/depeso/468350/reforma-tributaria-gerador-do-ibs-e-cbs-nos-contratos-de-tecnologia",
-   "source": "Migalhas",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-24T11:47:28Z",
-   "tries": 1
-  },
-  {
-   "id": "0e1b3ca24b3f",
-   "date": "2026-11-18",
-   "title": "OAB vê \"caixa preta\" na CBS e pede adiamento da reforma tributária",
-   "resumo": "Em audiência na CAE, representante da entidade criticou os cálculos da CBS de 11,3% e apontou cenário de insegurança jurídica.",
-   "link": "https://www.congressoemfoco.com.br/noticia/131701/oab-ve-caixa-preta-na-cbs-e-pede-adiamento-da-reforma-tributaria",
-   "source": "Congresso em Foco",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-24T11:47:28Z",
-   "tries": 1
-  },
-  {
-   "id": "ddcb397bf89d",
-   "date": "2026-11-18",
-   "title": "RFB e CGIBS alinham próximos passos da Reforma Tributária e reforçam compromisso com a conformidade",
-   "resumo": "Encontro reuniu lideranças das duas instituições e teve como foco o aperfeiçoamento da governança da atuação integrada entre a RFB e o CGIBS, buscando assegurar maior coordenação, alinhamento institucional e eficiência na construção dos processos",
-   "link": "https://www.cgibs.gov.br/rfb-e-cgibs-alinham-proximos-passos-da-implementacao-da-reforma-tributaria-e-reforcam-compromisso-com-a-conformidade-fiscal",
-   "source": "Comitê Gestor do IBS",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-24T10:48:16Z",
-   "tries": 1
-  },
-  {
-   "id": "389800182b73",
-   "date": "2026-11-18",
-   "title": "Reforma tributária: Decisão da Justiça afasta IBS e CBS da base do ISS",
-   "resumo": "Por Luciana Portinari. Liminar permite afastar novos tributos do cálculo do ISS em 2027 e reforça a necessidade de planejamento tributário preventivo.",
-   "link": "https://www.migalhas.com.br/depeso/468871/reforma-tributaria-decisao-da-justica-afasta-ibs-e-cbs-da-base-do-iss",
-   "source": "Migalhas",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-24T10:48:16Z",
-   "tries": 1
-  },
-  {
-   "id": "7fbc9339f310",
-   "date": "2026-11-18",
-   "title": "ARTIGO: Dívida ativa e reforma tributária: uma agenda de responsabilidade fiscal municipal - a arrecadação de 2026, a transição do IBS e os desafios fiscais dos municípios",
+   "title": "FAQ da Reforma Tributária para Corretores e Corretoras de Seguros",
    "resumo": "",
-   "link": "https://www.tce.sp.gov.br/6524-artigo-divida-ativa-e-reforma-tributaria-agenda-responsabilidade-fiscal-municipal-arrecadacao",
-   "source": "Tribunal de Contas do Estado de São Paulo",
+   "link": "https://www.fenacor.org.br/Servicos/ArtigosDetalhes?Slug",
+   "source": "Fenacor",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-24T10:48:16Z",
-   "tries": 2
+   "addedAt": "2026-11-24T12:56:57Z",
+   "tries": 1
   },
   {
-   "id": "eb82a1701c54",
+   "id": "7f56f412784b",
    "date": "2026-11-18",
-   "title": "IBS e CBS no ISS: empresas questionam cobrança na Justiça",
-   "resumo": "Empresas e entidades contestam a inclusão dos novos tributos na base do ISS. Entenda os argumentos e o que está em discussão.",
-   "link": "https://www.contabeis.com.br/noticias/80960/ibs-e-cbs-no-iss-empresas-questionam-cobranca-na-justica/",
+   "title": "Receita libera apuração assistida da reforma tributária para empresas nesta semana",
+   "resumo": "",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPT0t5eXBmNmRJcEpxRHpkanBSNjE2cTV0anhMRzdfeGFHd08xbzEtWDFBTWVzb1NiSVhlLTlBZ2QyYS1fWUdDRGY2SFZlTDZZV19wa2hjZmFzWXVSbE82RDRreS1pQzkyazlPSHYtSjZJQzVDVk45NDk0TXpjRmlSYldfZEZEaVd6NmxfTXNrQm5YbkM4T1gydVFiZ1pJSnZOTWJ2Tmw0U2xuNjRLQnhqUUlYdThNZXdRa1lhbFJPUEpWdTNsU0E?oc=5",
    "source": "Portal Contabeis",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-24T10:48:16Z",
+   "addedAt": "2026-11-24T12:56:57Z",
    "tries": 1
   }
  ]

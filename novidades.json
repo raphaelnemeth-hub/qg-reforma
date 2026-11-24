@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-24T03:19:56Z",
- "lastCheckBr": "24/11/2026 00:19",
- "added": 23,
+ "lastCheckAt": "2026-11-24T04:30:39Z",
+ "lastCheckBr": "24/11/2026 01:30",
+ "added": 13,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -12,8 +12,8 @@
   {
    "name": "Agência Câmara",
    "ok": true,
-   "found": 0,
-   "new": 0
+   "found": 1,
+   "new": 1
   },
   {
    "name": "Receita Federal",
@@ -44,16 +44,29 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 98,
-   "new": 15
+   "new": 12
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
-   "ok": true,
-   "found": 11,
-   "new": 8
+   "ok": false,
+   "found": 0,
+   "new": 0,
+   "error": "HTTPError"
   }
  ],
  "items": [
+  {
+   "id": "8d17ec7be98e",
+   "date": "2026-11-24",
+   "title": "Projeto limita repasses da Lei Kandir e despesas com exportações e previdência",
+   "resumo": "Texto também altera regras para incentivos da reforma tributária, seguro rural e restos a pagar",
+   "link": "https://www.camara.leg.br/noticias/1322175-projeto-limita-repasses-da-lei-kandir-e-despesas-com-exportacoes-e-previdencia",
+   "source": "Agência Câmara",
+   "official": true,
+   "category": "lei",
+   "tag": "Legislação",
+   "addedAt": "2026-11-24T04:30:39Z"
+  },
   {
    "id": "092cf04c3c0a",
    "date": "2026-11-23",
@@ -1829,6 +1842,45 @@
    "tries": 1
   },
   {
+   "id": "7946ee49665d",
+   "date": "2026-11-18",
+   "title": "Reforma tributária: alíquota de 11,3% da CBS pode valer só em 2027 e mudar depois; entenda",
+   "resumo": "",
+   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOMGdBTTB5Qkdsc01sRlFqV09KNWo3QTlVeUJST21iSHA0TE5MU25ZRF91clk2cV8yWkxsdnp0YnRKam1xdjg1Y3pPaTJEWGJianJXSWtDazJMcktxSi1xYTFRZ25ZLVhBVDRMNExBUmFhZ0xiVXY1RENmUER1OEV1cGR6R3ZqcXVvRG1qdWFuUHA4OFRKbmFtRWxHTmFNTDUtYVdfM0pUS0dFWWM4Wk84TlpkbEVOVWN5SGxUTTJFQkoyQ3VKcDNYNnZlZ25RamxIWEcwNEZWZ3ZTYk90QVVhMS1GYXhxRHJvVWVYSWNfVHZzYzc5bThmRXcxaDVwNEdXYXdZcmd2cVVDdElDbGfSAZwCQVVfeXFMTl9CUGM1cmRGRWw3bDJsTkVsME96dHA5Qmw0Mzk3Y0N1WjduRUpHYjZPQUNGcXNaMG1mTEZUWW9HaTY0UUdQU2tlbEctZUV4dzdoakRpVzNjMVFfZ3FPLWFIdVd4TVRtaFZha3NFSU9ET1dfcVctZEIwQVo0T2JPTzBfbG42WEVSeG4wRGJVN2Y3MUNzMmJQYTFSOGUyRGZvcE9UdTdxbHg2LW9ZaTJPdTI2WDU4dzBtemUyalhaZXRnd3ZkbExmOWFSaC1DQVJaYTAza3ViZ1VsWGpFT1JnNG1XMHluOHlPV050VmF2Rk5hTDVVeGQzWVM4VGpQeWtGUVJnNXl0eGhvLURfLTlLck5IbmFvRXNTbXZ3RVk?oc=5",
+   "source": "G1",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-24T04:30:39Z",
+   "tries": 1
+  },
+  {
+   "id": "57586dcc4b76",
+   "date": "2026-11-18",
+   "title": "Senado pede explicações a TCU sobre alíquota de 11,3% da CBS",
+   "resumo": "",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNDZSaXFRaHJ3SHpYQ3h0ajJKWGtqNm9QSHpYbks1RFpTbjROU3VNWVZ4TllvLWJSS1ZMeEdLbGoySlNXMVZkdnJHZ1UzOTRBUHZIWUZ5R1BrSWN6aFZvM2V3OEF4T2RnVEhKWGhVTFhnZVY1MVo0ZWF2TlRVRVdlX2drc01EWG9MYzg4Vzc1cWNQRlgwYkVHN0xmYXlmemJVamlvN2JQSTJLVzFmYTIzaXh2eWU?oc=5",
+   "source": "Agência Brasil",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-24T04:30:39Z",
+   "tries": 1
+  },
+  {
+   "id": "389800182b73",
+   "date": "2026-11-18",
+   "title": "Reforma tributária: Decisão da Justiça afasta IBS e CBS da base do ISS",
+   "resumo": "Por Luciana Portinari. Liminar permite afastar novos tributos do cálculo do ISS em 2027 e reforça a necessidade de planejamento tributário preventivo.",
+   "link": "https://www.migalhas.com.br/depeso/468871/reforma-tributaria-decisao-da-justica-afasta-ibs-e-cbs-da-base-do-iss",
+   "source": "Migalhas",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-24T04:30:39Z",
+   "tries": 1
+  },
+  {
    "id": "522624e8c827",
    "date": "2026-11-18",
    "title": "Reforma tributária: Veja o calendário e o que muda em 2027",
@@ -1930,58 +1982,6 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-23T23:40:17Z",
-   "tries": 1
-  },
-  {
-   "id": "7fbc9339f310",
-   "date": "2026-11-18",
-   "title": "ARTIGO: Dívida ativa e reforma tributária: uma agenda de responsabilidade fiscal municipal - a arrecadação de 2026, a transição do IBS e os desafios fiscais dos municípios",
-   "resumo": "",
-   "link": "https://www.tce.sp.gov.br/6524-artigo-divida-ativa-e-reforma-tributaria-agenda-responsabilidade-fiscal-municipal-arrecadacao",
-   "source": "Tribunal de Contas do Estado de São Paulo",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T23:40:17Z",
-   "tries": 2
-  },
-  {
-   "id": "7f56f412784b",
-   "date": "2026-11-18",
-   "title": "Receita libera apuração assistida da reforma tributária para empresas nesta semana",
-   "resumo": "Ferramenta ficará disponível para todas as empresas, segundo Robinson Barreirinhas, e apresentará tributos a pagar e créditos disponíveis.",
-   "link": "https://www.contabeis.com.br/noticias/80966/receita-libera-apuracao-assistida-da-reforma-tributaria-para-empresas-nesta-semana/",
-   "source": "Portal Contabeis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T22:41:43Z",
-   "tries": 1
-  },
-  {
-   "id": "2e3bc4d1c35b",
-   "date": "2026-11-18",
-   "title": "Os custos da mão de obra na reforma tributária",
-   "resumo": "Reforma traz desafios para o setor de serviços e para empresas cuja estrutura de custos está concentrada na contratação de mão de obra",
-   "link": "https://conjur.com.br/2026-nov-18/os-custos-da-mao-de-obra-na-reforma-tributaria/",
-   "source": "Consultor Jurídico",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T22:41:43Z",
-   "tries": 1
-  },
-  {
-   "id": "3a822eb8ebbc",
-   "date": "2026-11-18",
-   "title": "CBS em 2027: empresas pedem mais prazo para adaptação",
-   "resumo": "A cobrança da CBS está prevista para janeiro de 2027, mas empresas e contadores apontam desafios para adaptar sistemas, processos e equipes.",
-   "link": "https://www.contabeis.com.br/noticias/80951/cbs-em-2027-empresas-pedem-mais-prazo-para-adaptacao/",
-   "source": "Portal Contabeis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T22:41:43Z",
    "tries": 1
   }
  ]

@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-23T23:40:17Z",
- "lastCheckBr": "23/11/2026 20:40",
- "added": 24,
+ "lastCheckAt": "2026-11-24T00:47:10Z",
+ "lastCheckBr": "23/11/2026 21:47",
+ "added": 20,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -43,17 +43,30 @@
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 98,
-   "new": 16
+   "found": 96,
+   "new": 12
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
    "ok": true,
-   "found": 12,
+   "found": 11,
    "new": 8
   }
  ],
  "items": [
+  {
+   "id": "f758756a6b23",
+   "date": "2026-11-23",
+   "title": "Transparência na nota, clareza na gôndola e isonomia na concorrência: os pilares do varejo na Reforma Tributária",
+   "resumo": "",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOOGJpdE1xR1Y3Y3FhdnRjUDVTRWZ0d0dQTGNkZXFnamN6WkpRWnNRWXdncDZpZGYzZWNZaHpxd3NhZzJnbU11V2RaaGtKSXA0QWhBM0QtcHd1LWMwc1VfQ3pjalNJN21OVWFMTEtjZ1RfeDZIS3FhQTV0WEZ0YjQ4U1pNYl9DX2tGMC10UkUtZFpxckJvSGxXTWNiYlVpQXh0clF5Q2otYmszZG94QS1RYWR1TnpoU0xxbEhnYk9uRVM2SktzSlJ1TzV4QmJoRkxSNXB5UEVQY2ZRUUJCY1QxdUJLa29Hbi1EcDZCTDctNndTZFnSAfgBQVVfeXFMT2lVanhoeGY5M1dlS3dnc0Jsby1iT1RNa05IbE9kSE9MRmlKX21JcmtKai1CcnZTRnVVaWdlZ3dlaWJfRzNBNDltWHB6a09ZdnVjM3RIVThDbGhZZkpRU0ZlNTYtbUpFcWtwbGxlNlpDSmsyMnRIWi1ERk9lWVF5RnoyZ1VKczc0Y3d3aDA2MEo2WGVMRlR0aTdZajAyRlNtTFFBeHBzY2VCcWhhSVhLZEJfbEpSOURhNnRtTEN4bjV3c1RCTXd4YVJlUW9SU2lWZ2hyTW9jOTBYV0szOTZMLWVjaDVQTFMyV2tJbXY0VEMwdFFBS0ZMbUs?oc=5",
+   "source": "Mercado&Consumo",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-24T00:47:10Z",
+   "tries": 1
+  },
   {
    "id": "106f0c671d8f",
    "date": "2026-11-23",
@@ -1777,6 +1790,19 @@
    "tries": 1
   },
   {
+   "id": "5feff7562029",
+   "date": "2026-11-18",
+   "title": "FAQ da Reforma Tributária para Corretores e Corretoras de Seguros",
+   "resumo": "",
+   "link": "https://www.fenacor.org.br/Servicos/ArtigosDetalhes?Slug",
+   "source": "Fenacor",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-24T00:47:10Z",
+   "tries": 1
+  },
+  {
    "id": "ddcb397bf89d",
    "date": "2026-11-18",
    "title": "RFB e CGIBS alinham próximos passos da Reforma Tributária e reforçam compromisso com a conformidade",
@@ -1800,7 +1826,7 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-23T23:40:17Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "7f56f412784b",
@@ -1956,32 +1982,6 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-23T18:48:11Z",
-   "tries": 1
-  },
-  {
-   "id": "eb82a1701c54",
-   "date": "2026-11-18",
-   "title": "IBS e CBS no ISS: empresas questionam cobrança na Justiça",
-   "resumo": "Empresas e entidades contestam a inclusão dos novos tributos na base do ISS. Entenda os argumentos e o que está em discussão.",
-   "link": "https://www.contabeis.com.br/noticias/80960/ibs-e-cbs-no-iss-empresas-questionam-cobranca-na-justica/",
-   "source": "Portal Contabeis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T18:48:11Z",
-   "tries": 1
-  },
-  {
-   "id": "7a386cf6feb4",
-   "date": "2026-11-18",
-   "title": "Durigan defende início da Reforma Tributária em 2027 e prevê alíquota média de 8,5% para a CBS",
-   "resumo": "Em audiência no Senado, ministro da Fazenda afirmou que a transição não será adiada, reconheceu possível impacto inicial na inflação e defendeu a redução dos encargos sobre a folha de...",
-   "link": "https://fenacon.org.br/noticias/durigan-defende-inicio-da-reforma-tributaria-em-2027-e-preve-aliquota-media-de-85-para-a-cbs/",
-   "source": "Sistema FENACON",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-23T17:50:16Z",
    "tries": 1
   }
  ]

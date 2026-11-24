@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-24T00:47:10Z",
- "lastCheckBr": "23/11/2026 21:47",
- "added": 20,
+ "lastCheckAt": "2026-11-24T02:06:37Z",
+ "lastCheckBr": "23/11/2026 23:06",
+ "added": 21,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -44,7 +44,7 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 96,
-   "new": 12
+   "new": 13
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -54,6 +54,19 @@
   }
  ],
  "items": [
+  {
+   "id": "e316adf2bf3b",
+   "date": "2026-11-23",
+   "title": "Reforma tributária desafia cadeia fria da saúde com alíquota estimada de 11,3% da CBS",
+   "resumo": "Empresas atuantes no transporte refrigerado de produtos farmacêuticos e estéticos avaliam alternativas tributárias diante da projeção de alíquota de 11,3%",
+   "link": "https://brasilinovador.com.br/reforma-tributaria-desafia-cadeia-fria-da-saude-com-aliquota-estimada-de-113-da-cbs/",
+   "source": "Brasil Inovador",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-24T02:06:37Z",
+   "tries": 1
+  },
   {
    "id": "f758756a6b23",
    "date": "2026-11-23",
@@ -65,7 +78,7 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-24T00:47:10Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "106f0c671d8f",
@@ -1302,6 +1315,19 @@
    "tries": 1
   },
   {
+   "id": "2be0ba6aff23",
+   "date": "2026-11-19",
+   "title": "Reforma Tributária exige preparo estratégico das empresas",
+   "resumo": "Reforma Tributária impacta preços, contratos e caixa. Entenda por que a preparação precisa integrar áreas e decisões de negócio.",
+   "link": "https://www.contabeis.com.br/artigos/81024/reforma-tributaria-exige-preparo-estrategico-das-empresas/",
+   "source": "Portal Contabeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-24T02:06:37Z",
+   "tries": 1
+  },
+  {
    "id": "6e6fc0a86d22",
    "date": "2026-11-19",
    "title": "Receita Federal, CGIBS e CFC vão orientar mais de 25 mil profissionais da contabilidade sobre destaque de CBS/IBS em documentos fiscais",
@@ -1790,6 +1816,19 @@
    "tries": 1
   },
   {
+   "id": "eb82a1701c54",
+   "date": "2026-11-18",
+   "title": "IBS e CBS no ISS: empresas questionam cobrança na Justiça",
+   "resumo": "Empresas e entidades contestam a inclusão dos novos tributos na base do ISS. Entenda os argumentos e o que está em discussão.",
+   "link": "https://www.contabeis.com.br/noticias/80960/ibs-e-cbs-no-iss-empresas-questionam-cobranca-na-justica/",
+   "source": "Portal Contabeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-24T02:06:37Z",
+   "tries": 1
+  },
+  {
    "id": "5feff7562029",
    "date": "2026-11-18",
    "title": "FAQ da Reforma Tributária para Corretores e Corretoras de Seguros",
@@ -1800,7 +1839,7 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-24T00:47:10Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "ddcb397bf89d",
@@ -1943,45 +1982,6 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-23T20:42:20Z",
-   "tries": 1
-  },
-  {
-   "id": "0e1b3ca24b3f",
-   "date": "2026-11-18",
-   "title": "OAB vê \"caixa preta\" na CBS e pede adiamento da reforma tributária",
-   "resumo": "Em audiência na CAE, representante da entidade criticou os cálculos da CBS de 11,3% e apontou cenário de insegurança jurídica.",
-   "link": "https://www.congressoemfoco.com.br/noticia/131701/oab-ve-caixa-preta-na-cbs-e-pede-adiamento-da-reforma-tributaria",
-   "source": "Congresso em Foco",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T20:42:20Z",
-   "tries": 1
-  },
-  {
-   "id": "522624e8c827",
-   "date": "2026-11-18",
-   "title": "Reforma tributária: Veja o calendário e o que muda em 2027",
-   "resumo": "Após três anos de preparação, novo sistema começa a substituir impostos federais em 2027; Senado tem até 15 de dezembro para definir alíquota da CBS.",
-   "link": "https://www.congressoemfoco.com.br/noticia/131680/reforma-tributaria-veja-o-calendario-e-o-que-muda-em-2027",
-   "source": "Congresso em Foco",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T18:48:11Z",
-   "tries": 1
-  },
-  {
-   "id": "35c9cb61f67c",
-   "date": "2026-11-18",
-   "title": "Reforma tributária: O fato gerador do IBS e da CBS nos contratos de tecnologia",
-   "resumo": "Por Aurélio Longo Guerzoni. A reforma tributária estabelece diferentes momentos de ocorrência do fato gerador do IBS e da CBS para operações com bens imateriais e serviços de execução continuada.",
-   "link": "https://www.migalhas.com.br/depeso/468350/reforma-tributaria-gerador-do-ibs-e-cbs-nos-contratos-de-tecnologia",
-   "source": "Migalhas",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T18:48:11Z",
    "tries": 1
   }
  ]

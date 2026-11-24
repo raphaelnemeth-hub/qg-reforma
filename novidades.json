@@ -1,13 +1,13 @@
 {
- "lastCheckAt": "2026-11-24T12:56:57Z",
- "lastCheckBr": "24/11/2026 09:56",
- "added": 26,
+ "lastCheckAt": "2026-11-24T14:15:49Z",
+ "lastCheckBr": "24/11/2026 11:15",
+ "added": 27,
  "feeds": [
   {
    "name": "Agência Senado",
    "ok": true,
-   "found": 0,
-   "new": 0
+   "found": 1,
+   "new": 1
   },
   {
    "name": "Agência Câmara",
@@ -25,14 +25,14 @@
   {
    "name": "Agência Brasil",
    "ok": true,
-   "found": 3,
+   "found": 1,
    "new": 0
   },
   {
    "name": "Portal Contábeis",
    "ok": true,
-   "found": 7,
-   "new": 1
+   "found": 8,
+   "new": 2
   },
   {
    "name": "InfoMoney",
@@ -44,16 +44,65 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 95,
-   "new": 19
+   "new": 18
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
    "ok": true,
-   "found": 10,
+   "found": 9,
    "new": 6
   }
  ],
  "items": [
+  {
+   "id": "423d016f1d3f",
+   "date": "2026-11-24",
+   "title": "Projeto de ajuste fiscal segue para a sanção presidencial",
+   "resumo": "A Câmara dos Deputados aprovou na segunda-feira (23) o projeto de lei do ajuste fiscal, que altera regras fiscais para permitir que o Executivo limite a execução de despesas a fim de alcançar as metas de superávit primário a partir de 2027. O projeto (PLP…",
+   "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/projeto-de-ajuste-fiscal-segue-para-a-sancao-presidencial",
+   "source": "Senado Federal",
+   "official": true,
+   "category": "cap",
+   "tag": "Capacitação",
+   "addedAt": "2026-11-24T14:15:49Z"
+  },
+  {
+   "id": "4bb56a89f3fa",
+   "date": "2026-11-24",
+   "title": "CBS: crédito de bens de capital difere da depreciação",
+   "resumo": "Entenda os requisitos para o crédito da CBS sobre bens de capital, a depreciação contábil e o tratamento dos créditos antigos de PIS / Cofins em 2027. Leia mais em…",
+   "link": "https://www.contabeis.com.br/noticias/81091/cbs-credito-de-bens-de-capital-difere-da-depreciacao/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "cont",
+   "tag": "Contabilidade",
+   "addedAt": "2026-11-24T14:15:49Z"
+  },
+  {
+   "id": "38fcc120c086",
+   "date": "2026-11-24",
+   "title": "DeRE já pode ser testada no piloto da CBS antes da cobrança",
+   "resumo": "Empresas com CNPJ podem acessar o piloto da CBS e testar a DeRE, APIs e outras funcionalidades no ambiente de produção restrita. Leia mais em https://www.contabeis.com.br/noticias/81084/dere-ja-pode-ser-testada-no-piloto-da-cbs-antes-da-cobranca/",
+   "link": "https://www.contabeis.com.br/noticias/81084/dere-ja-pode-ser-testada-no-piloto-da-cbs-antes-da-cobranca/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-24T14:15:49Z"
+  },
+  {
+   "id": "9215ea2ddd1f",
+   "date": "2026-11-24",
+   "title": "Como a reforma tributária vai mudar o mapa logístico do país?",
+   "resumo": "O fim de incentivos fiscais nos estados pode mudar a estratégia de galpões e centros de distribuição",
+   "link": "https://obrasilianista.com.br/2026/11/24/economia/como-reforma-tributaria-mudar-mapa-logistico-pais/",
+   "source": "O Brasilianista",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-24T14:15:49Z",
+   "tries": 1
+  },
   {
    "id": "26905b0abb30",
    "date": "2026-11-24",
@@ -90,7 +139,7 @@
    "category": "cont",
    "tag": "Contabilidade",
    "addedAt": "2026-11-24T12:56:57Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "93a5f1784d04",
@@ -141,6 +190,32 @@
    "category": "lei",
    "tag": "Legislação",
    "addedAt": "2026-11-24T04:30:39Z"
+  },
+  {
+   "id": "56d269e9e7d8",
+   "date": "2026-11-23",
+   "title": "CBS e IBS: alerta da Receita não é autuação",
+   "resumo": "Entenda o alerta da Receita sobre o preenchimento de CBS e IBS em documentos fiscais e saiba como verificar possíveis inconsistências sem presumir infração.",
+   "link": "https://www.contabeis.com.br/artigos/81049/cbs-e-ibs-alerta-da-receita-nao-e-autuacao/",
+   "source": "Portal Contabeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-24T14:15:49Z",
+   "tries": 1
+  },
+  {
+   "id": "712a943ec8fd",
+   "date": "2026-11-23",
+   "title": "Reforma Tributária: apuração assistida do Fisco em 2027 exige preparação das empresas | SEGS Portal...",
+   "resumo": "Novo modelo transfere a apuração do IBS e da CBS para a Receita; omissão dos contribuintes no prazo de validação pode gerar pagamentos indevidos e perda de créditos A aproximação de 2027 traz um dos pontos mais críticos e ainda pouco debatidos da Reforma…",
+   "link": "https://www.segs.com.br/seguros/459731-reforma-tributaria-apuracao-assistida-do-fisco-em-2027-exige-preparacao-das-empresas",
+   "source": "SEGS Portal Nacional",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-24T14:15:49Z",
+   "tries": 1
   },
   {
    "id": "8690881f0366",
@@ -1429,6 +1504,19 @@
    "tries": 1
   },
   {
+   "id": "c541b9cb7c70",
+   "date": "2026-11-19",
+   "title": "OAB vê \"caixa preta\" na CBS e pede adiamento da reforma tributária",
+   "resumo": "",
+   "link": "https://fenafisco.org.br/amp/19/11/2026/oab-ve-caixa-preta-na-cbs-e-pede-adiamento-da-reforma-tributaria/",
+   "source": "Fenafisco",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-24T14:15:49Z",
+   "tries": 1
+  },
+  {
    "id": "e35230f1f45a",
    "date": "2026-11-19",
    "title": "Senado pede explicações a TCU sobre alíquota de 11,3% da CBS",
@@ -1890,96 +1978,6 @@
    "category": "cont",
    "tag": "Contabilidade",
    "addedAt": "2026-11-19T14:14:36Z"
-  },
-  {
-   "id": "d23a62070e8c",
-   "date": "2026-11-19",
-   "title": "Reforma Tributária: A Receita Federal divulga a atualização dos números referentes às solicitações de opção pelo Simples Nacional e pelo regime regular do IBS e da CBS",
-   "resumo": "Agilize decisões seguras. Legislação, Comentários e Consultoria nas áreas de IR e Contribuições, ICMS, IPI, ISS, Contabilidade e Societário, Simples Nacional, Trabalhista e Previdenciária. Cálculos e Tabelas de Substituição Tributária. Agenda Tributária…",
-   "link": "https://www.legisweb.com.br/noticia/?id",
-   "source": "LegisWeb",
-   "official": false,
-   "category": "simples",
-   "tag": "Simples",
-   "addedAt": "2026-11-19T14:14:36Z",
-   "tries": 1
-  },
-  {
-   "id": "bb12fa693951",
-   "date": "2026-11-19",
-   "title": "Reforma Tributária: ministro diz que alíquota da CBS será de 8,5%",
-   "resumo": "Em comissão do Senado, Durigan afirma que os 11,3% do TCU não será o percentual cobrado do consumidor mas admitiu ‘pequeno’ impacto nos preços",
-   "link": "https://brasil61.com/n/reforma-tributaria-ministro-diz-que-aliquota-da-cbs-sera-de-8-5-bras2617495",
-   "source": "Brasil 61",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-19T14:14:36Z",
-   "tries": 1
-  },
-  {
-   "id": "d8f1f4e356ee",
-   "date": "2026-11-19",
-   "title": "Senado questiona cálculo de 11,3% da CBS para 2027",
-   "resumo": "CAE pede ao TCU estudos e memória de cálculo da alíquota de referência da CBS , após especialistas apontarem estimativas menores. Leia mais em https://www.contabeis.com.br/noticias/81000/senado-questiona-calculo-de-11-3-da-cbs-para-2027/",
-   "link": "https://www.contabeis.com.br/noticias/81000/senado-questiona-calculo-de-11-3-da-cbs-para-2027/",
-   "source": "Portal Contábeis",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-19T12:56:09Z"
-  },
-  {
-   "id": "125143d99da3",
-   "date": "2026-11-19",
-   "title": "Reforma tributária: o início de uma nova guerra judicial de teses",
-   "resumo": "No Brasil, aquilo que nasce para simplificar frequentemente termina por complicar. A reforma tributária parece caminhar nessa direção",
-   "link": "https://conjur.com.br/2026-nov-19/reforma-tributaria-o-inicio-de-uma-nova-guerra-judicial-de-teses/",
-   "source": "Consultor Jurídico",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-19T10:51:36Z",
-   "tries": 1
-  },
-  {
-   "id": "7946ee49665d",
-   "date": "2026-11-18",
-   "title": "Reforma tributária: alíquota de 11,3% da CBS pode valer só em 2027 e mudar depois; entenda",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOMGdBTTB5Qkdsc01sRlFqV09KNWo3QTlVeUJST21iSHA0TE5MU25ZRF91clk2cV8yWkxsdnp0YnRKam1xdjg1Y3pPaTJEWGJianJXSWtDazJMcktxSi1xYTFRZ25ZLVhBVDRMNExBUmFhZ0xiVXY1RENmUER1OEV1cGR6R3ZqcXVvRG1qdWFuUHA4OFRKbmFtRWxHTmFNTDUtYVdfM0pUS0dFWWM4Wk84TlpkbEVOVWN5SGxUTTJFQkoyQ3VKcDNYNnZlZ25RamxIWEcwNEZWZ3ZTYk90QVVhMS1GYXhxRHJvVWVYSWNfVHZzYzc5bThmRXcxaDVwNEdXYXdZcmd2cVVDdElDbGfSAZwCQVVfeXFMTl9CUGM1cmRGRWw3bDJsTkVsME96dHA5Qmw0Mzk3Y0N1WjduRUpHYjZPQUNGcXNaMG1mTEZUWW9HaTY0UUdQU2tlbEctZUV4dzdoakRpVzNjMVFfZ3FPLWFIdVd4TVRtaFZha3NFSU9ET1dfcVctZEIwQVo0T2JPTzBfbG42WEVSeG4wRGJVN2Y3MUNzMmJQYTFSOGUyRGZvcE9UdTdxbHg2LW9ZaTJPdTI2WDU4dzBtemUyalhaZXRnd3ZkbExmOWFSaC1DQVJaYTAza3ViZ1VsWGpFT1JnNG1XMHluOHlPV050VmF2Rk5hTDVVeGQzWVM4VGpQeWtGUVJnNXl0eGhvLURfLTlLck5IbmFvRXNTbXZ3RVk?oc=5",
-   "source": "G1",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-24T12:56:57Z",
-   "tries": 1
-  },
-  {
-   "id": "5feff7562029",
-   "date": "2026-11-18",
-   "title": "FAQ da Reforma Tributária para Corretores e Corretoras de Seguros",
-   "resumo": "",
-   "link": "https://www.fenacor.org.br/Servicos/ArtigosDetalhes?Slug",
-   "source": "Fenacor",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-24T12:56:57Z",
-   "tries": 1
-  },
-  {
-   "id": "7f56f412784b",
-   "date": "2026-11-18",
-   "title": "Receita libera apuração assistida da reforma tributária para empresas nesta semana",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPT0t5eXBmNmRJcEpxRHpkanBSNjE2cTV0anhMRzdfeGFHd08xbzEtWDFBTWVzb1NiSVhlLTlBZ2QyYS1fWUdDRGY2SFZlTDZZV19wa2hjZmFzWXVSbE82RDRreS1pQzkyazlPSHYtSjZJQzVDVk45NDk0TXpjRmlSYldfZEZEaVd6NmxfTXNrQm5YbkM4T1gydVFiZ1pJSnZOTWJ2Tmw0U2xuNjRLQnhqUUlYdThNZXdRa1lhbFJPUEpWdTNsU0E?oc=5",
-   "source": "Portal Contabeis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-24T12:56:57Z",
-   "tries": 1
   }
  ]
 }

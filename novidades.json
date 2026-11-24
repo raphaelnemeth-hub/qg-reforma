@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-24T02:06:37Z",
- "lastCheckBr": "23/11/2026 23:06",
- "added": 21,
+ "lastCheckAt": "2026-11-24T03:19:56Z",
+ "lastCheckBr": "24/11/2026 00:19",
+ "added": 23,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -43,8 +43,8 @@
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 96,
-   "new": 13
+   "found": 98,
+   "new": 15
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -54,6 +54,19 @@
   }
  ],
  "items": [
+  {
+   "id": "092cf04c3c0a",
+   "date": "2026-11-23",
+   "title": "Reforma tributária vai zerar impostos de carnes, arroz e café; veja a lista de 22 alimentos",
+   "resumo": "Reforma tributária começa em 2027 e prevê imposto zero para 22 alimentos, como carnes, arroz, café e leite. Confira a lista completa e entenda o que muda nos preços.",
+   "link": "https://gmconline.com.br/noticias/geral/reforma-tributaria-vai-zerar-impostos-de-carnes-arroz-e-cafe-veja-a-lista-de-22-alimentos/",
+   "source": "GMC Online",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-24T03:19:56Z",
+   "tries": 1
+  },
   {
    "id": "e316adf2bf3b",
    "date": "2026-11-23",
@@ -1816,6 +1829,71 @@
    "tries": 1
   },
   {
+   "id": "522624e8c827",
+   "date": "2026-11-18",
+   "title": "Reforma tributária: Veja o calendário e o que muda em 2027",
+   "resumo": "Após três anos de preparação, novo sistema começa a substituir impostos federais em 2027; Senado tem até 15 de dezembro para definir alíquota da CBS.",
+   "link": "https://www.congressoemfoco.com.br/noticia/131680/reforma-tributaria-veja-o-calendario-e-o-que-muda-em-2027",
+   "source": "Congresso em Foco",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-24T03:19:56Z",
+   "tries": 1
+  },
+  {
+   "id": "7a386cf6feb4",
+   "date": "2026-11-18",
+   "title": "Durigan defende início da Reforma Tributária em 2027 e prevê alíquota média de 8,5% para a CBS",
+   "resumo": "Em audiência no Senado, ministro da Fazenda afirmou que a transição não será adiada, reconheceu possível impacto inicial na inflação e defendeu a redução dos encargos sobre a folha de...",
+   "link": "https://fenacon.org.br/noticias/durigan-defende-inicio-da-reforma-tributaria-em-2027-e-preve-aliquota-media-de-85-para-a-cbs/",
+   "source": "Sistema FENACON",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-24T03:19:56Z",
+   "tries": 1
+  },
+  {
+   "id": "35c9cb61f67c",
+   "date": "2026-11-18",
+   "title": "Reforma tributária: O fato gerador do IBS e da CBS nos contratos de tecnologia",
+   "resumo": "Por Aurélio Longo Guerzoni. A reforma tributária estabelece diferentes momentos de ocorrência do fato gerador do IBS e da CBS para operações com bens imateriais e serviços de execução continuada.",
+   "link": "https://www.migalhas.com.br/depeso/468350/reforma-tributaria-gerador-do-ibs-e-cbs-nos-contratos-de-tecnologia",
+   "source": "Migalhas",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-24T03:19:56Z",
+   "tries": 1
+  },
+  {
+   "id": "9641adc4f14d",
+   "date": "2026-11-18",
+   "title": "Adiamento da CBS: esperar uma decisão não é motivo para deixar a preparação para depois",
+   "resumo": "Entidades pedem que a cobrança efetiva da CBS seja transferida para 2028, mas o calendário continua prevendo janeiro de 2027. Revisar cadastros, testar sistemas e calcular os efeitos sobre preços e tributos são providências que as empresas já precisa",
+   "link": "https://www.contabeis.com.br/noticias/80870/adiamento-da-cbs-esperar-uma-decisao-nao-e-motivo-para-deixar-a-preparacao-para-depois/",
+   "source": "Portal Contabeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-24T03:19:56Z",
+   "tries": 1
+  },
+  {
+   "id": "0e1b3ca24b3f",
+   "date": "2026-11-18",
+   "title": "OAB vê \"caixa preta\" na CBS e pede adiamento da reforma tributária",
+   "resumo": "Em audiência na CAE, representante da entidade criticou os cálculos da CBS de 11,3% e apontou cenário de insegurança jurídica.",
+   "link": "https://www.congressoemfoco.com.br/noticia/131701/oab-ve-caixa-preta-na-cbs-e-pede-adiamento-da-reforma-tributaria",
+   "source": "Congresso em Foco",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-24T03:19:56Z",
+   "tries": 1
+  },
+  {
    "id": "eb82a1701c54",
    "date": "2026-11-18",
    "title": "IBS e CBS no ISS: empresas questionam cobrança na Justiça",
@@ -1904,84 +1982,6 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-23T22:41:43Z",
-   "tries": 1
-  },
-  {
-   "id": "bda4330d7163",
-   "date": "2026-11-18",
-   "title": "Ministro defende alíquota média de 8,5% na reforma tributária",
-   "resumo": "Durigan afirma que alíquota máxima da CBS será de 11,3% e destaca benefícios sociais e revisão anual dos percentuais.",
-   "link": "https://www.contabeis.com.br/noticias/80963/ministro-defende-aliquota-media-de-8-5-na-reforma-tributaria/",
-   "source": "Portal Contabeis",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-23T22:41:43Z",
-   "tries": 1
-  },
-  {
-   "id": "ffebdda1bcb2",
-   "date": "2026-11-18",
-   "title": "Reforma Tributária: Receita publica primeiro código-fonte aberto no GitHub",
-   "resumo": "A Receita Federal deu mais um passo na implementação da Reforma Tributária do Consumo ao autorizar a",
-   "link": "https://convergenciadigital.com.br/governo/reforma-tributaria-receita-publica-primeiro-codigo-fonte-aberto-no-github/",
-   "source": "ConvergenciaDigital",
-   "official": false,
-   "category": "lei",
-   "tag": "Legislação",
-   "addedAt": "2026-11-23T22:41:43Z",
-   "tries": 1
-  },
-  {
-   "id": "7946ee49665d",
-   "date": "2026-11-18",
-   "title": "Reforma tributária: alíquota de 11,3% da CBS pode valer só em 2027 e mudar depois; entenda",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOMGdBTTB5Qkdsc01sRlFqV09KNWo3QTlVeUJST21iSHA0TE5MU25ZRF91clk2cV8yWkxsdnp0YnRKam1xdjg1Y3pPaTJEWGJianJXSWtDazJMcktxSi1xYTFRZ25ZLVhBVDRMNExBUmFhZ0xiVXY1RENmUER1OEV1cGR6R3ZqcXVvRG1qdWFuUHA4OFRKbmFtRWxHTmFNTDUtYVdfM0pUS0dFWWM4Wk84TlpkbEVOVWN5SGxUTTJFQkoyQ3VKcDNYNnZlZ25RamxIWEcwNEZWZ3ZTYk90QVVhMS1GYXhxRHJvVWVYSWNfVHZzYzc5bThmRXcxaDVwNEdXYXdZcmd2cVVDdElDbGfSAZwCQVVfeXFMTl9CUGM1cmRGRWw3bDJsTkVsME96dHA5Qmw0Mzk3Y0N1WjduRUpHYjZPQUNGcXNaMG1mTEZUWW9HaTY0UUdQU2tlbEctZUV4dzdoakRpVzNjMVFfZ3FPLWFIdVd4TVRtaFZha3NFSU9ET1dfcVctZEIwQVo0T2JPTzBfbG42WEVSeG4wRGJVN2Y3MUNzMmJQYTFSOGUyRGZvcE9UdTdxbHg2LW9ZaTJPdTI2WDU4dzBtemUyalhaZXRnd3ZkbExmOWFSaC1DQVJaYTAza3ViZ1VsWGpFT1JnNG1XMHluOHlPV050VmF2Rk5hTDVVeGQzWVM4VGpQeWtGUVJnNXl0eGhvLURfLTlLck5IbmFvRXNTbXZ3RVk?oc=5",
-   "source": "G1",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-23T21:42:13Z",
-   "tries": 2
-  },
-  {
-   "id": "f2b016b79881",
-   "date": "2026-11-18",
-   "title": "Contratos e reforma tributária: O que revisar com a CBS em 2027",
-   "resumo": "Por Carolina Fernandes. CBS substitui PIS/Cofins em 2027, com transição até 2033. Contratos novos ou renovados devem prever repasse de custos, créditos, split payment e local da operação.",
-   "link": "https://www.migalhas.com.br/depeso/468529/contratos-e-reforma-tributaria-o-que-revisar-com-a-cbs-em-2027",
-   "source": "Migalhas",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T21:42:13Z",
-   "tries": 1
-  },
-  {
-   "id": "57586dcc4b76",
-   "date": "2026-11-18",
-   "title": "Senado pede explicações a TCU sobre alíquota de 11,3% da CBS",
-   "resumo": "Em audiências públicas, especialistas e empresários propõem percentual menor do imposto que substituirá o PIS e a Cofins em 2027. Governo defende alíquota definida pelo TCU.",
-   "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/senado-pede-explicacoes-tcu-sobre-aliquota-de-113-da-cbs",
-   "source": "Agência Brasil",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-23T20:42:20Z",
-   "tries": 1
-  },
-  {
-   "id": "389800182b73",
-   "date": "2026-11-18",
-   "title": "Reforma tributária: Decisão da Justiça afasta IBS e CBS da base do ISS",
-   "resumo": "Por Luciana Portinari. Liminar permite afastar novos tributos do cálculo do ISS em 2027 e reforça a necessidade de planejamento tributário preventivo.",
-   "link": "https://www.migalhas.com.br/depeso/468871/reforma-tributaria-decisao-da-justica-afasta-ibs-e-cbs-da-base-do-iss",
-   "source": "Migalhas",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T20:42:20Z",
    "tries": 1
   }
  ]

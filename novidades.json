@@ -1,13 +1,13 @@
 {
- "lastCheckAt": "2026-11-24T21:47:03Z",
- "lastCheckBr": "24/11/2026 18:47",
- "added": 36,
+ "lastCheckAt": "2026-11-24T22:46:40Z",
+ "lastCheckBr": "24/11/2026 19:46",
+ "added": 22,
  "feeds": [
   {
    "name": "Agência Senado",
    "ok": true,
    "found": 1,
-   "new": 1
+   "new": 0
   },
   {
    "name": "Agência Câmara",
@@ -17,15 +17,16 @@
   },
   {
    "name": "Receita Federal",
-   "ok": true,
+   "ok": false,
    "found": 0,
-   "new": 0
+   "new": 0,
+   "error": "URLError"
   },
   {
    "name": "Agência Brasil",
    "ok": true,
    "found": 1,
-   "new": 1
+   "new": 0
   },
   {
    "name": "Portal Contábeis",
@@ -42,17 +43,56 @@
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 95,
-   "new": 28
+   "found": 96,
+   "new": 16
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
    "ok": true,
-   "found": 9,
+   "found": 8,
    "new": 6
   }
  ],
  "items": [
+  {
+   "id": "86937af02ebf",
+   "date": "2026-11-24",
+   "title": "Reforma tributária: impactos do IBS, CBS e split payment",
+   "resumo": "Entenda os impactos da reforma tributária nas empresas, incluindo as alíquotas de IBS e CBS, o split payment e a apropriação de créditos.",
+   "link": "https://www.contabeis.com.br/artigos/81100/reforma-tributaria-impactos-do-ibs-cbs-e-split-payment/",
+   "source": "Portal Contabeis",
+   "official": false,
+   "category": "pag",
+   "tag": "Split payment",
+   "addedAt": "2026-11-24T22:46:40Z",
+   "tries": 1
+  },
+  {
+   "id": "72d02c0593b2",
+   "date": "2026-11-24",
+   "title": "Que imposto é esse: Frentes parlamentares recebem estudos que revisam cálculo da CBS para menos de 10%",
+   "resumo": "Cálculos apresentados por Márcio Holland, Daniel Loria e Eduardo Fleury reveem premissas do TCU",
+   "link": "https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/11/frentes-parlamentares-recebem-estudos-que-revisam-calculo-da-cbs-para-menos-de-10.shtml",
+   "source": "Folha de S.Paulo",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-24T22:46:40Z",
+   "tries": 1
+  },
+  {
+   "id": "0790eb8d58c7",
+   "date": "2026-11-24",
+   "title": "DeRE: veja quem pode acessar o novo ambiente de testes da CBS",
+   "resumo": "Receita Federal liberou o acesso ao ambiente de testes, permitindo que empresas validem declarações e sistemas antes de 2027",
+   "link": "https://jornalcontabil.com.br/noticia/dere-veja-quem-pode-acessar-o-novo-ambiente-de-testes-da-cbs/",
+   "source": "Jornal Contábil",
+   "official": false,
+   "category": "cont",
+   "tag": "Contabilidade",
+   "addedAt": "2026-11-24T22:46:40Z",
+   "tries": 1
+  },
   {
    "id": "a001f44f90b9",
    "date": "2026-11-24",
@@ -192,7 +232,7 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-24T21:47:03Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "20c8c4aefbfa",
@@ -1934,45 +1974,6 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-20T10:29:33Z",
-   "tries": 1
-  },
-  {
-   "id": "af4d7c46fc2c",
-   "date": "2026-11-20",
-   "title": "Reforma Tributária – III",
-   "resumo": "Notícias de Erechim/RS, região, Brasil e Mundo sobre conteúdos variados e atualizados. Acompanhe o Jornal Bom Dia e fique por dentro das últimas notícias!",
-   "link": "https://www.jornalbomdia.com.br/noticia/93490/reforma-tributaria-iii",
-   "source": "Jornal Bom Dia",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-20T10:29:33Z",
-   "tries": 1
-  },
-  {
-   "id": "3d74ab7f2d89",
-   "date": "2026-11-20",
-   "title": "ISS sobre IBS e CBS: a cobrança de 2027 já chegou à Justiça",
-   "resumo": "A Lei Complementar 214/2025 retirou o ISS da base dos novos impostos, mas silenciou sobre o caminho inverso",
-   "link": "https://www.jota.info/opiniao-e-analise/artigos/iss-sobre-ibs-e-cbs-a-cobranca-de-2027-ja-chegou-a-justica",
-   "source": "JOTA Info",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-20T09:28:54Z",
-   "tries": 1
-  },
-  {
-   "id": "dab2f3183cfd",
-   "date": "2026-11-19",
-   "title": "No Senado, OAB defende maior clareza no cálculo da CBS e adiamento de etapas da Reforma Tributária",
-   "resumo": "A Ordem dos Advogados do Brasil é a entidade de representação e regulamentação da advocacia e defensora da Constituição Federal",
-   "link": "https://www.oab.org.br/noticia/64817/no-senado-oab-defende-maior-clareza-no-calculo-da-cbs-e-adiamento-de-etapas-da-reforma-tributaria",
-   "source": "OAB",
-   "official": false,
-   "category": "lei",
-   "tag": "Legislação",
-   "addedAt": "2026-11-24T21:47:03Z",
    "tries": 1
   }
  ]

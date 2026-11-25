@@ -1,13 +1,13 @@
 {
- "lastCheckAt": "2026-11-25T21:48:18Z",
- "lastCheckBr": "25/11/2026 18:48",
- "added": 20,
+ "lastCheckAt": "2026-11-25T22:45:16Z",
+ "lastCheckBr": "25/11/2026 19:45",
+ "added": 25,
  "feeds": [
   {
    "name": "Agência Senado",
    "ok": true,
-   "found": 2,
-   "new": 1
+   "found": 1,
+   "new": 0
   },
   {
    "name": "Agência Câmara",
@@ -43,17 +43,82 @@
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 98,
-   "new": 14
+   "found": 97,
+   "new": 18
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
    "ok": true,
-   "found": 8,
-   "new": 5
+   "found": 9,
+   "new": 7
   }
  ],
  "items": [
+  {
+   "id": "ec25272855da",
+   "date": "2026-11-25",
+   "title": "ACISA promove palestra sobre Reforma Tributária nos negócios",
+   "resumo": "Transmissão ao vivo no YouTube aborda impactos do IBS e da CBS nos preços, fornecedores, contratos e capital de giro das empresas.",
+   "link": "https://abcdoabc.com.br/acisa-promove-palestra-reforma-tributaria-negoc/",
+   "source": "Portal ABC do ABC",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-25T22:45:16Z",
+   "tries": 1
+  },
+  {
+   "id": "e2418e40f856",
+   "date": "2026-11-25",
+   "title": "Novas regras do Simples Nacional para a Reforma Tributária são publicadas pelo CGSN",
+   "resumo": "Entenda o Simples Nacional na Reforma Tributária e veja as regras de IBS e CBS, o fim do regime de caixa e os prazos de 2027.",
+   "link": "https://www.omie.com.br/blog/resolucao-cgsn-196-simples-nacional-reforma-tributaria/",
+   "source": "Omie",
+   "official": false,
+   "category": "simples",
+   "tag": "Simples",
+   "addedAt": "2026-11-25T22:45:16Z",
+   "tries": 1
+  },
+  {
+   "id": "ae737ebc97fe",
+   "date": "2026-11-25",
+   "title": "ACISA promove live gratuita sobre impactos práticos da Reforma Tributária nas empresas em 9 de dezembro",
+   "resumo": "Associação Comercial de Santo André (ACISA) realiza live gratuita em 9 de dezembro sobre Reforma Tributária, IBS, CBS, preços, contratos e fluxo de caixa.",
+   "link": "https://abcagora.com.br/2026/11/25/acisa-tributaria-empresas-santo-andre/",
+   "source": "ABC Agora",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-25T22:45:16Z",
+   "tries": 1
+  },
+  {
+   "id": "bf069cc8ed7a",
+   "date": "2026-11-25",
+   "title": "CNA: alíquota de 11,3% da CBS pode elevar carga tributária e preços de alimentos",
+   "resumo": "",
+   "link": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/11/25/cna-aliquota-de-113-da-cbs-pode-elevar-carga-tributaria-e-precos-de-alimentos.htm",
+   "source": "UOL Notícias",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-25T22:45:16Z",
+   "tries": 1
+  },
+  {
+   "id": "38ae2606c728",
+   "date": "2026-11-25",
+   "title": "Reforma Tributária e fim da escala 6x1: qual o impacto econômico para 2027?",
+   "resumo": "Entenda como a Reforma Tributária e o fim da escala 6x1 afetam custos, preços e margens em 2027 e simule os riscos dos seus clientes.",
+   "link": "https://www.omie.com.br/blog/reforma-tributaria-fim-escala-6x1-impacto-2027/",
+   "source": "Omie",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-25T22:45:16Z",
+   "tries": 1
+  },
   {
    "id": "7bffe5b2d146",
    "date": "2026-11-25",
@@ -1243,6 +1308,19 @@
    "addedAt": "2026-11-24T04:30:39Z"
   },
   {
+   "id": "b1261f98c725",
+   "date": "2026-11-23",
+   "title": "Receita Abre Piloto da CBS a Empresas de Qualquer Setor",
+   "resumo": "Acesso ao ambiente de testes da reforma tributária não exigirá convite, mas dependerá de requisitos operacionais e de segurança",
+   "link": "https://forbes.com.br/forbes-money/2026/11/piloto-cbs-receita/",
+   "source": "Forbes Brasil",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-25T22:45:16Z",
+   "tries": 1
+  },
+  {
    "id": "e9f4802b26a3",
    "date": "2026-11-23",
    "title": "Devolução em 2027 garante crédito de CBS sobre venda de 2026",
@@ -1897,84 +1975,6 @@
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-23T19:54:32Z",
-   "tries": 1
-  },
-  {
-   "id": "3b8ece2a9307",
-   "date": "2026-11-23",
-   "title": "Menos de 40 dias para 2027: como preparar o caixa da empresa para a nova fase da Reforma Tributária",
-   "resumo": "Entenda como a Reforma Tributária, o split payment e o RAD podem afetar o caixa das empresas e veja medidas para planejar 2027.",
-   "link": "https://www.contabeis.com.br/artigos/81076/como-preparar-o-caixa-da-empresa-para-a-nova-fase-da-reforma-tributaria/",
-   "source": "Portal Contabeis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T19:54:32Z",
-   "tries": 1
-  },
-  {
-   "id": "4749a34f9dee",
-   "date": "2026-11-23",
-   "title": "Outsourcing de TI e Reforma Tributária: como o IBS e a CBS podem favorecer o Bodyshop e o Staff Augmentation",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNXzhUOExqazRLSXRUVmZjcU4wUlc0R0xEY3VCLTJMU010WFZuSzJ5bGYya2twSFhqZEhpOGFuWTFaazB0VEktdGhEc25SRVFDdVJzRzZCM0h5TTZ3d3JBOW5laTlkLWVIc1l4cjRlZmk0RGRIb18tenJUS3ZLaHpJejlxWlZZMHhST18wNnQ3MUxlUDNzb3lIYUU3bjRGQUJmS1lNRUtVWGRvQV9jWGptQUlaOXp2OUFVVDRLR21QZVUtdDFkbTZTUGw4QnhJQmE4Uzh1TVJDazJjeUV5LTRn0gHkAUFVX3lxTE52bURVdUNmaHp1Yk5VQ0wyNE82SEdoa1hRYjQ0Uy1ZZkplLWlOZnVFbkVFdDMxQkpLY3BiN2NPSGlCLWQ2STNpcVRFblI0cVJwcEdpcjYxUGRTbWRKRHRlV3JxcGgyZ1RJZWJyZGFjeFVRQ1ZualpHeFhvMlBZY1JjNWlLQmVSYzNLS1J3RTNybS1fTW9Bc2VZYldoQzJoa1VsTmNGNkxQYURwMEw1cXFVbjV5VFlJb25oX3p6eVJ0ckpPLVFvSk5fUUVjLUZIUUxQZF9XS09PbndvcXNkeTBlNWc5Mw?oc=5",
-   "source": "Jornal Contábil",
-   "official": false,
-   "category": "cont",
-   "tag": "Contabilidade",
-   "addedAt": "2026-11-23T19:54:32Z",
-   "tries": 2
-  },
-  {
-   "id": "6fd74bfea809",
-   "date": "2026-11-23",
-   "title": "Receita libera testes da CBS para todas as empresas; veja como participar",
-   "resumo": "",
-   "link": "https://exame.com/economia/receita-libera-testes-da-cbs-para-todas-as-empresas-veja-como-participar/",
-   "source": "Exame",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T19:54:32Z",
-   "tries": 2
-  },
-  {
-   "id": "483efe19655a",
-   "date": "2026-11-23",
-   "title": "Empresas podem participar do piloto da Reforma Tributária da CBS",
-   "resumo": "A implementação do novo sistema tributário brasileiro avança com a abertura do ambiente de testes para empresas interessadas. O objetivo é tornar o",
-   "link": "https://planetaosasco.com/economia/902895-empresas-podem-participar-do-piloto-da-reforma-tributaria-da-cbs",
-   "source": "planetaosasco.com",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T19:54:32Z",
-   "tries": 1
-  },
-  {
-   "id": "31004ef1cd4e",
-   "date": "2026-11-23",
-   "title": "Empresas com CNPJ poderão participar de piloto da CBS sem indicação prévia",
-   "resumo": "Para participar, as empresas deverão cumprir os requisitos operacionais, cadastrais e de segurança estabelecidos pela Receita Federal. O ambiente permitirá",
-   "link": "https://focuspoder.com.br/empresas-com-cnpj-poderao-participar-de-piloto-da-cbs-sem-indicacao-previa/",
-   "source": "Focus Poder",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T19:54:32Z",
-   "tries": 1
-  },
-  {
-   "id": "4a076b5db66f",
-   "date": "2026-11-23",
-   "title": "Reforma Tributária: Projeto piloto amplia número de participantes",
-   "resumo": "Portaria da Receita libera qualquer empresa com CNPJ a participar do piloto da CBS, sem indicação prévia, mediante requisitos de segurança",
-   "link": "https://redeondadigital.com.br/destaque/receita-libera-participacao-de-todas-as-empresas-em-testes-do-novo-imposto",
-   "source": "Rede Onda Digital",
-   "official": false,
-   "category": "lei",
-   "tag": "Legislação",
    "addedAt": "2026-11-23T19:54:32Z",
    "tries": 1
   }

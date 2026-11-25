@@ -1,6 +1,6 @@
 {
- "lastCheckAt": "2026-11-25T14:22:44Z",
- "lastCheckBr": "25/11/2026 11:22",
+ "lastCheckAt": "2026-11-25T15:29:58Z",
+ "lastCheckBr": "25/11/2026 12:29",
  "added": 30,
  "feeds": [
   {
@@ -17,10 +17,9 @@
   },
   {
    "name": "Receita Federal",
-   "ok": false,
+   "ok": true,
    "found": 0,
-   "new": 0,
-   "error": "URLError"
+   "new": 0
   },
   {
    "name": "Agência Brasil",
@@ -43,7 +42,7 @@
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 96,
+   "found": 97,
    "new": 24
   },
   {
@@ -54,6 +53,31 @@
   }
  ],
  "items": [
+  {
+   "id": "ee4c81527a8a",
+   "date": "2026-11-25",
+   "title": "Split payment no Pix desafia bancos com prazo de processamento",
+   "resumo": "Executivo do Santander aponta dificuldade de consultar dados fiscais e separar tributos sem comprometer a velocidade do Pix . Testes começaram em outubro. Leia mais em…",
+   "link": "https://www.contabeis.com.br/noticias/81143/split-payment-no-pix-desafia-bancos-com-prazo-de-processamento/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "pag",
+   "tag": "Split payment",
+   "addedAt": "2026-11-25T15:29:58Z"
+  },
+  {
+   "id": "7b21e60ae8b3",
+   "date": "2026-11-25",
+   "title": "Áudio: Sefaz-Ba promove debate on-line sobre o cadastro do IBSe da CBS no âmbito da reforma tributária",
+   "resumo": "&nbsp;A SEFAZ/ SECRETARIA DA FAZENDA DO ESTADO DA BAHIA/ POR MEIO DA SUA UNIVERSIDADE CORPORATIVA/ REALIZA NO DIA VINTE E SEIS DE NOVEMBRO/ MAIS UMA EDIÇÃO DO PROJETO CONVERSA SOBRE A REFORMA TRIBUTÁRIA// O ENCONTRO TERÁ COMO TEMA “CADASTRO DO IMPOSTO SOBRE…",
+   "link": "https://www.ba.gov.br/comunicacao/noticias/2026-11/385898/audio-sefaz-ba-promove-debate-line-sobre-o-cadastro-do-ibse-da-cbs-no",
+   "source": "ba.gov.br",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-25T15:29:58Z",
+   "tries": 1
+  },
   {
    "id": "4990eb07ad43",
    "date": "2026-11-25",
@@ -960,6 +984,58 @@
    "category": "lei",
    "tag": "Legislação",
    "addedAt": "2026-11-24T04:30:39Z"
+  },
+  {
+   "id": "d08174d05753",
+   "date": "2026-11-23",
+   "title": "Receita amplia participação em piloto da CBS para todas as empresas",
+   "resumo": "Portaria abre acesso a ambiente de testes da Reforma Tributária, em relação à Contribuição sobre Bens e Serviços (CBS).",
+   "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/receita-amplia-participacao-em-piloto-da-cbs-para-todas-empresas",
+   "source": "Agência Brasil",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-25T15:29:58Z",
+   "tries": 1
+  },
+  {
+   "id": "9547f634a3e0",
+   "date": "2026-11-23",
+   "title": "Split payment e os impactos da reforma tributária no fluxo de caixa das empresas",
+   "resumo": "Novo modelo exigirá integração entre sistemas fiscais e de pagamento e poderá afetar a disponibilidade de recursos das empresas",
+   "link": "https://www.jota.info/opiniao-e-analise/artigos/split-payment-e-os-impactos-da-reforma-tributaria-no-fluxo-de-caixa-das-empresas",
+   "source": "JOTA Info",
+   "official": false,
+   "category": "pag",
+   "tag": "Split payment",
+   "addedAt": "2026-11-25T15:29:58Z",
+   "tries": 1
+  },
+  {
+   "id": "88f077be8be7",
+   "date": "2026-11-23",
+   "title": "O IBS, a CBS e os salvados de sinistro",
+   "resumo": "Venda de salvados integra a operação de seguro e deve seguir o regime específico do IBS e da CBS",
+   "link": "https://www.jota.info/opiniao-e-analise/colunas/coluna-da-abdf/o-ibs-a-cbs-e-os-salvados-de-sinistro",
+   "source": "JOTA Info",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-25T15:29:58Z",
+   "tries": 1
+  },
+  {
+   "id": "b11d86da331f",
+   "date": "2026-11-23",
+   "title": "Reforma tributária: o que muda para MEIs após período de testes de IBS e CBS",
+   "resumo": "",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOX1lqRlFhWlBsdkE0eUFvYkRsYTFFeTJPWVhSU05RbG43WHFTenBpaXVORzhSOXdBdllLaVljcWpabEdhRWxRcktYaTUwcldSQm1GSVFGamJoLWxWMnd6c1JhNFFQdGJiMDBTYUgwWk9xSTF2OHhRWUJoclF1eUpTUjM4bTE2b1NDV2tJa3pCOThqVmJjaUxVN3RFRGdoOWszUkJxNi1kSzZYcFFxRnF0YU5hQ016d2V0UXJ3Mjg0OXkxc0dfMEtDRmVHYTZhbTltcUxpNXVad2VkeHYtM2ZF0gHuAUFVX3lxTFBuTG9jTjdDcVA5UUdPWWtmSndJMkpLU3NuNnZ0SlVkZTV0bmFDOHFxb2N1MVotb2lsNktHdVV5X3NuMm9pMnF2TkxfZVg0ODhIdzNXdGhybTJTZFJDcjgtOTllS1M0TUpoR3FFRjhsMU51dHdZMzItWmU1UEpnNlEtTk8wUGV0cXFhU015dTFkb3JaQ0RKS0JGU1dUSlptamhnUWlhd3ByTUJVR3pkYlZaSkZMT1BWdUNFVHV5SXhRM2pJNXJsVDR4SUNxMTdEa1VFcGZPQks2d3IwSTNKVjVsb2xJbl9qVWtzT2FlLUE?oc=5",
+   "source": "G1",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-25T15:29:58Z",
+   "tries": 1
   },
   {
    "id": "02064e66b701",
@@ -1900,83 +1976,6 @@
    "tag": "Alíquotas",
    "addedAt": "2026-11-23T14:19:58Z",
    "tries": 1
-  },
-  {
-   "id": "7639ae981e1c",
-   "date": "2026-11-23",
-   "title": "Piloto da CBS: Receita define novas regras de participação",
-   "resumo": "Receita define regras para o piloto da CBS , com participação sem convite de empresas com CNPJ . Confira requisitos, autorizações e condições dos testes. Leia mais em…",
-   "link": "https://www.contabeis.com.br/noticias/81043/piloto-da-cbs-receita-define-novas-regras-de-participacao/",
-   "source": "Portal Contábeis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T12:56:35Z"
-  },
-  {
-   "id": "54306abddebc",
-   "date": "2026-11-23",
-   "title": "Reforma Tributária/CBS: Piloto da Reforma Tributária - RTC-CBS",
-   "resumo": "Agilize decisões seguras. Legislação, Comentários e Consultoria nas áreas de IR e Contribuições, ICMS, IPI, ISS, Contabilidade e Societário, Simples Nacional, Trabalhista e Previdenciária. Cálculos e Tabelas de Substituição Tributária. Agenda Tributária…",
-   "link": "https://www.legisweb.com.br/noticia/?id",
-   "source": "LegisWeb",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T12:56:35Z",
-   "tries": 1
-  },
-  {
-   "id": "a093c3005220",
-   "date": "2026-11-23",
-   "title": "Receita Federal regulamenta testes para a CBS, parte da reforma tributária",
-   "resumo": "A contribuição substituirá PIS e Cofins; piloto permite que empresas experimentem sistemas para implementação do tributo. Leia no Poder360.",
-   "link": "https://www.poder360.com.br/poder-economia/receita-federal-regulamenta-testes-para-a-cbs-parte-da-reforma-tributaria/",
-   "source": "Poder360",
-   "official": false,
-   "category": "lei",
-   "tag": "Legislação",
-   "addedAt": "2026-11-23T12:56:35Z",
-   "tries": 1
-  },
-  {
-   "id": "9f570c2e2089",
-   "date": "2026-11-23",
-   "title": "Receita Federal libera testes da reforma tributária para empresas de todo o Brasil",
-   "resumo": "Nova portaria permite que pessoas jurídicas com CNPJ participem do ambiente de testes da CBS sem convite ou inscrição prévia; acesso exige autorização digital",
-   "link": "https://acritica.net/economia/receita-federal-libera-testes-da-reforma-tributaria-para-empresas-de-todo-o-brasil/",
-   "source": "A Crítica de Campo Grande",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T12:56:35Z",
-   "tries": 1
-  },
-  {
-   "id": "2b39c96da41b",
-   "date": "2026-11-23",
-   "title": "Receita libera testes da CBS para todas as empresas com CNPJ",
-   "resumo": "Qualquer empresa pode participar do piloto da Reforma Tributária sem autorização prévia. Leia mais na Tribuna do Paraná",
-   "link": "https://www.tribunapr.com.br/noticias/economia/empresas-com-cnpj-podem-testar-sistema-da-reforma-tributaria/",
-   "source": "Tribuna do Paraná",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T12:56:35Z",
-   "tries": 2
-  },
-  {
-   "id": "031d16e42c98",
-   "date": "2026-11-23",
-   "title": "Receita Federal amplia acesso de empresas ao ambiente de testes da CBS no Brasil",
-   "resumo": "Portaria permite que todas as empresas participem do piloto da Reforma Tributária sem necessidade de indicação prévia por entidades representativas.",
-   "link": "https://www.conexaoes.com.br/noticia/receita-federal-amplia-acesso-de-empresas-ao-ambiente-de-testes-da-cbs-no-brasil",
-   "source": "conexaoes.com.br",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T12:56:35Z",
-   "tries": 2
   }
  ]
 }

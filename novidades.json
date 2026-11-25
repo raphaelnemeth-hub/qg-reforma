@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-25T06:59:02Z",
- "lastCheckBr": "25/11/2026 03:59",
- "added": 26,
+ "lastCheckAt": "2026-11-25T08:31:16Z",
+ "lastCheckBr": "25/11/2026 05:31",
+ "added": 25,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -17,9 +17,10 @@
   },
   {
    "name": "Receita Federal",
-   "ok": true,
+   "ok": false,
    "found": 0,
-   "new": 0
+   "new": 0,
+   "error": "URLError"
   },
   {
    "name": "Agência Brasil",
@@ -49,7 +50,7 @@
    "name": "CGIBS / NF-e (Google Notícias)",
    "ok": true,
    "found": 8,
-   "new": 6
+   "new": 5
   }
  ],
  "items": [
@@ -1952,29 +1953,29 @@
    "tries": 1
   },
   {
-   "id": "b9ed7f74f9ac",
+   "id": "45b4be580439",
    "date": "2026-11-20",
-   "title": "Receita Federal amplia acesso ao Ambiente de Produção Restrita do Piloto da CBS",
-   "resumo": "Empresas de todo o Brasil poderão acessar o ambiente Piloto e conhecer as funcionalidades desenvolvidas para a Contribuição sobre Bens e Serviços (CBS).",
-   "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-amplia-acesso-ao-ambiente-de-producao-restrita-do-piloto-da-cbs",
-   "source": "Governo Federal",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-25T06:59:02Z",
-   "tries": 1
-  },
-  {
-   "id": "6d5208bdb157",
-   "date": "2026-11-20",
-   "title": "Quem tem medo da reforma tributária?",
-   "resumo": "Por Alessandro Rostagno. A transição exige estabilidade normativa, previsibilidade e alinhamento entre as administrações tributárias para evitar novos custos e insegurança jurídica aos contribuintes.",
-   "link": "https://www.migalhas.com.br/depeso/468943/quem-tem-medo-da-reforma-tributaria",
+   "title": "Reforma tributária: Como proteger os créditos de IBS e CBS",
+   "resumo": "",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOamJlVzBYWUZoQ05pTmhubXpRaWdidDNEMnBjSDFwSURSb3hHMFlvSjR1NzNScEVveDhadHd1aE9Cd3Jaa1hfNU1fcU1ud0pWbk1hRDc1MDFOSUpLaEFwVGx6TUhOeG1tbU5INGphX0hJLWJjWmZkMzFsZF9ZX0xEX1BHZjhIS1hXR2NWZXpXUWNYOHgxOEtNMkNjbzF4X0Nr?oc=5",
    "source": "Migalhas",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-25T06:59:02Z",
+   "addedAt": "2026-11-25T08:31:16Z",
+   "tries": 1
+  },
+  {
+   "id": "18fdf5c9e105",
+   "date": "2026-11-20",
+   "title": "Da omissão ao crédito: a reforma tributária e os crimes empresariais",
+   "resumo": "Na reforma tributária, com o IBS, a CBS e o split payment, em crimes contra a ordem tributária, em vez de discutir se o tributo é devido, pode-se questionar se a operação descrita no documento fiscal de fato existiu.",
+   "link": "https://www.jota.info/opiniao-e-analise/artigos/da-omissao-ao-credito-a-reforma-tributaria-e-os-crimes-empresariais",
+   "source": "JOTA Info",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-25T08:31:16Z",
    "tries": 1
   }
  ]

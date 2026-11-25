@@ -1,6 +1,6 @@
 {
- "lastCheckAt": "2026-11-25T15:29:58Z",
- "lastCheckBr": "25/11/2026 12:29",
+ "lastCheckAt": "2026-11-25T16:38:51Z",
+ "lastCheckBr": "25/11/2026 13:38",
  "added": 30,
  "feeds": [
   {
@@ -17,9 +17,10 @@
   },
   {
    "name": "Receita Federal",
-   "ok": true,
+   "ok": false,
    "found": 0,
-   "new": 0
+   "new": 0,
+   "error": "URLError"
   },
   {
    "name": "Agência Brasil",
@@ -31,7 +32,7 @@
    "name": "Portal Contábeis",
    "ok": true,
    "found": 7,
-   "new": 1
+   "new": 0
   },
   {
    "name": "InfoMoney",
@@ -43,7 +44,7 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 97,
-   "new": 24
+   "new": 25
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -53,6 +54,45 @@
   }
  ],
  "items": [
+  {
+   "id": "ae2d61c77564",
+   "date": "2026-11-25",
+   "title": "CNI sugere novo período como base para cálculo da CBS",
+   "resumo": "Em audiência na Câmara dos Deputados, diretor de Desenvolvimento Industrial da CNI, Mario Sergio Telles, disse que marco temporal definido pela legislação não é o mais adequado para cálculo da carga tributária",
+   "link": "https://noticias.portaldaindustria.com.br/noticias/economia/cni-sugere-novo-periodo-como-base-para-calculo-da-cbs/",
+   "source": "Agência de Notícias da Indústria",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-25T16:38:51Z",
+   "tries": 1
+  },
+  {
+   "id": "c03c54049bbc",
+   "date": "2026-11-25",
+   "title": "Reforma tributária: sua empresa pode ter crédito tributário, mas terá dinheiro em caixa?",
+   "resumo": "Com a chegada da CBS em 2027, fluxo de caixa deixa de ser uma ferramenta de gestão e passa a ser essencial para saúde financeira das empresas",
+   "link": "https://guiadafarmacia.com.br/reforma-tributaria-sua-empresa-pode-ter-credito-tributario-mas-tera-dinheiro-em-caixa/",
+   "source": "Guia da Farmácia",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-25T16:38:51Z",
+   "tries": 1
+  },
+  {
+   "id": "1bb6fc57197d",
+   "date": "2026-11-25",
+   "title": "Reforma tributária deve impactar valores no mercado imobiliário",
+   "resumo": "Especialistas descrevem cenário de incertezas com provável aumento de valores nos imóveis, aluguéis e custos operacionais. Leia mais",
+   "link": "https://diariodocomercio.com.br/economia/marcado-imobiliario-reforma-tributaria/",
+   "source": "Diário do Comércio",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-25T16:38:51Z",
+   "tries": 1
+  },
   {
    "id": "ee4c81527a8a",
    "date": "2026-11-25",
@@ -986,6 +1026,58 @@
    "addedAt": "2026-11-24T04:30:39Z"
   },
   {
+   "id": "54306abddebc",
+   "date": "2026-11-23",
+   "title": "Reforma Tributária/CBS: Piloto da Reforma Tributária - RTC-CBS",
+   "resumo": "Agilize decisões seguras. Legislação, Comentários e Consultoria nas áreas de IR e Contribuições, ICMS, IPI, ISS, Contabilidade e Societário, Simples Nacional, Trabalhista e Previdenciária. Cálculos e Tabelas de Substituição Tributária. Agenda Tributária…",
+   "link": "https://www.legisweb.com.br/noticia/?id",
+   "source": "LegisWeb",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-25T16:38:51Z",
+   "tries": 1
+  },
+  {
+   "id": "c50d187e2f95",
+   "date": "2026-11-23",
+   "title": "Piloto da CBS: Receita define novas regras de participação",
+   "resumo": "Receita define regras para o piloto da CBS, com participação sem convite de empresas com CNPJ. Confira requisitos, autorizações e condições dos testes.",
+   "link": "https://www.contabeis.com.br/noticias/81043/piloto-da-cbs-receita-define-novas-regras-de-participacao/",
+   "source": "Portal Contabeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-25T16:38:51Z",
+   "tries": 1
+  },
+  {
+   "id": "a093c3005220",
+   "date": "2026-11-23",
+   "title": "Receita Federal regulamenta testes para a CBS, parte da reforma tributária",
+   "resumo": "A contribuição substituirá PIS e Cofins; piloto permite que empresas experimentem sistemas para implementação do tributo. Leia no Poder360.",
+   "link": "https://www.poder360.com.br/poder-economia/receita-federal-regulamenta-testes-para-a-cbs-parte-da-reforma-tributaria/",
+   "source": "Poder360",
+   "official": false,
+   "category": "lei",
+   "tag": "Legislação",
+   "addedAt": "2026-11-25T16:38:51Z",
+   "tries": 1
+  },
+  {
+   "id": "9f570c2e2089",
+   "date": "2026-11-23",
+   "title": "Receita Federal libera testes da reforma tributária para empresas de todo o Brasil",
+   "resumo": "Nova portaria permite que pessoas jurídicas com CNPJ participem do ambiente de testes da CBS sem convite ou inscrição prévia; acesso exige autorização digital",
+   "link": "https://acritica.net/economia/receita-federal-libera-testes-da-reforma-tributaria-para-empresas-de-todo-o-brasil/",
+   "source": "A Crítica de Campo Grande",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-25T16:38:51Z",
+   "tries": 1
+  },
+  {
    "id": "d08174d05753",
    "date": "2026-11-23",
    "title": "Receita amplia participação em piloto da CBS para todas as empresas",
@@ -1035,7 +1127,7 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-25T15:29:58Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "02064e66b701",
@@ -1883,97 +1975,6 @@
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-23T14:19:58Z",
-   "tries": 1
-  },
-  {
-   "id": "10ec7920f30c",
-   "date": "2026-11-23",
-   "title": "Todas as empresas poderão testar novo imposto da Reforma Tributária",
-   "resumo": "A partir desta semana, todas as empresas inscritas no Cadastro Nacional da Pessoa Jurídica (CNPJ) poderão participar do ambiente de testes da Contribuição sobre Bens e Serviços (CBS), um dos",
-   "link": "https://www.atribunarj.com.br/materia/todas-as-empresas-poderao-testar-novo-imposto-da-reforma-tributaria",
-   "source": "A Tribuna RJ",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T14:19:58Z",
-   "tries": 1
-  },
-  {
-   "id": "ff013c82fc65",
-   "date": "2026-11-23",
-   "title": "\"Imposto do pecado\" pode ser o mais inteligente da reforma tributária",
-   "resumo": "Cigarro, cerveja e refrigerante vão pagar o Imposto Seletivo a partir de 2027. A pergunta é se ele vai mudar comportamentos ou apenas reforçar o caixa",
-   "link": "https://www.cnnbrasil.com.br/blogs/thiago-godoy/economia/money/macroeconomia/imposto-do-pecado-pode-ser-o-mais-inteligente-da-reforma-tributaria/",
-   "source": "CNN Brasil",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T14:19:58Z",
-   "tries": 1
-  },
-  {
-   "id": "b46d015d78b9",
-   "date": "2026-11-23",
-   "title": "Receita abre sistema de testes da CBS para todas as empresas",
-   "resumo": "A partir de hoje, todas as empresas inscritas no Cadastro Nacional da Pessoa Jurídica (CNPJ) poderão participar do ambiente de testes do piloto da Reforma...",
-   "link": "https://amanha.com.br/brasil/receita-disponibiliza-sistema-de-testes-da-cbs-para-todas-as-empresas",
-   "source": "Grupo AMANHÃ",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T14:19:58Z",
-   "tries": 1
-  },
-  {
-   "id": "1db904e48c25",
-   "date": "2026-11-23",
-   "title": "Receita libera participação de empresas em testes da Reforma Tributária",
-   "resumo": "Medida tem como finalidade acelerar a implementação da Contribuição sobre Bens e Serviços (CBS), que irá substituir PIS e Cofins",
-   "link": "https://odia.ig.com.br/economia/2026/11/7324970-receita-libera-participacao-de-empresas-em-testes-da-reforma-tributaria.html",
-   "source": "O Dia",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T14:19:58Z",
-   "tries": 1
-  },
-  {
-   "id": "7f4ca480e70b",
-   "date": "2026-11-23",
-   "title": "Empresas podem agora participar do piloto da CBS sem necessidade de indicação prévia",
-   "resumo": "Qualquer empresa registrada no Cadastro Nacional da Pessoa Jurídica (CNPJ) tem a oportunidade de se envolver no ambiente de testes da Reforma Tributária, que diz respeito à Contribuição sobre Bens e Serviços (CBS). Conforme a portaria da Receita Federal…",
-   "link": "https://metronews.com.br/empresas-podem-agora-participar-do-piloto-da-cbs-sem-necessidade-de-indicacao-previa/",
-   "source": "Metrô News Jornal",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T14:19:58Z",
-   "tries": 1
-  },
-  {
-   "id": "132b84bb57c1",
-   "date": "2026-11-23",
-   "title": "Empresas com CNPJ poderão participar de testes da Reforma Tributária sem indicação prévia",
-   "resumo": "A TODO MOMENTO, O SEU CANAL DE INFORMAÇÃO - News Cariri",
-   "link": "https://www.newscariri.com.br/2026/11/empresas-com-cnpj-poderao-participar-de-testes-da-reforma-tributaria-sem-indicacao-previa",
-   "source": "News Cariri",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T14:19:58Z",
-   "tries": 1
-  },
-  {
-   "id": "d6d81007999a",
-   "date": "2026-11-23",
-   "title": "Ajuste fiscal abre semana que terá alíquota da CBS e Orçamento de 2027 na pauta do Congresso",
-   "resumo": "Congresso também prevê debates sobre combustíveis, saúde pública, violência sexual contra crianças e segurança pública",
-   "link": "https://brasil61.com/n/ajuste-fiscal-abre-semana-que-tera-aliquota-da-cbs-e-orcamento-de-2027-na-pauta-do-congresso-bras2617503",
-   "source": "Brasil 61",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
    "addedAt": "2026-11-23T14:19:58Z",
    "tries": 1
   }

@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-25T17:42:38Z",
- "lastCheckBr": "25/11/2026 14:42",
- "added": 26,
+ "lastCheckAt": "2026-11-25T18:40:28Z",
+ "lastCheckBr": "25/11/2026 15:40",
+ "added": 27,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -17,10 +17,9 @@
   },
   {
    "name": "Receita Federal",
-   "ok": false,
+   "ok": true,
    "found": 0,
-   "new": 0,
-   "error": "URLError"
+   "new": 0
   },
   {
    "name": "Agência Brasil",
@@ -31,7 +30,7 @@
   {
    "name": "Portal Contábeis",
    "ok": true,
-   "found": 5,
+   "found": 4,
    "new": 0
   },
   {
@@ -43,8 +42,8 @@
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 98,
-   "new": 21
+   "found": 97,
+   "new": 22
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -54,6 +53,58 @@
   }
  ],
  "items": [
+  {
+   "id": "4bae85fda9ca",
+   "date": "2026-11-25",
+   "title": "Reforma Tributária: Simples Nacional terá novas regras para IBS e CBS",
+   "resumo": "O Comitê Gestor do Simples Nacional (CGSN) publicou nesta terça-feira (24), no Diário Oficial da União (DOU), uma resolução que regulamenta a apuração, o recolhimento e o creditamento do Imposto sobre Bens e Serviços (IBS) e da Contribuição sobre Bens e…",
+   "link": "https://cbic.org.br/reforma-tributaria-simples-nacional-tera-novas-regras-para-ibs-e-cbs/",
+   "source": "CBIC - Câmara Brasileira da Indústria da Construção",
+   "official": false,
+   "category": "simples",
+   "tag": "Simples",
+   "addedAt": "2026-11-25T18:40:28Z",
+   "tries": 1
+  },
+  {
+   "id": "c414f572b51e",
+   "date": "2026-11-25",
+   "title": "Imposto seletivo: MP define alíquotas para 2027 e traz novas regras de transição",
+   "resumo": "",
+   "link": "https://www.contadores.cnt.br/noticias/tecnicas/2026/11/25/imposto-seletivo-mp-define-aliquotas-para-2027-e-traz-novas-regras-de-transicao.html",
+   "source": "Contadores.cnt.br",
+   "official": false,
+   "category": "cont",
+   "tag": "Contabilidade",
+   "addedAt": "2026-11-25T18:40:28Z",
+   "tries": 1
+  },
+  {
+   "id": "07d17e496410",
+   "date": "2026-11-25",
+   "title": "Reforma Tributária: comércio deve se preparar para novas regras de cancelamento de notas fiscais em 2027",
+   "resumo": "",
+   "link": "https://sindilojas.rio/2026/11/25/reforma-tributaria-comercio-deve-se-preparar-para-novas-regras-de-cancelamento-de-notas-fiscais-em-2027/",
+   "source": "SindilojasRio",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-25T18:40:28Z",
+   "tries": 1
+  },
+  {
+   "id": "7b27b7b5172b",
+   "date": "2026-11-25",
+   "title": "Reforma tributária 62: Nano versos MEI",
+   "resumo": "Por Rosa Maria Freitas. Trata de como essas categorias são abordadas na Refof.",
+   "link": "https://www.migalhas.com.br/depeso/468742/reforma-tibutaria-62-nano-versos-mei",
+   "source": "Migalhas",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-25T18:40:28Z",
+   "tries": 1
+  },
   {
    "id": "b9fc07e79b74",
    "date": "2026-11-25",
@@ -322,6 +373,19 @@
    "category": "aliq",
    "tag": "Alíquotas",
    "addedAt": "2026-11-25T05:51:05Z",
+   "tries": 1
+  },
+  {
+   "id": "4917bd463c5d",
+   "date": "2026-11-24",
+   "title": "Reforma Tributária para empresas: como se preparar para as mudanças",
+   "resumo": "",
+   "link": "https://www.sicredi.com.br/site/blog/empresas/reforma-tributaria-para-empresas-preparar-para-mudancas/",
+   "source": "Sicredi",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-25T18:40:28Z",
    "tries": 1
   },
   {
@@ -1063,6 +1127,19 @@
    "category": "lei",
    "tag": "Legislação",
    "addedAt": "2026-11-24T04:30:39Z"
+  },
+  {
+   "id": "b3997f6ae089",
+   "date": "2026-11-23",
+   "title": "Receita vai orientar 25 mil contadores sobre CBS e IBS",
+   "resumo": "Ação envolve profissionais responsáveis por cerca de 72 mil empresas com indícios de ausência ou preenchimento parcial dos novos tributos nas notas fiscais.",
+   "link": "https://www.contabeis.com.br/noticias/81047/receita-vai-orientar-25-mil-contadores-sobre-cbs-e-ibs/",
+   "source": "Portal Contabeis",
+   "official": false,
+   "category": "cont",
+   "tag": "Contabilidade",
+   "addedAt": "2026-11-25T18:40:28Z",
+   "tries": 1
   },
   {
    "id": "b46d015d78b9",
@@ -1901,83 +1978,6 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-23T16:50:17Z",
-   "tries": 1
-  },
-  {
-   "id": "11d4d5aea93c",
-   "date": "2026-11-23",
-   "title": "PORTARIA CGIBS Nº 13/2026, DE 23 DE NOVEMBRO DE 2026",
-   "resumo": "",
-   "link": "https://cgibs.gov.br/upload/arquivos/202611/23114620-portaria-cgibs-n-13-2026.pdf",
-   "source": "Comitê Gestor do IBS",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T16:50:17Z",
-   "tries": 2
-  },
-  {
-   "id": "3172a2471d68",
-   "date": "2026-11-23",
-   "title": "Galípolo: dentro do governo não há qualquer debate sobre meta de inflação, é zero",
-   "resumo": "Gabriel Galípolo Imagem: Lula Marques/ Agência Brasil \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2025/04/gabriel-galipolo-1724674134390_v2_900x506.jpg.webp?fit=900%2C506&quality=70&strip=all\" />Em evento do Itaú BBA, presidente do…",
-   "link": "https://www.infomoney.com.br/economia/galipolo-dentro-do-governo-nao-ha-qualquer-debate-sobre-meta-de-inflacao-e-zero/",
-   "source": "InfoMoney",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T15:32:54Z"
-  },
-  {
-   "id": "35d909a2a8db",
-   "date": "2026-11-23",
-   "title": "Reforma Tributária: Receita define piloto sobre CBS e qualquer empresa poderá participar dos testes",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTE51blNWVWtkNDJ4OUF4ZjdmU182aGg5Nm1QeFZ1NzZKV2tfNDRrU3hGZWtyUlZldWpxY201NFhsS3ZZSC1WZXQwSGd4VDZNd3B1SG9nb1FKZHJMbWZiQ2ZFZWZwRXdTMUg0alZjN2Q3emlfUk80NjdLMmI3dW9yRC1SbTlCdXN0b0tMSktBSFVLeDA5bGNuRm8wOXN6d003QllxWkppUVo3Wnp1NUZMMjFCWXNDV2Y4SWxPWnhjbm8tZGVjdTdETUdLa0Z0Mm1lX1F6cUs1Ni1sQUVueVEtclNnV1VwNXpH0gH3AUFVX3lxTE5tazFKSUx1SXN3UnNhZlJac3J1UFpTdU54NTR2QjQ4VEZheE1mOFh5aXFhMHVIWU4ySmp5dlFFQ0hUdHpYSDVEQ1gwVUZoMnlHR0FvdG1XNkozS1NuVC1nMW1kSFdDWjJ4NHNfYWVBaktaRDFkMnROQnpmMzlZY2RzaFRiT21jVFVtbThxLWItb3RYN0w5RjRGRl80bUJ2UHJSbGJESms2RklBVF9UOU9uenQtVlRJQUhScWYwcTUwbHh6emZBZEZiUjEwQm5VUVJrdTdZbHBPMWhESkFKWE8xQy15aVZJczdQVndwSDZ5cUNoMVZoSjQ?oc=5",
-   "source": "Extra online",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T15:32:54Z",
-   "tries": 2
-  },
-  {
-   "id": "6601c7a8082d",
-   "date": "2026-11-23",
-   "title": "Receita Federal abre piloto da CBS para todas as empresas com CNPJ",
-   "resumo": "",
-   "link": "https://83agora.com.br/receita-federal-abre-piloto-da-cbs-para-todas-as-empresas-com-cnpj-2/",
-   "source": "83 Agora",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T15:32:54Z",
-   "tries": 2
-  },
-  {
-   "id": "19c8eec7d108",
-   "date": "2026-11-23",
-   "title": "Receita Federal libera participação de empresas no piloto da Reforma Tributária",
-   "resumo": "A Receita Federal ampliou o acesso ao ambiente de testes do piloto da Reforma Tributária. A partir de agora, qualquer empresa inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) poderá participar das atividades relacionadas à Contribuição sobre Bens e…",
-   "link": "https://geraisnews.com.br/2026/11/23/receita-federal-libera-participacao-de-empresas-no-piloto-da-reforma-tributaria/",
-   "source": "Gerais News",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T15:32:54Z",
-   "tries": 1
-  },
-  {
-   "id": "b79d91a604cb",
-   "date": "2026-11-23",
-   "title": "Receita Federal amplia acesso ao ambiente de testes da Reforma Tributária",
-   "resumo": "Portaria publicada nesta segunda-feira (23) permite que qualquer empresa inscrita no CNPJ participe do piloto da Contribuição sobre Bens e Serviços.",
-   "link": "https://www.rcwtv.com.br/noticia/receita-federal-amplia-acesso-ao-ambiente-de-testes-da-reforma-tributaria",
-   "source": "RCWTV",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T15:32:54Z",
    "tries": 1
   }
  ]

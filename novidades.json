@@ -1,6 +1,6 @@
 {
- "lastCheckAt": "2026-11-25T09:58:59Z",
- "lastCheckBr": "25/11/2026 06:58",
+ "lastCheckAt": "2026-11-25T10:56:05Z",
+ "lastCheckBr": "25/11/2026 07:56",
  "added": 24,
  "feeds": [
   {
@@ -43,7 +43,7 @@
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 96,
+   "found": 97,
    "new": 19
   },
   {
@@ -54,6 +54,19 @@
   }
  ],
  "items": [
+  {
+   "id": "3a626e6175d0",
+   "date": "2026-11-25",
+   "title": "Reforma tributária: CBS de 11,3% pode estar superestimada, diz especialista; qual seria o valor ideal?",
+   "resumo": "A alíquota de 11,3% da Contribuição sobre Bens e Serviços (CBS), calculada pelo Tribunal de Contas da União (TCU), pode estar acima do necessário para",
+   "link": "https://www.moneytimes.com.br/reforma-tributaria-cbs-de-113-pode-estar-superestimada-diz-especialista-qual-seria-o-valor-ideal/",
+   "source": "Money Times",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-25T10:56:05Z",
+   "tries": 1
+  },
   {
    "id": "e94aaaa4ce11",
    "date": "2026-11-25",
@@ -1963,19 +1976,6 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-21T12:40:07Z",
-   "tries": 1
-  },
-  {
-   "id": "eb2978a2dedf",
-   "date": "2026-11-20",
-   "title": "Receita Federal amplia acesso ao Ambiente de Produção Restrita do Piloto da CBS",
-   "resumo": "",
-   "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-amplia-acesso-ao-ambiente-de-producao-restrita-do-piloto-da-cbs",
-   "source": "GOV.BR",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-25T09:58:59Z",
    "tries": 1
   }
  ]

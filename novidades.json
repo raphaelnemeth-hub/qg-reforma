@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-25T22:45:16Z",
- "lastCheckBr": "25/11/2026 19:45",
- "added": 25,
+ "lastCheckAt": "2026-11-25T23:40:34Z",
+ "lastCheckBr": "25/11/2026 20:40",
+ "added": 22,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -25,13 +25,13 @@
   {
    "name": "Agência Brasil",
    "ok": true,
-   "found": 1,
+   "found": 0,
    "new": 0
   },
   {
    "name": "Portal Contábeis",
    "ok": true,
-   "found": 5,
+   "found": 4,
    "new": 0
   },
   {
@@ -43,8 +43,8 @@
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 97,
-   "new": 18
+   "found": 98,
+   "new": 15
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -54,6 +54,19 @@
   }
  ],
  "items": [
+  {
+   "id": "769a5d3f66f9",
+   "date": "2026-11-25",
+   "title": "Reforma Tributária: organização e planejamento ajudam produtores rurais a se prepararem para as mudanças",
+   "resumo": "",
+   "link": "https://www.sicredi.com.br/coop/altosdaserra/noticias/agro/reforma-tributaria-organizacao-e-planejamento-ajudam-produtores-rurais-a-se-prepararem-para-as-mudancas/",
+   "source": "Sicredi",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-25T23:40:34Z",
+   "tries": 1
+  },
   {
    "id": "ec25272855da",
    "date": "2026-11-25",
@@ -104,7 +117,7 @@
    "category": "aliq",
    "tag": "Alíquotas",
    "addedAt": "2026-11-25T22:45:16Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "38ae2606c728",
@@ -1308,6 +1321,58 @@
    "addedAt": "2026-11-24T04:30:39Z"
   },
   {
+   "id": "4749a34f9dee",
+   "date": "2026-11-23",
+   "title": "Outsourcing de TI e Reforma Tributária: como o IBS e a CBS podem favorecer o Bodyshop e o Staff Augmentation",
+   "resumo": "",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNXzhUOExqazRLSXRUVmZjcU4wUlc0R0xEY3VCLTJMU010WFZuSzJ5bGYya2twSFhqZEhpOGFuWTFaazB0VEktdGhEc25SRVFDdVJzRzZCM0h5TTZ3d3JBOW5laTlkLWVIc1l4cjRlZmk0RGRIb18tenJUS3ZLaHpJejlxWlZZMHhST18wNnQ3MUxlUDNzb3lIYUU3bjRGQUJmS1lNRUtVWGRvQV9jWGptQUlaOXp2OUFVVDRLR21QZVUtdDFkbTZTUGw4QnhJQmE4Uzh1TVJDazJjeUV5LTRn0gHkAUFVX3lxTE52bURVdUNmaHp1Yk5VQ0wyNE82SEdoa1hRYjQ0Uy1ZZkplLWlOZnVFbkVFdDMxQkpLY3BiN2NPSGlCLWQ2STNpcVRFblI0cVJwcEdpcjYxUGRTbWRKRHRlV3JxcGgyZ1RJZWJyZGFjeFVRQ1ZualpHeFhvMlBZY1JjNWlLQmVSYzNLS1J3RTNybS1fTW9Bc2VZYldoQzJoa1VsTmNGNkxQYURwMEw1cXFVbjV5VFlJb25oX3p6eVJ0ckpPLVFvSk5fUUVjLUZIUUxQZF9XS09PbndvcXNkeTBlNWc5Mw?oc=5",
+   "source": "Jornal Contábil",
+   "official": false,
+   "category": "cont",
+   "tag": "Contabilidade",
+   "addedAt": "2026-11-25T23:40:34Z",
+   "tries": 1
+  },
+  {
+   "id": "3b8ece2a9307",
+   "date": "2026-11-23",
+   "title": "Menos de 40 dias para 2027: como preparar o caixa da empresa para a nova fase da Reforma Tributária",
+   "resumo": "",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeEtndWI3Nk9mVkNSLWh1dDFHVDhtNEU4TF9iR2U3TTVfcUVlRWZlZjB0RVdEOU1kOFp1ZFBrOUZ3T0tXakJicUxNcEF4WFFGWWxPdVY3TjQxQXZtZFRLTi1Yd1JwUWh5SXFnVVdDOFZjVW9HQXdQb0hNUktfaG1jcUNSTkdYVldiaThGaTh3U1BRUUNUZGZaYmRSbklPZGVRMWMxZWhOQk9ETDRRRDhtVTdtX2Jfdw?oc=5",
+   "source": "Portal Contabeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-25T23:40:34Z",
+   "tries": 1
+  },
+  {
+   "id": "3499a7d4cd14",
+   "date": "2026-11-23",
+   "title": "Receita disponibiliza sistema de testes da CBS para todas as empresas",
+   "resumo": "A partir de hoje, todas as empresas inscritas no Cadastro Nacional da Pessoa Jurídica (CNPJ) poderão participar do ambiente de testes do piloto da Reforma...",
+   "link": "https://amanha.com.br/brasil/receita-disponibiliza-sistema-de-testes-da-cbs-para-todas-as-empresas",
+   "source": "Grupo AMANHÃ",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-25T23:40:34Z",
+   "tries": 1
+  },
+  {
+   "id": "6fd74bfea809",
+   "date": "2026-11-23",
+   "title": "Receita libera testes da CBS para todas as empresas; veja como participar",
+   "resumo": "",
+   "link": "https://exame.com/economia/receita-libera-testes-da-cbs-para-todas-as-empresas-veja-como-participar/",
+   "source": "Exame",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-25T23:40:34Z",
+   "tries": 1
+  },
+  {
    "id": "b1261f98c725",
    "date": "2026-11-23",
    "title": "Receita Abre Piloto da CBS a Empresas de Qualquer Setor",
@@ -1915,68 +1980,6 @@
    "category": "cap",
    "tag": "Capacitação",
    "addedAt": "2026-11-23T20:42:20Z"
-  },
-  {
-   "id": "f1fa6860a27f",
-   "date": "2026-11-23",
-   "title": "Empresas podem simular CBS em ambiente da Receita",
-   "resumo": "Receita libera testes da CBS a empresas com CNPJ e dispensa pedido prévio",
-   "link": "https://www.spacemoney.com.br/economia/legislacao/receita-federal-piloto-cbs-empresas/",
-   "source": "SpaceMoney",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T20:42:20Z",
-   "tries": 1
-  },
-  {
-   "id": "8f26e8b61c86",
-   "date": "2026-11-23",
-   "title": "Fazenda reduz previsão do PIB e eleva inflação para 2027",
-   "resumo": "O Ministério da Fazenda reduziu a previsão de crescimento da economia brasileira em 2027 e elevou a estimativa de inflação para o próximo ano. Segundo o Boletim Macrofiscal de novembro, divulgado nesta segunda-feira (23) pela Secretaria de Política Econômica…",
-   "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/fazenda-reduz-previsao-do-pib-e-eleva-inflacao-para-2027",
-   "source": "Agência Brasil",
-   "official": true,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T19:54:32Z"
-  },
-  {
-   "id": "8deaa9a93dfc",
-   "date": "2026-11-23",
-   "title": "Durigan defende superávit de até 2% e descarta adiamento da reforma tributária",
-   "resumo": "Dario Durigan, em participação online no evento Itaú Macro Vision 2026, em painel com Diogo Guillen, economista-chefe do Itaú Unibanco. (Foto: Artur Medina / Divulgação) \"…",
-   "link": "https://www.infomoney.com.br/economia/durigan-descarta-adiamento-reforma-tributaria-superavit-2/",
-   "source": "InfoMoney",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T19:54:32Z"
-  },
-  {
-   "id": "52478d59d87b",
-   "date": "2026-11-23",
-   "title": "Minha Casa, Minha Vida segura lançamentos e vendas no 3º tri, mas 2027 preocupa CBIC",
-   "resumo": "Minha Casa, Minha Vida (Foto: Ricardo Stuckert/PR) \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2025/04/53804115232_02913618b5_o.jpg?fit=1170%2C700&quality=70&strip=all\" />Entidade avalia que juros altos, reforma tributária e aumento de…",
-   "link": "https://www.infomoney.com.br/economia/minha-casa-minha-vida-segura-lancamentos-e-vendas-no-3o-tri-mas-2027-preocupa-cbic/",
-   "source": "InfoMoney",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T19:54:32Z"
-  },
-  {
-   "id": "31255c19f9ed",
-   "date": "2026-11-23",
-   "title": "Crédito da CBS: quem paga a conta quando o fornecedor não paga?",
-   "resumo": "Estimativa anunciada pela Receita alivia o caixa na estreia da CBS, mas não diz quem suporta o inadimplemento do fornecedor.",
-   "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/credito-da-cbs-quem-paga-a-conta-quando-o-fornecedor-nao-paga",
-   "source": "JOTA Info",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T19:54:32Z",
-   "tries": 1
   }
  ]
 }

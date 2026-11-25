@@ -1,6 +1,6 @@
 {
- "lastCheckAt": "2026-11-25T02:14:42Z",
- "lastCheckBr": "24/11/2026 23:14",
+ "lastCheckAt": "2026-11-25T03:28:13Z",
+ "lastCheckBr": "25/11/2026 00:28",
  "added": 26,
  "feeds": [
   {
@@ -43,17 +43,30 @@
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 94,
+   "found": 95,
    "new": 20
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
    "ok": true,
-   "found": 9,
+   "found": 8,
    "new": 6
   }
  ],
  "items": [
+  {
+   "id": "1d6a055a3842",
+   "date": "2026-11-24",
+   "title": "Receita Federal amplia acesso a ambiente de testes da CBS para empresas de todo o Brasil",
+   "resumo": "Não setorialA Receita Federal anunciou a ampliação do acesso ao projeto-piloto da Contribuição sobre Bens e Serviços (CBS). Com a medida, empresas de todo o País poderão testar ferramentas e funcionalidades relacionadas ao novo tributo, facilitando a…",
+   "link": "https://www.lacerdagama.com.br/post/reforma-tribut%C3%A1ria-empresas-poder%C3%A3o-testar-sistemas-da-cbs-sem-inscri%C3%A7%C3%A3o-pr%C3%A9via",
+   "source": "Lacerda Gama",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-25T03:28:13Z",
+   "tries": 1
+  },
   {
    "id": "fa5e33a7511b",
    "date": "2026-11-24",
@@ -715,6 +728,19 @@
    "category": "lei",
    "tag": "Legislação",
    "addedAt": "2026-11-24T04:30:39Z"
+  },
+  {
+   "id": "c062be6099c9",
+   "date": "2026-11-23",
+   "title": "O fim do \"empréstimo sem juros\" do fisco: como o Split Payment muda o Capital de Giro das empresas",
+   "resumo": "A Reforma Tributária trouxe à tona uma transformação estrutural na tesouraria das empresas brasileiras.",
+   "link": "https://portalerp.com/br/artigo/o-fim-do-emprestimo-sem-juros-do-fisco-como-o-split-payment-muda-o-capital-de-giro-das-empresas",
+   "source": "Portal ERP",
+   "official": false,
+   "category": "pag",
+   "tag": "Split payment",
+   "addedAt": "2026-11-25T03:28:13Z",
+   "tries": 1
   },
   {
    "id": "7d200f379351",
@@ -1901,6 +1927,32 @@
    "tries": 1
   },
   {
+   "id": "ec8f4af17209",
+   "date": "2026-11-20",
+   "title": "Indefinição sobre Justiça competente para IBS e CBS preocupa Marcus Abraham",
+   "resumo": "Para o desembargador Marcus Abraham, reforma tributária tem virtudes, mas a implementação tem sido marcada pela falta de segurança jurídica.",
+   "link": "https://conjur.com.br/2026-nov-20/indefinicao-sobre-justica-competente-para-ibs-e-cbs-preocupa-desembargador/",
+   "source": "Consultor Jurídico",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-25T03:28:13Z",
+   "tries": 1
+  },
+  {
+   "id": "30cb5b8d5ae9",
+   "date": "2026-11-20",
+   "title": "EFD Contribuições 2027: do fechamento de 2026 á apuração da CBS em 2027",
+   "resumo": "Entenda os cuidados com o fechamento da EFD-Contribuições em 2026 e a transição para a cobrança da CBS em 2027.",
+   "link": "https://www.contabeis.com.br/noticias/80909/efd-contribuicoes-2027-do-fechamento-de-2026-a-apuracao-da-cbs-em-2027/",
+   "source": "Portal Contabeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-25T03:28:13Z",
+   "tries": 1
+  },
+  {
    "id": "18fdf5c9e105",
    "date": "2026-11-20",
    "title": "Da omissão ao crédito: a reforma tributária e os crimes empresariais",
@@ -1925,58 +1977,6 @@
    "tag": "Atualização",
    "addedAt": "2026-11-23T15:32:54Z",
    "tries": 1
-  },
-  {
-   "id": "b6b77a43f1f4",
-   "date": "2026-11-20",
-   "title": "Contratos de 2027 são assinados antes da alíquota da CBS",
-   "resumo": "Reforma promete transparência: a nota vai mostrar quanto do preço é imposto; promessa começa no contrato",
-   "link": "https://www.estadao.com.br/economia/contratos-2027-assinados-antes-aliquota-cbs/",
-   "source": "Estadão",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-23T08:22:50Z",
-   "tries": 1
-  },
-  {
-   "id": "6d5208bdb157",
-   "date": "2026-11-20",
-   "title": "Quem tem medo da reforma tributária?",
-   "resumo": "Por Alessandro Rostagno. A transição exige estabilidade normativa, previsibilidade e alinhamento entre as administrações tributárias para evitar novos custos e insegurança jurídica aos contribuintes.",
-   "link": "https://www.migalhas.com.br/depeso/468943/quem-tem-medo-da-reforma-tributaria",
-   "source": "Migalhas",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-22T23:09:41Z",
-   "tries": 1
-  },
-  {
-   "id": "be010b29d11b",
-   "date": "2026-11-20",
-   "title": "Créditos de IBS e CBS na Aquisição de Combustíveis: Como Funciona na Prática",
-   "resumo": "Find verified tax attorneys, CPAs and advisors in 250+ locations, with continuously updated tax data and expert insights.",
-   "link": "https://tributario.com.br/IsaiasJonas/creditos-ibs-cbs-na-aquisicao-combustiveis-como-funciona-na-pratica",
-   "source": "Tributário",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-21T19:38:43Z",
-   "tries": 1
-  },
-  {
-   "id": "b9ed7f74f9ac",
-   "date": "2026-11-20",
-   "title": "Receita Federal amplia acesso ao Ambiente de Produção Restrita do Piloto da CBS",
-   "resumo": "",
-   "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-amplia-acesso-ao-ambiente-de-producao-restrita-do-piloto-da-cbs",
-   "source": "Governo Federal",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-21T03:12:31Z",
-   "tries": 2
   }
  ]
 }

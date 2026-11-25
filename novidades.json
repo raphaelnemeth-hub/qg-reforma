@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-25T12:59:57Z",
- "lastCheckBr": "25/11/2026 09:59",
- "added": 29,
+ "lastCheckAt": "2026-11-25T14:22:44Z",
+ "lastCheckBr": "25/11/2026 11:22",
+ "added": 30,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -17,9 +17,10 @@
   },
   {
    "name": "Receita Federal",
-   "ok": true,
+   "ok": false,
    "found": 0,
-   "new": 0
+   "new": 0,
+   "error": "URLError"
   },
   {
    "name": "Agência Brasil",
@@ -30,7 +31,7 @@
   {
    "name": "Portal Contábeis",
    "ok": true,
-   "found": 8,
+   "found": 7,
    "new": 1
   },
   {
@@ -42,8 +43,8 @@
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 97,
-   "new": 23
+   "found": 96,
+   "new": 24
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -53,6 +54,57 @@
   }
  ],
  "items": [
+  {
+   "id": "4990eb07ad43",
+   "date": "2026-11-25",
+   "title": "Imposto Seletivo: CLP propõe mudanças para reduzir danos",
+   "resumo": "CLP propõe tributar bebidas por açúcar e álcool e rever regras para tabaco e veículos. Entenda as sugestões e o que já está previsto para 2027. Leia mais em https://www.contabeis.com.br/noticias/81137/imposto-seletivo-clp-propoe-mudancas-para-reduzir-danos/",
+   "link": "https://www.contabeis.com.br/noticias/81137/imposto-seletivo-clp-propoe-mudancas-para-reduzir-danos/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-25T14:22:44Z"
+  },
+  {
+   "id": "d1a28cdea850",
+   "date": "2026-11-25",
+   "title": "Reforma tributária: IBS e da CBS nos contratos intercompany",
+   "resumo": "Por Aurélio Longo Guerzoni. A reforma tributária traz novas regras para a tributação das operações intercompany, com impactos sobre os contratos de compartilhamento de custos.",
+   "link": "https://www.migalhas.com.br/depeso/468429/reforma-tributaria-ibs-e-da-cbs-nos-contratos-intercompany",
+   "source": "Migalhas",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-25T14:22:44Z",
+   "tries": 1
+  },
+  {
+   "id": "83e709152526",
+   "date": "2026-11-25",
+   "title": "Empresas incluem nos contratos garantia de adoção do split payment",
+   "resumo": "Mecanismo pode impactar companhias em até R$ 180 bilhões ao ano, diz a Reach Capital",
+   "link": "https://valor.globo.com/legislacao/noticia/2026/11/25/empresas-incluem-nos-contratos-garantia-de-adocao-do-split-payment.ghtml",
+   "source": "Valor Econômico",
+   "official": false,
+   "category": "pag",
+   "tag": "Split payment",
+   "addedAt": "2026-11-25T14:22:44Z",
+   "tries": 1
+  },
+  {
+   "id": "d9a320ddee50",
+   "date": "2026-11-25",
+   "title": "Reforma tributária: empresas de serviço podem pagar mais imposto a partir de janeiro com mudança na conta do Lucro Presumido em 2027",
+   "resumo": "Em Chapecó, uma empresa que faz manutenção de câmaras frias para os frigoríficos do Oeste de Santa Catarina, com números hipotéticos de R$ 6 milhões de",
+   "link": "https://www.nsctotal.com.br/colunista/antonio-noboa/reforma-tributaria-empresa-de-servico-perde-com-a-cbs-o-motivo-para-ficar-no-lucro-presumido-e-a-margem-decide/",
+   "source": "NSC Total",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-25T14:22:44Z",
+   "tries": 1
+  },
   {
    "id": "d84b25ccbba1",
    "date": "2026-11-25",
@@ -76,7 +128,7 @@
    "category": "aliq",
    "tag": "Alíquotas",
    "addedAt": "2026-11-25T12:59:57Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "8c41211050c0",
@@ -170,6 +222,19 @@
    "tries": 1
   },
   {
+   "id": "2abc785aacd5",
+   "date": "2026-11-24",
+   "title": "Reforma Tributária: clínicas devem cuidar do caixa",
+   "resumo": "A Reforma Tributária muda a rotina financeira das clínicas. Veja por que rever custos, preços e prazos de recebimento ajuda a proteger o caixa.",
+   "link": "https://www.contabeis.com.br/artigos/81079/reforma-tributaria-clinicas-devem-cuidar-do-caixa/",
+   "source": "Portal Contabeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-25T14:22:44Z",
+   "tries": 1
+  },
+  {
    "id": "87131d60cb91",
    "date": "2026-11-24",
    "title": "Reforma Tributária: Receita Federal amplia acesso a ambiente de produção restrita da CBS",
@@ -199,14 +264,14 @@
    "id": "ca6412ac48f2",
    "date": "2026-11-24",
    "title": "Reforma Tributária: transparência fiscal e isonomia na concorrência são desafios para o varejo | SEGS...",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUnlyV0RfQVRSSTdvd0ZiVXk3OHlkU2dNbzJURlpqRDk1bElBbjJnVUxHQUhnbmtfOFhlRGhPNVRFN1g1VU16S3FxUXdnVkJQYmZzWEdEY0VtelozNlAyeTlGNWdITjJtS2tQX05qRWF6LTEtXzd3Y2pYMUVTWldvZ3kwR0hpcTJlb0x5eF9Ddmtua1BXOXRZeENOUjRydWRfNzdBX0IxR3FqdXFWUFhOa2VjTmJ4ZWI4NWd4YmthanJVOG94WVRidWNvaGzSAdIBQVVfeXFMUHlrUUtXdE55T2diTDkxNXpzLU01dkgwS2c4TmwwRlNlLTZmaWh4dUszTWtjaWNfRGd3MHpqYlJBd3pkUGpQYTBSZ2p5Ym95U2RXMU1XZEV4dGFMSGt6NDVXdXh3V3gwS3hmZGhxYkVIQzBxSzB3SC1UYW9oTnI5SnlMaXhtdlFTRXpkZ3EzRUY3Z0RIUnJ2N2J0Wm1aYlhjMmRabTM2c3h5UnZIc2NxS1BUVVV1bXRwNW11WjVWbGt4UUtBX2FTY0NxX1pNdnAxb2JR?oc=5",
+   "resumo": "A regulamentação da Reforma Tributária marca uma das transformações mais profundas na história econômica do Brasil. Para o varejo, setor que funciona como o elo final entre a cadeia produtiva e o cidadão, a transição para o novo modelo do Imposto sobre Valor…",
+   "link": "https://www.segs.com.br/seguros/459839-reforma-tributaria-transparencia-fiscal-e-isonomia-na-concorrencia-sao-desafios-para-o-varejo",
    "source": "SEGS Portal Nacional",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-25T12:59:57Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "d528a3020084",
@@ -897,6 +962,19 @@
    "addedAt": "2026-11-24T04:30:39Z"
   },
   {
+   "id": "02064e66b701",
+   "date": "2026-11-23",
+   "title": "Reforma tributária - CNA alerta para aumento de carga tributária com alíquota de 11,3% da CBS",
+   "resumo": "Tema foi debatido, na terça (24), em audiência pública na Câmara",
+   "link": "https://cnabrasil.org.br/noticias/reforma-tributaria-cna-alerta-para-aumento-de-carga-tributaria-com-aliquota-de-11-3-da-cbs",
+   "source": "Portal CNA Brasil",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-25T14:22:44Z",
+   "tries": 1
+  },
+  {
    "id": "e50cd6d8e339",
    "date": "2026-11-23",
    "title": "Receita Federal amplia acesso ao Ambiente de Produção Restrita do Piloto da CBS",
@@ -920,7 +998,7 @@
    "category": "cont",
    "tag": "Contabilidade",
    "addedAt": "2026-11-25T12:59:57Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "c062be6099c9",
@@ -1899,84 +1977,6 @@
    "tag": "Atualização",
    "addedAt": "2026-11-23T12:56:35Z",
    "tries": 2
-  },
-  {
-   "id": "d08174d05753",
-   "date": "2026-11-23",
-   "title": "Receita amplia participação em piloto da CBS para todas as empresas",
-   "resumo": "Portaria abre acesso a ambiente de testes da Reforma Tributária, em relação à Contribuição sobre Bens e Serviços (CBS).",
-   "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/receita-amplia-participacao-em-piloto-da-cbs-para-todas-empresas",
-   "source": "Agência Brasil",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T11:45:20Z",
-   "tries": 1
-  },
-  {
-   "id": "b11d86da331f",
-   "date": "2026-11-23",
-   "title": "Reforma tributária: o que muda para MEIs após período de testes de IBS e CBS",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOX1lqRlFhWlBsdkE0eUFvYkRsYTFFeTJPWVhSU05RbG43WHFTenBpaXVORzhSOXdBdllLaVljcWpabEdhRWxRcktYaTUwcldSQm1GSVFGamJoLWxWMnd6c1JhNFFQdGJiMDBTYUgwWk9xSTF2OHhRWUJoclF1eUpTUjM4bTE2b1NDV2tJa3pCOThqVmJjaUxVN3RFRGdoOWszUkJxNi1kSzZYcFFxRnF0YU5hQ016d2V0UXJ3Mjg0OXkxc0dfMEtDRmVHYTZhbTltcUxpNXVad2VkeHYtM2ZF0gHuAUFVX3lxTFBuTG9jTjdDcVA5UUdPWWtmSndJMkpLU3NuNnZ0SlVkZTV0bmFDOHFxb2N1MVotb2lsNktHdVV5X3NuMm9pMnF2TkxfZVg0ODhIdzNXdGhybTJTZFJDcjgtOTllS1M0TUpoR3FFRjhsMU51dHdZMzItWmU1UEpnNlEtTk8wUGV0cXFhU015dTFkb3JaQ0RKS0JGU1dUSlptamhnUWlhd3ByTUJVR3pkYlZaSkZMT1BWdUNFVHV5SXhRM2pJNXJsVDR4SUNxMTdEa1VFcGZPQks2d3IwSTNKVjVsb2xJbl9qVWtzT2FlLUE?oc=5",
-   "source": "G1",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T11:45:20Z",
-   "tries": 2
-  },
-  {
-   "id": "9547f634a3e0",
-   "date": "2026-11-23",
-   "title": "Split payment e os impactos da reforma tributária no fluxo de caixa das empresas",
-   "resumo": "Novo modelo exigirá integração entre sistemas fiscais e de pagamento e poderá afetar a disponibilidade de recursos das empresas",
-   "link": "https://www.jota.info/opiniao-e-analise/artigos/split-payment-e-os-impactos-da-reforma-tributaria-no-fluxo-de-caixa-das-empresas",
-   "source": "JOTA Info",
-   "official": false,
-   "category": "pag",
-   "tag": "Split payment",
-   "addedAt": "2026-11-23T06:35:11Z",
-   "tries": 1
-  },
-  {
-   "id": "88f077be8be7",
-   "date": "2026-11-23",
-   "title": "O IBS, a CBS e os salvados de sinistro",
-   "resumo": "Venda de salvados integra a operação de seguro e deve seguir o regime específico do IBS e da CBS",
-   "link": "https://www.jota.info/opiniao-e-analise/colunas/coluna-da-abdf/o-ibs-a-cbs-e-os-salvados-de-sinistro",
-   "source": "JOTA Info",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T05:03:59Z",
-   "tries": 1
-  },
-  {
-   "id": "32ac5ca37dbb",
-   "date": "2026-11-22",
-   "title": "Reforma tributária muda regras para aluguel de imóveis a partir de 2027",
-   "resumo": "As novas regras estabelecem critérios para definir quais proprietários estarão sujeitos aos tributos sobre o consumo. Confira!",
-   "link": "https://dol.com.br/noticias/brasil/969113/reforma-tributaria-muda-regras-para-aluguel-de-imoveis-a-partir-de-2027",
-   "source": "DOL",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T15:32:54Z",
-   "tries": 1
-  },
-  {
-   "id": "0fa0b490a87b",
-   "date": "2026-11-22",
-   "title": "Reforma tributária muda regras do aluguel em 2027; entenda",
-   "resumo": "Pessoas físicas e empresas terão enquadramentos diferentes, e contratos em vigor continuam limitando reajustes feitos pelos proprietários",
-   "link": "https://www.terra.com.br/economia/reforma-tributaria-muda-regras-do-aluguel-em-2027-entenda,f8cce46a8e5b76cfaff63fa7093ca73bjau76h1o.html",
-   "source": "Terra",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T14:19:58Z",
-   "tries": 1
   }
  ]
 }

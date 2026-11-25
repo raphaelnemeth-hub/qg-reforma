@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-25T05:51:05Z",
- "lastCheckBr": "25/11/2026 02:51",
- "added": 25,
+ "lastCheckAt": "2026-11-25T06:59:02Z",
+ "lastCheckBr": "25/11/2026 03:59",
+ "added": 26,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -17,10 +17,9 @@
   },
   {
    "name": "Receita Federal",
-   "ok": false,
+   "ok": true,
    "found": 0,
-   "new": 0,
-   "error": "URLError"
+   "new": 0
   },
   {
    "name": "Agência Brasil",
@@ -43,13 +42,13 @@
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 95,
-   "new": 19
+   "found": 94,
+   "new": 20
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
    "ok": true,
-   "found": 9,
+   "found": 8,
    "new": 6
   }
  ],
@@ -1953,29 +1952,29 @@
    "tries": 1
   },
   {
-   "id": "45b4be580439",
+   "id": "b9ed7f74f9ac",
    "date": "2026-11-20",
-   "title": "Reforma tributária: Como proteger os créditos de IBS e CBS",
-   "resumo": "Por Aurélio Longo Guerzoni. A reforma tributária exigirá a revisão dos contratos com fornecedores para proteger os créditos de IBS e CBS, inclusive mediante o RAD - Recolhimento pelo Adquirente.",
-   "link": "https://www.migalhas.com.br/depeso/468351/reforma-tributaria-como-proteger-os-creditos-de-ibs-e-cbs",
+   "title": "Receita Federal amplia acesso ao Ambiente de Produção Restrita do Piloto da CBS",
+   "resumo": "Empresas de todo o Brasil poderão acessar o ambiente Piloto e conhecer as funcionalidades desenvolvidas para a Contribuição sobre Bens e Serviços (CBS).",
+   "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-amplia-acesso-ao-ambiente-de-producao-restrita-do-piloto-da-cbs",
+   "source": "Governo Federal",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-25T06:59:02Z",
+   "tries": 1
+  },
+  {
+   "id": "6d5208bdb157",
+   "date": "2026-11-20",
+   "title": "Quem tem medo da reforma tributária?",
+   "resumo": "Por Alessandro Rostagno. A transição exige estabilidade normativa, previsibilidade e alinhamento entre as administrações tributárias para evitar novos custos e insegurança jurídica aos contribuintes.",
+   "link": "https://www.migalhas.com.br/depeso/468943/quem-tem-medo-da-reforma-tributaria",
    "source": "Migalhas",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-25T05:51:05Z",
-   "tries": 1
-  },
-  {
-   "id": "18fdf5c9e105",
-   "date": "2026-11-20",
-   "title": "Da omissão ao crédito: a reforma tributária e os crimes empresariais",
-   "resumo": "Na reforma tributária, com o IBS, a CBS e o split payment, em crimes contra a ordem tributária, em vez de discutir se o tributo é devido, pode-se questionar se a operação descrita no documento fiscal de fato existiu.",
-   "link": "https://www.jota.info/opiniao-e-analise/artigos/da-omissao-ao-credito-a-reforma-tributaria-e-os-crimes-empresariais",
-   "source": "JOTA Info",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-25T05:51:05Z",
+   "addedAt": "2026-11-25T06:59:02Z",
    "tries": 1
   }
  ]

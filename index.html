@@ -263,6 +263,51 @@ nav.top .gm a:hover,nav.top .gm a.on{background:var(--sky)}
 .thint{display:none;margin:0 0 6px;font-size:12px;color:var(--mut)}
 @media(max-width:700px){.thint{display:block}.chip,.az button,.pre button,.go{min-height:40px}.az button{min-width:40px}.src{display:inline-flex;align-items:center;min-height:40px}}
 @media(min-width:900px){.count .digits{gap:16px}.count .d{padding:16px 22px;min-width:96px}.count .d b{font-size:44px}}
+
+.rsbtn{display:inline-flex;align-items:center;gap:8px;margin:2px 0 18px;background:var(--gold);color:#2b2000;border:0;border-radius:999px;padding:11px 20px;font:inherit;font-weight:800;font-size:14px;cursor:pointer;box-shadow:0 6px 18px rgba(0,0,0,.25)}
+.rsbtn:hover{background:#d8b45e}
+#resumo{position:fixed;inset:0;z-index:200;background:rgba(11,37,69,.72);display:none;overflow:auto;padding:18px}
+#resumo.on{display:block}
+.rs-pg{max-width:1040px;margin:0 auto;background:#fff;border-radius:16px;overflow:hidden;box-shadow:0 20px 60px rgba(0,0,0,.4);color:var(--ink)}
+.rs-bar{display:flex;gap:8px;justify-content:flex-end;padding:10px 14px;background:#eef1f6;border-bottom:1px solid var(--line)}
+.rs-bar button{font:inherit;font-weight:700;font-size:13px;border-radius:8px;padding:8px 14px;cursor:pointer;border:1px solid var(--navy);background:#fff;color:var(--navy)}
+.rs-bar button.p{background:var(--navy);color:#fff}
+.rs-hd{background:linear-gradient(160deg,#0b2545,#12386b 70%,#1d5fa8);color:#fff;padding:22px 26px;display:flex;justify-content:space-between;gap:16px;align-items:flex-end;flex-wrap:wrap}
+.rs-hd small{color:var(--gold);font-weight:800;letter-spacing:.14em;font-size:11px;text-transform:uppercase}
+.rs-hd h2{margin:4px 0 2px;font-size:26px;line-height:1.1;color:#fff;border:0;padding:0}.rs-hd h2 em{color:var(--gold);font-style:normal}
+.rs-hd p{margin:0;color:#c5d3e8;font-size:13px}
+.rs-cd{text-align:center;border:1px solid rgba(201,162,75,.6);border-radius:12px;padding:8px 16px}
+.rs-cd b{display:block;font-size:34px;color:var(--gold);line-height:1}.rs-cd span{font-size:11px;color:#dbe6f5}
+.rs-bd{padding:20px 26px 16px}
+.rs-k{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin-bottom:16px}
+.rs-k div{border:1px solid var(--line);border-top:4px solid var(--gold);border-radius:10px;padding:10px 12px;background:#fff}
+.rs-k small{display:block;color:var(--mut);font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:.05em}
+.rs-k b{display:block;color:var(--navy);font-size:20px;margin:2px 0}.rs-k span{font-size:12px;color:var(--mut)}
+.rs-g{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:14px}
+.rs-c{border:1px solid var(--line);border-radius:12px;padding:12px 14px;break-inside:avoid;background:#fff}
+.rs-c.full{grid-column:1/-1}
+.rs-c h3{margin:0 0 8px;font-size:14px;color:var(--navy);padding-bottom:5px;border-bottom:2px solid var(--gold)}
+.rs-c ul{margin:0;padding:0;list-style:none}.rs-c li{display:flex;gap:10px;font-size:12.5px;padding:4px 0;border-bottom:1px dotted #cfd8e5;line-height:1.35}
+.rs-c li:last-child{border-bottom:0}.rs-c li span{min-width:0;overflow-wrap:anywhere}.rs-c li b{flex:0 0 74px;color:var(--blue)}
+.rs-c table{width:100%;border-collapse:collapse;font-size:12px}
+.rs-c th{background:var(--navy);color:#fff;text-align:left;padding:5px 8px}.rs-c td{padding:5px 8px;border-bottom:1px solid var(--line);vertical-align:top}
+.rs-c tr:nth-child(even) td{background:#f7f9fc}
+.rs-c p{margin:0 0 5px;font-size:12.5px}
+.rs-ft{margin-top:12px;font-size:11px;color:var(--mut);border-top:1px solid var(--line);padding-top:8px;line-height:1.4}
+.rs-ft b{color:var(--navy)}
+@media(max-width:800px){.rs-k{grid-template-columns:repeat(2,1fr)}.rs-g{grid-template-columns:minmax(0,1fr)}.rs-bd{padding:16px}.rs-hd{padding:18px 16px}.rs-hd h2{font-size:22px}.rs-c li b{flex-basis:62px}}
+@media print{
+ @page{size:A4;margin:10mm}
+ body.rs-open>*:not(#resumo){display:none!important}
+ body.rs-open{background:#fff}
+ #resumo{position:static;display:block!important;background:#fff;padding:0;overflow:visible}
+ .rs-pg{box-shadow:none;border-radius:0;max-width:none}
+ .rs-bar{display:none!important}
+ .rs-hd,.rs-k div,.rs-c th{-webkit-print-color-adjust:exact;print-color-adjust:exact}
+ .rs-bd{padding:12px 4px 0}.rs-hd{padding:14px 16px}.rs-hd h2{font-size:21px}
+ .rs-g{grid-template-columns:minmax(0,1fr) minmax(0,1fr)!important}.rs-k{grid-template-columns:repeat(4,1fr)!important}.rs-k div{padding:6px 9px}.rs-k span{font-size:10px}.rs-c.full{grid-column:1/-1}
+ .rs-k b{font-size:16px}.rs-c{padding:8px 10px}.rs-c li,.rs-c td,.rs-c th,.rs-c p{font-size:10.5px}.rs-g{gap:9px}.rs-k{gap:7px;margin-bottom:10px}
+}
 </style>
 </head>
 <body>
@@ -273,6 +318,7 @@ nav.top .gm a:hover,nav.top .gm a.on{background:var(--sky)}
   <h1>QG da <em>Reforma Tributária</em></h1>
   <p class="sub">Tudo em um só lugar: o que já saiu, o que está para sair, cronograma até 2033, notas técnicas, calculadoras, guia de dúvidas, especialistas e cursos. Apenas fontes oficiais e veículos identificados.</p>
 
+  <button type="button" class="rsbtn" id="rsOpen" aria-haspopup="dialog">&#9776; Ver resumo (1 página)</button>
   <div class="hero-grid">
     <div class="count">
       <small>CONTAGEM REGRESSIVA · INÍCIO DA COBRANÇA DA CBS</small>
@@ -770,6 +816,48 @@ nav.top .gm a:hover,nav.top .gm a.on{background:var(--sky)}
   </div>
 </section>
 </main>
+<div id="resumo" role="dialog" aria-modal="true" aria-label="Resumo da Reforma Tributária" hidden>
+<div class="rs-pg">
+ <div class="rs-bar"><button type="button" class="p" id="rsPrint">Imprimir / Salvar em PDF</button><button type="button" id="rsClose">Fechar</button></div>
+ <div class="rs-hd"><div><small>Quartel-General · Resumo executivo</small><h2>Reforma Tributária <em>em uma página</em></h2><p>Atualizado em <span id="rsDt"></span> · Fontes oficiais (Receita Federal, CGIBS, Planalto)</p></div>
+  <div class="rs-cd"><b id="rsDias">--</b><span>dias para a CBS (01/01/2027)</span></div></div>
+ <div class="rs-bd">
+  <div class="rs-k">
+   <div><small>Fase atual</small><b>Teste 2026</b><span>CBS 0,9% + IBS 0,1% informativos</span></div>
+   <div><small>01/01/2027</small><b>CBS efetiva</b><span>IBS simbólico de 0,1%; fim de PIS/Cofins</span></div>
+   <div><small>Imposto Seletivo</small><b>2/2/2027</b><span>Início previsto da cobrança</span></div>
+   <div><small>Vigência plena</small><b>2033</b><span>ICMS e ISS extintos</span></div>
+  </div>
+  <div class="rs-g">
+   <div class="rs-c"><h3>Prazos que importam agora</h3><ul>
+    <li><b>14/12</b><span>Regras de rejeição da NT 2026.002 entram em produção</span></li>
+    <li><b>15/12</b><span>Senado fixa a alíquota de referência da CBS (TCU propôs 11,3%)</span></li>
+    <li><b>15/12</b><span>DeRE: eventos periódicos mensais (1ª entrega: período de nov/2026)</span></li>
+    <li><b>20/12</b><span>Fim da janela para desistir do Simples Híbrido</span></li>
+    <li><b>31/12</b><span>Prazo do Congresso para converter a MP do Imposto Seletivo; retificação de inconsistências do Programa de Conformidade</span></li></ul></div>
+   <div class="rs-c"><h3>Documentos fiscais: novas datas (Ato Conjunto RFB/CGIBS nº 7/2026)</h3><ul>
+    <li><b>01/01/2027</b><span>NFS-e: bens imateriais, condomínio, locações e serviços residuais; NFGas, NFAg; DeRE transacionais; Duimp</span></li>
+    <li><b>15/02/2027</b><span>DeRE: eventos periódicos mensais (D-1121 e D-2102)</span></li>
+    <li><b>01/03/2027</b><span>NFS-e de plataformas digitais e subitens 1.03, 1.05, 1.09 e 16.01; BP-e semiurbano e aéreo; NF-e ABI</span></li>
+    <li><b>Mantidos</b><span>NF-e, NFC-e, CT-e e MDF-e (03/08/2026); NFCom e DIR (01/10/2026)</span></li></ul></div>
+   <div class="rs-c full"><h3>Cronograma de transição</h3><table>
+    <tr><th>Ano</th><th>CBS</th><th>IBS</th><th>ICMS / ISS</th><th>IS</th></tr>
+    <tr><td>2026</td><td>Destaque informativo 0,9%</td><td>Informativo 0,1%</td><td>Mantidos</td><td>Não aplicado</td></tr>
+    <tr><td>2027-2028</td><td>Cobrança efetiva</td><td>0,1%</td><td>Mantidos; PIS/Cofins extintos</td><td>Em vigor</td></tr>
+    <tr><td>2029-2032</td><td>100%</td><td>10% / 20% / 30% / 40%</td><td>90% / 80% / 70% / 60%</td><td>Em vigor</td></tr>
+    <tr><td>2033</td><td>Vigência plena</td><td>Vigência plena</td><td>Extintos</td><td>Em vigor</td></tr></table></div>
+   <div class="rs-c"><h3>Programa de Conformidade e CNPJ</h3>
+    <p><b>Programa Nacional de Conformidade Tributária (PNCT) 2026:</b> regulamentado pelo Ato Conjunto RFB/CGIBS nº 5/2026 (arts. 471-A a 471-C da LC 214/2025). Inconsistências podem ser retificadas até 31/12/2026.</p>
+    <p><b>CNPJ e documentos de pessoas físicas contribuintes da CBS:</b> a exigência começa em 01/01/2027. O Ato Conjunto nº 8/2026 dispensa temporariamente produtor rural PF e transportador autônomo de carga que não sejam contribuintes de IBS/CBS.</p></div>
+   <div class="rs-c"><h3>O que fazer agora</h3><ul>
+    <li><b>Fiscal</b><span>Validar cadastros, classificação tributária (CST/cClassTrib) e regras de rejeição da NT 2026.002</span></li>
+    <li><b>TI</b><span>Atualizar o ERP e testar no Piloto da CBS, hoje com acesso ampliado pela Receita</span></li>
+    <li><b>Financeiro</b><span>Revisar fluxo de caixa e o efeito do split payment facultativo</span></li>
+    <li><b>Comercial</b><span>Reavaliar preços e margens com o simulador de CBS/IBS por item</span></li></ul></div>
+  </div>
+  <div class="rs-ft"><b>Fontes:</b> Ato Conjunto RFB/CGIBS nº 7/2026 (DOU 13/11/2026), nº 5/2026 e nº 8/2026 (cgibs.gov.br); gov.br/nfse; Ministério da Fazenda (Piloto da CBS, 23/11/2026); LC 214/2025 e EC 132/2023 (Planalto). Resumo informativo: não substitui a legislação nem parecer tributário. Datas e alíquotas podem mudar; confira nos atos oficiais. Detalhes completos em <b>QG da Reforma Tributária</b> (raphaelnemeth-hub.github.io/qg-reforma).</div>
+ </div></div></div>
+
 
 <footer><div class="wrap">
   <p><b>Aviso:</b> material informativo consolidado de fontes públicas em 12/11/2026. Não substitui a legislação nem constitui consultoria tributária. Valores de alíquotas de 2027 dependem de decisão do Senado e de conversão da MP 1.399/2026. Itens atribuídos a veículos privados (Tax Group, Tax Radar, Exame, InfoMoney, Portal da Reforma Tributária e outros) devem ser conferidos nas fontes oficiais. Datas divergentes entre fontes estão sinalizadas.</p>
@@ -1494,6 +1582,16 @@ nav.top .gm a:hover,nav.top .gm a.on{background:var(--sky)}
     if(b.getAttribute('data-c8')==='2026'){$('c8d').value='2026-06-10'}else{$('c8d').value='2027-03-10';$('c8c').value='11.20';$('c8u').value='0.05';$('c8m').value='0.05'}run()})});
   if('IntersectionObserver' in window){var io=new IntersectionObserver(function(e){if(e[0].isIntersecting){io.disconnect();load()}},{rootMargin:'400px'});io.observe(box)}else load();
   run();
+})();
+</script>
+<script>
+(function(){var r=document.getElementById('resumo'),o=document.getElementById('rsOpen');if(!r||!o)return;r.hidden=false;
+function open(){var n=new Date(),t=new Date(2027,0,1),d=Math.max(0,Math.ceil((t-n)/864e5));document.getElementById('rsDias').textContent=d;document.getElementById('rsDt').textContent=n.toLocaleDateString('pt-BR');r.classList.add('on');document.body.classList.add('rs-open');document.body.style.overflow='hidden';r.scrollTop=0;document.getElementById('rsClose').focus()}
+function close(){r.classList.remove('on');document.body.classList.remove('rs-open');document.body.style.overflow='';o.focus()}
+o.addEventListener('click',open);document.getElementById('rsClose').addEventListener('click',close);
+document.getElementById('rsPrint').addEventListener('click',function(){window.print()});
+document.addEventListener('keydown',function(e){if(e.key==='Escape'&&r.classList.contains('on'))close()});
+r.addEventListener('click',function(e){if(e.target===r)close()});
 })();
 </script>
 </body>

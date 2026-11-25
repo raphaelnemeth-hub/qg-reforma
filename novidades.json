@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-25T03:28:13Z",
- "lastCheckBr": "25/11/2026 00:28",
- "added": 26,
+ "lastCheckAt": "2026-11-25T04:39:10Z",
+ "lastCheckBr": "25/11/2026 01:39",
+ "added": 24,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -43,17 +43,30 @@
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 95,
-   "new": 20
+   "found": 96,
+   "new": 18
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
    "ok": true,
-   "found": 8,
+   "found": 9,
    "new": 6
   }
  ],
  "items": [
+  {
+   "id": "d528a3020084",
+   "date": "2026-11-24",
+   "title": "Holding e Operação Imobiliária: o que muda com a Reforma Tributária? | Podcast Conexão Fiscal com Jefferson Valentin",
+   "resumo": "Site do Sindicato dos Agentes Fiscais de Rendas do Estado de São Paulo",
+   "link": "https://sinafresp.org.br/conteudo/11177/holding-e-operacao-imobiliaria-o-que-muda-com-a-reforma-tributaria-podcast-conexao-fiscal-com-jefferson-valentin",
+   "source": "sinafresp",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-25T04:39:10Z",
+   "tries": 1
+  },
   {
    "id": "1d6a055a3842",
    "date": "2026-11-24",
@@ -1927,6 +1940,19 @@
    "tries": 1
   },
   {
+   "id": "b9ed7f74f9ac",
+   "date": "2026-11-20",
+   "title": "Receita Federal amplia acesso ao Ambiente de Produção Restrita do Piloto da CBS",
+   "resumo": "",
+   "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-amplia-acesso-ao-ambiente-de-producao-restrita-do-piloto-da-cbs",
+   "source": "Governo Federal",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-25T04:39:10Z",
+   "tries": 1
+  },
+  {
    "id": "ec8f4af17209",
    "date": "2026-11-20",
    "title": "Indefinição sobre Justiça competente para IBS e CBS preocupa Marcus Abraham",
@@ -1950,32 +1976,6 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-25T03:28:13Z",
-   "tries": 1
-  },
-  {
-   "id": "18fdf5c9e105",
-   "date": "2026-11-20",
-   "title": "Da omissão ao crédito: a reforma tributária e os crimes empresariais",
-   "resumo": "Na reforma tributária, com o IBS, a CBS e o split payment, em crimes contra a ordem tributária, em vez de discutir se o tributo é devido, pode-se questionar se a operação descrita no documento fiscal de fato existiu.",
-   "link": "https://www.jota.info/opiniao-e-analise/artigos/da-omissao-ao-credito-a-reforma-tributaria-e-os-crimes-empresariais",
-   "source": "JOTA Info",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-25T02:14:42Z",
-   "tries": 1
-  },
-  {
-   "id": "45b4be580439",
-   "date": "2026-11-20",
-   "title": "Reforma tributária: Como proteger os créditos de IBS e CBS",
-   "resumo": "Por Aurélio Longo Guerzoni. A reforma tributária exigirá a revisão dos contratos com fornecedores para proteger os créditos de IBS e CBS, inclusive mediante o RAD - Recolhimento pelo Adquirente.",
-   "link": "https://www.migalhas.com.br/depeso/468351/reforma-tributaria-como-proteger-os-creditos-de-ibs-e-cbs",
-   "source": "Migalhas",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T15:32:54Z",
    "tries": 1
   }
  ]

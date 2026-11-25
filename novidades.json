@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-25T18:40:28Z",
- "lastCheckBr": "25/11/2026 15:40",
- "added": 27,
+ "lastCheckAt": "2026-11-25T19:46:03Z",
+ "lastCheckBr": "25/11/2026 16:46",
+ "added": 24,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -17,9 +17,10 @@
   },
   {
    "name": "Receita Federal",
-   "ok": true,
+   "ok": false,
    "found": 0,
-   "new": 0
+   "new": 0,
+   "error": "URLError"
   },
   {
    "name": "Agência Brasil",
@@ -36,23 +37,61 @@
   {
    "name": "InfoMoney",
    "ok": true,
-   "found": 0,
-   "new": 0
+   "found": 1,
+   "new": 1
   },
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 97,
-   "new": 22
+   "new": 17
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
    "ok": true,
    "found": 8,
-   "new": 5
+   "new": 6
   }
  ],
  "items": [
+  {
+   "id": "4b41df940e14",
+   "date": "2026-11-25",
+   "title": "Reforma tributária não muda rota da Amazon, que ampliará centros logísticos em 2027",
+   "resumo": "Ricardo Pagani, Diretor de Operações da Amazon (Divulgação) \" data-image-caption=\" Ricardo Pagani, Diretor de Operações da Amazon (Divulgação) \"…",
+   "link": "https://www.infomoney.com.br/business/reforma-tributaria-nao-muda-rota-da-amazon-que-ampliara-centros-logisticos-em-2027/",
+   "source": "InfoMoney",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-25T19:46:03Z"
+  },
+  {
+   "id": "bb37091f224e",
+   "date": "2026-11-25",
+   "title": "Reforma tributária no campo: Não ser contribuinte pode custar mais ao produtor rural?",
+   "resumo": "Por Patrícia Campos de Lima. A escolha pelo regime regular pode influenciar o aproveitamento de créditos tributários, os custos de produção e a margem do produtor rural na comercialização da safra.",
+   "link": "https://www.migalhas.com.br/depeso/469268/reforma-tributaria-no-campo-nao-ser-contribuinte-pode-custar-mais",
+   "source": "Migalhas",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-25T19:46:03Z",
+   "tries": 1
+  },
+  {
+   "id": "25dd9605b9b9",
+   "date": "2026-11-25",
+   "title": "Reforma tributária e fim da escala 6x1 podem pressionar inflação em 2027; BC e equipe econômica monitoram impactos",
+   "resumo": "",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQ2xfYUZ4VDdHcnJQS0tRTDlIVG9hRjhtSEJyblY3cWVqanJWaElQeTNyYTB3WDlFRXIxSExTSWRqQVczVXJIZnlRY3pVS2dpbWswd0IxTy1yUldYajFOaWYyQ2FPWV9JOUlDOElTVmwtMVRscVRDdHVJQlF5X3VST25id1dodENpbkk3V3BQUVdhaVlLME9za3NEazNiWkdMOEhqY2ZSODMzRGswSXN1Q0RPeEZvNF9BNzBBMnQ1M2lidFk4N2N2SnFXUzl5eEYxMHdRWmFWdDBESFJCdjJsTGdZVWTSAeoBQVVfeXFMTkt4WlJva2d3a1lsZFJCSi1hRU5wUmZ4NlR1QjN4X3gyNThGOFBWUzY2NHBiZEZ3WEJUNjlvNlVKQzVmdUFRVlZoOEd0b2RXaXJ3YXFyczhPZHNWQ2NnYjdnUzdZZ2x5Z0ZoUVVRTWRGd2gySzNaZTMwaWNLcWU2aVJDSUphZFNwbXdYcHRPT05pQmY1WlJNRlhOTU1uaVRqQkR3VmVnOTByMXIwODRvNFZQOEZpQlZMeFhUR1FYMTgxcVozdkpYY1BIbnhJS0N2Z0JUd2RJbDIxdVY0dng5WFM1QWhidmlaMjBR?oc=5",
+   "source": "Fenafisco",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-25T19:46:03Z",
+   "tries": 1
+  },
   {
    "id": "4bae85fda9ca",
    "date": "2026-11-25",
@@ -77,7 +116,7 @@
    "category": "cont",
    "tag": "Contabilidade",
    "addedAt": "2026-11-25T18:40:28Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "07d17e496410",
@@ -90,7 +129,7 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-25T18:40:28Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "7b27b7b5172b",
@@ -386,7 +425,7 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-25T18:40:28Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "2abc785aacd5",
@@ -1127,6 +1166,58 @@
    "category": "lei",
    "tag": "Legislação",
    "addedAt": "2026-11-24T04:30:39Z"
+  },
+  {
+   "id": "629a8fa0c535",
+   "date": "2026-11-23",
+   "title": "OAB/SP lança simulador gratuito para calcular imposto da reforma tributária",
+   "resumo": "",
+   "link": "https://fenafisco.org.br/23/11/2026/oab-sp-lanca-simulador-gratuito-para-calcular-imposto-da-reforma-tributaria/",
+   "source": "Fenafisco",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-25T19:46:03Z",
+   "tries": 1
+  },
+  {
+   "id": "10ec7920f30c",
+   "date": "2026-11-23",
+   "title": "Todas as empresas poderão testar novo imposto da Reforma Tributária",
+   "resumo": "A partir desta semana, todas as empresas inscritas no Cadastro Nacional da Pessoa Jurídica (CNPJ) poderão participar do ambiente de testes da Contribuição sobre Bens e Serviços (CBS), um dos",
+   "link": "https://atribunarj.com.br/materia/todas-as-empresas-poderao-testar-novo-imposto-da-reforma-tributaria",
+   "source": "A Tribuna RJ",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-25T19:46:03Z",
+   "tries": 1
+  },
+  {
+   "id": "cb7a9a5a162c",
+   "date": "2026-11-23",
+   "title": "Reforma tributária: Receita define piloto sobre CBS e qualquer empresa poderá participar dos testes",
+   "resumo": "De acordo com portaria, não será mais necessária indicação por entidades representativas ou qualquer procedimento prévio de pedido de participação",
+   "link": "https://www.tribunadosertao.com.br/financas/2026/11/23/1028021-reforma-tributaria-receita-define-piloto-sobre-cbs-e-qualquer-empresa-podera-participar-dos-testes",
+   "source": "Tribuna do Sertão",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-25T19:46:03Z",
+   "tries": 1
+  },
+  {
+   "id": "11d4d5aea93c",
+   "date": "2026-11-23",
+   "title": "PORTARIA CGIBS Nº 13/2026, DE 23 DE NOVEMBRO DE 2026",
+   "resumo": "",
+   "link": "https://cgibs.gov.br/upload/arquivos/202611/23114620-portaria-cgibs-n-13-2026.pdf",
+   "source": "Comitê Gestor do IBS",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-25T19:46:03Z",
+   "tries": 1
   },
   {
    "id": "b3997f6ae089",
@@ -1887,97 +1978,6 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-23T17:50:16Z",
-   "tries": 1
-  },
-  {
-   "id": "767a2c8b46b4",
-   "date": "2026-11-23",
-   "title": "Reforma Tributária: Receita Federal abre testes da CBS para todas as empresas",
-   "resumo": "A Receita Federal liberou a participação de qualquer empresa com CNPJ no ambiente de testes da Contribuição sobre Bens e Serviços (CBS), visando acelerar a implementação do novo…",
-   "link": "https://www.plantaobrasil.net/noticias/164971-reforma-tributaria-receita-federal-abre-testes-da-cbs-para-todas-as-empresas",
-   "source": "Plantão Brasil",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T17:50:16Z",
-   "tries": 1
-  },
-  {
-   "id": "126dfaa1a07a",
-   "date": "2026-11-23",
-   "title": "Fazenda corrige informação sobre crédito de IPI e CBS",
-   "resumo": "",
-   "link": "https://apet.org.br/noticia/fazenda-corrige-informacao-sobre-credito-de-ipi-e-cbs/",
-   "source": "APET – Associação Paulista de Estudos Tributários",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T16:50:17Z",
-   "tries": 2
-  },
-  {
-   "id": "ca6f09cd6f8f",
-   "date": "2026-11-23",
-   "title": "Reforma Tributária: empresas de qualquer porte podem participar de piloto da CBS",
-   "resumo": "Receita Federal libera acesso ao ambiente de testes da Contribuição sobre Bens e Serviços sem necessidade de indicação por entidades representativas; iniciativa integra Reforma Tributária e busca validar sistemas antes da implementação do novo modelo de…",
-   "link": "https://movimentoeconomico.com.br/economia/lei-de-incentivos/tributacao/2026/11/23/reforma-tributaria-empresas-de-qualquer-porte-podem-participar-de-piloto-da-cbs/",
-   "source": "Movimento Econômico",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T16:50:17Z",
-   "tries": 1
-  },
-  {
-   "id": "f3bb024c2425",
-   "date": "2026-11-23",
-   "title": "Receita amplia participação em ambiente de testes da CBS para todas as empresas",
-   "resumo": "",
-   "link": "https://www.opiniaoce.com.br/politica/2026/11/23/receita-amplia-participacao-em-ambiente-de-testes-da-cbs-para-todas-as-empresas/",
-   "source": "OpiniãoCE",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T16:50:17Z",
-   "tries": 2
-  },
-  {
-   "id": "d54b9df1a017",
-   "date": "2026-11-23",
-   "title": "Fenacor detalha impactos da Reforma Tributária para corretores",
-   "resumo": "Fenacor publica FAQ com 40 perguntas sobre a Reforma Tributária e seus impactos para corretores de seguros, com respostas gerais e orientações.",
-   "link": "https://cqcs.com.br/noticia/fenacor-detalha-impactos-da-reforma-tributaria-para-corretores/",
-   "source": "CQCS",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T16:50:17Z",
-   "tries": 1
-  },
-  {
-   "id": "ef7272efd6a5",
-   "date": "2026-11-23",
-   "title": "Arroz, carne, leite e café terão alíquota zero a partir de 2027 com reforma tributária",
-   "resumo": "",
-   "link": "https://www.acheisudoeste.com.br/noticias/economia/arroz-carne-leite-e-cafe-terao-aliquota-zero-a-partir-de-2027-com-reforma-tributaria",
-   "source": "Achei Sudoeste",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-23T16:50:17Z",
-   "tries": 2
-  },
-  {
-   "id": "dc0163f7f5fa",
-   "date": "2026-11-23",
-   "title": "Receita Federal libera participação de todas as empresas em testes da Reforma Tributária",
-   "resumo": "Portaria elimina exigência de indicação por entidades representativas e permite que empresas com CNPJ testem sistemas da Contribuição sobre Bens e Serviços (CBS)",
-   "link": "https://jornaldanova.com.br/noticia/476970/receita-federal-libera-participacao-de-todas-as-empresas-em-testes-da-reforma-tributaria",
-   "source": "Jornal da Nova",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T16:50:17Z",
    "tries": 1
   }
  ]

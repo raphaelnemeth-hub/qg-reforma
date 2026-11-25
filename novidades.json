@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-25T08:31:16Z",
- "lastCheckBr": "25/11/2026 05:31",
- "added": 25,
+ "lastCheckAt": "2026-11-25T09:58:59Z",
+ "lastCheckBr": "25/11/2026 06:58",
+ "added": 24,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -43,8 +43,8 @@
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 94,
-   "new": 20
+   "found": 96,
+   "new": 19
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -54,6 +54,19 @@
   }
  ],
  "items": [
+  {
+   "id": "e94aaaa4ce11",
+   "date": "2026-11-25",
+   "title": "Simples Nacional terá novas regras com a Reforma Tributária; entenda o que muda",
+   "resumo": "Reforma Tributária muda tabelas e regras do Simples Nacional; veja os prazos e as obrigações das empresas.",
+   "link": "https://timesbrasil.com.br/empresas-e-negocios/simples-nacional-tera-novas-regras-com-a-reforma-tributaria-entenda-o-que-muda/",
+   "source": "Times Brasil | CNBC",
+   "official": false,
+   "category": "simples",
+   "tag": "Simples",
+   "addedAt": "2026-11-25T09:58:59Z",
+   "tries": 1
+  },
   {
    "id": "0fbdaf093295",
    "date": "2026-11-25",
@@ -1953,29 +1966,16 @@
    "tries": 1
   },
   {
-   "id": "45b4be580439",
+   "id": "eb2978a2dedf",
    "date": "2026-11-20",
-   "title": "Reforma tributária: Como proteger os créditos de IBS e CBS",
+   "title": "Receita Federal amplia acesso ao Ambiente de Produção Restrita do Piloto da CBS",
    "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOamJlVzBYWUZoQ05pTmhubXpRaWdidDNEMnBjSDFwSURSb3hHMFlvSjR1NzNScEVveDhadHd1aE9Cd3Jaa1hfNU1fcU1ud0pWbk1hRDc1MDFOSUpLaEFwVGx6TUhOeG1tbU5INGphX0hJLWJjWmZkMzFsZF9ZX0xEX1BHZjhIS1hXR2NWZXpXUWNYOHgxOEtNMkNjbzF4X0Nr?oc=5",
-   "source": "Migalhas",
+   "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-amplia-acesso-ao-ambiente-de-producao-restrita-do-piloto-da-cbs",
+   "source": "GOV.BR",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-25T08:31:16Z",
-   "tries": 1
-  },
-  {
-   "id": "18fdf5c9e105",
-   "date": "2026-11-20",
-   "title": "Da omissão ao crédito: a reforma tributária e os crimes empresariais",
-   "resumo": "Na reforma tributária, com o IBS, a CBS e o split payment, em crimes contra a ordem tributária, em vez de discutir se o tributo é devido, pode-se questionar se a operação descrita no documento fiscal de fato existiu.",
-   "link": "https://www.jota.info/opiniao-e-analise/artigos/da-omissao-ao-credito-a-reforma-tributaria-e-os-crimes-empresariais",
-   "source": "JOTA Info",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-25T08:31:16Z",
+   "addedAt": "2026-11-25T09:58:59Z",
    "tries": 1
   }
  ]

@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-25T00:50:20Z",
- "lastCheckBr": "24/11/2026 21:50",
- "added": 25,
+ "lastCheckAt": "2026-11-25T02:14:42Z",
+ "lastCheckBr": "24/11/2026 23:14",
+ "added": 26,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -43,13 +43,13 @@
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 96,
-   "new": 19
+   "found": 94,
+   "new": 20
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
    "ok": true,
-   "found": 8,
+   "found": 9,
    "new": 6
   }
  ],
@@ -1901,6 +1901,19 @@
    "tries": 1
   },
   {
+   "id": "18fdf5c9e105",
+   "date": "2026-11-20",
+   "title": "Da omissão ao crédito: a reforma tributária e os crimes empresariais",
+   "resumo": "Na reforma tributária, com o IBS, a CBS e o split payment, em crimes contra a ordem tributária, em vez de discutir se o tributo é devido, pode-se questionar se a operação descrita no documento fiscal de fato existiu.",
+   "link": "https://www.jota.info/opiniao-e-analise/artigos/da-omissao-ao-credito-a-reforma-tributaria-e-os-crimes-empresariais",
+   "source": "JOTA Info",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-25T02:14:42Z",
+   "tries": 1
+  },
+  {
    "id": "45b4be580439",
    "date": "2026-11-20",
    "title": "Reforma tributária: Como proteger os créditos de IBS e CBS",
@@ -1964,19 +1977,6 @@
    "tag": "Atualização",
    "addedAt": "2026-11-21T03:12:31Z",
    "tries": 2
-  },
-  {
-   "id": "ec8f4af17209",
-   "date": "2026-11-20",
-   "title": "Indefinição sobre Justiça competente para IBS e CBS preocupa Marcus Abraham",
-   "resumo": "Para o desembargador Marcus Abraham, reforma tributária tem virtudes, mas a implementação tem sido marcada pela falta de segurança jurídica.",
-   "link": "https://conjur.com.br/2026-nov-20/indefinicao-sobre-justica-competente-para-ibs-e-cbs-preocupa-desembargador/",
-   "source": "Consultor Jurídico",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-20T21:37:40Z",
-   "tries": 1
   }
  ]
 }

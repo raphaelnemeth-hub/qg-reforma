@@ -1,12 +1,12 @@
 {
- "lastCheckAt": "2026-11-25T20:44:47Z",
- "lastCheckBr": "25/11/2026 17:44",
- "added": 24,
+ "lastCheckAt": "2026-11-25T21:48:18Z",
+ "lastCheckBr": "25/11/2026 18:48",
+ "added": 20,
  "feeds": [
   {
    "name": "Agência Senado",
    "ok": true,
-   "found": 1,
+   "found": 2,
    "new": 1
   },
   {
@@ -32,7 +32,7 @@
    "name": "Portal Contábeis",
    "ok": true,
    "found": 5,
-   "new": 1
+   "new": 0
   },
   {
    "name": "InfoMoney",
@@ -44,7 +44,7 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 98,
-   "new": 17
+   "new": 14
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -54,6 +54,31 @@
   }
  ],
  "items": [
+  {
+   "id": "7bffe5b2d146",
+   "date": "2026-11-25",
+   "title": "Relatório eleva em R$ 37,1 bilhões a previsão de receita para 2027",
+   "resumo": "A Comissão Mista de Orçamento (CMO) aprovou nesta quarta-feira (25) o relatório da receita do Orçamento de 2027 (PLN 24/2026), com acréscimo de R$ 37,1 bilhões em relação ao projeto enviado em agosto pelo Poder Executivo. Relator da matéria, o deputado Neto…",
+   "link": "https://www12.senado.leg.br/noticias/materias/2026/11/25/relatorio-eleva-em-r-37-1-bilhoes-a-previsao-de-receita-para-2027",
+   "source": "Senado Federal",
+   "official": true,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-25T21:48:18Z"
+  },
+  {
+   "id": "b4bbd78ad9fe",
+   "date": "2026-11-25",
+   "title": "Reforma Tributária CBS: setor privado pede alíquota menor",
+   "resumo": "O setor privado levou ao Congresso estudos técnicos que indicam possibilidade de redução da alíquota da CBS. Três avaliações independentes apontam espaço para corte de ao menos um ponto percentual sem afetar a arrecadação. O Senado tem até 15 de dezembro para…",
+   "link": "https://aciara.com.br/reforma-tributaria-cbs-setor-privado-pede-aliquota-menor/",
+   "source": "Acia Araçatuba",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-25T21:48:18Z",
+   "tries": 1
+  },
   {
    "id": "087b0559ea8a",
    "date": "2026-11-25",
@@ -89,7 +114,7 @@
    "category": "simples",
    "tag": "Simples",
    "addedAt": "2026-11-25T20:44:47Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "bced71e470c2",
@@ -1218,6 +1243,19 @@
    "addedAt": "2026-11-24T04:30:39Z"
   },
   {
+   "id": "e9f4802b26a3",
+   "date": "2026-11-23",
+   "title": "Devolução em 2027 garante crédito de CBS sobre venda de 2026",
+   "resumo": "Lei Complementar 214/2025 preserva crédito da CBS para empresas que receberem de volta mercadorias vendidas antes de 2027, com restrições de uso.",
+   "link": "https://www.contabeis.com.br/noticias/81066/devolucao-em-2027-garante-credito-de-cbs-sobre-venda-de-2026/",
+   "source": "Portal Contabeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-25T21:48:18Z",
+   "tries": 1
+  },
+  {
    "id": "126dfaa1a07a",
    "date": "2026-11-23",
    "title": "Fazenda corrige informação sobre crédito de IPI e CBS",
@@ -1228,7 +1266,7 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-25T20:44:47Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "ca6f09cd6f8f",
@@ -1254,7 +1292,7 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-25T20:44:47Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "629a8fa0c535",
@@ -1939,45 +1977,6 @@
    "tag": "Legislação",
    "addedAt": "2026-11-23T19:54:32Z",
    "tries": 1
-  },
-  {
-   "id": "b1261f98c725",
-   "date": "2026-11-23",
-   "title": "Receita Abre Piloto da CBS a Empresas de Qualquer Setor",
-   "resumo": "Acesso ao ambiente de testes da reforma tributária não exigirá convite, mas dependerá de requisitos operacionais e de segurança",
-   "link": "https://forbes.com.br/forbes-money/2026/11/piloto-cbs-receita/",
-   "source": "Forbes Brasil",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T18:48:11Z",
-   "tries": 1
-  },
-  {
-   "id": "628dcdca7a0b",
-   "date": "2026-11-23",
-   "title": "Receita Federal libera todas as empresas para testar a nova Reforma Tributária",
-   "resumo": "A Receita Federal publicou uma portaria que permite que qualquer empresa com CNPJ ativo participe do ambiente de testes da Contribuição ...",
-   "link": "https://www.bra1.com.br/economia/id-731467/receita_federal_libera_todas_as_empresas_para_testar_a_nova_reforma_tributaria",
-   "source": "bra1.com.br",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T18:48:11Z",
-   "tries": 1
-  },
-  {
-   "id": "5196a43054f9",
-   "date": "2026-11-23",
-   "title": "Reforma tributária zera imposto de carnes, arroz e café a partir de 2027; veja os 22 itens isentos",
-   "resumo": "",
-   "link": "https://diariodopara.com.br/seu-bolso/reforma-tributaria-imposto-zero-alimentos-2027/",
-   "source": "Diário do Pará",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T18:48:11Z",
-   "tries": 2
   }
  ]
 }

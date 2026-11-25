@@ -1,13 +1,13 @@
 {
- "lastCheckAt": "2026-11-25T19:46:03Z",
- "lastCheckBr": "25/11/2026 16:46",
+ "lastCheckAt": "2026-11-25T20:44:47Z",
+ "lastCheckBr": "25/11/2026 17:44",
  "added": 24,
  "feeds": [
   {
    "name": "Agência Senado",
    "ok": true,
-   "found": 0,
-   "new": 0
+   "found": 1,
+   "new": 1
   },
   {
    "name": "Agência Câmara",
@@ -31,29 +31,79 @@
   {
    "name": "Portal Contábeis",
    "ok": true,
-   "found": 4,
-   "new": 0
+   "found": 5,
+   "new": 1
   },
   {
    "name": "InfoMoney",
    "ok": true,
-   "found": 1,
-   "new": 1
+   "found": 0,
+   "new": 0
   },
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 97,
+   "found": 98,
    "new": 17
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
    "ok": true,
    "found": 8,
-   "new": 6
+   "new": 5
   }
  ],
  "items": [
+  {
+   "id": "087b0559ea8a",
+   "date": "2026-11-25",
+   "title": "Paim volta a defender mudança na contribuição previdenciária das empresas",
+   "resumo": "Em pronunciamento no Plenário nesta quarta-feira (25), o senador Paulo Paim (PT-RS) voltou a defender a mudança na forma de contribuição das empresas para a Previdência Social que está prevista na PEC 1/2026: com a cobrança calculada sobre o faturamento, e…",
+   "link": "https://www12.senado.leg.br/noticias/materias/2026/11/25/paim-volta-a-defender-mudanca-na-contribuicao-previdenciaria-das-empresas",
+   "source": "Senado Federal",
+   "official": true,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-25T20:44:47Z"
+  },
+  {
+   "id": "d0967b7925ae",
+   "date": "2026-11-25",
+   "title": "Reidi terá teto de benefícios e seleção de projetos por comitê",
+   "resumo": "LC 239/2026 limita incentivo vinculado ao IBS e à CBS ao valor previsto na LOA de 2026, corrigido pelo IPCA, e prevê escolha de projetos pelo Executivo. Leia mais em…",
+   "link": "https://www.contabeis.com.br/noticias/81164/reidi-tera-teto-de-beneficios-e-selecao-de-projetos-por-comite/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "lei",
+   "tag": "Legislação",
+   "addedAt": "2026-11-25T20:44:47Z"
+  },
+  {
+   "id": "767ade32a3f5",
+   "date": "2026-11-25",
+   "title": "Simples Nacional tem novas regras para adaptação à Reforma Tributária — Secretaria de Comunicação Social",
+   "resumo": "",
+   "link": "https://www.gov.br/secom/pt-br/acompanhe-a-secom/noticias/2026/11/simples-nacional-tem-novas-regras-para-adaptacao-a-reforma-tributaria",
+   "source": "www.gov.br",
+   "official": false,
+   "category": "simples",
+   "tag": "Simples",
+   "addedAt": "2026-11-25T20:44:47Z",
+   "tries": 1
+  },
+  {
+   "id": "bced71e470c2",
+   "date": "2026-11-25",
+   "title": "Reforma tributária empurra o mercado imobiliário para a profissionalização, dizem advogados",
+   "resumo": "A chegada da CBS e do IBS transforma a variável fiscal em etapa obrigatória do pré-negócio, exige revisão de contratos e obriga imobiliárias, proprietários e inquilinos a reavaliarem custos, créditos e controles operacionais",
+   "link": "https://portas.com.br/reforma-tributaria/reforma-tributaria-profissionalizacao-mercado-imobiliario/",
+   "source": "portas.com.br",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-25T20:44:47Z",
+   "tries": 1
+  },
   {
    "id": "4b41df940e14",
    "date": "2026-11-25",
@@ -90,7 +140,7 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-25T19:46:03Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "4bae85fda9ca",
@@ -1168,6 +1218,45 @@
    "addedAt": "2026-11-24T04:30:39Z"
   },
   {
+   "id": "126dfaa1a07a",
+   "date": "2026-11-23",
+   "title": "Fazenda corrige informação sobre crédito de IPI e CBS",
+   "resumo": "",
+   "link": "https://apet.org.br/noticia/fazenda-corrige-informacao-sobre-credito-de-ipi-e-cbs/",
+   "source": "APET – Associação Paulista de Estudos Tributários",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-25T20:44:47Z",
+   "tries": 1
+  },
+  {
+   "id": "ca6f09cd6f8f",
+   "date": "2026-11-23",
+   "title": "Reforma Tributária: empresas de qualquer porte podem participar de piloto da CBS",
+   "resumo": "Receita Federal libera acesso ao ambiente de testes da Contribuição sobre Bens e Serviços sem necessidade de indicação por entidades representativas; iniciativa integra Reforma Tributária e busca validar sistemas antes da implementação do novo modelo de…",
+   "link": "https://movimentoeconomico.com.br/economia/lei-de-incentivos/tributacao/2026/11/23/reforma-tributaria-empresas-de-qualquer-porte-podem-participar-de-piloto-da-cbs/",
+   "source": "Movimento Econômico",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-25T20:44:47Z",
+   "tries": 1
+  },
+  {
+   "id": "f3bb024c2425",
+   "date": "2026-11-23",
+   "title": "Receita amplia participação em ambiente de testes da CBS para todas as empresas",
+   "resumo": "",
+   "link": "https://www.opiniaoce.com.br/politica/2026/11/23/receita-amplia-participacao-em-ambiente-de-testes-da-cbs-para-todas-as-empresas/",
+   "source": "OpiniãoCE",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-25T20:44:47Z",
+   "tries": 1
+  },
+  {
    "id": "629a8fa0c535",
    "date": "2026-11-23",
    "title": "OAB/SP lança simulador gratuito para calcular imposto da reforma tributária",
@@ -1178,7 +1267,7 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-25T19:46:03Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "10ec7920f30c",
@@ -1217,7 +1306,7 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-25T19:46:03Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "b3997f6ae089",
@@ -1889,96 +1978,6 @@
    "tag": "Atualização",
    "addedAt": "2026-11-23T18:48:11Z",
    "tries": 2
-  },
-  {
-   "id": "fd5d065f3bed",
-   "date": "2026-11-23",
-   "title": "Reforma tributária gera impasse jurídico sobre IBS e CBS em salvados de seguradoras",
-   "resumo": "Notícias de Aracaju, Sergipe e do Brasil - Reforma tributária gera impasse jurídico sobre IBS e CBS em salvados de seguradoras",
-   "link": "https://imprensa24h.com.br/reforma-tributaria-ibs-cbs-salvados-de-sinistro/",
-   "source": "Imprensa 24h",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T18:48:11Z",
-   "tries": 1
-  },
-  {
-   "id": "e4b394b81e36",
-   "date": "2026-11-23",
-   "title": "Receita Federal abre piloto da CBS a todas as empresas",
-   "resumo": "A Receita Federal publicou nesta segunda-feira (23) portaria que libera o acesso ao ambiente de testes do piloto da Contribuição",
-   "link": "https://monitordomercado.com.br/noticias/economia/437547-receita-federal-abre-participacao-em-piloto-da-cbs-a-todas-as-empresas/",
-   "source": "Monitor do Mercado",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T18:48:11Z",
-   "tries": 1
-  },
-  {
-   "id": "68764411f75d",
-   "date": "2026-11-23",
-   "title": "Nova tecnologia de split payment na reforma tributária altera capital de giro das empresas no Brasil",
-   "resumo": "Notícias de Aracaju, Sergipe e do Brasil - Nova tecnologia de split payment na reforma tributária altera capital de giro das empresas no Brasil",
-   "link": "https://imprensa24h.com.br/split-payment-reforma-tributaria-fluxo-de-caixa/",
-   "source": "Imprensa 24h",
-   "official": false,
-   "category": "pag",
-   "tag": "Split payment",
-   "addedAt": "2026-11-23T18:48:11Z",
-   "tries": 1
-  },
-  {
-   "id": "1766f2b982cf",
-   "date": "2026-11-23",
-   "title": "Devolução em 2027 garante crédito de CBS sobre venda de 2026",
-   "resumo": "Lei Complementar 214/2025 preserva crédito da CBS para empresas que receberem de volta mercadorias vendidas antes de 2027, com restrições de uso. Leia mais em…",
-   "link": "https://www.contabeis.com.br/noticias/81066/devolucao-em-2027-garante-credito-de-cbs-sobre-venda-de-2026/",
-   "source": "Portal Contábeis",
-   "official": false,
-   "category": "lei",
-   "tag": "Legislação",
-   "addedAt": "2026-11-23T17:50:16Z"
-  },
-  {
-   "id": "5ef234e13d31",
-   "date": "2026-11-23",
-   "title": "Centro de distribuição próprio a partir de 2027: como o IBS no destino muda a escolha de onde instalar o galpão logístico",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQQXpzSWhlbnFxaVU2Tk1HOHh3ZHhqV2xiOUdlWWNRcjl0bWpVTXVsMEtsR3Z1TkMzZ1hwd09ZZ1JXN2hEcU4xMmY5TzM4UVBfTEZ1ZUNRYjZjMjY5b2ExQngtOUxzc1ZpbU1qOHJ1WWJkc0U1U2Uzczk5R19mOG9uUUwzZTFjYUhOcE5oUkZwcmFlNUZHRUROcXlKYmV2OTNyTmh2Nl9BLUhGLWRiekJfSG5wdXllYUtmcG1OZmxxc2JUa0owTjNQellPdTMydkNMc0ZsSXEzVmdrNXZuSG5zOXJLbzdLclZUdm9qQlJoU0ppRmRicVHSAfYBQVVfeXFMUEF6c0loZW5xcWlVNk5NRzh4d2R4aldsYjlHZVljUXI5dG1qVU11bDBLbEd2dU5DM2dYcHdPWWdSVzdoRHFOMTJmOU8zOFFQX0xGdWVDUWI2YzI2OW9hMUJ4LTlMc3NWaW1NajhydVliZHNFNVNlM3M5OUdfZjhvblFMM2UxY2FITnBOaFJGcHJhZTVGR0VETnF5SmJldjkzck5odjZfQS1IRi1kYnpCX0hucHV5ZWFLZnBtTmZscXNiVGtKME4zUHpZT3UzMnZDTHNGbElxM1ZnazV2bkhuczlyS283S3JWVHZvakJSaFNKaUZkYnFR?oc=5",
-   "source": "Jornal Contábil",
-   "official": false,
-   "category": "cont",
-   "tag": "Contabilidade",
-   "addedAt": "2026-11-23T17:50:16Z",
-   "tries": 2
-  },
-  {
-   "id": "2d85af48b527",
-   "date": "2026-11-23",
-   "title": "Reforma Tributária no agro: o que muda para o produtor rural em 2027?",
-   "resumo": "",
-   "link": "https://www.comprerural.com/reforma-tributaria-no-agro-o-que-muda-para-o-produtor-rural-em-2027/",
-   "source": "CompreRural",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T17:50:16Z",
-   "tries": 2
-  },
-  {
-   "id": "772de5ba7220",
-   "date": "2026-11-23",
-   "title": "Qualquer empresa com CNPJ pode acessar piloto da CBS sem indicação prévia",
-   "resumo": "Portaria da Receita Federal publicada nesta segunda-feira (23) dispensa pedido prévio e exige procuração digital para uso do ambiente de testes.",
-   "link": "https://newsrondonia.com.br/economia/2026/11/23/qualquer-empresa-com-cnpj-pode-acessar-piloto-da-cbs-sem-indicacao-previa/",
-   "source": "News Rondônia",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T17:50:16Z",
-   "tries": 1
   }
  ]
 }

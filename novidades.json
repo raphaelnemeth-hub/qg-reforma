@@ -1,12 +1,12 @@
 {
- "lastCheckAt": "2026-11-25T10:56:05Z",
- "lastCheckBr": "25/11/2026 07:56",
- "added": 24,
+ "lastCheckAt": "2026-11-25T11:52:38Z",
+ "lastCheckBr": "25/11/2026 08:52",
+ "added": 30,
  "feeds": [
   {
    "name": "Agência Senado",
    "ok": true,
-   "found": 1,
+   "found": 0,
    "new": 0
   },
   {
@@ -43,8 +43,8 @@
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 97,
-   "new": 19
+   "found": 95,
+   "new": 25
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -54,6 +54,58 @@
   }
  ],
  "items": [
+  {
+   "id": "8c41211050c0",
+   "date": "2026-11-25",
+   "title": "Reforma Tributária: novas regras do Imposto Seletivo exigem revisão de preços e sistemas das empresas",
+   "resumo": "",
+   "link": "https://www.contadores.cnt.br/noticias/artigos/2026/11/25/reforma-tributaria-novas-regras-do-imposto-seletivo-exigem-revisao-de-precos-e-sistemas-das-empresas.html",
+   "source": "Contadores.cnt.br",
+   "official": false,
+   "category": "cont",
+   "tag": "Contabilidade",
+   "addedAt": "2026-11-25T11:52:38Z",
+   "tries": 1
+  },
+  {
+   "id": "b647c12f1929",
+   "date": "2026-11-25",
+   "title": "Setor privado leva ao Congresso estudos mostrando que alíquota da CBS pode cair pelo menos um ponto percentual sem perda de receitas",
+   "resumo": "",
+   "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNNlY5ejdzOXpLNlN2WTRhQ3R4QVNOc0xLcFA3Z0JLYkZTanl4TEZRT0MteTBQYy1jemlyNTd6UUZNNUJCU2ZicWg3Z1RDOHFpRWl6emlKYTNSYlE3dVdOR0R5UmNjb3NNY2lDR3FJbVhRTzNOODIyN2M0d3E5NmtjeV96RGpoVHFITXZiYlAyRDFDMXF5MC0zNXNMZVhHT2laU1pkLVpKNEREZjJUTWJ4QXRJMXotWDlDQUdUaGVKS2dFRGJVejRzX0huTlJPQUtEWGRCanJ6czh4Rm5IUWVuMmZRZE1SdUJneFVlT1dtT1hOUVVNczV2QmZzMmV6UHZhdmlvNldub3hUYjVIbm9BU2JZS0QtcTVNV2hpR1RZbjRzVGlZR2t0aTN3b07SAbsCQVVfeXFMUE9JbGx6UVJmZU9Ndm9GM3Z1bnJTcHVPMkxERVRYSk5xYmtlTV9kR1R0UTRObmZGTGxYdlFQWTBOSXBzWDBjaEZ2Z3ZINGtMOWdkYTZTUGd2dUxlamVrRVhIbEdNbUxpZTF1T3AyS0d6OWIweERFenVzVEpoWHN0TmVxR3hrM1c5RHJYQ0lsazFxVW85Z3BxSnFqdThnbl8zcmhHM1dFdDAxNDZNUU9hRllqWUo1T1NpUlVlelRyM0VPSjJNX1o4dVQ5RWI4cFQxYTlXNXlpNVBPdUFXTS1obWZ5c1k0Sk1yUWI0UVN3RFd5S0Njc0R0d2Y3aTdjLWVBaHRqRHIzUUU3aUhoWUtwck1hNjJ6TUItVGo0T09SMDVLY0QwVVJxWjVFLXhNc0JvR0FiNU44cHZrMlE0?oc=5",
+   "source": "O GLOBO",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-25T11:52:38Z",
+   "tries": 1
+  },
+  {
+   "id": "520b45731507",
+   "date": "2026-11-25",
+   "title": "Receita Federal libera acesso ao Piloto da CBS para todas as empresas inscritas no CNPJ",
+   "resumo": "A Receita Federal do Brasil ampliou o acesso ao Ambiente de Produção Restrita – Piloto da Contribuição sobre Bens e Serviços (CBS), permitindo que todas as pessoas jurídicas inscritas no Cadastro Nacional da Pessoa Jurídica (CNPJ) utilizem a plataforma para…",
+   "link": "https://fetrancesc.com.br/noticia/receita-federal-libera-acesso-ao-piloto-da-cbs-para-todas-as-empresas-inscritas-no-cnpj/",
+   "source": "fetrancesc",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-25T11:52:38Z",
+   "tries": 1
+  },
+  {
+   "id": "2ffa29e7eba3",
+   "date": "2026-11-25",
+   "title": "REFORMA TRIBUTÁRIA: ALIMENTOS DA CESTA BÁSICA PODEM FICAR MAIS BARATOS EM 2027",
+   "resumo": "Saiba como a reforma tributária de 2027 pode impactar os preços na cesta básica e quais alimentos ficarão isentos de impostos.",
+   "link": "https://bahiaeconomica.com.br/economia-e-politica/reforma-tributaria-alimentos-da-cesta-basica-podem-ficar-mais-baratos-em-2027-212469",
+   "source": "Bahia Econômica",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-25T11:52:38Z",
+   "tries": 1
+  },
   {
    "id": "3a626e6175d0",
    "date": "2026-11-25",
@@ -1925,57 +1977,6 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-22T23:09:41Z",
-   "tries": 1
-  },
-  {
-   "id": "255e3e3d7e30",
-   "date": "2026-11-21",
-   "title": "Reforma Tributária: o que muda para o consumidor em 2027",
-   "resumo": "A reforma tributária do consumo entra em uma nova etapa em janeiro de 2027, com mudanças que vão atingir consumidores, empresas e, mais adiante, a arrecadaçã...",
-   "link": "https://www.campograndenews.com.br/economia/reforma-tributaria-muda-impostos-sobre-compras-e-servicos",
-   "source": "Campo Grande News",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-22T11:09:19Z",
-   "tries": 1
-  },
-  {
-   "id": "d91e5adf7bc2",
-   "date": "2026-11-21",
-   "title": "Reforma tributária: CBS começa em 2027 e atinge MS",
-   "resumo": "A reforma tributária do consumo entra em uma nova etapa em janeiro de 2027, com mudanças que vão atingir consumidores, empresas e, mais adiante, a arrecadaçã...",
-   "link": "https://www.campograndenews.com.br/economia/compras-luz-e-gas-entram-na-nova-fase-da-reforma-tributaria-em-2027",
-   "source": "Campo Grande News",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-21T21:29:10Z",
-   "tries": 1
-  },
-  {
-   "id": "a957da3aaea0",
-   "date": "2026-11-21",
-   "title": "Reforma Tributária: veja o que muda na rotina dos escritórios contábeis em 2027",
-   "resumo": "Entrada da CBS e implantação do IBS exigem ajustes na apuração de tributos, emissão de notas fiscais e cumprimento de obrigações. Leia mais em…",
-   "link": "https://www.contabeis.com.br/noticias/80949/reforma-tributaria-veja-o-que-muda-na-rotina-dos-escritorios-contabeis-em-2027/",
-   "source": "Portal Contábeis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-21T15:35:15Z"
-  },
-  {
-   "id": "c9d1c9414a76",
-   "date": "2026-11-21",
-   "title": "Reforma tributária afeta aluguéis? Entenda o que muda a partir de 2027",
-   "resumo": "Mudanças afetam pessoas físicas e empresas com novas exigências para quem possui mais de três imóveis e recebe acima de R$ 240 mil por ano",
-   "link": "https://www.cnnbrasil.com.br/economia/seu-bolso/meu-dinheiro/reforma-tributaria-afeta-alugueis-entenda-o-que-muda-a-partir-de-2027/",
-   "source": "CNN Brasil",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-21T12:40:07Z",
    "tries": 1
   }
  ]

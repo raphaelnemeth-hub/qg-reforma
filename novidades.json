@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-25T11:52:38Z",
- "lastCheckBr": "25/11/2026 08:52",
- "added": 30,
+ "lastCheckAt": "2026-11-25T12:59:57Z",
+ "lastCheckBr": "25/11/2026 09:59",
+ "added": 29,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -17,10 +17,9 @@
   },
   {
    "name": "Receita Federal",
-   "ok": false,
+   "ok": true,
    "found": 0,
-   "new": 0,
-   "error": "URLError"
+   "new": 0
   },
   {
    "name": "Agência Brasil",
@@ -31,8 +30,8 @@
   {
    "name": "Portal Contábeis",
    "ok": true,
-   "found": 9,
-   "new": 0
+   "found": 8,
+   "new": 1
   },
   {
    "name": "InfoMoney",
@@ -43,8 +42,8 @@
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 95,
-   "new": 25
+   "found": 97,
+   "new": 23
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -54,6 +53,31 @@
   }
  ],
  "items": [
+  {
+   "id": "d84b25ccbba1",
+   "date": "2026-11-25",
+   "title": "Reforma e escala 6x1 podem impactar inflação em 2027",
+   "resumo": "Fazenda inclui possíveis efeitos da Reforma Tributária e da redução da jornada nas projeções de inflação. Banco Central monitora custos do trabalho. Leia mais em https://www.contabeis.com.br/noticias/81132/reforma-e-escala-6x1-podem-impactar-inflacao-em-2027/",
+   "link": "https://www.contabeis.com.br/noticias/81132/reforma-e-escala-6x1-podem-impactar-inflacao-em-2027/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-25T12:59:57Z"
+  },
+  {
+   "id": "c19a5f522c55",
+   "date": "2026-11-25",
+   "title": "Reforma Tributária: setor privado leva ao Congresso estudo para alíquota menor da CBS",
+   "resumo": "",
+   "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNNlY5ejdzOXpLNlN2WTRhQ3R4QVNOc0xLcFA3Z0JLYkZTanl4TEZRT0MteTBQYy1jemlyNTd6UUZNNUJCU2ZicWg3Z1RDOHFpRWl6emlKYTNSYlE3dVdOR0R5UmNjb3NNY2lDR3FJbVhRTzNOODIyN2M0d3E5NmtjeV96RGpoVHFITXZiYlAyRDFDMXF5MC0zNXNMZVhHT2laU1pkLVpKNEREZjJUTWJ4QXRJMXotWDlDQUdUaGVKS2dFRGJVejRzX0huTlJPQUtEWGRCanJ6czh4Rm5IUWVuMmZRZE1SdUJneFVlT1dtT1hOUVVNczV2QmZzMmV6UHZhdmlvNldub3hUYjVIbm9BU2JZS0QtcTVNV2hpR1RZbjRzVGlZR2t0aTN3b07SAbsCQVVfeXFMUE9JbGx6UVJmZU9Ndm9GM3Z1bnJTcHVPMkxERVRYSk5xYmtlTV9kR1R0UTRObmZGTGxYdlFQWTBOSXBzWDBjaEZ2Z3ZINGtMOWdkYTZTUGd2dUxlamVrRVhIbEdNbUxpZTF1T3AyS0d6OWIweERFenVzVEpoWHN0TmVxR3hrM1c5RHJYQ0lsazFxVW85Z3BxSnFqdThnbl8zcmhHM1dFdDAxNDZNUU9hRllqWUo1T1NpUlVlelRyM0VPSjJNX1o4dVQ5RWI4cFQxYTlXNXlpNVBPdUFXTS1obWZ5c1k0Sk1yUWI0UVN3RFd5S0Njc0R0d2Y3aTdjLWVBaHRqRHIzUUU3aUhoWUtwck1hNjJ6TUItVGo0T09SMDVLY0QwVVJxWjVFLXhNc0JvR0FiNU44cHZrMlE0?oc=5",
+   "source": "O GLOBO",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-25T12:59:57Z",
+   "tries": 1
+  },
   {
    "id": "8c41211050c0",
    "date": "2026-11-25",
@@ -65,7 +89,7 @@
    "category": "cont",
    "tag": "Contabilidade",
    "addedAt": "2026-11-25T11:52:38Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "b647c12f1929",
@@ -78,7 +102,7 @@
    "category": "aliq",
    "tag": "Alíquotas",
    "addedAt": "2026-11-25T11:52:38Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "520b45731507",
@@ -143,6 +167,45 @@
    "category": "aliq",
    "tag": "Alíquotas",
    "addedAt": "2026-11-25T05:51:05Z",
+   "tries": 1
+  },
+  {
+   "id": "87131d60cb91",
+   "date": "2026-11-24",
+   "title": "Reforma Tributária: Receita Federal amplia acesso a ambiente de produção restrita da CBS",
+   "resumo": "Empresas de todo o Brasil poderão acessar o ambiente Piloto e conhecer as funcionalidades desenvolvidas para a Contribuição sobre Bens e Serviços (CBS)",
+   "link": "https://www.gov.br/secom/pt-br/acompanhe-a-secom/noticias/2026/11/reforma-tributaria-receita-federal-amplia-acesso-a-ambiente-de-producao-restrita-da-cbs",
+   "source": "www.gov.br",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-25T12:59:57Z",
+   "tries": 1
+  },
+  {
+   "id": "dc99b53eaa59",
+   "date": "2026-11-24",
+   "title": "O que é IBS e CBS, diferenças e cronograma: guia completo",
+   "resumo": "O IBS (Imposto sobre Bens e Serviços) e a CBS (Contribuição sobre Bens e Serviços) são os novos tributos sobre consumo criados pela Reforma Tributária e que já começaram a ser aplicados em forma de […]",
+   "link": "https://meutudo.com.br/blog/ibs-e-cbs/",
+   "source": "meutudo",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-25T12:59:57Z",
+   "tries": 1
+  },
+  {
+   "id": "ca6412ac48f2",
+   "date": "2026-11-24",
+   "title": "Reforma Tributária: transparência fiscal e isonomia na concorrência são desafios para o varejo | SEGS...",
+   "resumo": "",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUnlyV0RfQVRSSTdvd0ZiVXk3OHlkU2dNbzJURlpqRDk1bElBbjJnVUxHQUhnbmtfOFhlRGhPNVRFN1g1VU16S3FxUXdnVkJQYmZzWEdEY0VtelozNlAyeTlGNWdITjJtS2tQX05qRWF6LTEtXzd3Y2pYMUVTWldvZ3kwR0hpcTJlb0x5eF9Ddmtua1BXOXRZeENOUjRydWRfNzdBX0IxR3FqdXFWUFhOa2VjTmJ4ZWI4NWd4YmthanJVOG94WVRidWNvaGzSAdIBQVVfeXFMUHlrUUtXdE55T2diTDkxNXpzLU01dkgwS2c4TmwwRlNlLTZmaWh4dUszTWtjaWNfRGd3MHpqYlJBd3pkUGpQYTBSZ2p5Ym95U2RXMU1XZEV4dGFMSGt6NDVXdXh3V3gwS3hmZGhxYkVIQzBxSzB3SC1UYW9oTnI5SnlMaXhtdlFTRXpkZ3EzRUY3Z0RIUnJ2N2J0Wm1aYlhjMmRabTM2c3h5UnZIc2NxS1BUVVV1bXRwNW11WjVWbGt4UUtBX2FTY0NxX1pNdnAxb2JR?oc=5",
+   "source": "SEGS Portal Nacional",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-25T12:59:57Z",
    "tries": 1
   },
   {
@@ -832,6 +895,32 @@
    "category": "lei",
    "tag": "Legislação",
    "addedAt": "2026-11-24T04:30:39Z"
+  },
+  {
+   "id": "e50cd6d8e339",
+   "date": "2026-11-23",
+   "title": "Receita Federal amplia acesso ao Ambiente de Produção Restrita do Piloto da CBS",
+   "resumo": "Receita Federal amplia o acesso ao Piloto da CBS. Veja os requisitos, como conceder procuração digital e as diferenças em relação ao ambiente Beta.",
+   "link": "https://www.contabeis.com.br/noticias/81044/receita-federal-amplia-acesso-ao-ambiente-de-producao-restrita-do-piloto-da-cbs/",
+   "source": "Portal Contabeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-25T12:59:57Z",
+   "tries": 1
+  },
+  {
+   "id": "3c0f830e361b",
+   "date": "2026-11-23",
+   "title": "Reforma tributária desafia estrutura de pequenas e médias indústrias",
+   "resumo": "",
+   "link": "https://www.contadores.cnt.br/noticias/artigos/2026/11/23/reforma-tributaria-desafia-estrutura-de-pequenas-e-medias-industrias.html",
+   "source": "Contadores.cnt.br",
+   "official": false,
+   "category": "cont",
+   "tag": "Contabilidade",
+   "addedAt": "2026-11-25T12:59:57Z",
+   "tries": 1
   },
   {
    "id": "c062be6099c9",
@@ -1887,96 +1976,6 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-23T14:19:58Z",
-   "tries": 1
-  },
-  {
-   "id": "e046908b099f",
-   "date": "2026-11-22",
-   "title": "Reforma tributária é positiva para nanoempreendedores, diz associação",
-   "resumo": "Adriana Colloca, do setor de vendas diretas, destacou a isenção de IBS e CBS e a dispensa de obrigações acessórias. Leia no Poder360.",
-   "link": "https://www.poder360.com.br/poder-economia/reforma-tributaria-e-positiva-para-nanoempreendedores-diz-associacao/",
-   "source": "Poder360",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-22T23:09:41Z",
-   "tries": 1
-  },
-  {
-   "id": "4eba1007e540",
-   "date": "2026-11-22",
-   "title": "Reforma tributária",
-   "resumo": "Todos estão preparados para as mudanças?",
-   "link": "https://www.revide.com.br/noticias/artigo/reforma-tributaria/",
-   "source": "Revide",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-22T23:09:41Z",
-   "tries": 1
-  },
-  {
-   "id": "0f3e9a39f44d",
-   "date": "2026-11-22",
-   "title": "Empresas em Campinas discutem impactos da reforma tributária",
-   "resumo": "Representantes do setor empresarial de Campinas e região participaram de um encontro promovido por TozziniFreire Advogados para discutir os impactos",
-   "link": "https://horacampinas.com.br/empresas-em-campinas-discutem-impactos-da-reforma-tributaria/",
-   "source": "Hora Campinas",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-22T23:09:41Z",
-   "tries": 1
-  },
-  {
-   "id": "8561c5ffa902",
-   "date": "2026-11-22",
-   "title": "EUA buscam respostas sobre venda de chips da Nvidia para China, diz secretário",
-   "resumo": "Secretário do Tesouro dos EUA, Scott Bessent 24/06/2025. REUTERS/Kevin Mohatt \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2025/10/2025-10-13T123531Z_1_LYNXNPEL9C0IL_RTROPTP_4_USA-CONGRESS-TAX.jpg?fit=1280%2C853&quality=70&strip=all\"…",
-   "link": "https://www.infomoney.com.br/mundo/eua-buscam-respostas-sobre-venda-de-chips-da-nvidia-para-china-diz-secretario/",
-   "source": "InfoMoney",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-22T17:10:40Z"
-  },
-  {
-   "id": "1da90df883a7",
-   "date": "2026-11-22",
-   "title": "Observância do art. 166 do CTN na repetição do indébito da CBS/IBS",
-   "resumo": "Grupo de Trabalho ignora a jurisprudência consolidada do próprio STF ou do STJ sobre o tema da repetição de indébito dos tributos indiretos.",
-   "link": "https://www.jota.info/opiniao-e-analise/colunas/pauta-fiscal/observancia-do-art-166-do-ctn-na-repeticao-do-indebito-da-cbs-ibs",
-   "source": "JOTA Info",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-22T06:51:49Z",
-   "tries": 1
-  },
-  {
-   "id": "7c82ff643323",
-   "date": "2026-11-21",
-   "title": "Reforma tributária muda fluxo de caixa das empresas e prevê devolver tributos sobre luz, gás e internet",
-   "resumo": "",
-   "link": "https://jbnews.com.br/reforma-tributaria-muda-o-caixa-das-empresas-e-preve-devolver-tributos-sobre-luz-gas-e-internet/",
-   "source": "JBNEWS",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T12:56:35Z",
-   "tries": 2
-  },
-  {
-   "id": "025d47228b0c",
-   "date": "2026-11-21",
-   "title": "Reforma tributária e notas fiscais de bares e restaurantes",
-   "resumo": "Reforma tributária: bares e restaurantes precisam separar nas notas fiscais itens com regimes diferentes; a redução de 40% não vale para todos.",
-   "link": "https://agorarn.com.br/economia/reforma-tributaria-notas-fiscais-bares-restaurantes/",
-   "source": "Agora RN",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-22T23:09:41Z",
    "tries": 1
   }
  ]

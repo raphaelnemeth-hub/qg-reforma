@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-26T00:49:37Z",
- "lastCheckBr": "25/11/2026 21:49",
- "added": 20,
+ "lastCheckAt": "2026-11-26T02:12:37Z",
+ "lastCheckBr": "25/11/2026 23:12",
+ "added": 16,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -43,8 +43,8 @@
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 96,
-   "new": 14
+   "found": 97,
+   "new": 10
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -54,6 +54,32 @@
   }
  ],
  "items": [
+  {
+   "id": "992b91d64e8d",
+   "date": "2026-11-25",
+   "title": "Reforma Tributária: o que o Ato Técnico Conjunto CGIBS nº 1/2026 muda na emissão de notas fiscais da indústria?",
+   "resumo": "Entenda como o Ato Técnico Conjunto CGIBS nº 1/2026 afeta NF-e, IBS e CBS e por que a indústria deve revisar cadastros, faturamento e ERP",
+   "link": "https://portalerp.com/br/institucional/aoki-inova-desenvolvimento-implantacao-e-treinamento-de-sistemas-ltda/reforma-tributaria-o-que-o-ato-tecnico-conjunto-cgibs-n-1-2026-muda-na-emissao-de-notas-fiscais-da-industria",
+   "source": "Portal ERP",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-26T02:12:37Z",
+   "tries": 1
+  },
+  {
+   "id": "53a012fc94bc",
+   "date": "2026-11-25",
+   "title": "Piloto da CBS: empresas já podem testar ferramentas",
+   "resumo": "",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORWpoSjkwc253b1M4dFVnQ083YTVJYndZN3R0YkNjak1VS3Jya3J4M3lmMmJMNV9qWllBX19hT1FJbFVoUWx6NW43TnF1R0lMX1YxMlNENmk5TWxwdnNLS1VKcGVXbmlFaE1QLVdJeVpvMUpBRGRJRFhTQTNTYnNhTnQ4VGlIZmY5UU9fMm12YnNTWEhMVEFyMmpB?oc=5",
+   "source": "Portal Contabeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-26T02:12:37Z",
+   "tries": 1
+  },
   {
    "id": "769a5d3f66f9",
    "date": "2026-11-25",
@@ -1950,32 +1976,6 @@
    "resumo": "#ReformaTributaria #CBS #ReceitaFederal #Empresas #Economia #Impostos #GynNoticias",
    "link": "https://www.gynnoticias.com.br/brasil/receita-muda-regras-e-facilita-entrada-de-empresas-em-testes-da-cbs/5971",
    "source": "GYN Noticias",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T21:42:13Z",
-   "tries": 1
-  },
-  {
-   "id": "266fd73df1f2",
-   "date": "2026-11-23",
-   "title": "Galípolo afirma que reforma tributária será avaliada pelo BC apenas com alíquota definida",
-   "resumo": "Banco Central aguarda definições sobre alíquota da CBS para analisar impactos da reforma.",
-   "link": "https://www.tribunadosertao.com.br/geral/2026/11/23/1027991-galipolo-afirma-que-reforma-tributaria-sera-avaliada-pelo-bc-apenas-com-aliquota-definida",
-   "source": "Tribuna do Sertão",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-23T21:42:13Z",
-   "tries": 1
-  },
-  {
-   "id": "cbc3ee9d9f60",
-   "date": "2026-11-23",
-   "title": "Tem CNPJ? Receita Federal libera acesso aos testes do novo imposto da Reforma Tributária",
-   "resumo": "Portaria publicada nesta segunda-feira (23) acaba com a exigência de indicação prévia; acesso ao Portal Piloto da CBS pede apenas procuração digital e cumprimento de requisitos técnicos para quem tem CNPJ",
-   "link": "https://www.acidadeon.com/ribeiraopreto/economia/tem-cnpj-receita-federal-libera-acesso-aos-testes-do-novo-imposto-da-reforma-tributaria/",
-   "source": "ACidade ON",
    "official": false,
    "category": "outros",
    "tag": "Atualização",

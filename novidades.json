@@ -1,13 +1,13 @@
 {
- "lastCheckAt": "2026-11-26T18:44:59Z",
- "lastCheckBr": "26/11/2026 15:44",
- "added": 27,
+ "lastCheckAt": "2026-11-26T19:54:36Z",
+ "lastCheckBr": "26/11/2026 16:54",
+ "added": 32,
  "feeds": [
   {
    "name": "Agência Senado",
    "ok": true,
    "found": 2,
-   "new": 1
+   "new": 0
   },
   {
    "name": "Agência Câmara",
@@ -37,23 +37,62 @@
   {
    "name": "InfoMoney",
    "ok": true,
-   "found": 1,
-   "new": 1
+   "found": 0,
+   "new": 0
   },
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 97,
-   "new": 21
+   "found": 98,
+   "new": 27
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
    "ok": true,
    "found": 5,
-   "new": 4
+   "new": 5
   }
  ],
  "items": [
+  {
+   "id": "bf35ecb3d179",
+   "date": "2026-11-26",
+   "title": "Reforma Tributária: regra de créditos da CBS pode pressionar caixa das empresas em 2027",
+   "resumo": "Confirp alerta que a adoção do Recolhimento pelo Adquirente pode reduzir o intervalo de adaptação das empresas. Receita Federal prepara proposta para permitir o uso de créditos estimados na primeira apuração do tributo.",
+   "link": "https://www.portaldoagronegocio.com.br/gestao-rural/analise-de-mercado/noticias/reforma-tributaria-regra-de-creditos-da-cbs-pode-pressionar-caixa-das-empresas-em-2027",
+   "source": "Portal do Agronegócio",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-26T19:54:36Z",
+   "tries": 1
+  },
+  {
+   "id": "1eb4cd7921b1",
+   "date": "2026-11-26",
+   "title": "780 mil empresas erram ao informar CBS na nota fiscal",
+   "resumo": "Falhas nas notas fiscais podem afetar créditos tributários de CBS e pagamentos entre empresas",
+   "link": "https://investnews.com.br/negocios/nota-fiscal-cbs-erros-comuns/",
+   "source": "InvestNews",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-26T19:54:36Z",
+   "tries": 1
+  },
+  {
+   "id": "28c0b06df3f6",
+   "date": "2026-11-26",
+   "title": "Reforma Tributária: quando reconhecer provisões",
+   "resumo": "Dúvidas sobre IBS e CBS não geram provisão automaticamente; o CPC 25 define os critérios contábeis",
+   "link": "https://www.contabeis.com.br/artigos/81198/reforma-tributaria-quando-reconhecer-provisoes/",
+   "source": "Portal Contabeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-26T19:54:36Z",
+   "tries": 1
+  },
   {
    "id": "a0267d514923",
    "date": "2026-11-26",
@@ -115,7 +154,7 @@
    "category": "aliq",
    "tag": "Alíquotas",
    "addedAt": "2026-11-26T18:44:59Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "725dfade0602",
@@ -180,7 +219,7 @@
    "category": "aliq",
    "tag": "Alíquotas",
    "addedAt": "2026-11-26T18:44:59Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "0ddf0bc82a76",
@@ -1894,81 +1933,42 @@
    "addedAt": "2026-11-24T04:30:39Z"
   },
   {
-   "id": "8170ae1b0ecc",
+   "id": "d08174d05753",
    "date": "2026-11-23",
-   "title": "Palestra gratuita: Reforma Tributária – CBS e IBS e seus impactos no comércio varejista",
-   "resumo": "",
-   "link": "https://sindilojas.rio/2026/11/23/palestra-gratuita-reforma-tributaria-cbs-e-ibs-e-seus-impactos-no-comercio-varejista/",
-   "source": "SindilojasRio",
+   "title": "Receita amplia participação em piloto da CBS para todas as empresas",
+   "resumo": "Portaria abre acesso a ambiente de testes da Reforma Tributária, em relação à Contribuição sobre Bens e Serviços (CBS).",
+   "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/receita-amplia-participacao-em-piloto-da-cbs-para-todas-empresas",
+   "source": "Agência Brasil",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-26T18:44:59Z",
+   "addedAt": "2026-11-26T19:54:36Z",
    "tries": 1
   },
   {
-   "id": "31255c19f9ed",
+   "id": "54306abddebc",
    "date": "2026-11-23",
-   "title": "Crédito da CBS: quem paga a conta quando o fornecedor não paga?",
-   "resumo": "Estimativa anunciada pela Receita alivia o caixa na estreia da CBS, mas não diz quem suporta o inadimplemento do fornecedor.",
-   "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/credito-da-cbs-quem-paga-a-conta-quando-o-fornecedor-nao-paga",
+   "title": "Reforma Tributária/CBS: Piloto da Reforma Tributária - RTC-CBS",
+   "resumo": "Agilize decisões seguras. Legislação, Comentários e Consultoria nas áreas de IR e Contribuições, ICMS, IPI, ISS, Contabilidade e Societário, Simples Nacional, Trabalhista e Previdenciária. Cálculos e Tabelas de Substituição Tributária. Agenda Tributária…",
+   "link": "https://www.legisweb.com.br/noticia/?id",
+   "source": "LegisWeb",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-26T19:54:36Z",
+   "tries": 1
+  },
+  {
+   "id": "9547f634a3e0",
+   "date": "2026-11-23",
+   "title": "Split payment e os impactos da reforma tributária no fluxo de caixa das empresas",
+   "resumo": "Novo modelo exigirá integração entre sistemas fiscais e de pagamento e poderá afetar a disponibilidade de recursos das empresas",
+   "link": "https://www.jota.info/opiniao-e-analise/artigos/split-payment-e-os-impactos-da-reforma-tributaria-no-fluxo-de-caixa-das-empresas",
    "source": "JOTA Info",
    "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-26T18:44:59Z",
-   "tries": 1
-  },
-  {
-   "id": "9ffbb4305eaf",
-   "date": "2026-11-23",
-   "title": "Depois do PIS/Cofins: o futuro do contencioso da CBS no Carf e na Justiça",
-   "resumo": "O litígio do consumo não acaba de uma vez: muda de objeto, de lugar e de linguagem",
-   "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/depois-do-pis-cofins-o-futuro-do-contencioso-da-cbs-no-carf-e-na-justica",
-   "source": "JOTA Info",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-26T18:44:59Z",
-   "tries": 1
-  },
-  {
-   "id": "4749a34f9dee",
-   "date": "2026-11-23",
-   "title": "Outsourcing de TI e Reforma Tributária: como o IBS e a CBS podem favorecer o Bodyshop e o Staff Augmentation",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNXzhUOExqazRLSXRUVmZjcU4wUlc0R0xEY3VCLTJMU010WFZuSzJ5bGYya2twSFhqZEhpOGFuWTFaazB0VEktdGhEc25SRVFDdVJzRzZCM0h5TTZ3d3JBOW5laTlkLWVIc1l4cjRlZmk0RGRIb18tenJUS3ZLaHpJejlxWlZZMHhST18wNnQ3MUxlUDNzb3lIYUU3bjRGQUJmS1lNRUtVWGRvQV9jWGptQUlaOXp2OUFVVDRLR21QZVUtdDFkbTZTUGw4QnhJQmE4Uzh1TVJDazJjeUV5LTRn0gHkAUFVX3lxTE52bURVdUNmaHp1Yk5VQ0wyNE82SEdoa1hRYjQ0Uy1ZZkplLWlOZnVFbkVFdDMxQkpLY3BiN2NPSGlCLWQ2STNpcVRFblI0cVJwcEdpcjYxUGRTbWRKRHRlV3JxcGgyZ1RJZWJyZGFjeFVRQ1ZualpHeFhvMlBZY1JjNWlLQmVSYzNLS1J3RTNybS1fTW9Bc2VZYldoQzJoa1VsTmNGNkxQYURwMEw1cXFVbjV5VFlJb25oX3p6eVJ0ckpPLVFvSk5fUUVjLUZIUUxQZF9XS09PbndvcXNkeTBlNWc5Mw?oc=5",
-   "source": "Jornal Contábil",
-   "official": false,
-   "category": "cont",
-   "tag": "Contabilidade",
-   "addedAt": "2026-11-26T18:44:59Z",
-   "tries": 1
-  },
-  {
-   "id": "ca6f09cd6f8f",
-   "date": "2026-11-23",
-   "title": "Reforma Tributária: empresas de qualquer porte podem participar de piloto da CBS",
-   "resumo": "Receita Federal libera acesso ao ambiente de testes da Contribuição sobre Bens e Serviços sem necessidade de indicação por entidades representativas; iniciativa integra Reforma Tributária e busca validar sistemas antes da implementação do novo modelo de…",
-   "link": "https://movimentoeconomico.com.br/economia/lei-de-incentivos/tributacao/2026/11/23/reforma-tributaria-empresas-de-qualquer-porte-podem-participar-de-piloto-da-cbs/",
-   "source": "Movimento Econômico",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-26T18:44:59Z",
-   "tries": 1
-  },
-  {
-   "id": "3b8ece2a9307",
-   "date": "2026-11-23",
-   "title": "Menos de 40 dias para 2027: como preparar o caixa da empresa para a nova fase da Reforma Tributária",
-   "resumo": "Entenda como a Reforma Tributária, o split payment e o RAD podem afetar o caixa das empresas e veja medidas para planejar 2027.",
-   "link": "https://www.contabeis.com.br/artigos/81076/como-preparar-o-caixa-da-empresa-para-a-nova-fase-da-reforma-tributaria/",
-   "source": "Portal Contabeis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-26T18:44:59Z",
+   "category": "pag",
+   "tag": "Split payment",
+   "addedAt": "2026-11-26T19:54:36Z",
    "tries": 1
   }
  ]

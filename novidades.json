@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-26T20:43:42Z",
- "lastCheckBr": "26/11/2026 17:43",
- "added": 28,
+ "lastCheckAt": "2026-11-26T21:42:35Z",
+ "lastCheckBr": "26/11/2026 18:42",
+ "added": 27,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -17,9 +17,10 @@
   },
   {
    "name": "Receita Federal",
-   "ok": true,
+   "ok": false,
    "found": 0,
-   "new": 0
+   "new": 0,
+   "error": "URLError"
   },
   {
    "name": "Agência Brasil",
@@ -30,7 +31,7 @@
   {
    "name": "Portal Contábeis",
    "ok": true,
-   "found": 9,
+   "found": 8,
    "new": 0
   },
   {
@@ -42,8 +43,8 @@
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 98,
-   "new": 23
+   "found": 97,
+   "new": 22
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -53,6 +54,71 @@
   }
  ],
  "items": [
+  {
+   "id": "86b80fabec8f",
+   "date": "2026-11-26",
+   "title": "Reforma Tributária: entenda regras que passam a valer a partir de 2027",
+   "resumo": "Medidas incluem imposto zero para cesta básica e remédios, devolução de tributos para famílias de baixa renda e apuração automática para empresas",
+   "link": "https://agenciagov.ebc.com.br/noticias/202611/reforma-tributaria-entenda-as-regras-que-passam-a-valer-a-partir-de-2027-1",
+   "source": "Agência Gov",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-26T21:42:35Z",
+   "tries": 1
+  },
+  {
+   "id": "9c606e089d5a",
+   "date": "2026-11-26",
+   "title": "Deputados se reúnem com equipe técnica da Fazenda para discutir cálculo da CBS",
+   "resumo": "Parlamentares defenderam que a alíquota de referência da CBS fique abaixo dos 11,3% calculados pelo TCU",
+   "link": "https://valor.globo.com/politica/noticia/2026/11/26/deputados-se-renem-com-equipe-tcnica-da-fazenda-para-discutir-clculo-da-cbs.ghtml",
+   "source": "Valor Econômico",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-26T21:42:35Z",
+   "tries": 1
+  },
+  {
+   "id": "b91bdc7ee679",
+   "date": "2026-11-26",
+   "title": "CBS poderia ter alíquota de 7% sem benefícios tributários, diz IFI",
+   "resumo": "Nota técnica foi entregue ao relator da reforma tributária, Eduardo Braga (MDB-AM) na manhã desta 5ª feira. Leia no Poder360.",
+   "link": "https://www.poder360.com.br/brasil/cbs-poderia-ter-aliquota-de-7-sem-beneficios-tributarios-diz-ifi/",
+   "source": "Poder360",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-26T21:42:35Z",
+   "tries": 1
+  },
+  {
+   "id": "5e17f9ac9052",
+   "date": "2026-11-26",
+   "title": "Entidades recorrem ao STF para adiar cobrança de tributos da reforma tributária",
+   "resumo": "CNA, CNC e CNT recorrem ao STF para adiar a cobrança de IBS, CBS e Imposto Seletivo por falta de regulamentação e violação à anterioridade",
+   "link": "https://conjur.com.br/2026-nov-26/confederacoes-recorrem-ao-stf-para-adiar-cobranca-de-tributos-previstos-na-tributaria/",
+   "source": "Consultor Jurídico",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-26T21:42:35Z",
+   "tries": 1
+  },
+  {
+   "id": "dd346d246416",
+   "date": "2026-11-26",
+   "title": "Agro, comércio e transporte pedem para STF adiar início da CBS",
+   "resumo": "Entidades querem manter em 2027 as regras de transição de 2026 até o governo concluir a regulamentação. Leia no Poder360.",
+   "link": "https://www.poder360.com.br/poder-justica/agro-comercio-e-transporte-pedem-ao-stf-adiar-a-cbs/",
+   "source": "Poder360",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-26T21:42:35Z",
+   "tries": 1
+  },
   {
    "id": "0f63f80a378e",
    "date": "2026-11-26",
@@ -64,7 +130,7 @@
    "category": "aliq",
    "tag": "Alíquotas",
    "addedAt": "2026-11-26T20:43:42Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "bf35ecb3d179",
@@ -598,6 +664,19 @@
    "category": "aliq",
    "tag": "Alíquotas",
    "addedAt": "2026-11-26T04:35:23Z",
+   "tries": 1
+  },
+  {
+   "id": "84b56c62f61b",
+   "date": "2026-11-25",
+   "title": "Novas regras do Simples Nacional e da transição para a Reforma Tributária são publicadas",
+   "resumo": "As mudanças envolvem procedimentos de declaração, apuração de receitas, repartição dos tributos e adaptações necessárias para a transição ao novo modelo tributário O Comitê Gestor do Simples Nacional (CGSN) publicou...",
+   "link": "https://fenacon.org.br/reforma-tributaria/publicadas-as-novas-regras-para-o-simples-nacional-e-a-transicao-da-reforma-tributaria/",
+   "source": "Sistema FENACON",
+   "official": false,
+   "category": "simples",
+   "tag": "Simples",
+   "addedAt": "2026-11-26T21:42:35Z",
    "tries": 1
   },
   {
@@ -1892,82 +1971,6 @@
    "category": "simples",
    "tag": "Simples",
    "addedAt": "2026-11-24T12:56:57Z",
-   "tries": 1
-  },
-  {
-   "id": "d5b14b5eaf2b",
-   "date": "2026-11-24",
-   "title": "Reforma Tributária: os riscos ocultos para importadores e exportadores com a implementação do IBS e da CBS",
-   "resumo": "",
-   "link": "https://www.contadores.cnt.br/noticias/artigos/2026/11/24/reforma-tributaria-os-riscos-ocultos-para-importadores-e-exportadores-com-a-implementacao-do-ibs-e-da-cbs.html",
-   "source": "Contadores.cnt.br",
-   "official": false,
-   "category": "cont",
-   "tag": "Contabilidade",
-   "addedAt": "2026-11-24T12:56:57Z",
-   "tries": 2
-  },
-  {
-   "id": "93a5f1784d04",
-   "date": "2026-11-24",
-   "title": "CBS: Receita amplia participação em piloto da Reforma Tributária para todas as empresas",
-   "resumo": "Portaria abre acesso a ambiente de testes da Reforma Tributária para qualquer empresa inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ)",
-   "link": "https://mais.opovo.com.br/jornal/economia/2026/11/24/cbs-receita-amplia-participacao-em-piloto-da-reforma-tributaria-para-todas-as-empresas.html",
-   "source": "O POVO+",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-24T12:56:57Z",
-   "tries": 1
-  },
-  {
-   "id": "40ca8dcec6db",
-   "date": "2026-11-24",
-   "title": "Reforma tributária: conta de luz no planejamento de 2027",
-   "resumo": "A conta de luz entra no planejamento dos clientes? Veja o papel do contador e baixe o guia gratuito da Serena Energia. Leia mais em https://www.contabeis.com.br/noticias/81058/reforma-tributaria-conta-de-luz-no-planejamento-de-2027/",
-   "link": "https://www.contabeis.com.br/noticias/81058/reforma-tributaria-conta-de-luz-no-planejamento-de-2027/",
-   "source": "Portal Contábeis",
-   "official": false,
-   "category": "cont",
-   "tag": "Contabilidade",
-   "addedAt": "2026-11-24T11:47:28Z"
-  },
-  {
-   "id": "003921d6a2c9",
-   "date": "2026-11-24",
-   "title": "Efeitos da Reforma Tributária de acordo com porte e tipo de",
-   "resumo": "O efeito da reforma tributária sobre cada empresa dependerá do regime tributário, do que ela compra e vende, de quem são seus clientes, da composição dos c...",
-   "link": "https://obrasilianista.com.br/2026/11/24/economia/efeitos-reforma-tributaria-porte-tipo-empresa/",
-   "source": "O Brasilianista",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-24T11:47:28Z",
-   "tries": 1
-  },
-  {
-   "id": "8d17ec7be98e",
-   "date": "2026-11-24",
-   "title": "Projeto limita repasses da Lei Kandir e despesas com exportações e previdência",
-   "resumo": "Texto também altera regras para incentivos da reforma tributária, seguro rural e restos a pagar",
-   "link": "https://www.camara.leg.br/noticias/1322175-projeto-limita-repasses-da-lei-kandir-e-despesas-com-exportacoes-e-previdencia",
-   "source": "Agência Câmara",
-   "official": true,
-   "category": "lei",
-   "tag": "Legislação",
-   "addedAt": "2026-11-24T04:30:39Z"
-  },
-  {
-   "id": "8170ae1b0ecc",
-   "date": "2026-11-23",
-   "title": "Palestra gratuita: Reforma Tributária – CBS e IBS e seus impactos no comércio varejista",
-   "resumo": "",
-   "link": "https://sindilojas.rio/2026/11/23/palestra-gratuita-reforma-tributaria-cbs-e-ibs-e-seus-impactos-no-comercio-varejista/",
-   "source": "SindilojasRio",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-26T20:43:42Z",
    "tries": 1
   }
  ]

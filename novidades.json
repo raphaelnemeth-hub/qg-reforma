@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-26T09:41:16Z",
- "lastCheckBr": "26/11/2026 06:41",
- "added": 13,
+ "lastCheckAt": "2026-11-26T10:50:50Z",
+ "lastCheckBr": "26/11/2026 07:50",
+ "added": 18,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -44,7 +44,7 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 96,
-   "new": 7
+   "new": 12
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -54,6 +54,32 @@
   }
  ],
  "items": [
+  {
+   "id": "3d01de742fb7",
+   "date": "2026-11-26",
+   "title": "Fornecedor com liminar ou depósito: adquirente de IBS e CBS tem direito a crédito?",
+   "resumo": "O que acontece com o crédito do adquirente quando o débito do fornecedor não está pago, mas também não está em atraso",
+   "link": "https://conjur.com.br/2026-nov-26/fornecedor-com-liminar-ou-deposito-adquirente-de-ibs-e-cbs-tem-direito-a-credito/",
+   "source": "Consultor Jurídico",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-26T10:50:50Z",
+   "tries": 1
+  },
+  {
+   "id": "2aa73374994c",
+   "date": "2026-11-26",
+   "title": "Transparência na nota, clareza na gôndola e isonomia na concorrência: os pilares do varejo na Reforma Tributária",
+   "resumo": "",
+   "link": "https://www.atribunamt.com.br/opiniao-do-leitor/2026/11/transparencia-na-nota-clareza-na-gondola-e-isonomia-na-concorrencia-os-pilares-do-varejo-na-reforma-tributaria/",
+   "source": "A Tribuna MT",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-26T10:50:50Z",
+   "tries": 1
+  },
   {
    "id": "bafa86877791",
    "date": "2026-11-26",
@@ -1955,32 +1981,6 @@
    "category": "aliq",
    "tag": "Alíquotas",
    "addedAt": "2026-11-24T08:22:54Z",
-   "tries": 1
-  },
-  {
-   "id": "092cf04c3c0a",
-   "date": "2026-11-23",
-   "title": "Reforma tributária vai zerar impostos de carnes, arroz e café; veja a lista de 22 alimentos",
-   "resumo": "Reforma tributária começa em 2027 e prevê imposto zero para 22 alimentos, como carnes, arroz, café e leite. Confira a lista completa e entenda o que muda nos preços.",
-   "link": "https://gmconline.com.br/noticias/geral/reforma-tributaria-vai-zerar-impostos-de-carnes-arroz-e-cafe-veja-a-lista-de-22-alimentos/",
-   "source": "GMC Online",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-24T03:19:56Z",
-   "tries": 1
-  },
-  {
-   "id": "e316adf2bf3b",
-   "date": "2026-11-23",
-   "title": "Reforma tributária desafia cadeia fria da saúde com alíquota estimada de 11,3% da CBS",
-   "resumo": "Empresas atuantes no transporte refrigerado de produtos farmacêuticos e estéticos avaliam alternativas tributárias diante da projeção de alíquota de 11,3%",
-   "link": "https://brasilinovador.com.br/reforma-tributaria-desafia-cadeia-fria-da-saude-com-aliquota-estimada-de-113-da-cbs/",
-   "source": "Brasil Inovador",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-24T02:06:37Z",
    "tries": 1
   }
  ]

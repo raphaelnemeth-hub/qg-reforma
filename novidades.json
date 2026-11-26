@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-26T14:19:52Z",
- "lastCheckBr": "26/11/2026 11:19",
- "added": 15,
+ "lastCheckAt": "2026-11-26T15:28:23Z",
+ "lastCheckBr": "26/11/2026 12:28",
+ "added": 16,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -32,7 +32,7 @@
    "name": "Portal Contábeis",
    "ok": true,
    "found": 9,
-   "new": 2
+   "new": 0
   },
   {
    "name": "InfoMoney",
@@ -44,7 +44,7 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 95,
-   "new": 8
+   "new": 11
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -54,6 +54,19 @@
   }
  ],
  "items": [
+  {
+   "id": "889470e12d81",
+   "date": "2026-11-26",
+   "title": "Reforma tributária para supermercados: guia completo para 2027",
+   "resumo": "Veja como adequar cadastros, sistemas, fornecedores e processos fiscais para evitar perdas com a reforma tributária para supermercados",
+   "link": "https://www.supervarejo.com.br/economia/reforma-tributaria-para-supermercados-guia-completo-para-2027",
+   "source": "SuperVarejo",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-26T15:28:23Z",
+   "tries": 1
+  },
   {
    "id": "ee38227c77ed",
    "date": "2026-11-26",
@@ -115,7 +128,7 @@
    "category": "cont",
    "tag": "Contabilidade",
    "addedAt": "2026-11-26T14:19:52Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "75d13f4a4b90",
@@ -253,6 +266,19 @@
    "category": "aliq",
    "tag": "Alíquotas",
    "addedAt": "2026-11-26T04:35:23Z",
+   "tries": 1
+  },
+  {
+   "id": "1355600839a7",
+   "date": "2026-11-25",
+   "title": "Reforma tributária: CNA alerta para aumento de carga tributária com alíquota de 11,3% da CBS",
+   "resumo": "",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNMGJtaU9RTzEtWmszZE9tY3M0d1ppd2l4RTZwdkV1X1ZaM29PUnJqa3BWUjhIOGt2U0MyZVRQaEVUSHVQS0JrVHRUZWhEbG5lcFNaSlBTQUZodHh0VW1TNUF3Q2VWV1JpRmJnSHI1eGRrV0toTXRVTzFYeXNIbUZIOGpfQjVvRHhFQVo4SWF2WTBLNVM3MnFhN0VNZ0xnWHJKc20zM3VSU3lCaWVjWEU2bWp0WFRxRDhlZ3RaNk1xRDYwX1lmc2RPQjVrbUF4dEtVblZmSm1rektIRlROSFFhTlE2SkNpQ1pETkpuV1Z2ckFDQdIB9wFBVV95cUxOd1VtM2ROX1lpSlFMdkZ3WS1rQmo1TDJPYkRDWjdyemc0NEF4ME1WWDlHMUtmQzFDdnc4RlRBR3FTWFNhTnlva1RCYnhZaS0zT3V5aWsyeTR1VzR5alNRX0lFbXFtV1Y2VVFwcGV0VHVIbHFqSDc3c0VFRzQ0ZFQ1b0ZZWVFkMjFycGFoWVFiZmg3MnI2ODNwcXRYQTcwYkNwbElHU0xZdzJ0RnF5RTYwVWF4V3I3YTJQVUduTDFqYjdGSEVRNVVlaWVSZmtCLUlVYWQ5UGVGT2RsNEtQUnQ3WDN5SUhnYW9ZZ1Z2elJhZU5GOXROUXZj?oc=5",
+   "source": "Notícias Agrícolas",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-26T15:28:23Z",
    "tries": 1
   },
   {
@@ -1587,6 +1613,84 @@
    "addedAt": "2026-11-24T04:30:39Z"
   },
   {
+   "id": "d08174d05753",
+   "date": "2026-11-23",
+   "title": "Receita amplia participação em piloto da CBS para todas as empresas",
+   "resumo": "Portaria abre acesso a ambiente de testes da Reforma Tributária, em relação à Contribuição sobre Bens e Serviços (CBS).",
+   "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/receita-amplia-participacao-em-piloto-da-cbs-para-todas-empresas",
+   "source": "Agência Brasil",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-26T15:28:23Z",
+   "tries": 1
+  },
+  {
+   "id": "9547f634a3e0",
+   "date": "2026-11-23",
+   "title": "Split payment e os impactos da reforma tributária no fluxo de caixa das empresas",
+   "resumo": "Novo modelo exigirá integração entre sistemas fiscais e de pagamento e poderá afetar a disponibilidade de recursos das empresas",
+   "link": "https://www.jota.info/opiniao-e-analise/artigos/split-payment-e-os-impactos-da-reforma-tributaria-no-fluxo-de-caixa-das-empresas",
+   "source": "JOTA Info",
+   "official": false,
+   "category": "pag",
+   "tag": "Split payment",
+   "addedAt": "2026-11-26T15:28:23Z",
+   "tries": 1
+  },
+  {
+   "id": "88f077be8be7",
+   "date": "2026-11-23",
+   "title": "O IBS, a CBS e os salvados de sinistro",
+   "resumo": "Venda de salvados integra a operação de seguro e deve seguir o regime específico do IBS e da CBS",
+   "link": "https://www.jota.info/opiniao-e-analise/colunas/coluna-da-abdf/o-ibs-a-cbs-e-os-salvados-de-sinistro",
+   "source": "JOTA Info",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-26T15:28:23Z",
+   "tries": 1
+  },
+  {
+   "id": "b11d86da331f",
+   "date": "2026-11-23",
+   "title": "Reforma tributária: o que muda para MEIs após período de testes de IBS e CBS",
+   "resumo": "",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOX1lqRlFhWlBsdkE0eUFvYkRsYTFFeTJPWVhSU05RbG43WHFTenBpaXVORzhSOXdBdllLaVljcWpabEdhRWxRcktYaTUwcldSQm1GSVFGamJoLWxWMnd6c1JhNFFQdGJiMDBTYUgwWk9xSTF2OHhRWUJoclF1eUpTUjM4bTE2b1NDV2tJa3pCOThqVmJjaUxVN3RFRGdoOWszUkJxNi1kSzZYcFFxRnF0YU5hQ016d2V0UXJ3Mjg0OXkxc0dfMEtDRmVHYTZhbTltcUxpNXVad2VkeHYtM2ZF0gHuAUFVX3lxTFBuTG9jTjdDcVA5UUdPWWtmSndJMkpLU3NuNnZ0SlVkZTV0bmFDOHFxb2N1MVotb2lsNktHdVV5X3NuMm9pMnF2TkxfZVg0ODhIdzNXdGhybTJTZFJDcjgtOTllS1M0TUpoR3FFRjhsMU51dHdZMzItWmU1UEpnNlEtTk8wUGV0cXFhU015dTFkb3JaQ0RKS0JGU1dUSlptamhnUWlhd3ByTUJVR3pkYlZaSkZMT1BWdUNFVHV5SXhRM2pJNXJsVDR4SUNxMTdEa1VFcGZPQks2d3IwSTNKVjVsb2xJbl9qVWtzT2FlLUE?oc=5",
+   "source": "G1",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-26T15:28:23Z",
+   "tries": 1
+  },
+  {
+   "id": "e50cd6d8e339",
+   "date": "2026-11-23",
+   "title": "Receita Federal amplia acesso ao Ambiente de Produção Restrita do Piloto da CBS",
+   "resumo": "Receita Federal amplia o acesso ao Piloto da CBS. Veja os requisitos, como conceder procuração digital e as diferenças em relação ao ambiente Beta.",
+   "link": "https://www.contabeis.com.br/noticias/81044/receita-federal-amplia-acesso-ao-ambiente-de-producao-restrita-do-piloto-da-cbs/",
+   "source": "Portal Contabeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-26T15:28:23Z",
+   "tries": 1
+  },
+  {
+   "id": "9f570c2e2089",
+   "date": "2026-11-23",
+   "title": "Receita Federal libera testes da reforma tributária para empresas de todo o Brasil",
+   "resumo": "Nova portaria permite que pessoas jurídicas com CNPJ participem do ambiente de testes da CBS sem convite ou inscrição prévia; acesso exige autorização digital",
+   "link": "https://acritica.net/economia/receita-federal-libera-testes-da-reforma-tributaria-para-empresas-de-todo-o-brasil/",
+   "source": "A Crítica de Campo Grande",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-26T15:28:23Z",
+   "tries": 1
+  },
+  {
    "id": "7d200f379351",
    "date": "2026-11-23",
    "title": "Reforma Tributária: impacto da CBS sobre os estoques do setor automotivo",
@@ -1870,110 +1974,6 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-25T19:46:03Z",
-   "tries": 1
-  },
-  {
-   "id": "cb7a9a5a162c",
-   "date": "2026-11-23",
-   "title": "Reforma tributária: Receita define piloto sobre CBS e qualquer empresa poderá participar dos testes",
-   "resumo": "De acordo com portaria, não será mais necessária indicação por entidades representativas ou qualquer procedimento prévio de pedido de participação",
-   "link": "https://www.tribunadosertao.com.br/financas/2026/11/23/1028021-reforma-tributaria-receita-define-piloto-sobre-cbs-e-qualquer-empresa-podera-participar-dos-testes",
-   "source": "Tribuna do Sertão",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-25T19:46:03Z",
-   "tries": 1
-  },
-  {
-   "id": "11d4d5aea93c",
-   "date": "2026-11-23",
-   "title": "PORTARIA CGIBS Nº 13/2026, DE 23 DE NOVEMBRO DE 2026",
-   "resumo": "",
-   "link": "https://cgibs.gov.br/upload/arquivos/202611/23114620-portaria-cgibs-n-13-2026.pdf",
-   "source": "Comitê Gestor do IBS",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-25T19:46:03Z",
-   "tries": 2
-  },
-  {
-   "id": "b3997f6ae089",
-   "date": "2026-11-23",
-   "title": "Receita vai orientar 25 mil contadores sobre CBS e IBS",
-   "resumo": "Ação envolve profissionais responsáveis por cerca de 72 mil empresas com indícios de ausência ou preenchimento parcial dos novos tributos nas notas fiscais.",
-   "link": "https://www.contabeis.com.br/noticias/81047/receita-vai-orientar-25-mil-contadores-sobre-cbs-e-ibs/",
-   "source": "Portal Contabeis",
-   "official": false,
-   "category": "cont",
-   "tag": "Contabilidade",
-   "addedAt": "2026-11-25T18:40:28Z",
-   "tries": 1
-  },
-  {
-   "id": "b46d015d78b9",
-   "date": "2026-11-23",
-   "title": "Receita abre sistema de testes da CBS para todas as empresas",
-   "resumo": "A partir de hoje, todas as empresas inscritas no Cadastro Nacional da Pessoa Jurídica (CNPJ) poderão participar do ambiente de testes do piloto da Reforma...",
-   "link": "https://amanha.com.br/brasil/receita-disponibiliza-sistema-de-testes-da-cbs-para-todas-as-empresas",
-   "source": "Grupo AMANHÃ",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-25T17:42:38Z",
-   "tries": 1
-  },
-  {
-   "id": "ff013c82fc65",
-   "date": "2026-11-23",
-   "title": "\"Imposto do pecado\" pode ser o mais inteligente da reforma tributária",
-   "resumo": "Cigarro, cerveja e refrigerante vão pagar o Imposto Seletivo a partir de 2027. A pergunta é se ele vai mudar comportamentos ou apenas reforçar o caixa",
-   "link": "https://www.cnnbrasil.com.br/blogs/thiago-godoy/economia/money/macroeconomia/imposto-do-pecado-pode-ser-o-mais-inteligente-da-reforma-tributaria/",
-   "source": "CNN Brasil",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-25T17:42:38Z",
-   "tries": 1
-  },
-  {
-   "id": "54306abddebc",
-   "date": "2026-11-23",
-   "title": "Reforma Tributária/CBS: Piloto da Reforma Tributária - RTC-CBS",
-   "resumo": "Agilize decisões seguras. Legislação, Comentários e Consultoria nas áreas de IR e Contribuições, ICMS, IPI, ISS, Contabilidade e Societário, Simples Nacional, Trabalhista e Previdenciária. Cálculos e Tabelas de Substituição Tributária. Agenda Tributária…",
-   "link": "https://www.legisweb.com.br/noticia/?id",
-   "source": "LegisWeb",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-25T16:38:51Z",
-   "tries": 1
-  },
-  {
-   "id": "c50d187e2f95",
-   "date": "2026-11-23",
-   "title": "Piloto da CBS: Receita define novas regras de participação",
-   "resumo": "Receita define regras para o piloto da CBS, com participação sem convite de empresas com CNPJ. Confira requisitos, autorizações e condições dos testes.",
-   "link": "https://www.contabeis.com.br/noticias/81043/piloto-da-cbs-receita-define-novas-regras-de-participacao/",
-   "source": "Portal Contabeis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-25T16:38:51Z",
-   "tries": 1
-  },
-  {
-   "id": "a093c3005220",
-   "date": "2026-11-23",
-   "title": "Receita Federal regulamenta testes para a CBS, parte da reforma tributária",
-   "resumo": "A contribuição substituirá PIS e Cofins; piloto permite que empresas experimentem sistemas para implementação do tributo. Leia no Poder360.",
-   "link": "https://www.poder360.com.br/poder-economia/receita-federal-regulamenta-testes-para-a-cbs-parte-da-reforma-tributaria/",
-   "source": "Poder360",
-   "official": false,
-   "category": "lei",
-   "tag": "Legislação",
-   "addedAt": "2026-11-25T16:38:51Z",
    "tries": 1
   }
  ]

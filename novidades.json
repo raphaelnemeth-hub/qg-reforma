@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-26T02:12:37Z",
- "lastCheckBr": "25/11/2026 23:12",
- "added": 16,
+ "lastCheckAt": "2026-11-26T03:25:56Z",
+ "lastCheckBr": "26/11/2026 00:25",
+ "added": 21,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -17,10 +17,9 @@
   },
   {
    "name": "Receita Federal",
-   "ok": false,
+   "ok": true,
    "found": 0,
-   "new": 0,
-   "error": "URLError"
+   "new": 0
   },
   {
    "name": "Agência Brasil",
@@ -43,8 +42,8 @@
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 97,
-   "new": 10
+   "found": 98,
+   "new": 15
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -54,6 +53,32 @@
   }
  ],
  "items": [
+  {
+   "id": "5312c5daee59",
+   "date": "2026-11-25",
+   "title": "Confederações empresariais pedem ao STF o adiamento da reforma tributária",
+   "resumo": "Ação de CNA, CNC e CNT requer a suspenção da cobrança efetiva da CBS e das alíquotas do IBS previstas para janeiro de 2027",
+   "link": "https://www1.folha.uol.com.br/mercado/2026/11/confederacoes-empresariais-pedem-ao-stf-o-adiamento-da-reforma-tributaria.shtml",
+   "source": "Folha de S.Paulo",
+   "official": false,
+   "category": "nt",
+   "tag": "Nota técnica",
+   "addedAt": "2026-11-26T03:25:56Z",
+   "tries": 1
+  },
+  {
+   "id": "9db4eee5fdbe",
+   "date": "2026-11-25",
+   "title": "Congresso deve instalar comissão para analisar Medida Provisória do Imposto Seletivo",
+   "resumo": "",
+   "link": "https://portalvv8.com.br/noticia/87605/congresso-deve-instalar-comissao-para-analisar-medida-provisoria-do-imposto-seletivo",
+   "source": "Portal VV8",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-26T03:25:56Z",
+   "tries": 1
+  },
   {
    "id": "992b91d64e8d",
    "date": "2026-11-25",
@@ -71,14 +96,14 @@
    "id": "53a012fc94bc",
    "date": "2026-11-25",
    "title": "Piloto da CBS: empresas já podem testar ferramentas",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORWpoSjkwc253b1M4dFVnQ083YTVJYndZN3R0YkNjak1VS3Jya3J4M3lmMmJMNV9qWllBX19hT1FJbFVoUWx6NW43TnF1R0lMX1YxMlNENmk5TWxwdnNLS1VKcGVXbmlFaE1QLVdJeVpvMUpBRGRJRFhTQTNTYnNhTnQ4VGlIZmY5UU9fMm12YnNTWEhMVEFyMmpB?oc=5",
+   "resumo": "Empresas de todo o Brasil podem acessar o Piloto da CBS. Entenda os requisitos, os limites do ambiente de testes e como preparar sistemas e procurações.",
+   "link": "https://www.contabeis.com.br/artigos/81161/piloto-da-cbs-empresas-ja-podem-testar-ferramentas/",
    "source": "Portal Contabeis",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-26T02:12:37Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "769a5d3f66f9",
@@ -1955,32 +1980,6 @@
    "tag": "Atualização",
    "addedAt": "2026-11-23T22:41:43Z",
    "tries": 2
-  },
-  {
-   "id": "391cf6b617e0",
-   "date": "2026-11-23",
-   "title": "Reforma Tributária: empresas com CNPJ podem participar de piloto da CBS",
-   "resumo": "Receita Federal libera acesso ao ambiente de testes da Contribuição sobre Bens e Serviços sem necessidade de indicação por entidades representativas; iniciativa integra Reforma Tributária e busca validar sistemas antes da implementação do novo modelo de…",
-   "link": "https://movimentoeconomico.com.br/economia/lei-de-incentivos/tributacao/2026/11/23/reforma-tributaria-empresas-com-cnpj-podem-participar-de-piloto-da-cbs/",
-   "source": "Movimento Econômico",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T22:41:43Z",
-   "tries": 1
-  },
-  {
-   "id": "bd085d8587ee",
-   "date": "2026-11-23",
-   "title": "Receita muda regras e facilita entrada de empresas em testes da CBS",
-   "resumo": "#ReformaTributaria #CBS #ReceitaFederal #Empresas #Economia #Impostos #GynNoticias",
-   "link": "https://www.gynnoticias.com.br/brasil/receita-muda-regras-e-facilita-entrada-de-empresas-em-testes-da-cbs/5971",
-   "source": "GYN Noticias",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T21:42:13Z",
-   "tries": 1
   }
  ]
 }

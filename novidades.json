@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-26T08:27:15Z",
- "lastCheckBr": "26/11/2026 05:27",
- "added": 19,
+ "lastCheckAt": "2026-11-26T09:41:16Z",
+ "lastCheckBr": "26/11/2026 06:41",
+ "added": 13,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -44,7 +44,7 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 96,
-   "new": 13
+   "new": 7
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -1425,6 +1425,19 @@
    "addedAt": "2026-11-24T04:30:39Z"
   },
   {
+   "id": "106f0c671d8f",
+   "date": "2026-11-23",
+   "title": "Exclusão de IBS e CBS da base do ISS ganha força como ‘filhote’ de discussão do ICMS",
+   "resumo": "Na Justiça, contribuintes argumentam que IBS e CBS não constituem receita, apenas transitam pelo caixa das empresas até serem repassados ao Fisco A disputa judi",
+   "link": "https://crcma.org.br/noticias/exclusao-de-ibs-e-cbs-da-base-do-iss-ganha-forca-como-filhote-de-discussao-do-icms",
+   "source": "Conselho Regional de Contabilidade do Maranhão",
+   "official": false,
+   "category": "cont",
+   "tag": "Contabilidade",
+   "addedAt": "2026-11-26T09:41:16Z",
+   "tries": 1
+  },
+  {
    "id": "1f1ae2a3a06d",
    "date": "2026-11-23",
    "title": "Alíquota da CBS: Senado pede estudos ao TCU",
@@ -1969,19 +1982,6 @@
    "tag": "Alíquotas",
    "addedAt": "2026-11-24T02:06:37Z",
    "tries": 1
-  },
-  {
-   "id": "f758756a6b23",
-   "date": "2026-11-23",
-   "title": "Transparência na nota, clareza na gôndola e isonomia na concorrência: os pilares do varejo na Reforma Tributária",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOOGJpdE1xR1Y3Y3FhdnRjUDVTRWZ0d0dQTGNkZXFnamN6WkpRWnNRWXdncDZpZGYzZWNZaHpxd3NhZzJnbU11V2RaaGtKSXA0QWhBM0QtcHd1LWMwc1VfQ3pjalNJN21OVWFMTEtjZ1RfeDZIS3FhQTV0WEZ0YjQ4U1pNYl9DX2tGMC10UkUtZFpxckJvSGxXTWNiYlVpQXh0clF5Q2otYmszZG94QS1RYWR1TnpoU0xxbEhnYk9uRVM2SktzSlJ1TzV4QmJoRkxSNXB5UEVQY2ZRUUJCY1QxdUJLa29Hbi1EcDZCTDctNndTZFnSAfgBQVVfeXFMT2lVanhoeGY5M1dlS3dnc0Jsby1iT1RNa05IbE9kSE9MRmlKX21JcmtKai1CcnZTRnVVaWdlZ3dlaWJfRzNBNDltWHB6a09ZdnVjM3RIVThDbGhZZkpRU0ZlNTYtbUpFcWtwbGxlNlpDSmsyMnRIWi1ERk9lWVF5RnoyZ1VKczc0Y3d3aDA2MEo2WGVMRlR0aTdZajAyRlNtTFFBeHBzY2VCcWhhSVhLZEJfbEpSOURhNnRtTEN4bjV3c1RCTXd4YVJlUW9SU2lWZ2hyTW9jOTBYV0szOTZMLWVjaDVQTFMyV2tJbXY0VEMwdFFBS0ZMbUs?oc=5",
-   "source": "Mercado&Consumo",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-24T00:47:10Z",
-   "tries": 2
   }
  ]
 }

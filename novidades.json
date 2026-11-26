@@ -1,6 +1,6 @@
 {
- "lastCheckAt": "2026-11-26T12:59:04Z",
- "lastCheckBr": "26/11/2026 09:59",
+ "lastCheckAt": "2026-11-26T14:19:52Z",
+ "lastCheckBr": "26/11/2026 11:19",
  "added": 15,
  "feeds": [
   {
@@ -31,8 +31,8 @@
   {
    "name": "Portal Contábeis",
    "ok": true,
-   "found": 8,
-   "new": 4
+   "found": 9,
+   "new": 2
   },
   {
    "name": "InfoMoney",
@@ -44,16 +44,79 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 95,
-   "new": 5
+   "new": 8
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
    "ok": true,
-   "found": 7,
-   "new": 6
+   "found": 6,
+   "new": 5
   }
  ],
  "items": [
+  {
+   "id": "ee38227c77ed",
+   "date": "2026-11-26",
+   "title": "Cliente estrangeiro não garante exportação para IBS e CBS",
+   "resumo": "LC 214, atualizada pela LC 227/2026, exige verificar quem contrata, quem recebe e onde o serviço é consumido. Leia mais em https://www.contabeis.com.br/noticias/81190/cliente-estrangeiro-nao-garante-exportacao-para-ibs-e-cbs/",
+   "link": "https://www.contabeis.com.br/noticias/81190/cliente-estrangeiro-nao-garante-exportacao-para-ibs-e-cbs/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-26T14:19:52Z"
+  },
+  {
+   "id": "bcc9dc0d61a0",
+   "date": "2026-11-26",
+   "title": "MEI: cancelada reunião para votar parecer sobre novo teto",
+   "resumo": "Comissão da Câmara cancela reunião sobre o PLP 108/2021. Entenda a tramitação e os limites do MEI previstos na LC 238/2026. Leia mais em https://www.contabeis.com.br/noticias/81187/mei-cancelada-reuniao-para-votar-parecer-sobre-novo-teto/",
+   "link": "https://www.contabeis.com.br/noticias/81187/mei-cancelada-reuniao-para-votar-parecer-sobre-novo-teto/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "lei",
+   "tag": "Legislação",
+   "addedAt": "2026-11-26T14:19:52Z"
+  },
+  {
+   "id": "d30c186d2cc0",
+   "date": "2026-11-26",
+   "title": "Reforma Tributária: Confederações vão ao STF para adiar início da CBS e do IBS",
+   "resumo": "Entidades querem que cobrança da CBS seja adiada para até 90 dias depois de publicada a regulamentação pendente",
+   "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/reforma-tributaria-confederacoes-vao-ao-stf-para-adiar-inicio-da-cbs-e-do-ibs",
+   "source": "JOTA Info",
+   "official": false,
+   "category": "nt",
+   "tag": "Nota técnica",
+   "addedAt": "2026-11-26T14:19:52Z",
+   "tries": 1
+  },
+  {
+   "id": "179d92425dd0",
+   "date": "2026-11-26",
+   "title": "Reforma tributária: CNA alerta que CBS de 11,3% pode elevar a carga sobre o agro",
+   "resumo": "Entidade defende incluir na estimativa os dados de cerca de 46 mil produtores rurais com receita anual acima de R$ 3,6 milhões. Segundo a CNA, a exclusão desse grupo pode elevar a alíquota projetada em 0,38 ponto percentual.",
+   "link": "https://www.portaldoagronegocio.com.br/gestao-rural/gestao/noticias/reforma-tributaria-cna-alerta-que-cbs-de-11-3-pode-elevar-a-carga-sobre-o-agro",
+   "source": "Portal do Agronegócio",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-26T14:19:52Z",
+   "tries": 1
+  },
+  {
+   "id": "0df09b091170",
+   "date": "2026-11-26",
+   "title": "Receita Federal realiza live sobre o novo PGDAS no contexto da Reforma Tributária",
+   "resumo": "",
+   "link": "https://www.contadores.cnt.br/noticias/tecnicas/2026/11/26/receita-federal-realiza-live-sobre-o-novo-pgdas-no-contexto-da-reforma-tributaria.html",
+   "source": "Contadores.cnt.br",
+   "official": false,
+   "category": "cont",
+   "tag": "Contabilidade",
+   "addedAt": "2026-11-26T14:19:52Z",
+   "tries": 1
+  },
   {
    "id": "75d13f4a4b90",
    "date": "2026-11-26",
@@ -113,7 +176,7 @@
    "category": "cont",
    "tag": "Contabilidade",
    "addedAt": "2026-11-26T12:59:04Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "641834b8def4",
@@ -1524,6 +1587,32 @@
    "addedAt": "2026-11-24T04:30:39Z"
   },
   {
+   "id": "7d200f379351",
+   "date": "2026-11-23",
+   "title": "Reforma Tributária: impacto da CBS sobre os estoques do setor automotivo",
+   "resumo": "A entrada em vigor da CBS em janeiro de 2027 trará mudanças significativas para distribuidores e revendedores de veículos, máquinas e equipamentos. O regime de…",
+   "link": "https://www.legal500.com/intelligence/brazil/tax/reforma-tribut%C3%A1ria-impacto-da-cbs-sobre-os-estoques-do-setor-automotivo",
+   "source": "Legal 500",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-26T14:19:52Z",
+   "tries": 1
+  },
+  {
+   "id": "b9bc382e7e46",
+   "date": "2026-11-23",
+   "title": "7 pontos que os empresários devem cuidar antes da Reforma Tributária entrar em vigor",
+   "resumo": "\"A Reforma Tributária não começa em 2033, quando o novo sistema estará completo. Ela já começou\", é assim que Marcelo Costa Censoni Filho, sócio do Censoni...",
+   "link": "https://obrasilianista.com.br/2026/11/23/economia/7-pontos-empresarios-cuidar-antes-reforma-tributaria-vigor/",
+   "source": "O Brasilianista",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-26T14:19:52Z",
+   "tries": 1
+  },
+  {
    "id": "391cf6b617e0",
    "date": "2026-11-23",
    "title": "Reforma Tributária: empresas com CNPJ podem participar de piloto da CBS",
@@ -1885,97 +1974,6 @@
    "category": "lei",
    "tag": "Legislação",
    "addedAt": "2026-11-25T16:38:51Z",
-   "tries": 1
-  },
-  {
-   "id": "9f570c2e2089",
-   "date": "2026-11-23",
-   "title": "Receita Federal libera testes da reforma tributária para empresas de todo o Brasil",
-   "resumo": "Nova portaria permite que pessoas jurídicas com CNPJ participem do ambiente de testes da CBS sem convite ou inscrição prévia; acesso exige autorização digital",
-   "link": "https://acritica.net/economia/receita-federal-libera-testes-da-reforma-tributaria-para-empresas-de-todo-o-brasil/",
-   "source": "A Crítica de Campo Grande",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-25T16:38:51Z",
-   "tries": 1
-  },
-  {
-   "id": "d08174d05753",
-   "date": "2026-11-23",
-   "title": "Receita amplia participação em piloto da CBS para todas as empresas",
-   "resumo": "Portaria abre acesso a ambiente de testes da Reforma Tributária, em relação à Contribuição sobre Bens e Serviços (CBS).",
-   "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/receita-amplia-participacao-em-piloto-da-cbs-para-todas-empresas",
-   "source": "Agência Brasil",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-25T15:29:58Z",
-   "tries": 1
-  },
-  {
-   "id": "9547f634a3e0",
-   "date": "2026-11-23",
-   "title": "Split payment e os impactos da reforma tributária no fluxo de caixa das empresas",
-   "resumo": "Novo modelo exigirá integração entre sistemas fiscais e de pagamento e poderá afetar a disponibilidade de recursos das empresas",
-   "link": "https://www.jota.info/opiniao-e-analise/artigos/split-payment-e-os-impactos-da-reforma-tributaria-no-fluxo-de-caixa-das-empresas",
-   "source": "JOTA Info",
-   "official": false,
-   "category": "pag",
-   "tag": "Split payment",
-   "addedAt": "2026-11-25T15:29:58Z",
-   "tries": 1
-  },
-  {
-   "id": "88f077be8be7",
-   "date": "2026-11-23",
-   "title": "O IBS, a CBS e os salvados de sinistro",
-   "resumo": "Venda de salvados integra a operação de seguro e deve seguir o regime específico do IBS e da CBS",
-   "link": "https://www.jota.info/opiniao-e-analise/colunas/coluna-da-abdf/o-ibs-a-cbs-e-os-salvados-de-sinistro",
-   "source": "JOTA Info",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-25T15:29:58Z",
-   "tries": 1
-  },
-  {
-   "id": "b11d86da331f",
-   "date": "2026-11-23",
-   "title": "Reforma tributária: o que muda para MEIs após período de testes de IBS e CBS",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOX1lqRlFhWlBsdkE0eUFvYkRsYTFFeTJPWVhSU05RbG43WHFTenBpaXVORzhSOXdBdllLaVljcWpabEdhRWxRcktYaTUwcldSQm1GSVFGamJoLWxWMnd6c1JhNFFQdGJiMDBTYUgwWk9xSTF2OHhRWUJoclF1eUpTUjM4bTE2b1NDV2tJa3pCOThqVmJjaUxVN3RFRGdoOWszUkJxNi1kSzZYcFFxRnF0YU5hQ016d2V0UXJ3Mjg0OXkxc0dfMEtDRmVHYTZhbTltcUxpNXVad2VkeHYtM2ZF0gHuAUFVX3lxTFBuTG9jTjdDcVA5UUdPWWtmSndJMkpLU3NuNnZ0SlVkZTV0bmFDOHFxb2N1MVotb2lsNktHdVV5X3NuMm9pMnF2TkxfZVg0ODhIdzNXdGhybTJTZFJDcjgtOTllS1M0TUpoR3FFRjhsMU51dHdZMzItWmU1UEpnNlEtTk8wUGV0cXFhU015dTFkb3JaQ0RKS0JGU1dUSlptamhnUWlhd3ByTUJVR3pkYlZaSkZMT1BWdUNFVHV5SXhRM2pJNXJsVDR4SUNxMTdEa1VFcGZPQks2d3IwSTNKVjVsb2xJbl9qVWtzT2FlLUE?oc=5",
-   "source": "G1",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-25T15:29:58Z",
-   "tries": 2
-  },
-  {
-   "id": "02064e66b701",
-   "date": "2026-11-23",
-   "title": "Reforma tributária - CNA alerta para aumento de carga tributária com alíquota de 11,3% da CBS",
-   "resumo": "Tema foi debatido, na terça (24), em audiência pública na Câmara",
-   "link": "https://cnabrasil.org.br/noticias/reforma-tributaria-cna-alerta-para-aumento-de-carga-tributaria-com-aliquota-de-11-3-da-cbs",
-   "source": "Portal CNA Brasil",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-25T14:22:44Z",
-   "tries": 1
-  },
-  {
-   "id": "e50cd6d8e339",
-   "date": "2026-11-23",
-   "title": "Receita Federal amplia acesso ao Ambiente de Produção Restrita do Piloto da CBS",
-   "resumo": "Receita Federal amplia o acesso ao Piloto da CBS. Veja os requisitos, como conceder procuração digital e as diferenças em relação ao ambiente Beta.",
-   "link": "https://www.contabeis.com.br/noticias/81044/receita-federal-amplia-acesso-ao-ambiente-de-producao-restrita-do-piloto-da-cbs/",
-   "source": "Portal Contabeis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-25T12:59:57Z",
    "tries": 1
   }
  ]

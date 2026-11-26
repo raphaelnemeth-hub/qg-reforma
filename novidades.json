@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-26T11:50:13Z",
- "lastCheckBr": "26/11/2026 08:50",
- "added": 14,
+ "lastCheckAt": "2026-11-26T12:59:04Z",
+ "lastCheckBr": "26/11/2026 09:59",
+ "added": 15,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -31,8 +31,8 @@
   {
    "name": "Portal Contábeis",
    "ok": true,
-   "found": 5,
-   "new": 1
+   "found": 8,
+   "new": 4
   },
   {
    "name": "InfoMoney",
@@ -44,7 +44,7 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 95,
-   "new": 7
+   "new": 5
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -54,6 +54,67 @@
   }
  ],
  "items": [
+  {
+   "id": "75d13f4a4b90",
+   "date": "2026-11-26",
+   "title": "Novo PGDAS: Receita faz live hoje sobre reforma tributária",
+   "resumo": "Receita Federal realiza live nesta quinta-feira (26), às 15h, sobre o novo PGDAS, a integração com IBS e CBS e as adaptações dos sistemas contábeis. Leia mais em…",
+   "link": "https://www.contabeis.com.br/noticias/81183/novo-pgdas-receita-faz-live-hoje-sobre-reforma-tributaria/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-26T12:59:04Z"
+  },
+  {
+   "id": "ed8e81315d0d",
+   "date": "2026-11-26",
+   "title": "Entidades pedem adiamento da cobrança da reforma tributária em 2027",
+   "resumo": "CNA, CNC e CNT acionam o STF e apontam falta de regras para créditos tributários, alíquotas e adaptação das empresas. Leia mais em https://www.contabeis.com.br/noticias/81184/entidades-pedem-adiamento-da-cobranca-da-reforma-tributaria-em-2027/",
+   "link": "https://www.contabeis.com.br/noticias/81184/entidades-pedem-adiamento-da-cobranca-da-reforma-tributaria-em-2027/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-26T12:59:04Z"
+  },
+  {
+   "id": "ce1f7a14d3ec",
+   "date": "2026-11-26",
+   "title": "Alíquota da CBS: estudos contestam 11,3% do TCU para 2027",
+   "resumo": "Estudos técnicos contestam a alíquota de referência de 11,3% da CBS para 2027 e estimam percentuais menores. Senado deve definir o índice até 15 de dezembro. Leia mais em…",
+   "link": "https://www.contabeis.com.br/noticias/81180/aliquota-da-cbs-estudos-contestam-11-3-do-tcu-para-2027/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-26T12:59:04Z"
+  },
+  {
+   "id": "c4e1a8d6cf42",
+   "date": "2026-11-26",
+   "title": "NFS-e libera novas funções para testes da Reforma Tributária",
+   "resumo": "Foto: Glenn Carstens-Peters / Unsplash · Licença Unsplash Release 2 da Nota Técnica 009 inclui campos, validações e ajustes para IBS , CBS e retenção do ISSQN. Leia mais em…",
+   "link": "https://www.contabeis.com.br/noticias/81181/nfs-e-libera-novas-funcoes-para-testes-da-reforma-tributaria/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "nt",
+   "tag": "Nota técnica",
+   "addedAt": "2026-11-26T12:59:04Z"
+  },
+  {
+   "id": "c85ab5590b44",
+   "date": "2026-11-26",
+   "title": "CBS (e IBS) na importação de bens materiais: o art. 69 da LC nº 214/2025 e os acréscimos ao valor aduaneiro",
+   "resumo": "",
+   "link": "https://www.contadores.cnt.br/noticias/tecnicas/2026/11/26/cbs-e-ibs-na-importacao-de-bens-materiais-o-art-69-da-lc-no-214-2025-e-os-acrescimos-ao-valor-aduaneiro.html",
+   "source": "Contadores.cnt.br",
+   "official": false,
+   "category": "cont",
+   "tag": "Contabilidade",
+   "addedAt": "2026-11-26T12:59:04Z",
+   "tries": 1
+  },
   {
    "id": "641834b8def4",
    "date": "2026-11-26",
@@ -1915,71 +1976,6 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-25T12:59:57Z",
-   "tries": 1
-  },
-  {
-   "id": "3c0f830e361b",
-   "date": "2026-11-23",
-   "title": "Reforma tributária desafia estrutura de pequenas e médias indústrias",
-   "resumo": "",
-   "link": "https://www.contadores.cnt.br/noticias/artigos/2026/11/23/reforma-tributaria-desafia-estrutura-de-pequenas-e-medias-industrias.html",
-   "source": "Contadores.cnt.br",
-   "official": false,
-   "category": "cont",
-   "tag": "Contabilidade",
-   "addedAt": "2026-11-25T12:59:57Z",
-   "tries": 2
-  },
-  {
-   "id": "c062be6099c9",
-   "date": "2026-11-23",
-   "title": "O fim do \"empréstimo sem juros\" do fisco: como o Split Payment muda o Capital de Giro das empresas",
-   "resumo": "A Reforma Tributária trouxe à tona uma transformação estrutural na tesouraria das empresas brasileiras.",
-   "link": "https://portalerp.com/br/artigo/o-fim-do-emprestimo-sem-juros-do-fisco-como-o-split-payment-muda-o-capital-de-giro-das-empresas",
-   "source": "Portal ERP",
-   "official": false,
-   "category": "pag",
-   "tag": "Split payment",
-   "addedAt": "2026-11-25T03:28:13Z",
-   "tries": 1
-  },
-  {
-   "id": "7d200f379351",
-   "date": "2026-11-23",
-   "title": "Reforma Tributária: impacto da CBS sobre os estoques do setor automotivo",
-   "resumo": "A entrada em vigor da CBS em janeiro de 2027 trará mudanças significativas para distribuidores e revendedores de veículos, máquinas e equipamentos. O regime de…",
-   "link": "https://www.legal500.com/intelligence/brazil/tax/reforma-tribut%C3%A1ria-impacto-da-cbs-sobre-os-estoques-do-setor-automotivo",
-   "source": "Legal 500",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-24T20:43:40Z",
-   "tries": 1
-  },
-  {
-   "id": "18eae67e812c",
-   "date": "2026-11-23",
-   "title": "Receita Federal amplia acesso de empresas a testes da Reforma Tributária",
-   "resumo": "",
-   "link": "https://jeonline.com.br/noticia/37313/receita-federal-amplia-acesso-de-empresas-a-testes-da-reforma-tributaria",
-   "source": "JE Online",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-24T18:46:46Z",
-   "tries": 2
-  },
-  {
-   "id": "b9bc382e7e46",
-   "date": "2026-11-23",
-   "title": "7 pontos que os empresários devem cuidar antes da Reforma Tributária entrar em vigor",
-   "resumo": "\"A Reforma Tributária não começa em 2033, quando o novo sistema estará completo. Ela já começou\", é assim que Marcelo Costa Censoni Filho, sócio do Censoni...",
-   "link": "https://obrasilianista.com.br/2026/11/23/economia/7-pontos-empresarios-cuidar-antes-reforma-tributaria-vigor/",
-   "source": "O Brasilianista",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-24T15:29:38Z",
    "tries": 1
   }
  ]

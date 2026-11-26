@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-26T19:54:36Z",
- "lastCheckBr": "26/11/2026 16:54",
- "added": 32,
+ "lastCheckAt": "2026-11-26T20:43:42Z",
+ "lastCheckBr": "26/11/2026 17:43",
+ "added": 28,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -17,10 +17,9 @@
   },
   {
    "name": "Receita Federal",
-   "ok": false,
+   "ok": true,
    "found": 0,
-   "new": 0,
-   "error": "URLError"
+   "new": 0
   },
   {
    "name": "Agência Brasil",
@@ -44,7 +43,7 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 98,
-   "new": 27
+   "new": 23
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -54,6 +53,19 @@
   }
  ],
  "items": [
+  {
+   "id": "0f63f80a378e",
+   "date": "2026-11-26",
+   "title": "Alíquota da CBS poderia ser de 7% sem exceções da reforma tributária, estima IFI",
+   "resumo": "",
+   "link": "https://exame.com/economia/cbs-poderia-ser-de-7-sem-excecoes-da-reforma-tributaria-estima-ifi/",
+   "source": "Exame",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-26T20:43:42Z",
+   "tries": 1
+  },
   {
    "id": "bf35ecb3d179",
    "date": "2026-11-26",
@@ -1180,6 +1192,19 @@
    "tries": 1
   },
   {
+   "id": "5b34f5a81ae3",
+   "date": "2026-11-24",
+   "title": "Receita Federal, CGIBS e CFC vão orientar mais de 25 mil profissionais da contabilidade sobre destaque de CBS/IBS em documentos fiscais",
+   "resumo": "Profissionais de contabilidade têm papel relevante na promoção da conformidade tributária A importância da participação de profissionais da contabilidade na pro",
+   "link": "https://crcma.org.br/noticias/receita-federal-cgibs-e-cfc-vao-orientar-mais-de-25-mil-profissionais-da-contabilidade-sobre-destaque-de-cbs-ibs-em-documentos-fiscais",
+   "source": "Conselho Regional de Contabilidade do Maranhão",
+   "official": false,
+   "category": "cont",
+   "tag": "Contabilidade",
+   "addedAt": "2026-11-26T20:43:42Z",
+   "tries": 1
+  },
+  {
    "id": "4917bd463c5d",
    "date": "2026-11-24",
    "title": "Reforma Tributária para empresas: como se preparar para as mudanças",
@@ -1933,42 +1958,16 @@
    "addedAt": "2026-11-24T04:30:39Z"
   },
   {
-   "id": "d08174d05753",
+   "id": "8170ae1b0ecc",
    "date": "2026-11-23",
-   "title": "Receita amplia participação em piloto da CBS para todas as empresas",
-   "resumo": "Portaria abre acesso a ambiente de testes da Reforma Tributária, em relação à Contribuição sobre Bens e Serviços (CBS).",
-   "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/receita-amplia-participacao-em-piloto-da-cbs-para-todas-empresas",
-   "source": "Agência Brasil",
+   "title": "Palestra gratuita: Reforma Tributária – CBS e IBS e seus impactos no comércio varejista",
+   "resumo": "",
+   "link": "https://sindilojas.rio/2026/11/23/palestra-gratuita-reforma-tributaria-cbs-e-ibs-e-seus-impactos-no-comercio-varejista/",
+   "source": "SindilojasRio",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-26T19:54:36Z",
-   "tries": 1
-  },
-  {
-   "id": "54306abddebc",
-   "date": "2026-11-23",
-   "title": "Reforma Tributária/CBS: Piloto da Reforma Tributária - RTC-CBS",
-   "resumo": "Agilize decisões seguras. Legislação, Comentários e Consultoria nas áreas de IR e Contribuições, ICMS, IPI, ISS, Contabilidade e Societário, Simples Nacional, Trabalhista e Previdenciária. Cálculos e Tabelas de Substituição Tributária. Agenda Tributária…",
-   "link": "https://www.legisweb.com.br/noticia/?id",
-   "source": "LegisWeb",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-26T19:54:36Z",
-   "tries": 1
-  },
-  {
-   "id": "9547f634a3e0",
-   "date": "2026-11-23",
-   "title": "Split payment e os impactos da reforma tributária no fluxo de caixa das empresas",
-   "resumo": "Novo modelo exigirá integração entre sistemas fiscais e de pagamento e poderá afetar a disponibilidade de recursos das empresas",
-   "link": "https://www.jota.info/opiniao-e-analise/artigos/split-payment-e-os-impactos-da-reforma-tributaria-no-fluxo-de-caixa-das-empresas",
-   "source": "JOTA Info",
-   "official": false,
-   "category": "pag",
-   "tag": "Split payment",
-   "addedAt": "2026-11-26T19:54:36Z",
+   "addedAt": "2026-11-26T20:43:42Z",
    "tries": 1
   }
  ]

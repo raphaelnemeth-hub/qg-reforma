@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-26T06:57:34Z",
- "lastCheckBr": "26/11/2026 03:57",
- "added": 15,
+ "lastCheckAt": "2026-11-26T08:27:15Z",
+ "lastCheckBr": "26/11/2026 05:27",
+ "added": 19,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -44,16 +44,29 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 96,
-   "new": 9
+   "new": 13
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
    "ok": true,
-   "found": 8,
+   "found": 7,
    "new": 6
   }
  ],
  "items": [
+  {
+   "id": "bafa86877791",
+   "date": "2026-11-26",
+   "title": "Appy defende prorrogação de fase de teste da reforma tributária",
+   "resumo": "Parâmetro da alíquota da CBS contribui para a tendência de aumento da arrecadação",
+   "link": "https://valor.globo.com/brasil/noticia/2026/11/26/appy-defende-prorrogacao-de-fase-de-teste-da-reforma-tributaria.ghtml",
+   "source": "Valor Econômico",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-26T08:27:15Z",
+   "tries": 1
+  },
   {
    "id": "2d7352914fd6",
    "date": "2026-11-26",
@@ -1412,6 +1425,19 @@
    "addedAt": "2026-11-24T04:30:39Z"
   },
   {
+   "id": "1f1ae2a3a06d",
+   "date": "2026-11-23",
+   "title": "Alíquota da CBS: Senado pede estudos ao TCU",
+   "resumo": "Senado pede ao TCU os estudos sobre a alíquota de referência da CBS e preserva créditos de PIS e Cofins para abater débitos do novo tributo.",
+   "link": "https://www.contabeis.com.br/noticias/81063/aliquota-da-cbs-senado-pede-estudos-ao-tcu/",
+   "source": "Portal Contabeis",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-26T08:27:15Z",
+   "tries": 1
+  },
+  {
    "id": "8170ae1b0ecc",
    "date": "2026-11-23",
    "title": "Palestra gratuita: Reforma Tributária – CBS e IBS e seus impactos no comércio varejista",
@@ -1422,7 +1448,7 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-26T06:57:34Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "9ffbb4305eaf",
@@ -1956,32 +1982,6 @@
    "tag": "Atualização",
    "addedAt": "2026-11-24T00:47:10Z",
    "tries": 2
-  },
-  {
-   "id": "106f0c671d8f",
-   "date": "2026-11-23",
-   "title": "Exclusão de IBS e CBS da base do ISS ganha força como ‘filhote’ de discussão do ICMS",
-   "resumo": "Na Justiça, contribuintes argumentam que IBS e CBS não constituem receita, apenas transitam pelo caixa das empresas até serem repassados ao Fisco A disputa judi",
-   "link": "https://crcma.org.br/noticias/exclusao-de-ibs-e-cbs-da-base-do-iss-ganha-forca-como-filhote-de-discussao-do-icms",
-   "source": "Conselho Regional de Contabilidade do Maranhão",
-   "official": false,
-   "category": "cont",
-   "tag": "Contabilidade",
-   "addedAt": "2026-11-23T23:40:17Z",
-   "tries": 1
-  },
-  {
-   "id": "e3e1e9af0bea",
-   "date": "2026-11-23",
-   "title": "Teste piloto da CBS liberado para todos: como organizar as finanças do seu negócio?",
-   "resumo": "Antecipe os impactos do piloto da CBS no fluxo de caixa da sua empresa e garanta a conformidade com as novas regras tributárias com mais tranquilidade.",
-   "link": "https://www.omie.com.br/blog/piloto-cbs-liberado-como-organizar-financas-negocio/",
-   "source": "Omie",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T23:40:17Z",
-   "tries": 1
   }
  ]
 }

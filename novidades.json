@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-26T21:42:35Z",
- "lastCheckBr": "26/11/2026 18:42",
- "added": 27,
+ "lastCheckAt": "2026-11-26T22:45:04Z",
+ "lastCheckBr": "26/11/2026 19:45",
+ "added": 25,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -13,7 +13,7 @@
    "name": "Agência Câmara",
    "ok": true,
    "found": 1,
-   "new": 0
+   "new": 1
   },
   {
    "name": "Receita Federal",
@@ -44,7 +44,7 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 97,
-   "new": 22
+   "new": 19
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -54,6 +54,32 @@
   }
  ],
  "items": [
+  {
+   "id": "3c3811c97b48",
+   "date": "2026-11-26",
+   "title": "Reforma Tributária: entenda as regras que passam a valer a partir de 2027 — Secretaria de Comunicação Social",
+   "resumo": "",
+   "link": "https://www.gov.br/secom/pt-br/acompanhe-a-secom/noticias/2026/11/reforma-tributaria-entenda-as-regras-que-passam-a-valer-a-partir-de-2027-3",
+   "source": "www.gov.br",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-26T22:45:04Z",
+   "tries": 1
+  },
+  {
+   "id": "10227eedf992",
+   "date": "2026-11-26",
+   "title": "Reforma Tributária: CNA, CNC e CNT em ação conjunta acionam STF para adiar início da cobrança efetiva da CBS",
+   "resumo": "A iniciativa representa um novo desdobramento da mobilização de entidades representativas do setor produtivo na queda de braço com o Governo federal Por SAMANTA SALLUM A Confederação da Agricultura e Pecuária do Brasil (CNA), a Confederação Nacional do…",
+   "link": "https://blogs.correiobraziliense.com.br/capital-sa/2026/11/26/reforma-tributaria-cna-cnc-e-cnt-em-acao-conjunta-acionam-stf-para-adiar-inicio-da-cobranca-efetiva-da-cbs/",
+   "source": "Correio Braziliense",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-26T22:45:04Z",
+   "tries": 1
+  },
   {
    "id": "86b80fabec8f",
    "date": "2026-11-26",
@@ -1271,6 +1297,18 @@
    "tries": 1
   },
   {
+   "id": "8d17ec7be98e",
+   "date": "2026-11-24",
+   "title": "Projeto limita repasses da Lei Kandir e despesas com exportações e previdência",
+   "resumo": "Texto também altera regras para incentivos da reforma tributária, seguro rural e restos a pagar",
+   "link": "https://www.camara.leg.br/noticias/1322175-projeto-limita-repasses-da-lei-kandir-e-despesas-com-exportacoes-e-previdencia",
+   "source": "Agência Câmara",
+   "official": true,
+   "category": "lei",
+   "tag": "Legislação",
+   "addedAt": "2026-11-26T22:45:04Z"
+  },
+  {
    "id": "5b34f5a81ae3",
    "date": "2026-11-24",
    "title": "Receita Federal, CGIBS e CFC vão orientar mais de 25 mil profissionais da contabilidade sobre destaque de CBS/IBS em documentos fiscais",
@@ -1934,44 +1972,6 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-24T14:15:49Z"
-  },
-  {
-   "id": "9215ea2ddd1f",
-   "date": "2026-11-24",
-   "title": "Como a reforma tributária vai mudar o mapa logístico do país?",
-   "resumo": "O fim de incentivos fiscais nos estados pode mudar a estratégia de galpões e centros de distribuição",
-   "link": "https://obrasilianista.com.br/2026/11/24/economia/como-reforma-tributaria-mudar-mapa-logistico-pais/",
-   "source": "O Brasilianista",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-24T14:15:49Z",
-   "tries": 1
-  },
-  {
-   "id": "26905b0abb30",
-   "date": "2026-11-24",
-   "title": "CGIBS indica nomes para harmonizar IBS e CBS",
-   "resumo": "Portaria designa quatro titulares e quatro suplentes do Comitê Gestor para o colegiado que uniformizará regras e interpretações dos novos tributos. Leia mais em https://www.contabeis.com.br/noticias/81086/cgibs-indica-nomes-para-harmonizar-ibs-e-cbs/",
-   "link": "https://www.contabeis.com.br/noticias/81086/cgibs-indica-nomes-para-harmonizar-ibs-e-cbs/",
-   "source": "Portal Contábeis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-24T12:56:57Z"
-  },
-  {
-   "id": "f160072dde0c",
-   "date": "2026-11-24",
-   "title": "Comitê Gestor do Simples Nacional publica novas regras para o Simples Nacional e para a transição da Reforma Tributária",
-   "resumo": "As mudanças envolvem procedimentos de declaração, apuração de receitas, repartição dos tributos e adaptações necessárias para a transição ao novo modelo tributá",
-   "link": "https://crcma.org.br/noticias/comite-gestor-do-simples-nacional-publica-novas-regras-para-o-simples-nacional-e-para-a-transicao-da-reforma-tributaria",
-   "source": "Conselho Regional de Contabilidade do Maranhão",
-   "official": false,
-   "category": "simples",
-   "tag": "Simples",
-   "addedAt": "2026-11-24T12:56:57Z",
-   "tries": 1
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
- "lastCheckAt": "2026-11-26T05:51:14Z",
- "lastCheckBr": "26/11/2026 02:51",
+ "lastCheckAt": "2026-11-26T06:57:34Z",
+ "lastCheckBr": "26/11/2026 03:57",
  "added": 15,
  "feeds": [
   {
@@ -54,6 +54,19 @@
   }
  ],
  "items": [
+  {
+   "id": "2d7352914fd6",
+   "date": "2026-11-26",
+   "title": "Reforma Tributária: sistema piloto da CBS ainda tem limitações, aponta especialista",
+   "resumo": "Receita Federal amplia acesso ao ambiente de testes para todos os CNPJs, mas empresas ainda não conseguem corrigir divergências",
+   "link": "https://brasil61.com/n/reforma-tributaria-sistema-piloto-da-cbs-ainda-tem-limitacoes-aponta-especialista-bras2617521.amp",
+   "source": "Brasil 61",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-26T06:57:34Z",
+   "tries": 1
+  },
   {
    "id": "82c2bacffc42",
    "date": "2026-11-26",
@@ -1399,6 +1412,32 @@
    "addedAt": "2026-11-24T04:30:39Z"
   },
   {
+   "id": "8170ae1b0ecc",
+   "date": "2026-11-23",
+   "title": "Palestra gratuita: Reforma Tributária – CBS e IBS e seus impactos no comércio varejista",
+   "resumo": "",
+   "link": "https://sindilojas.rio/2026/11/23/palestra-gratuita-reforma-tributaria-cbs-e-ibs-e-seus-impactos-no-comercio-varejista/",
+   "source": "SindilojasRio",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-26T06:57:34Z",
+   "tries": 1
+  },
+  {
+   "id": "9ffbb4305eaf",
+   "date": "2026-11-23",
+   "title": "Depois do PIS/Cofins: o futuro do contencioso da CBS no Carf e na Justiça",
+   "resumo": "O litígio do consumo não acaba de uma vez: muda de objeto, de lugar e de linguagem",
+   "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/depois-do-pis-cofins-o-futuro-do-contencioso-da-cbs-no-carf-e-na-justica",
+   "source": "JOTA Info",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-26T06:57:34Z",
+   "tries": 1
+  },
+  {
    "id": "68e1c109162e",
    "date": "2026-11-23",
    "title": "Reforma tributária embute riscos que exigem atenção",
@@ -1409,7 +1448,7 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-26T05:51:14Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "6258ad0518cf",
@@ -1422,7 +1461,7 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-26T05:51:14Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "31255c19f9ed",
@@ -1943,44 +1982,6 @@
    "tag": "Atualização",
    "addedAt": "2026-11-23T23:40:17Z",
    "tries": 1
-  },
-  {
-   "id": "84eea330e0c6",
-   "date": "2026-11-23",
-   "title": "Reforma tributária corta 60% do imposto das faculdades, mas o aluno pode não sentir no bolso",
-   "resumo": "Para a ABMES, custos, compras e créditos tributários de cada instituição vão decidir se haverá reflexo na mensalidade até o fim da transição, em 2032.",
-   "link": "https://ndmais.com.br/politica/faculdade-reforma-tributaria-prouni-preco/",
-   "source": "ND Mais",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T23:40:17Z",
-   "tries": 1
-  },
-  {
-   "id": "c5f060b27131",
-   "date": "2026-11-23",
-   "title": "Reforma tributária entra em nova fase em 2027 e exige preparação das empresas",
-   "resumo": "O início de 2027 será marcado não apenas pela posse dos governadores e pela recondução do presidente da República, mas também por uma nova etapa da",
-   "link": "https://emtemponoticias.com.br/blogs-e-colunas/blog-do-arnobio/reforma-tributaria-entra-em-nova-fase-em-2027-e-exige-preparacao-das-empresas/",
-   "source": "Em Tempo Notícias",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T23:40:17Z",
-   "tries": 1
-  },
-  {
-   "id": "434371ed2737",
-   "date": "2026-11-23",
-   "title": "Alíquota da CBS: Senado pede estudos ao TCU",
-   "resumo": "Senado pede ao TCU os estudos sobre a alíquota de referência da CBS e preserva créditos de PIS e Cofins para abater débitos do novo tributo. Leia mais em https://www.contabeis.com.br/noticias/81063/aliquota-da-cbs-senado-pede-estudos-ao-tcu/",
-   "link": "https://www.contabeis.com.br/noticias/81063/aliquota-da-cbs-senado-pede-estudos-ao-tcu/",
-   "source": "Portal Contábeis",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-23T22:41:43Z"
   }
  ]
 }

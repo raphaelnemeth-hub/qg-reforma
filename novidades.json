@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-26T15:28:23Z",
- "lastCheckBr": "26/11/2026 12:28",
- "added": 16,
+ "lastCheckAt": "2026-11-26T16:35:32Z",
+ "lastCheckBr": "26/11/2026 13:35",
+ "added": 17,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -43,17 +43,69 @@
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 95,
+   "found": 96,
    "new": 11
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
    "ok": true,
    "found": 6,
-   "new": 5
+   "new": 6
   }
  ],
  "items": [
+  {
+   "id": "c26de1c610d1",
+   "date": "2026-11-26",
+   "title": "CBS seria de 7% sem exceções da reforma tributária, diz IFI",
+   "resumo": "Estudo da IFI aponta que, sem alíquota zero, reduções e outras exceções da reforma tributária, a CBS seria de 7%. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/economia/excecoes-da-reforma-tributaria-elevam-aliquota-da-cbs-de-7-para-113-aponta-estudo/",
+   "source": "Gazeta do Povo",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-26T16:35:32Z",
+   "tries": 1
+  },
+  {
+   "id": "ddf802755128",
+   "date": "2026-11-26",
+   "title": "Confederações vão ao STF para adiar entrada da reforma tributária",
+   "resumo": "da Agência iNFRA Entidades do setor produtivo ingressaram com uma ação no STF (Supremo Tribunal Federal) pedindo o adiamento da implementação da reforma tributária, prevista para começar em janeiro de 2027. A ADI (Ação Direta de Inconstitucionalidade) foi…",
+   "link": "https://agenciainfra.com/blog/confederacoes-vao-ao-stf-para-adiar-entrada-da-reforma-tributaria/",
+   "source": "Agência iNFRA",
+   "official": false,
+   "category": "nt",
+   "tag": "Nota técnica",
+   "addedAt": "2026-11-26T16:35:32Z",
+   "tries": 1
+  },
+  {
+   "id": "42de552a44ce",
+   "date": "2026-11-26",
+   "title": "Assembleia de MS aprova em primeira discussão PEC que adapta a Constituição à Reforma Tributária",
+   "resumo": "A PEC que adapta a Constituição de Mato Grosso do Sul à Reforma Tributária foi aprovada em primeira discussão na ALEMS e prevê novas regras para dividir o IBS entre os municípios.",
+   "link": "https://acritica.net/politica/reforma-tributaria-ms-pec-ibs-repasses-municipios/",
+   "source": "A Crítica de Campo Grande",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-26T16:35:32Z",
+   "tries": 1
+  },
+  {
+   "id": "b41bc794d1a5",
+   "date": "2026-11-26",
+   "title": "Entidades do setor produtivo pedem que STF adie reforma tributária",
+   "resumo": "CBS deve entrar em vigor em 2027, mas alíquota ainda deve ser definida pelo Senado. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/economia/entidades-do-setor-produtivo-pedem-ao-stf-adiamento-da-reforma-tributaria/",
+   "source": "Gazeta do Povo",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-26T16:35:32Z",
+   "tries": 1
+  },
   {
    "id": "889470e12d81",
    "date": "2026-11-26",
@@ -279,7 +331,7 @@
    "category": "aliq",
    "tag": "Alíquotas",
    "addedAt": "2026-11-26T15:28:23Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "02250cd011d2",
@@ -1613,6 +1665,71 @@
    "addedAt": "2026-11-24T04:30:39Z"
   },
   {
+   "id": "54306abddebc",
+   "date": "2026-11-23",
+   "title": "Reforma Tributária/CBS: Piloto da Reforma Tributária - RTC-CBS",
+   "resumo": "Agilize decisões seguras. Legislação, Comentários e Consultoria nas áreas de IR e Contribuições, ICMS, IPI, ISS, Contabilidade e Societário, Simples Nacional, Trabalhista e Previdenciária. Cálculos e Tabelas de Substituição Tributária. Agenda Tributária…",
+   "link": "https://www.legisweb.com.br/noticia/?id",
+   "source": "LegisWeb",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-26T16:35:32Z",
+   "tries": 1
+  },
+  {
+   "id": "c50d187e2f95",
+   "date": "2026-11-23",
+   "title": "Piloto da CBS: Receita define novas regras de participação",
+   "resumo": "Receita define regras para o piloto da CBS, com participação sem convite de empresas com CNPJ. Confira requisitos, autorizações e condições dos testes.",
+   "link": "https://www.contabeis.com.br/noticias/81043/piloto-da-cbs-receita-define-novas-regras-de-participacao/",
+   "source": "Portal Contabeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-26T16:35:32Z",
+   "tries": 1
+  },
+  {
+   "id": "a093c3005220",
+   "date": "2026-11-23",
+   "title": "Receita Federal regulamenta testes para a CBS, parte da reforma tributária",
+   "resumo": "A contribuição substituirá PIS e Cofins; piloto permite que empresas experimentem sistemas para implementação do tributo. Leia no Poder360.",
+   "link": "https://www.poder360.com.br/poder-economia/receita-federal-regulamenta-testes-para-a-cbs-parte-da-reforma-tributaria/",
+   "source": "Poder360",
+   "official": false,
+   "category": "lei",
+   "tag": "Legislação",
+   "addedAt": "2026-11-26T16:35:32Z",
+   "tries": 1
+  },
+  {
+   "id": "b3997f6ae089",
+   "date": "2026-11-23",
+   "title": "Receita vai orientar 25 mil contadores sobre CBS e IBS",
+   "resumo": "Ação envolve profissionais responsáveis por cerca de 72 mil empresas com indícios de ausência ou preenchimento parcial dos novos tributos nas notas fiscais.",
+   "link": "https://www.contabeis.com.br/noticias/81047/receita-vai-orientar-25-mil-contadores-sobre-cbs-e-ibs/",
+   "source": "Portal Contabeis",
+   "official": false,
+   "category": "cont",
+   "tag": "Contabilidade",
+   "addedAt": "2026-11-26T16:35:32Z",
+   "tries": 1
+  },
+  {
+   "id": "11d4d5aea93c",
+   "date": "2026-11-23",
+   "title": "PORTARIA CGIBS Nº 13/2026, DE 23 DE NOVEMBRO DE 2026",
+   "resumo": "",
+   "link": "https://cgibs.gov.br/upload/arquivos/202611/23114620-portaria-cgibs-n-13-2026.pdf",
+   "source": "Comitê Gestor do IBS",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-26T16:35:32Z",
+   "tries": 1
+  },
+  {
    "id": "d08174d05753",
    "date": "2026-11-23",
    "title": "Receita amplia participação em piloto da CBS para todas as empresas",
@@ -1662,7 +1779,7 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-26T15:28:23Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "e50cd6d8e339",
@@ -1858,123 +1975,6 @@
    "tag": "Atualização",
    "addedAt": "2026-11-25T23:40:34Z",
    "tries": 2
-  },
-  {
-   "id": "3499a7d4cd14",
-   "date": "2026-11-23",
-   "title": "Receita disponibiliza sistema de testes da CBS para todas as empresas",
-   "resumo": "A partir de hoje, todas as empresas inscritas no Cadastro Nacional da Pessoa Jurídica (CNPJ) poderão participar do ambiente de testes do piloto da Reforma...",
-   "link": "https://amanha.com.br/brasil/receita-disponibiliza-sistema-de-testes-da-cbs-para-todas-as-empresas",
-   "source": "Grupo AMANHÃ",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-25T23:40:34Z",
-   "tries": 1
-  },
-  {
-   "id": "6fd74bfea809",
-   "date": "2026-11-23",
-   "title": "Receita libera testes da CBS para todas as empresas; veja como participar",
-   "resumo": "",
-   "link": "https://exame.com/economia/receita-libera-testes-da-cbs-para-todas-as-empresas-veja-como-participar/",
-   "source": "Exame",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-25T23:40:34Z",
-   "tries": 2
-  },
-  {
-   "id": "b1261f98c725",
-   "date": "2026-11-23",
-   "title": "Receita Abre Piloto da CBS a Empresas de Qualquer Setor",
-   "resumo": "Acesso ao ambiente de testes da reforma tributária não exigirá convite, mas dependerá de requisitos operacionais e de segurança",
-   "link": "https://forbes.com.br/forbes-money/2026/11/piloto-cbs-receita/",
-   "source": "Forbes Brasil",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-25T22:45:16Z",
-   "tries": 1
-  },
-  {
-   "id": "e9f4802b26a3",
-   "date": "2026-11-23",
-   "title": "Devolução em 2027 garante crédito de CBS sobre venda de 2026",
-   "resumo": "Lei Complementar 214/2025 preserva crédito da CBS para empresas que receberem de volta mercadorias vendidas antes de 2027, com restrições de uso.",
-   "link": "https://www.contabeis.com.br/noticias/81066/devolucao-em-2027-garante-credito-de-cbs-sobre-venda-de-2026/",
-   "source": "Portal Contabeis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-25T21:48:18Z",
-   "tries": 1
-  },
-  {
-   "id": "126dfaa1a07a",
-   "date": "2026-11-23",
-   "title": "Fazenda corrige informação sobre crédito de IPI e CBS",
-   "resumo": "",
-   "link": "https://apet.org.br/noticia/fazenda-corrige-informacao-sobre-credito-de-ipi-e-cbs/",
-   "source": "APET – Associação Paulista de Estudos Tributários",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-25T20:44:47Z",
-   "tries": 2
-  },
-  {
-   "id": "ca6f09cd6f8f",
-   "date": "2026-11-23",
-   "title": "Reforma Tributária: empresas de qualquer porte podem participar de piloto da CBS",
-   "resumo": "Receita Federal libera acesso ao ambiente de testes da Contribuição sobre Bens e Serviços sem necessidade de indicação por entidades representativas; iniciativa integra Reforma Tributária e busca validar sistemas antes da implementação do novo modelo de…",
-   "link": "https://movimentoeconomico.com.br/economia/lei-de-incentivos/tributacao/2026/11/23/reforma-tributaria-empresas-de-qualquer-porte-podem-participar-de-piloto-da-cbs/",
-   "source": "Movimento Econômico",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-25T20:44:47Z",
-   "tries": 1
-  },
-  {
-   "id": "f3bb024c2425",
-   "date": "2026-11-23",
-   "title": "Receita amplia participação em ambiente de testes da CBS para todas as empresas",
-   "resumo": "",
-   "link": "https://www.opiniaoce.com.br/politica/2026/11/23/receita-amplia-participacao-em-ambiente-de-testes-da-cbs-para-todas-as-empresas/",
-   "source": "OpiniãoCE",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-25T20:44:47Z",
-   "tries": 2
-  },
-  {
-   "id": "629a8fa0c535",
-   "date": "2026-11-23",
-   "title": "OAB/SP lança simulador gratuito para calcular imposto da reforma tributária",
-   "resumo": "",
-   "link": "https://fenafisco.org.br/23/11/2026/oab-sp-lanca-simulador-gratuito-para-calcular-imposto-da-reforma-tributaria/",
-   "source": "Fenafisco",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-25T19:46:03Z",
-   "tries": 2
-  },
-  {
-   "id": "10ec7920f30c",
-   "date": "2026-11-23",
-   "title": "Todas as empresas poderão testar novo imposto da Reforma Tributária",
-   "resumo": "A partir desta semana, todas as empresas inscritas no Cadastro Nacional da Pessoa Jurídica (CNPJ) poderão participar do ambiente de testes da Contribuição sobre Bens e Serviços (CBS), um dos",
-   "link": "https://atribunarj.com.br/materia/todas-as-empresas-poderao-testar-novo-imposto-da-reforma-tributaria",
-   "source": "A Tribuna RJ",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-25T19:46:03Z",
-   "tries": 1
   }
  ]
 }

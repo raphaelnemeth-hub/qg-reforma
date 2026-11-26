@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-26T22:45:04Z",
- "lastCheckBr": "26/11/2026 19:45",
- "added": 25,
+ "lastCheckAt": "2026-11-26T23:44:33Z",
+ "lastCheckBr": "26/11/2026 20:44",
+ "added": 27,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -13,7 +13,7 @@
    "name": "Agência Câmara",
    "ok": true,
    "found": 1,
-   "new": 1
+   "new": 0
   },
   {
    "name": "Receita Federal",
@@ -44,16 +44,55 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 97,
-   "new": 19
+   "new": 21
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
    "ok": true,
-   "found": 5,
-   "new": 5
+   "found": 6,
+   "new": 6
   }
  ],
  "items": [
+  {
+   "id": "eedb72a6f539",
+   "date": "2026-11-26",
+   "title": "OAB aprova atuação no STF pelo adiamento de etapas da reforma tributária previstas para 2027",
+   "resumo": "",
+   "link": "https://www.oab.org.br/noticia/64906/oab-aprova-atuacao-no-stf-pelo-adiamento-de-etapas-da-reforma-tributaria-previstas-para-2027",
+   "source": "OAB",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-26T23:44:33Z",
+   "tries": 1
+  },
+  {
+   "id": "9abfabe3af1d",
+   "date": "2026-11-26",
+   "title": "Fim do PIS e Cofins: Reforma Tributária altera impostos a partir de janeiro",
+   "resumo": "A Reforma Tributária do Consumo entra em uma nova fase a partir de 1º de janeiro de 2027, quando começam a valer a Contribuição sobre Bens e Serviços (CBS), de competência federal, e o Imposto sobre Bens e Serviços (IBS), compartilhado entre estados e…",
+   "link": "https://diariodorn.com.br/fim-do-pis-e-cofins-reforma-tributaria-altera-impostos-a-partir-de-janeiro/",
+   "source": "Portal Diário do RN",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-26T23:44:33Z",
+   "tries": 1
+  },
+  {
+   "id": "8e76c48e3e41",
+   "date": "2026-11-26",
+   "title": "STJ cria observatório para acompanhar disputas da reforma tributária",
+   "resumo": "Comissão do STJ presidida pela ministra Regina Helena Costa vai monitorar divergências na aplicação do IBS, da CBS e do Imposto Seletivo",
+   "link": "https://movimentoeconomico.com.br/economia/lei-de-incentivos/tributacao/reforma-tributaria/2026/11/26/stj-cria-observatorio-para-acompanhar-disputas-da-reforma-tributaria/",
+   "source": "Movimento Econômico",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-26T23:44:33Z",
+   "tries": 1
+  },
   {
    "id": "3c3811c97b48",
    "date": "2026-11-26",
@@ -65,7 +104,7 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-26T22:45:04Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "10227eedf992",
@@ -693,6 +732,19 @@
    "tries": 1
   },
   {
+   "id": "92c50600dd89",
+   "date": "2026-11-25",
+   "title": "Comitê Gestor do Simples Nacional publica novas regras para o Simples Nacional e para a transição da Reforma Tributária",
+   "resumo": "",
+   "link": "https://www.contadores.cnt.br/noticias/tecnicas/2026/11/25/comite-gestor-do-simples-nacional-publica-novas-regras-para-o-simples-nacional-e-para-a-transicao-da-reforma-tributaria.html",
+   "source": "Contadores.cnt.br",
+   "official": false,
+   "category": "simples",
+   "tag": "Simples",
+   "addedAt": "2026-11-26T23:44:33Z",
+   "tries": 1
+  },
+  {
    "id": "84b56c62f61b",
    "date": "2026-11-25",
    "title": "Novas regras do Simples Nacional e da transição para a Reforma Tributária são publicadas",
@@ -1294,6 +1346,19 @@
    "category": "aliq",
    "tag": "Alíquotas",
    "addedAt": "2026-11-25T05:51:05Z",
+   "tries": 1
+  },
+  {
+   "id": "a49715122476",
+   "date": "2026-11-24",
+   "title": "CGIBS indica nomes para harmonizar IBS e CBS",
+   "resumo": "Portaria designa quatro titulares e quatro suplentes do Comitê Gestor para o colegiado que uniformizará regras e interpretações dos novos tributos.",
+   "link": "https://www.contabeis.com.br/noticias/81086/cgibs-indica-nomes-para-harmonizar-ibs-e-cbs/",
+   "source": "Portal Contabeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-26T23:44:33Z",
    "tries": 1
   },
   {
@@ -1910,68 +1975,6 @@
    "tag": "Atualização",
    "addedAt": "2026-11-24T15:29:38Z",
    "tries": 2
-  },
-  {
-   "id": "c4d30647d1c0",
-   "date": "2026-11-24",
-   "title": "Santa Catarina adota critérios ambientais para repasses do IBS aos municípios",
-   "resumo": "",
-   "link": "https://www.correiosc.com.br/santa-catarina-criterios-ambientais-repasses-ibs-municipios/",
-   "source": "Correio SC",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-24T15:29:38Z",
-   "tries": 2
-  },
-  {
-   "id": "354f8513ef57",
-   "date": "2026-11-24",
-   "title": "Regras do Simples Nacional mudam com Reforma Tributária; veja alíquotas",
-   "resumo": "Mudanças valem a partir de 2027 e alteram a partilha de impostos entre União, Estados e Municípios. Entenda o que muda na apuração das receitas, como fica o regime de caixa em 2026 e as alíquotas nominais de cada atividade",
-   "link": "https://www.opovo.com.br/noticias/economia/2026/11/24/regras-do-simples-nacional-vao-mudar-em-2027-veja-aliquotas.html",
-   "source": "O POVO",
-   "official": false,
-   "category": "simples",
-   "tag": "Simples",
-   "addedAt": "2026-11-24T15:29:38Z",
-   "tries": 1
-  },
-  {
-   "id": "423d016f1d3f",
-   "date": "2026-11-24",
-   "title": "Projeto de ajuste fiscal segue para a sanção presidencial",
-   "resumo": "A Câmara dos Deputados aprovou na segunda-feira (23) o projeto de lei do ajuste fiscal, que altera regras fiscais para permitir que o Executivo limite a execução de despesas a fim de alcançar as metas de superávit primário a partir de 2027. O projeto (PLP…",
-   "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/projeto-de-ajuste-fiscal-segue-para-a-sancao-presidencial",
-   "source": "Senado Federal",
-   "official": true,
-   "category": "cap",
-   "tag": "Capacitação",
-   "addedAt": "2026-11-24T14:15:49Z"
-  },
-  {
-   "id": "4bb56a89f3fa",
-   "date": "2026-11-24",
-   "title": "CBS: crédito de bens de capital difere da depreciação",
-   "resumo": "Entenda os requisitos para o crédito da CBS sobre bens de capital, a depreciação contábil e o tratamento dos créditos antigos de PIS / Cofins em 2027. Leia mais em…",
-   "link": "https://www.contabeis.com.br/noticias/81091/cbs-credito-de-bens-de-capital-difere-da-depreciacao/",
-   "source": "Portal Contábeis",
-   "official": false,
-   "category": "cont",
-   "tag": "Contabilidade",
-   "addedAt": "2026-11-24T14:15:49Z"
-  },
-  {
-   "id": "38fcc120c086",
-   "date": "2026-11-24",
-   "title": "DeRE já pode ser testada no piloto da CBS antes da cobrança",
-   "resumo": "Empresas com CNPJ podem acessar o piloto da CBS e testar a DeRE, APIs e outras funcionalidades no ambiente de produção restrita. Leia mais em https://www.contabeis.com.br/noticias/81084/dere-ja-pode-ser-testada-no-piloto-da-cbs-antes-da-cobranca/",
-   "link": "https://www.contabeis.com.br/noticias/81084/dere-ja-pode-ser-testada-no-piloto-da-cbs-antes-da-cobranca/",
-   "source": "Portal Contábeis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-24T14:15:49Z"
   }
  ]
 }

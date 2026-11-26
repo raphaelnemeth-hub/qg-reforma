@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-26T04:35:23Z",
- "lastCheckBr": "26/11/2026 01:35",
- "added": 20,
+ "lastCheckAt": "2026-11-26T05:51:14Z",
+ "lastCheckBr": "26/11/2026 02:51",
+ "added": 15,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -44,7 +44,7 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 96,
-   "new": 14
+   "new": 9
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -65,6 +65,19 @@
    "category": "aliq",
    "tag": "Alíquotas",
    "addedAt": "2026-11-26T04:35:23Z",
+   "tries": 1
+  },
+  {
+   "id": "02250cd011d2",
+   "date": "2026-11-25",
+   "title": "Conselheiro Domingos Taufner encabeça debates sobre a Reforma Tributária no Encontro Nacional de TCs",
+   "resumo": "Conselheiro capixaba é o presidente do Colegiado Nacional de Controle Externo do Comitê Gestor do IBS, novo imposto criado pela Reforma",
+   "link": "https://www.tcees.tc.br/noticias/conselheiro-domingos-taufner-encabeca-debates-sobre-a-reforma-tributaria-no-encontro-nacional-de-tcs/",
+   "source": "TCEES",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-26T05:51:14Z",
    "tries": 1
   },
   {
@@ -1386,6 +1399,32 @@
    "addedAt": "2026-11-24T04:30:39Z"
   },
   {
+   "id": "68e1c109162e",
+   "date": "2026-11-23",
+   "title": "Reforma tributária embute riscos que exigem atenção",
+   "resumo": "",
+   "link": "https://fenafisco.org.br/amp/23/11/2026/reforma-tributaria-embute-riscos-que-exigem-atencao/",
+   "source": "Fenafisco",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-26T05:51:14Z",
+   "tries": 1
+  },
+  {
+   "id": "6258ad0518cf",
+   "date": "2026-11-23",
+   "title": "Reforma tributária é positiva para nanoempreendedores, diz associação",
+   "resumo": "",
+   "link": "https://fenafisco.org.br/23/11/2026/reforma-tributaria-e-positiva-para-nanoempreendedores-diz-associacao/",
+   "source": "Fenafisco",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-26T05:51:14Z",
+   "tries": 1
+  },
+  {
    "id": "31255c19f9ed",
    "date": "2026-11-23",
    "title": "Crédito da CBS: quem paga a conta quando o fornecedor não paga?",
@@ -1942,45 +1981,6 @@
    "category": "aliq",
    "tag": "Alíquotas",
    "addedAt": "2026-11-23T22:41:43Z"
-  },
-  {
-   "id": "784bb6cc6548",
-   "date": "2026-11-23",
-   "title": "Entenda a Reforma Tributária e quais são as novas regras de consumo",
-   "resumo": "Com transição prevista para começar em 2027, novo modelo unifica impostos sobre o consumo, isenta itens da cesta básica e cria taxa extra para produtos nocivos à saúde e ao meio ambiente",
-   "link": "https://unifor.br/pt/-/entenda-a-reforma-tributaria-e-quais-sao-as-novas-regras-de-consumo",
-   "source": "Unifor",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T22:41:43Z",
-   "tries": 1
-  },
-  {
-   "id": "8170ae1b0ecc",
-   "date": "2026-11-23",
-   "title": "Palestra gratuita: Reforma Tributária – CBS e IBS e seus impactos no comércio varejista",
-   "resumo": "",
-   "link": "https://sindilojas.rio/2026/11/23/palestra-gratuita-reforma-tributaria-cbs-e-ibs-e-seus-impactos-no-comercio-varejista/",
-   "source": "SindilojasRio",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T22:41:43Z",
-   "tries": 2
-  },
-  {
-   "id": "9ffbb4305eaf",
-   "date": "2026-11-23",
-   "title": "Depois do PIS/Cofins: o futuro do contencioso da CBS no Carf e na Justiça",
-   "resumo": "O litígio do consumo não acaba de uma vez: muda de objeto, de lugar e de linguagem",
-   "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/depois-do-pis-cofins-o-futuro-do-contencioso-da-cbs-no-carf-e-na-justica",
-   "source": "JOTA Info",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-23T22:41:43Z",
-   "tries": 1
   }
  ]
 }

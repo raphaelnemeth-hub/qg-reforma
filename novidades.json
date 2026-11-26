@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-25T23:40:34Z",
- "lastCheckBr": "25/11/2026 20:40",
- "added": 22,
+ "lastCheckAt": "2026-11-26T00:49:37Z",
+ "lastCheckBr": "25/11/2026 21:49",
+ "added": 20,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -43,14 +43,14 @@
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 98,
-   "new": 15
+   "found": 96,
+   "new": 14
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
    "ok": true,
-   "found": 9,
-   "new": 7
+   "found": 8,
+   "new": 6
   }
  ],
  "items": [
@@ -65,7 +65,7 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-25T23:40:34Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "ec25272855da",
@@ -1321,6 +1321,19 @@
    "addedAt": "2026-11-24T04:30:39Z"
   },
   {
+   "id": "31255c19f9ed",
+   "date": "2026-11-23",
+   "title": "Crédito da CBS: quem paga a conta quando o fornecedor não paga?",
+   "resumo": "Estimativa anunciada pela Receita alivia o caixa na estreia da CBS, mas não diz quem suporta o inadimplemento do fornecedor.",
+   "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/credito-da-cbs-quem-paga-a-conta-quando-o-fornecedor-nao-paga",
+   "source": "JOTA Info",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-26T00:49:37Z",
+   "tries": 1
+  },
+  {
    "id": "4749a34f9dee",
    "date": "2026-11-23",
    "title": "Outsourcing de TI e Reforma Tributária: como o IBS e a CBS podem favorecer o Bodyshop e o Staff Augmentation",
@@ -1331,20 +1344,20 @@
    "category": "cont",
    "tag": "Contabilidade",
    "addedAt": "2026-11-25T23:40:34Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "3b8ece2a9307",
    "date": "2026-11-23",
    "title": "Menos de 40 dias para 2027: como preparar o caixa da empresa para a nova fase da Reforma Tributária",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeEtndWI3Nk9mVkNSLWh1dDFHVDhtNEU4TF9iR2U3TTVfcUVlRWZlZjB0RVdEOU1kOFp1ZFBrOUZ3T0tXakJicUxNcEF4WFFGWWxPdVY3TjQxQXZtZFRLTi1Yd1JwUWh5SXFnVVdDOFZjVW9HQXdQb0hNUktfaG1jcUNSTkdYVldiaThGaTh3U1BRUUNUZGZaYmRSbklPZGVRMWMxZWhOQk9ETDRRRDhtVTdtX2Jfdw?oc=5",
+   "resumo": "Entenda como a Reforma Tributária, o split payment e o RAD podem afetar o caixa das empresas e veja medidas para planejar 2027.",
+   "link": "https://www.contabeis.com.br/artigos/81076/como-preparar-o-caixa-da-empresa-para-a-nova-fase-da-reforma-tributaria/",
    "source": "Portal Contabeis",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-25T23:40:34Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "3499a7d4cd14",
@@ -1370,7 +1383,7 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-25T23:40:34Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "b1261f98c725",
@@ -1968,18 +1981,6 @@
    "tag": "Atualização",
    "addedAt": "2026-11-23T21:42:13Z",
    "tries": 1
-  },
-  {
-   "id": "4431eb46815e",
-   "date": "2026-11-23",
-   "title": "Câmara pode votar ajuste fiscal nesta segunda-feira",
-   "resumo": "A Câmara dos Deputados pode votar nesta segunda-feira (23) o projeto de lei complementar (PLP) 299/26, que trata de medidas de ajuste fiscal das contas públicas. O texto foi aprovado pelo Senado na quarta-feira (18) e prevê redução de despesas para se atingir…",
-   "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/camara-pode-votar-ajuste-fiscal-nesta-segunda-feira",
-   "source": "Agência Brasil",
-   "official": true,
-   "category": "cap",
-   "tag": "Capacitação",
-   "addedAt": "2026-11-23T20:42:20Z"
   }
  ]
 }

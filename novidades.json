@@ -1,12 +1,12 @@
 {
- "lastCheckAt": "2026-11-26T10:50:50Z",
- "lastCheckBr": "26/11/2026 07:50",
- "added": 18,
+ "lastCheckAt": "2026-11-26T11:50:13Z",
+ "lastCheckBr": "26/11/2026 08:50",
+ "added": 14,
  "feeds": [
   {
    "name": "Agência Senado",
    "ok": true,
-   "found": 1,
+   "found": 0,
    "new": 0
   },
   {
@@ -31,8 +31,8 @@
   {
    "name": "Portal Contábeis",
    "ok": true,
-   "found": 4,
-   "new": 0
+   "found": 5,
+   "new": 1
   },
   {
    "name": "InfoMoney",
@@ -43,8 +43,8 @@
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 96,
-   "new": 12
+   "found": 95,
+   "new": 7
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -54,6 +54,18 @@
   }
  ],
  "items": [
+  {
+   "id": "641834b8def4",
+   "date": "2026-11-26",
+   "title": "Se o seu sistema contábil travar ou vazar amanhã, quem paga a conta?",
+   "resumo": "Entre a transição para o IBS e a CBS , o rigor da LGPD e a chegada definitiva dos agentes de IA, mais de 106 mil empresas contábeis brasileiras enfrentam uma escolha inadiável. Leia mais em…",
+   "link": "https://www.contabeis.com.br/noticias/81124/se-o-seu-sistema-contabil-travar-ou-vazar-amanha-quem-paga-a-conta/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "cont",
+   "tag": "Contabilidade",
+   "addedAt": "2026-11-26T11:50:13Z"
+  },
   {
    "id": "3d01de742fb7",
    "date": "2026-11-26",
@@ -78,7 +90,7 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-26T10:50:50Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "bafa86877791",
@@ -1451,6 +1463,32 @@
    "addedAt": "2026-11-24T04:30:39Z"
   },
   {
+   "id": "391cf6b617e0",
+   "date": "2026-11-23",
+   "title": "Reforma Tributária: empresas com CNPJ podem participar de piloto da CBS",
+   "resumo": "Receita Federal libera acesso ao ambiente de testes da Contribuição sobre Bens e Serviços sem necessidade de indicação por entidades representativas; iniciativa integra Reforma Tributária e busca validar sistemas antes da implementação do novo modelo de…",
+   "link": "https://movimentoeconomico.com.br/economia/lei-de-incentivos/tributacao/2026/11/23/reforma-tributaria-empresas-com-cnpj-podem-participar-de-piloto-da-cbs/",
+   "source": "Movimento Econômico",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-26T11:50:13Z",
+   "tries": 1
+  },
+  {
+   "id": "e316adf2bf3b",
+   "date": "2026-11-23",
+   "title": "Reforma tributária desafia cadeia fria da saúde com alíquota estimada de 11,3% da CBS",
+   "resumo": "Empresas atuantes no transporte refrigerado de produtos farmacêuticos e estéticos avaliam alternativas tributárias diante da projeção de alíquota de 11,3%",
+   "link": "https://brasilinovador.com.br/reforma-tributaria-desafia-cadeia-fria-da-saude-com-aliquota-estimada-de-113-da-cbs/",
+   "source": "Brasil Inovador",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-26T11:50:13Z",
+   "tries": 1
+  },
+  {
    "id": "106f0c671d8f",
    "date": "2026-11-23",
    "title": "Exclusão de IBS e CBS da base do ISS ganha força como ‘filhote’ de discussão do ICMS",
@@ -1942,45 +1980,6 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-24T15:29:38Z",
-   "tries": 1
-  },
-  {
-   "id": "56d269e9e7d8",
-   "date": "2026-11-23",
-   "title": "CBS e IBS: alerta da Receita não é autuação",
-   "resumo": "Entenda o alerta da Receita sobre o preenchimento de CBS e IBS em documentos fiscais e saiba como verificar possíveis inconsistências sem presumir infração.",
-   "link": "https://www.contabeis.com.br/artigos/81049/cbs-e-ibs-alerta-da-receita-nao-e-autuacao/",
-   "source": "Portal Contabeis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-24T14:15:49Z",
-   "tries": 1
-  },
-  {
-   "id": "712a943ec8fd",
-   "date": "2026-11-23",
-   "title": "Reforma Tributária: apuração assistida do Fisco em 2027 exige preparação das empresas | SEGS Portal...",
-   "resumo": "Novo modelo transfere a apuração do IBS e da CBS para a Receita; omissão dos contribuintes no prazo de validação pode gerar pagamentos indevidos e perda de créditos A aproximação de 2027 traz um dos pontos mais críticos e ainda pouco debatidos da Reforma…",
-   "link": "https://www.segs.com.br/seguros/459731-reforma-tributaria-apuracao-assistida-do-fisco-em-2027-exige-preparacao-das-empresas",
-   "source": "SEGS Portal Nacional",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-24T14:15:49Z",
-   "tries": 1
-  },
-  {
-   "id": "8690881f0366",
-   "date": "2026-11-23",
-   "title": "CLP propõe alterações no Imposto Seletivo para bebidas açucaradas, álcool, tabaco e veículos",
-   "resumo": "O tributo, criado no âmbito da reforma tributária, foi regulamentado pela Medida Provisória (MP) n&ordm; 1.399/2026 tendo como ponto de partida as alíquotas do Imposto sobre Produtos Industrializados (IPI)",
-   "link": "https://www.folhape.com.br/economia/clp-propoe-alteracoes-no-imposto-seletivo-para-bebidas-acucaradas/525746/",
-   "source": "Folha PE",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-24T08:22:54Z",
    "tries": 1
   }
  ]

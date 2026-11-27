@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-27T04:36:29Z",
- "lastCheckBr": "27/11/2026 01:36",
- "added": 24,
+ "lastCheckAt": "2026-11-27T05:53:44Z",
+ "lastCheckBr": "27/11/2026 02:53",
+ "added": 23,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -44,7 +44,7 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 98,
-   "new": 18
+   "new": 17
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -54,6 +54,19 @@
   }
  ],
  "items": [
+  {
+   "id": "962a020201ec",
+   "date": "2026-11-26",
+   "title": "Reforma Tributária mudará relações comerciais das empresas, aponta Cosec",
+   "resumo": "",
+   "link": "https://www.fiesp.com.br/mobile/noticias/?id",
+   "source": "Fiesp",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-27T05:53:44Z",
+   "tries": 1
+  },
   {
    "id": "e87f7faf7671",
    "date": "2026-11-26",
@@ -1963,19 +1976,6 @@
    "category": "simples",
    "tag": "Simples",
    "addedAt": "2026-11-24T17:44:44Z"
-  },
-  {
-   "id": "006736fcbdee",
-   "date": "2026-11-24",
-   "title": "Reforma Tributária: as 7 dúvidas que mais confundem as empresas, a pouco mais de um mês para 2027",
-   "resumo": "",
-   "link": "https://www.contadores.cnt.br/noticias/artigos/2026/11/24/reforma-tributaria-as-7-duvidas-que-mais-confundem-as-empresas-a-pouco-mais-de-um-mes-para-2027.html",
-   "source": "Contadores.cnt.br",
-   "official": false,
-   "category": "cont",
-   "tag": "Contabilidade",
-   "addedAt": "2026-11-24T17:44:44Z",
-   "tries": 2
   }
  ]
 }

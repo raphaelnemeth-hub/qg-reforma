@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-26T23:44:33Z",
- "lastCheckBr": "26/11/2026 20:44",
- "added": 27,
+ "lastCheckAt": "2026-11-27T00:54:21Z",
+ "lastCheckBr": "26/11/2026 21:54",
+ "added": 24,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -44,7 +44,7 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 97,
-   "new": 21
+   "new": 18
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -54,6 +54,19 @@
   }
  ],
  "items": [
+  {
+   "id": "8a1d4687cb3a",
+   "date": "2026-11-26",
+   "title": "CBS em 2027: como varejistas podem preparar a gestão",
+   "resumo": "A CBS substituirá PIS e Cofins em 2027. Veja como varejistas e franqueados podem revisar preços, margens, fluxo de caixa e dados.",
+   "link": "https://www.contabeis.com.br/artigos/81200/cbs-em-2027-como-varejistas-podem-preparar-a-gestao/",
+   "source": "Portal Contabeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-27T00:54:21Z",
+   "tries": 1
+  },
   {
    "id": "eedb72a6f539",
    "date": "2026-11-26",
@@ -65,7 +78,7 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-26T23:44:33Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "9abfabe3af1d",
@@ -742,7 +755,7 @@
    "category": "simples",
    "tag": "Simples",
    "addedAt": "2026-11-26T23:44:33Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "84b56c62f61b",
@@ -1349,6 +1362,19 @@
    "tries": 1
   },
   {
+   "id": "5d2a900c07bb",
+   "date": "2026-11-24",
+   "title": "CBS: crédito de bens de capital difere da depreciação",
+   "resumo": "Entenda os requisitos para o crédito da CBS sobre bens de capital, a depreciação contábil e o tratamento dos créditos antigos de PIS/Cofins em 2027.",
+   "link": "https://www.contabeis.com.br/noticias/81091/cbs-credito-de-bens-de-capital-difere-da-depreciacao/",
+   "source": "Portal Contabeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-27T00:54:21Z",
+   "tries": 1
+  },
+  {
    "id": "a49715122476",
    "date": "2026-11-24",
    "title": "CGIBS indica nomes para harmonizar IBS e CBS",
@@ -1949,32 +1975,6 @@
    "tag": "Atualização",
    "addedAt": "2026-11-24T15:29:38Z",
    "tries": 1
-  },
-  {
-   "id": "d45ff8c3b603",
-   "date": "2026-11-24",
-   "title": "Comitê Gestor atualiza regras do Simples Nacional para transição da reforma tributária",
-   "resumo": "Resolução CGSN nº 196 altera tabelas, procedimentos de apuração e impõe regra de encerramento para quem usa regime de caixa neste ano",
-   "link": "https://agenciadcnews.com.br/publicacao/s/comite-gestor-atualiza-regras-do-simples-nacional-para-transicao-da-reforma-tributaria",
-   "source": "DComercio",
-   "official": false,
-   "category": "simples",
-   "tag": "Simples",
-   "addedAt": "2026-11-24T15:29:38Z",
-   "tries": 1
-  },
-  {
-   "id": "94189b1684ae",
-   "date": "2026-11-24",
-   "title": "Bajaj prevê alta de 5% a 10% em 2027 com reforma tributária: 'melhor comprar motos até dezembro'",
-   "resumo": "",
-   "link": "https://motor1.uol.com.br/news/816629/bajaj-motos-mais-caras-2027/",
-   "source": "Motor1.com Brasil",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-24T15:29:38Z",
-   "tries": 2
   }
  ]
 }

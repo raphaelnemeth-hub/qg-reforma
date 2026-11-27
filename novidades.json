@@ -1,6 +1,6 @@
 {
- "lastCheckAt": "2026-11-27T03:28:06Z",
- "lastCheckBr": "27/11/2026 00:28",
+ "lastCheckAt": "2026-11-27T04:36:29Z",
+ "lastCheckBr": "27/11/2026 01:36",
  "added": 24,
  "feeds": [
   {
@@ -43,7 +43,7 @@
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 96,
+   "found": 98,
    "new": 18
   },
   {
@@ -54,6 +54,19 @@
   }
  ],
  "items": [
+  {
+   "id": "e87f7faf7671",
+   "date": "2026-11-26",
+   "title": "Como vai funcionar o cashback previsto na reforma tributária",
+   "resumo": "Com alcance estimado de 73 milhões de pessoas, cashback previsto na reforma tributária começa em janeiro de 2027 e terá implantação gradual.",
+   "link": "https://www.gazetadopovo.com.br/economia/cashback-reforma-tributaria-como-funciona/",
+   "source": "Gazeta do Povo",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-27T04:36:29Z",
+   "tries": 1
+  },
   {
    "id": "94c1719d0270",
    "date": "2026-11-26",
@@ -1961,19 +1974,6 @@
    "official": false,
    "category": "cont",
    "tag": "Contabilidade",
-   "addedAt": "2026-11-24T17:44:44Z",
-   "tries": 2
-  },
-  {
-   "id": "54808e864693",
-   "date": "2026-11-24",
-   "title": "Simples Nacional: veja o que muda com as novas regras da Reforma Tributária",
-   "resumo": "",
-   "link": "https://exame.com/economia/simples-nacional-veja-o-que-muda-com-as-novas-regras-da-reforma-tributaria/",
-   "source": "Exame",
-   "official": false,
-   "category": "simples",
-   "tag": "Simples",
    "addedAt": "2026-11-24T17:44:44Z",
    "tries": 2
   }

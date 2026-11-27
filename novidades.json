@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-27T15:25:27Z",
- "lastCheckBr": "27/11/2026 12:25",
- "added": 19,
+ "lastCheckAt": "2026-11-27T16:31:39Z",
+ "lastCheckBr": "27/11/2026 13:31",
+ "added": 12,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -43,14 +43,15 @@
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 96,
-   "new": 14
+   "found": 100,
+   "new": 12
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
-   "ok": true,
-   "found": 5,
-   "new": 5
+   "ok": false,
+   "found": 0,
+   "new": 0,
+   "error": "HTTPError"
   }
  ],
  "items": [
@@ -65,7 +66,7 @@
    "category": "cont",
    "tag": "Contabilidade",
    "addedAt": "2026-11-27T15:25:27Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "29490362d89b",
@@ -1731,6 +1732,32 @@
    "tries": 1
   },
   {
+   "id": "4917bd463c5d",
+   "date": "2026-11-24",
+   "title": "Reforma Tributária para empresas: como se preparar para as mudanças",
+   "resumo": "",
+   "link": "https://www.sicredi.com.br/site/blog/empresas/reforma-tributaria-para-empresas-preparar-para-mudancas/",
+   "source": "Sicredi",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-27T16:31:39Z",
+   "tries": 1
+  },
+  {
+   "id": "87131d60cb91",
+   "date": "2026-11-24",
+   "title": "Reforma Tributária: Receita Federal amplia acesso a ambiente de produção restrita da CBS",
+   "resumo": "",
+   "link": "https://www.gov.br/secom/pt-br/acompanhe-a-secom/noticias/2026/11/reforma-tributaria-receita-federal-amplia-acesso-a-ambiente-de-producao-restrita-da-cbs",
+   "source": "www.gov.br",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-27T16:31:39Z",
+   "tries": 1
+  },
+  {
    "id": "86937af02ebf",
    "date": "2026-11-24",
    "title": "Reforma tributária: impactos do IBS, CBS e split payment",
@@ -1949,31 +1976,6 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-26T23:44:33Z",
-   "tries": 1
-  },
-  {
-   "id": "8d17ec7be98e",
-   "date": "2026-11-24",
-   "title": "Projeto limita repasses da Lei Kandir e despesas com exportações e previdência",
-   "resumo": "Texto também altera regras para incentivos da reforma tributária, seguro rural e restos a pagar",
-   "link": "https://www.camara.leg.br/noticias/1322175-projeto-limita-repasses-da-lei-kandir-e-despesas-com-exportacoes-e-previdencia",
-   "source": "Agência Câmara",
-   "official": true,
-   "category": "lei",
-   "tag": "Legislação",
-   "addedAt": "2026-11-26T22:45:04Z"
-  },
-  {
-   "id": "5b34f5a81ae3",
-   "date": "2026-11-24",
-   "title": "Receita Federal, CGIBS e CFC vão orientar mais de 25 mil profissionais da contabilidade sobre destaque de CBS/IBS em documentos fiscais",
-   "resumo": "Profissionais de contabilidade têm papel relevante na promoção da conformidade tributária A importância da participação de profissionais da contabilidade na pro",
-   "link": "https://crcma.org.br/noticias/receita-federal-cgibs-e-cfc-vao-orientar-mais-de-25-mil-profissionais-da-contabilidade-sobre-destaque-de-cbs-ibs-em-documentos-fiscais",
-   "source": "Conselho Regional de Contabilidade do Maranhão",
-   "official": false,
-   "category": "cont",
-   "tag": "Contabilidade",
-   "addedAt": "2026-11-26T20:43:42Z",
    "tries": 1
   }
  ]

@@ -1,12 +1,12 @@
 {
- "lastCheckAt": "2026-11-27T12:56:23Z",
- "lastCheckBr": "27/11/2026 09:56",
- "added": 27,
+ "lastCheckAt": "2026-11-27T14:15:39Z",
+ "lastCheckBr": "27/11/2026 11:15",
+ "added": 26,
  "feeds": [
   {
    "name": "Agência Senado",
    "ok": true,
-   "found": 1,
+   "found": 2,
    "new": 1
   },
   {
@@ -17,10 +17,9 @@
   },
   {
    "name": "Receita Federal",
-   "ok": false,
+   "ok": true,
    "found": 0,
-   "new": 0,
-   "error": "URLError"
+   "new": 0
   },
   {
    "name": "Agência Brasil",
@@ -31,8 +30,8 @@
   {
    "name": "Portal Contábeis",
    "ok": true,
-   "found": 9,
-   "new": 3
+   "found": 8,
+   "new": 2
   },
   {
    "name": "InfoMoney",
@@ -54,6 +53,68 @@
   }
  ],
  "items": [
+  {
+   "id": "29490362d89b",
+   "date": "2026-11-27",
+   "title": "Áudio: IFI analisa cenários para alíquota da CBS e impacto de isenções fiscais no tributo",
+   "resumo": "A Instituição Fiscal Independente (IFI) publicou uma nota técnica com simulações sobre a alíquota de referência da Contribuição sobre Bens e Serviços (CBS), tributo federal criado pela reforma tributária e que entra em vigor em 2027. O estudo tem o objetivo…",
+   "link": "https://www12.senado.leg.br/noticias/audios/2026/11/ifi-analisa-cenarios-para-aliquota-da-cbs-e-impacto-de-isencoes-fiscais-no-tributo",
+   "source": "Senado Federal",
+   "official": true,
+   "category": "nt",
+   "tag": "Nota técnica",
+   "addedAt": "2026-11-27T14:15:39Z"
+  },
+  {
+   "id": "51c5709a240b",
+   "date": "2026-11-27",
+   "title": "Reforma Tributária: veja o que muda a partir de 2027",
+   "resumo": "CBS , IBS e Imposto Seletivo entram em nova etapa, enquanto PIS e Cofins deixam de existir e empresas passam a ter novas regras de apuração. Leia mais em https://www.contabeis.com.br/noticias/81230/reforma-tributaria-veja-o-que-muda-a-partir-de-2027/",
+   "link": "https://www.contabeis.com.br/noticias/81230/reforma-tributaria-veja-o-que-muda-a-partir-de-2027/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-27T14:15:39Z"
+  },
+  {
+   "id": "beb0ee1852c3",
+   "date": "2026-11-27",
+   "title": "Alíquota da CBS: relator prevê recálculo e relatório até 9 de dezembro",
+   "resumo": "Eduardo Braga reavalia a alíquota de 11,3% da CBS antes da definição pelo Senado, prevista para 14 de dezembro. Leia mais em https://www.contabeis.com.br/noticias/81234/aliquota-da-cbs-relator-preve-recalculo-e-relatorio-ate-9-de-dezembro/",
+   "link": "https://www.contabeis.com.br/noticias/81234/aliquota-da-cbs-relator-preve-recalculo-e-relatorio-ate-9-de-dezembro/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-27T14:15:39Z"
+  },
+  {
+   "id": "42f25fa7d9bf",
+   "date": "2026-11-27",
+   "title": "IFI apresenta projeções para cálculo da alíquota da CBS na reforma tributária — Senado Notícias",
+   "resumo": "A Instituição Fiscal Independente (IFI) entregou à equipe do senador Eduardo Braga (MDB-AM), relator da regulamentação da reforma tributária, projeções para subsidiar a definição da base de cálculo da Contribuição sobre Bens e Serviços (CBS), novo tributo que…",
+   "link": "https://www12.senado.leg.br/noticias/videos/2026/11/ifi-apresenta-projecoes-para-calculo-da-aliquota-da-cbs-na-reforma-tributaria",
+   "source": "Senado Federal",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-27T14:15:39Z",
+   "tries": 1
+  },
+  {
+   "id": "7f1de0c98a47",
+   "date": "2026-11-27",
+   "title": "Transporte rodoviário e reforma tributária: Novos riscos do compliance logístico",
+   "resumo": "Por Ronaldo Paschoaloni. A integração entre frete, CIOT, seguros, documentos fiscais e reforma tributária exige revisão contratual, rastreabilidade e governança preventiva.",
+   "link": "https://www.migalhas.com.br/depeso/468751/transporte-rodoviario-e-reforma-tributaria-novos-riscos-do-compliance",
+   "source": "Migalhas",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-27T14:15:39Z",
+   "tries": 1
+  },
   {
    "id": "bce985f3486b",
    "date": "2026-11-27",
@@ -126,7 +187,7 @@
    "category": "cont",
    "tag": "Contabilidade",
    "addedAt": "2026-11-27T12:56:23Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "ed7e41fe7dc0",
@@ -139,7 +200,7 @@
    "category": "cont",
    "tag": "Contabilidade",
    "addedAt": "2026-11-27T12:56:23Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "344e134dd6a8",
@@ -205,6 +266,19 @@
    "tag": "Atualização",
    "addedAt": "2026-11-27T08:28:53Z",
    "tries": 2
+  },
+  {
+   "id": "8dee80dd8f31",
+   "date": "2026-11-26",
+   "title": "CBIC pede ao governo adiar para 2028 a cobrança da CBS no setor imobiliário",
+   "resumo": "A entidade que reúne a construção civil diz que Fisco e empresas não estão preparados e quer 2027 como ano de testes, contrariando o Ministério da Fazenda, que mantém o cronograma.",
+   "link": "https://portas.com.br/noticias/reforma-tributaria-cbic-adiamento-2028/",
+   "source": "portas.com.br",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-27T14:15:39Z",
+   "tries": 1
   },
   {
    "id": "968e20c0075b",
@@ -1013,6 +1087,19 @@
    "tries": 1
   },
   {
+   "id": "3631bd44b679",
+   "date": "2026-11-25",
+   "title": "Parlamentares vão à Fazenda na quinta-feira destravar impasses da reforma tributária",
+   "resumo": "Em reunião da Frente Parlamentar do Empreendedorismo nesta terça-feira, 24, tributaristas defenderam que a alíquota da CBS seja de no máximo 10% para manter a neutralidade IMAGEM: FPE/divulgação Parlamentares de...",
+   "link": "https://fenacon.org.br/reforma-tributaria/parlamentares-vao-a-fazenda-na-quinta-feira-destravar-impasses-da-reforma-tributaria/",
+   "source": "Sistema FENACON",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-27T14:15:39Z",
+   "tries": 1
+  },
+  {
    "id": "92c50600dd89",
    "date": "2026-11-25",
    "title": "Comitê Gestor do Simples Nacional publica novas regras para o Simples Nacional e para a transição da Reforma Tributária",
@@ -1630,6 +1717,45 @@
    "tries": 1
   },
   {
+   "id": "be648c860d02",
+   "date": "2026-11-24",
+   "title": "Descondo de 60% no IBS e CBS: saiba quem pode ter redução",
+   "resumo": "Treze grupos de serviços e produtos têm direito à redução, mas se não aproveitar créditos de IBS e CBS, empresa pode pagar mais do que atualmente; entenda",
+   "link": "https://investnews.com.br/negocios/desconto-60-ibs-e-cbs/",
+   "source": "InvestNews",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-27T14:15:39Z",
+   "tries": 1
+  },
+  {
+   "id": "0e0acadfda73",
+   "date": "2026-11-24",
+   "title": "CNI propõe CBS de 10% para evitar alta de R$ 50 bi na carga tributária",
+   "resumo": "Em audiência na Câmara, representante da entidade defende mudanças na legislação da reforma tributária e alerta que alíquota recomendada pelo TCU pode reduzir os ganhos econômicos esperados com o ...",
+   "link": "https://www.congressoemfoco.com.br/noticia/131833/cni-propoe-cbs-de-10-para-evitar-alta-de-r-50-bi-na-carga-tributaria",
+   "source": "Congresso em Foco",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-27T14:15:39Z",
+   "tries": 1
+  },
+  {
+   "id": "cf887fb7b113",
+   "date": "2026-11-24",
+   "title": "Reforma tributária pode alterar preços ao consumidor",
+   "resumo": "Incertezas na precificação podem afetar margens e valores finais das operações",
+   "link": "https://www.contabeis.com.br/artigos/81121/reforma-tributaria-pode-alterar-precos-ao-consumidor/",
+   "source": "Portal Contabeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-27T14:15:39Z",
+   "tries": 1
+  },
+  {
    "id": "0a6f24c832ea",
    "date": "2026-11-24",
    "title": "Receita amplia participação em piloto da CBS para todas as empresas",
@@ -1847,136 +1973,6 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-25T12:59:57Z",
-   "tries": 1
-  },
-  {
-   "id": "ca6412ac48f2",
-   "date": "2026-11-24",
-   "title": "Reforma Tributária: transparência fiscal e isonomia na concorrência são desafios para o varejo | SEGS...",
-   "resumo": "A regulamentação da Reforma Tributária marca uma das transformações mais profundas na história econômica do Brasil. Para o varejo, setor que funciona como o elo final entre a cadeia produtiva e o cidadão, a transição para o novo modelo do Imposto sobre Valor…",
-   "link": "https://www.segs.com.br/seguros/459839-reforma-tributaria-transparencia-fiscal-e-isonomia-na-concorrencia-sao-desafios-para-o-varejo",
-   "source": "SEGS Portal Nacional",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-25T12:59:57Z",
-   "tries": 2
-  },
-  {
-   "id": "d528a3020084",
-   "date": "2026-11-24",
-   "title": "Holding e Operação Imobiliária: o que muda com a Reforma Tributária? | Podcast Conexão Fiscal com Jefferson Valentin",
-   "resumo": "Site do Sindicato dos Agentes Fiscais de Rendas do Estado de São Paulo",
-   "link": "https://sinafresp.org.br/conteudo/11177/holding-e-operacao-imobiliaria-o-que-muda-com-a-reforma-tributaria-podcast-conexao-fiscal-com-jefferson-valentin",
-   "source": "sinafresp",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-25T04:39:10Z",
-   "tries": 1
-  },
-  {
-   "id": "1d6a055a3842",
-   "date": "2026-11-24",
-   "title": "Receita Federal amplia acesso a ambiente de testes da CBS para empresas de todo o Brasil",
-   "resumo": "Não setorialA Receita Federal anunciou a ampliação do acesso ao projeto-piloto da Contribuição sobre Bens e Serviços (CBS). Com a medida, empresas de todo o País poderão testar ferramentas e funcionalidades relacionadas ao novo tributo, facilitando a…",
-   "link": "https://www.lacerdagama.com.br/post/reforma-tribut%C3%A1ria-empresas-poder%C3%A3o-testar-sistemas-da-cbs-sem-inscri%C3%A7%C3%A3o-pr%C3%A9via",
-   "source": "Lacerda Gama",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-25T03:28:13Z",
-   "tries": 1
-  },
-  {
-   "id": "fa5e33a7511b",
-   "date": "2026-11-24",
-   "title": "Reforma Tributária pode pressionar inflação em 2027; entenda os possíveis impactos",
-   "resumo": "Especialistas apontam risco de alta nos preços com a entrada da CBS, mas impacto dependerá dos setores e do repasse dos custos pelas empresas.",
-   "link": "https://www.contabeis.com.br/noticias/81117/reforma-tributaria-pode-pressionar-inflacao-em-2027/",
-   "source": "Portal Contabeis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-25T00:50:20Z",
-   "tries": 1
-  },
-  {
-   "id": "33a0500022af",
-   "date": "2026-11-24",
-   "title": "NATAL DO BEM SESCAP-LDR: REFORMA TRIBUTÁRIA: Mudanças em janeiro de 2027",
-   "resumo": "Promover a atualização e a capacitação dos profissionais da área contábil e empresarial sobre as principais mudanças da Reforma Tributária previstas para 1º…",
-   "link": "https://www.sescapldr.com.br/cursos/natal-do-bem-sescap-ldr-reforma-tributaria-mudancas-em-janeiro-de-2027",
-   "source": "sescap-ldr",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-25T00:50:20Z",
-   "tries": 1
-  },
-  {
-   "id": "9025195ae3ca",
-   "date": "2026-11-24",
-   "title": "Arrecadação: o efeito do petróleo e da reforma tributária",
-   "resumo": "Receitas do petróleo, que já somam mais de 2% do PIB, e a nova CBS podem amortecer a freada da arrecadação em 2027, com a desaceleração do PIB, mas também trazem volatilidade e pressão inflacionária.",
-   "link": "https://www.estadao.com.br/economia/fernando-dantas/arrecadacao-o-efeito-do-petroleo-e-da-reforma-tributaria/",
-   "source": "Estadão",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-25T00:50:20Z",
-   "tries": 1
-  },
-  {
-   "id": "a48cb26a5a65",
-   "date": "2026-11-24",
-   "title": "Bajaj: motos podem ficar até 10% mais caras em 2027 com a Reforma Tributária",
-   "resumo": "",
-   "link": "https://motor1.uol.com.br/news/816629/bajaj-motos-mais-caras-2027/",
-   "source": "Motor1.com Brasil",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-24T23:40:13Z",
-   "tries": 2
-  },
-  {
-   "id": "35eb2577e313",
-   "date": "2026-11-24",
-   "title": "Câmara debate alíquota da CBS e risco de aumento de impostos em 2027",
-   "resumo": "Audiência discutiu cálculo de 11,3% para novo tributo federal, que substituirá PIS e Cofins; entidades apontam possíveis distorções para empresas, enquanto Senado terá palavra final até 15 de dezembro",
-   "link": "https://ndmais.com.br/politica/reforma-tributaria-camara-debate-aliquota-da-cbs/",
-   "source": "ND Mais",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-24T23:40:13Z",
-   "tries": 1
-  },
-  {
-   "id": "86937af02ebf",
-   "date": "2026-11-24",
-   "title": "Reforma tributária: impactos do IBS, CBS e split payment",
-   "resumo": "Entenda os impactos da reforma tributária nas empresas, incluindo as alíquotas de IBS e CBS, o split payment e a apropriação de créditos.",
-   "link": "https://www.contabeis.com.br/artigos/81100/reforma-tributaria-impactos-do-ibs-cbs-e-split-payment/",
-   "source": "Portal Contabeis",
-   "official": false,
-   "category": "pag",
-   "tag": "Split payment",
-   "addedAt": "2026-11-24T22:46:40Z",
-   "tries": 1
-  },
-  {
-   "id": "72d02c0593b2",
-   "date": "2026-11-24",
-   "title": "Que imposto é esse: Frentes parlamentares recebem estudos que revisam cálculo da CBS para menos de 10%",
-   "resumo": "Cálculos apresentados por Márcio Holland, Daniel Loria e Eduardo Fleury reveem premissas do TCU",
-   "link": "https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/11/frentes-parlamentares-recebem-estudos-que-revisam-calculo-da-cbs-para-menos-de-10.shtml",
-   "source": "Folha de S.Paulo",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-24T22:46:40Z",
    "tries": 1
   }
  ]

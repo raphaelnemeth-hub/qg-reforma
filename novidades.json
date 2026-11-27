@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-27T08:28:53Z",
- "lastCheckBr": "27/11/2026 05:28",
- "added": 23,
+ "lastCheckAt": "2026-11-27T09:41:22Z",
+ "lastCheckBr": "27/11/2026 06:41",
+ "added": 24,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -43,8 +43,8 @@
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 98,
-   "new": 18
+   "found": 96,
+   "new": 19
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -54,6 +54,19 @@
   }
  ],
  "items": [
+  {
+   "id": "125dc7eab941",
+   "date": "2026-11-27",
+   "title": "Simples Nacional: escolheu o regime regular da CBS e do IBS? Veja como desistir da opção para 2027",
+   "resumo": "Micro e pequenas empresas podem solicitar o cancelamento até 20 de dezembro pelo Portal do Simples Nacional",
+   "link": "https://revistapegn.globo.com/gestao/reforma-tributaria/noticia/2026/11/simples-nacional-escolheu-o-regime-regular-da-cbs-e-do-ibs-veja-como-desistir-da-opcao-para-2027.ghtml",
+   "source": "Pequenas Empresas & Grandes Negócios",
+   "official": false,
+   "category": "simples",
+   "tag": "Simples",
+   "addedAt": "2026-11-27T09:41:22Z",
+   "tries": 1
+  },
   {
    "id": "af8788d78ccd",
    "date": "2026-11-27",
@@ -65,7 +78,7 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-27T08:28:53Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "968e20c0075b",
@@ -1491,6 +1504,32 @@
    "tries": 1
   },
   {
+   "id": "a670b4da54c2",
+   "date": "2026-11-24",
+   "title": "TCU defende cálculo da CBS de 11,3% e diz que alíquota pode mudar",
+   "resumo": "Representante do tribunal afirma que percentual resulta de critérios definidos em lei, não constitui uma recomendação do TCU nem permite prever a arrecadação de 2027.",
+   "link": "https://www.congressoemfoco.com.br/noticia/131839/tcu-defende-calculo-da-cbs-de-11-3-e-diz-que-aliquota-pode-mudar",
+   "source": "Congresso em Foco",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-27T09:41:22Z",
+   "tries": 1
+  },
+  {
+   "id": "54808e864693",
+   "date": "2026-11-24",
+   "title": "Simples Nacional: veja o que muda com as novas regras da Reforma Tributária",
+   "resumo": "",
+   "link": "https://exame.com/economia/simples-nacional-veja-o-que-muda-com-as-novas-regras-da-reforma-tributaria/",
+   "source": "Exame",
+   "official": false,
+   "category": "simples",
+   "tag": "Simples",
+   "addedAt": "2026-11-27T09:41:22Z",
+   "tries": 1
+  },
+  {
    "id": "ef943b710c65",
    "date": "2026-11-24",
    "title": "Receita amplia acesso ao Piloto da CBS para empresas de todo o país",
@@ -1941,44 +1980,6 @@
    "tag": "Atualização",
    "addedAt": "2026-11-24T21:47:03Z",
    "tries": 2
-  },
-  {
-   "id": "20c8c4aefbfa",
-   "date": "2026-11-24",
-   "title": "Reforma Tributária pode pressionar inflação em 2027",
-   "resumo": "Especialistas apontam risco de alta nos preços com a entrada da CBS , mas impacto dependerá dos setores e do repasse dos custos pelas empresas. Leia mais em https://www.contabeis.com.br/noticias/81117/reforma-tributaria-pode-pressionar-inflacao-em-2027/",
-   "link": "https://www.contabeis.com.br/noticias/81117/reforma-tributaria-pode-pressionar-inflacao-em-2027/",
-   "source": "Portal Contábeis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-24T20:43:40Z"
-  },
-  {
-   "id": "6c1e64b66d67",
-   "date": "2026-11-24",
-   "title": "Sefaz-Ba promove debate on-line sobre o cadastro do IBS e da CBS no âmbito da reforma tributária",
-   "resumo": "",
-   "link": "https://www.sefaz.ba.gov.br/destaque/sefaz-ba-promove-debate-on-line-sobre-o-cadastro-do-ibs-e-da-cbs-no-ambito-da-reforma-tributaria/",
-   "source": "Sefaz BA",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-24T20:43:40Z",
-   "tries": 2
-  },
-  {
-   "id": "76a3a714aad7",
-   "date": "2026-11-24",
-   "title": "Reforma Tributária: o que os escritórios contábeis precisam organizar para 2027?",
-   "resumo": "Mudanças na tributação exigem revisão de cadastros, documentos fiscais, contratos e atendimento aos clientes",
-   "link": "https://jornalcontabil.com.br/noticia/reforma-tributaria-o-que-os-escritorios-contabeis-precisam-organizar-para-2027/",
-   "source": "Jornal Contábil",
-   "official": false,
-   "category": "cont",
-   "tag": "Contabilidade",
-   "addedAt": "2026-11-24T20:43:40Z",
-   "tries": 1
   }
  ]
 }

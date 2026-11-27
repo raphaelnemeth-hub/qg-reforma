@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-27T05:53:44Z",
- "lastCheckBr": "27/11/2026 02:53",
- "added": 23,
+ "lastCheckAt": "2026-11-27T06:59:25Z",
+ "lastCheckBr": "27/11/2026 03:59",
+ "added": 25,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -44,7 +44,7 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 98,
-   "new": 17
+   "new": 19
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -54,6 +54,19 @@
   }
  ],
  "items": [
+  {
+   "id": "0e7779e9c632",
+   "date": "2026-11-26",
+   "title": "Revista da Semana: IFI apresenta projeções para o cálculo da alíquota da CBS na reforma tributária",
+   "resumo": "A IFI entregou ao relator da reforma tributária, senador Eduardo Braga, projeções para o cálculo da CBS. O estudo estima que, sem isenções fiscais e mantida a arrecadação, a alíquota poderia cair de 11,3% para 7%. Veja também nesta edição: após apresentar o…",
+   "link": "https://www12.senado.leg.br/tv/programas/senado-noticias/2026/11/revista-da-semana-ifi-apresenta-projecoes-para-o-calculo-da-aliquota-da-cbs-na-reforma-tributaria",
+   "source": "Senado Federal",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-27T06:59:25Z",
+   "tries": 1
+  },
   {
    "id": "962a020201ec",
    "date": "2026-11-26",
@@ -65,7 +78,7 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-27T05:53:44Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "e87f7faf7671",
@@ -1452,6 +1465,32 @@
    "tries": 1
   },
   {
+   "id": "151f2bcb9e05",
+   "date": "2026-11-24",
+   "title": "Comitê Gestor do Simples Nacional publica novas regras para o Simples Nacional e para a transição da Reforma Tributária — Receita Federal",
+   "resumo": "",
+   "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/comite-gestor-do-simples-nacional-publica-novas-regras-para-o-simples-nacional-e-para-a-transicao-da-reforma-tributaria",
+   "source": "Governo Federal",
+   "official": false,
+   "category": "simples",
+   "tag": "Simples",
+   "addedAt": "2026-11-27T06:59:25Z",
+   "tries": 1
+  },
+  {
+   "id": "006736fcbdee",
+   "date": "2026-11-24",
+   "title": "Reforma Tributária: as 7 dúvidas que mais confundem as empresas, a pouco mais de um mês para 2027",
+   "resumo": "",
+   "link": "https://www.contadores.cnt.br/noticias/artigos/2026/11/24/reforma-tributaria-as-7-duvidas-que-mais-confundem-as-empresas-a-pouco-mais-de-um-mes-para-2027.html",
+   "source": "Contadores.cnt.br",
+   "official": false,
+   "category": "cont",
+   "tag": "Contabilidade",
+   "addedAt": "2026-11-27T06:59:25Z",
+   "tries": 1
+  },
+  {
    "id": "d63fa6f2cc1d",
    "date": "2026-11-24",
    "title": "Reforma tributária: governo promete tolerância com contribuinte que errar de boa-fé",
@@ -1939,43 +1978,6 @@
    "category": "simples",
    "tag": "Simples",
    "addedAt": "2026-11-24T18:46:46Z"
-  },
-  {
-   "id": "d41cb1ef8662",
-   "date": "2026-11-24",
-   "title": "Receita amplia acesso ao Piloto da CBS para empresas de todo o país",
-   "resumo": "Empresas poderão testar sistemas da CBS sem indicação prévia de entidades representativas, mediante procuração digital. Leia mais em https://www.contabeis.com.br/noticias/81089/receita-amplia-acesso-ao-piloto-da-cbs-para-empresas-de-todo-o-pais/",
-   "link": "https://www.contabeis.com.br/noticias/81089/receita-amplia-acesso-ao-piloto-da-cbs-para-empresas-de-todo-o-pais/",
-   "source": "Portal Contábeis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-24T18:46:46Z"
-  },
-  {
-   "id": "0e0acadfda73",
-   "date": "2026-11-24",
-   "title": "CNI propõe CBS de 10% para evitar alta de R$ 50 bi na carga tributária",
-   "resumo": "Em audiência na Câmara, representante da entidade defende mudanças na legislação da reforma tributária e alerta que alíquota recomendada pelo TCU pode reduzir os ganhos econômicos esperados com o ...",
-   "link": "https://www.congressoemfoco.com.br/noticia/131833/cni-propoe-cbs-de-10-para-evitar-alta-de-r-50-bi-na-carga-tributaria",
-   "source": "Congresso em Foco",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-24T18:46:46Z",
-   "tries": 1
-  },
-  {
-   "id": "1e3261732e31",
-   "date": "2026-11-24",
-   "title": "Empresas do Simples podem cancelar regime híbrido até dezembro",
-   "resumo": "Prazo para desistir do recolhimento regular de IBS e CBS termina em 20 de dezembro de 2026, conforme resolução do CGSN. Leia mais em https://www.contabeis.com.br/noticias/81104/empresas-do-simples-podem-cancelar-regime-hibrido-ate-dezembro/",
-   "link": "https://www.contabeis.com.br/noticias/81104/empresas-do-simples-podem-cancelar-regime-hibrido-ate-dezembro/",
-   "source": "Portal Contábeis",
-   "official": false,
-   "category": "simples",
-   "tag": "Simples",
-   "addedAt": "2026-11-24T17:44:44Z"
   }
  ]
 }

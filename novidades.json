@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-27T00:54:21Z",
- "lastCheckBr": "26/11/2026 21:54",
- "added": 24,
+ "lastCheckAt": "2026-11-27T02:15:59Z",
+ "lastCheckBr": "26/11/2026 23:15",
+ "added": 28,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -31,8 +31,8 @@
   {
    "name": "Portal Contábeis",
    "ok": true,
-   "found": 8,
-   "new": 0
+   "found": 9,
+   "new": 1
   },
   {
    "name": "InfoMoney",
@@ -43,8 +43,8 @@
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 97,
-   "new": 18
+   "found": 98,
+   "new": 21
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -54,6 +54,57 @@
   }
  ],
  "items": [
+  {
+   "id": "44c9aeec11a4",
+   "date": "2026-11-26",
+   "title": "CBS pode ter alíquota de 12,3% sem reduzir sonegação",
+   "resumo": "Foto: Daniel Dan / Unsplash · Licença Unsplash Sem considerar a redução da sonegação, a alíquota da CBS poderia chegar a 12,3%. Novos mecanismos de cobrança podem reduzir perdas tributárias. Leia mais em…",
+   "link": "https://www.contabeis.com.br/noticias/81175/cbs-pode-ter-aliquota-de-12-3-sem-reduzir-sonegacao/",
+   "source": "Portal Contábeis",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-27T02:15:59Z"
+  },
+  {
+   "id": "8fc44baafd25",
+   "date": "2026-11-26",
+   "title": "Reforma Tributária – A exclusão do ICS e CBS das bases de cálculo do ISS e do ICMS no período de transição",
+   "resumo": "Find verified tax attorneys, CPAs and advisors in 250+ locations, with continuously updated tax data and expert insights.",
+   "link": "https://tributario.com.br/thlira88/reforma-tributaria-exclusao-ics-cbs-bases-calculo-iss-icms-no-periodo-transicao",
+   "source": "Tributário",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-27T02:15:59Z",
+   "tries": 1
+  },
+  {
+   "id": "051686ececff",
+   "date": "2026-11-26",
+   "title": "Susep apresenta orientações ao mercado sobre impactos da Reforma Tributária",
+   "resumo": "",
+   "link": "https://www.contadores.cnt.br/noticias/tecnicas/2026/11/26/susep-apresenta-orientacoes-ao-mercado-sobre-impactos-da-reforma-tributaria.html",
+   "source": "Contadores.cnt.br",
+   "official": false,
+   "category": "cont",
+   "tag": "Contabilidade",
+   "addedAt": "2026-11-27T02:15:59Z",
+   "tries": 1
+  },
+  {
+   "id": "068b35ef4825",
+   "date": "2026-11-26",
+   "title": "Reforma Tributária em 2027: entenda o pedido de suspensão da CBS e do IBS e como agir",
+   "resumo": "Entenda o pedido ao STF para adiar a CBS e o IBS e saiba como preparar sua empresa para a Reforma Tributária em 2027 sem sustos.",
+   "link": "https://www.omie.com.br/blog/reforma-tributaria-2027-pedido-suspensao-cbs-ibs/",
+   "source": "Omie",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-27T02:15:59Z",
+   "tries": 1
+  },
   {
    "id": "8a1d4687cb3a",
    "date": "2026-11-26",
@@ -1362,6 +1413,19 @@
    "tries": 1
   },
   {
+   "id": "d45ff8c3b603",
+   "date": "2026-11-24",
+   "title": "Comitê Gestor atualiza regras do Simples Nacional para transição da reforma tributária",
+   "resumo": "Resolução CGSN nº 196 altera tabelas, procedimentos de apuração e impõe regra de encerramento para quem usa regime de caixa neste ano",
+   "link": "https://dcomercio.com.br/publicacao/s/comite-gestor-atualiza-regras-do-simples-nacional-para-transicao-da-reforma-tributaria",
+   "source": "DComercio",
+   "official": false,
+   "category": "simples",
+   "tag": "Simples",
+   "addedAt": "2026-11-27T02:15:59Z",
+   "tries": 1
+  },
+  {
    "id": "5d2a900c07bb",
    "date": "2026-11-24",
    "title": "CBS: crédito de bens de capital difere da depreciação",
@@ -1910,70 +1974,6 @@
    "category": "aliq",
    "tag": "Alíquotas",
    "addedAt": "2026-11-24T16:38:29Z",
-   "tries": 1
-  },
-  {
-   "id": "4f6098f6071d",
-   "date": "2026-11-24",
-   "title": "Simples Nacional terá novas regras a partir de janeiro de 2027 com a Reforma Tributária",
-   "resumo": "O Comitê Gestor do Simples Nacional (CGSN) publicou novas regras para adequar o regime tributário à implementação da Reforma Tributária",
-   "link": "https://tribunadoplanalto.com.br/simples-nacional-tera-novas-regras-a-partir-de-janeiro-de-2027-com-a-reforma-tributaria/",
-   "source": "Tribuna do Planalto",
-   "official": false,
-   "category": "simples",
-   "tag": "Simples",
-   "addedAt": "2026-11-24T16:38:29Z",
-   "tries": 1
-  },
-  {
-   "id": "95fdb5f0e35a",
-   "date": "2026-11-24",
-   "title": "Simples Nacional terá novas regras a partir de 2027 com a transição da Reforma Tributária",
-   "resumo": "Resolução do Comitê Gestor atualiza procedimentos de declaração e apuração de receitas e adapta o regime à chegada do IBS e da CBS. Defis de 2026 deverá ser entregue até março do próximo ano",
-   "link": "https://portalimpactto.com.br/noticia/19458/simples-nacional-tera-novas-regras-a-partir-de-2027-com-a-transicao-da-reforma-tributaria",
-   "source": "Impactto News",
-   "official": false,
-   "category": "simples",
-   "tag": "Simples",
-   "addedAt": "2026-11-24T16:38:29Z",
-   "tries": 1
-  },
-  {
-   "id": "542230a650ff",
-   "date": "2026-11-24",
-   "title": "Descontos na CBS: o que informar na nota fiscal",
-   "resumo": "Entenda quando descontos reduzem a base da CBS e quais campos conferir na NF-e e na NFS-e para registrar corretamente o abatimento concedido ao cliente. Leia mais em https://www.contabeis.com.br/noticias/81099/descontos-na-cbs-o-que-informar-na-nota-fiscal/",
-   "link": "https://www.contabeis.com.br/noticias/81099/descontos-na-cbs-o-que-informar-na-nota-fiscal/",
-   "source": "Portal Contábeis",
-   "official": false,
-   "category": "nt",
-   "tag": "Nota técnica",
-   "addedAt": "2026-11-24T15:29:38Z"
-  },
-  {
-   "id": "151f2bcb9e05",
-   "date": "2026-11-24",
-   "title": "Comitê Gestor do Simples Nacional publica novas regras para o Simples Nacional e para a transição da Reforma Tributária — Receita Federal",
-   "resumo": "As mudanças envolvem procedimentos de declaração, apuração de receitas, repartição dos tributos e adaptações necessárias para a transição ao novo modelo tributário.",
-   "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/comite-gestor-do-simples-nacional-publica-novas-regras-para-o-simples-nacional-e-para-a-transicao-da-reforma-tributaria",
-   "source": "Governo Federal",
-   "official": false,
-   "category": "simples",
-   "tag": "Simples",
-   "addedAt": "2026-11-24T15:29:38Z",
-   "tries": 2
-  },
-  {
-   "id": "d63fa6f2cc1d",
-   "date": "2026-11-24",
-   "title": "Reforma tributária: governo promete tolerância com contribuinte que errar de boa-fé",
-   "resumo": "Representantes da União, de estados e de municípios afirmaram que os ajustes da transição serão administrativos e defenderam a alíquota de 11,3% da CBS",
-   "link": "https://www.jota.info/coberturas-especiais/ambiente-negocios-oportunidades/reforma-tributaria-governo-promete-tolerancia-com-contribuinte-que-errar-de-boa-fe",
-   "source": "JOTA Info",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-24T15:29:38Z",
    "tries": 1
   }
  ]

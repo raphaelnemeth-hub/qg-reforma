@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-27T06:59:25Z",
- "lastCheckBr": "27/11/2026 03:59",
- "added": 25,
+ "lastCheckAt": "2026-11-27T08:28:53Z",
+ "lastCheckBr": "27/11/2026 05:28",
+ "added": 23,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -44,16 +44,42 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 98,
-   "new": 19
+   "new": 18
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
    "ok": true,
-   "found": 6,
-   "new": 6
+   "found": 5,
+   "new": 5
   }
  ],
  "items": [
+  {
+   "id": "af8788d78ccd",
+   "date": "2026-11-27",
+   "title": "Pai da Reforma Tributária, Bernard Appy defende adiamento da entrada em vigor. Ideal são 9 meses a mais, diz economista",
+   "resumo": "",
+   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNNThTM1BiRW96TFRCS3NyOFhCdldQVXBYRTRnRGlxR1puelNqckluTWFPUk5xeVY2ZWRza0JydjRDM0V4U3ljQXhxSFFNcHhQRHgxbS1razFza0NNY2dXZjRJNFZmQTRMN0FDTVZqZVI3Ty1tN2RidTVGVU5rb3U0c2RtRDhxZm1WV0xPRjJvOGRTVWVwNXVHVlRMTDk0NEk0YTQ5N1d5RFo2QXp4SklobnQ2QTh4b3VScGs1cF9LemFQN2c3ZjZJYVdQQ1paSGNyOWhRUXI0STQwTGJpRjVuOTRDcjZfUzFDcTk3OFNIUC15aUZlV1R1YXNkRU84TWdXdXQ1eVFR0gGUAkFVX3lxTE5Bekp2SW5wdHdTSHlJNDNCa29hZ3ZaaXEzalJ3eVFXNm5nOXVDMElkVkk2UFYwVVNRdkFwdWxKNEU4ZTQtZXBibldGOTJaeWlNTElxRWZEVUJxRUxQemNSMUVtdV8yRFpzUm54SUUtOFVHc3RrTnZMM3VUUGdnY202cVBRRWtBQW1nUXpNM1ZCeXI3TDVjNDdMdzZZc0VNLTN6OHhkRDJWdU8xcloyTzZveFZLX0JoR2FxT0NMR0drLURoQjVVdlQ5Yjhrb0VxMEtuM2txb21nVFRkREVRQ29oVVJCMmN2Vk96UHhjSUQyU3ROYTByVWdHNU51b2JlS3lXdnlkNElfYmZtZU1IamtvRlR3WA?oc=5",
+   "source": "O GLOBO",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-27T08:28:53Z",
+   "tries": 1
+  },
+  {
+   "id": "968e20c0075b",
+   "date": "2026-11-26",
+   "title": "Reforma Tributária/RJ: Governo do Estado obtém aprovação da Alerj para novo programa de negociação de créditos tributários",
+   "resumo": "Agilize decisões seguras. Legislação, Comentários e Consultoria nas áreas de IR e Contribuições, ICMS, IPI, ISS, Contabilidade e Societário, Simples Nacional, Trabalhista e Previdenciária. Cálculos e Tabelas de Substituição Tributária. Agenda Tributária…",
+   "link": "https://www.legisweb.com.br/noticia/?id",
+   "source": "LegisWeb",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-27T08:28:53Z",
+   "tries": 1
+  },
   {
    "id": "0e7779e9c632",
    "date": "2026-11-26",
@@ -1465,6 +1491,19 @@
    "tries": 1
   },
   {
+   "id": "ef943b710c65",
+   "date": "2026-11-24",
+   "title": "Receita amplia acesso ao Piloto da CBS para empresas de todo o país",
+   "resumo": "Empresas poderão testar sistemas da CBS sem indicação prévia de entidades representativas, mediante procuração digital.",
+   "link": "https://www.contabeis.com.br/noticias/81089/receita-amplia-acesso-ao-piloto-da-cbs-para-empresas-de-todo-o-pais/",
+   "source": "Portal Contabeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-27T08:28:53Z",
+   "tries": 1
+  },
+  {
    "id": "151f2bcb9e05",
    "date": "2026-11-24",
    "title": "Comitê Gestor do Simples Nacional publica novas regras para o Simples Nacional e para a transição da Reforma Tributária — Receita Federal",
@@ -1475,7 +1514,7 @@
    "category": "simples",
    "tag": "Simples",
    "addedAt": "2026-11-27T06:59:25Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "006736fcbdee",
@@ -1488,7 +1527,7 @@
    "category": "cont",
    "tag": "Contabilidade",
    "addedAt": "2026-11-27T06:59:25Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "d63fa6f2cc1d",
@@ -1940,44 +1979,6 @@
    "tag": "Contabilidade",
    "addedAt": "2026-11-24T20:43:40Z",
    "tries": 1
-  },
-  {
-   "id": "a670b4da54c2",
-   "date": "2026-11-24",
-   "title": "TCU defende cálculo da CBS de 11,3% e diz que alíquota pode mudar",
-   "resumo": "Representante do tribunal afirma que percentual resulta de critérios definidos em lei, não constitui uma recomendação do TCU nem permite prever a arrecadação de 2027.",
-   "link": "https://www.congressoemfoco.com.br/noticia/131839/tcu-defende-calculo-da-cbs-de-11-3-e-diz-que-aliquota-pode-mudar",
-   "source": "Congresso em Foco",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-24T19:54:40Z",
-   "tries": 1
-  },
-  {
-   "id": "66708623f480",
-   "date": "2026-11-24",
-   "title": "Tributaristas defendem redução do teto da CBS para 8,6%",
-   "resumo": "Senado deve definir percentual até o fim do ano, por meio de projeto de resolução relatado por Eduardo Braga (MDB)",
-   "link": "https://sbtnews.sbt.com.br/colunas/coluna-da-victoria/tributaristas-defendem-reducao-do-teto-da-cbs-para-8-6",
-   "source": "SBT News",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-24T19:54:40Z",
-   "tries": 1
-  },
-  {
-   "id": "bc64826ce7db",
-   "date": "2026-11-24",
-   "title": "Senado celebra 12 anos da Febraf, entidade de fomento ao comércio",
-   "resumo": "O Senado homenageou nesta terça-feira (24), em sessão especial, os 12 anos da Federação Brasileira de Fomento Comercial, Serviços e Atividades Financeiras (Febraf). A entidade representa setores como o factoring, que antecipa às empresas, mediante desconto, o…",
-   "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/senado-celebra-12-anos-da-febraf-entidade-de-fomento-ao-comercio",
-   "source": "Senado Federal",
-   "official": true,
-   "category": "simples",
-   "tag": "Simples",
-   "addedAt": "2026-11-24T18:46:46Z"
   }
  ]
 }

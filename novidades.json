@@ -1,13 +1,13 @@
 {
- "lastCheckAt": "2026-11-27T14:15:39Z",
- "lastCheckBr": "27/11/2026 11:15",
- "added": 26,
+ "lastCheckAt": "2026-11-27T15:25:27Z",
+ "lastCheckBr": "27/11/2026 12:25",
+ "added": 19,
  "feeds": [
   {
    "name": "Agência Senado",
    "ok": true,
    "found": 2,
-   "new": 1
+   "new": 0
   },
   {
    "name": "Agência Câmara",
@@ -17,9 +17,10 @@
   },
   {
    "name": "Receita Federal",
-   "ok": true,
+   "ok": false,
    "found": 0,
-   "new": 0
+   "new": 0,
+   "error": "URLError"
   },
   {
    "name": "Agência Brasil",
@@ -30,8 +31,8 @@
   {
    "name": "Portal Contábeis",
    "ok": true,
-   "found": 8,
-   "new": 2
+   "found": 7,
+   "new": 0
   },
   {
    "name": "InfoMoney",
@@ -43,7 +44,7 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 96,
-   "new": 18
+   "new": 14
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -53,6 +54,19 @@
   }
  ],
  "items": [
+  {
+   "id": "43296538a4fd",
+   "date": "2026-11-27",
+   "title": "Reforma Tributária: entenda as regras que passam a valer a partir de 2027",
+   "resumo": "",
+   "link": "https://www.contadores.cnt.br/noticias/tecnicas/2026/11/27/reforma-tributaria-entenda-as-regras-que-passam-a-valer-a-partir-de-2027.html",
+   "source": "Contadores.cnt.br",
+   "official": false,
+   "category": "cont",
+   "tag": "Contabilidade",
+   "addedAt": "2026-11-27T15:25:27Z",
+   "tries": 1
+  },
   {
    "id": "29490362d89b",
    "date": "2026-11-27",
@@ -1717,6 +1731,45 @@
    "tries": 1
   },
   {
+   "id": "86937af02ebf",
+   "date": "2026-11-24",
+   "title": "Reforma tributária: impactos do IBS, CBS e split payment",
+   "resumo": "Entenda os impactos da reforma tributária nas empresas, incluindo as alíquotas de IBS e CBS, o split payment e a apropriação de créditos.",
+   "link": "https://www.contabeis.com.br/artigos/81100/reforma-tributaria-impactos-do-ibs-cbs-e-split-payment/",
+   "source": "Portal Contabeis",
+   "official": false,
+   "category": "pag",
+   "tag": "Split payment",
+   "addedAt": "2026-11-27T15:25:27Z",
+   "tries": 1
+  },
+  {
+   "id": "72d02c0593b2",
+   "date": "2026-11-24",
+   "title": "Que imposto é esse: Frentes parlamentares recebem estudos que revisam cálculo da CBS para menos de 10%",
+   "resumo": "Cálculos apresentados por Márcio Holland, Daniel Loria e Eduardo Fleury reveem premissas do TCU",
+   "link": "https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/11/frentes-parlamentares-recebem-estudos-que-revisam-calculo-da-cbs-para-menos-de-10.shtml",
+   "source": "Folha de S.Paulo",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-27T15:25:27Z",
+   "tries": 1
+  },
+  {
+   "id": "fa5e33a7511b",
+   "date": "2026-11-24",
+   "title": "Reforma Tributária pode pressionar inflação em 2027; entenda os possíveis impactos",
+   "resumo": "Especialistas apontam risco de alta nos preços com a entrada da CBS, mas impacto dependerá dos setores e do repasse dos custos pelas empresas.",
+   "link": "https://www.contabeis.com.br/noticias/81117/reforma-tributaria-pode-pressionar-inflacao-em-2027/",
+   "source": "Portal Contabeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-27T15:25:27Z",
+   "tries": 1
+  },
+  {
    "id": "be648c860d02",
    "date": "2026-11-24",
    "title": "Descondo de 60% no IBS e CBS: saiba quem pode ter redução",
@@ -1921,58 +1974,6 @@
    "category": "cont",
    "tag": "Contabilidade",
    "addedAt": "2026-11-26T20:43:42Z",
-   "tries": 1
-  },
-  {
-   "id": "4917bd463c5d",
-   "date": "2026-11-24",
-   "title": "Reforma Tributária para empresas: como se preparar para as mudanças",
-   "resumo": "",
-   "link": "https://www.sicredi.com.br/site/blog/empresas/reforma-tributaria-para-empresas-preparar-para-mudancas/",
-   "source": "Sicredi",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-25T18:40:28Z",
-   "tries": 2
-  },
-  {
-   "id": "2abc785aacd5",
-   "date": "2026-11-24",
-   "title": "Reforma Tributária: clínicas devem cuidar do caixa",
-   "resumo": "A Reforma Tributária muda a rotina financeira das clínicas. Veja por que rever custos, preços e prazos de recebimento ajuda a proteger o caixa.",
-   "link": "https://www.contabeis.com.br/artigos/81079/reforma-tributaria-clinicas-devem-cuidar-do-caixa/",
-   "source": "Portal Contabeis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-25T14:22:44Z",
-   "tries": 1
-  },
-  {
-   "id": "87131d60cb91",
-   "date": "2026-11-24",
-   "title": "Reforma Tributária: Receita Federal amplia acesso a ambiente de produção restrita da CBS",
-   "resumo": "Empresas de todo o Brasil poderão acessar o ambiente Piloto e conhecer as funcionalidades desenvolvidas para a Contribuição sobre Bens e Serviços (CBS)",
-   "link": "https://www.gov.br/secom/pt-br/acompanhe-a-secom/noticias/2026/11/reforma-tributaria-receita-federal-amplia-acesso-a-ambiente-de-producao-restrita-da-cbs",
-   "source": "www.gov.br",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-25T12:59:57Z",
-   "tries": 1
-  },
-  {
-   "id": "dc99b53eaa59",
-   "date": "2026-11-24",
-   "title": "O que é IBS e CBS, diferenças e cronograma: guia completo",
-   "resumo": "O IBS (Imposto sobre Bens e Serviços) e a CBS (Contribuição sobre Bens e Serviços) são os novos tributos sobre consumo criados pela Reforma Tributária e que já começaram a ser aplicados em forma de […]",
-   "link": "https://meutudo.com.br/blog/ibs-e-cbs/",
-   "source": "meutudo",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-25T12:59:57Z",
    "tries": 1
   }
  ]

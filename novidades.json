@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-27T02:15:59Z",
- "lastCheckBr": "26/11/2026 23:15",
- "added": 28,
+ "lastCheckAt": "2026-11-27T03:28:06Z",
+ "lastCheckBr": "27/11/2026 00:28",
+ "added": 24,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -32,7 +32,7 @@
    "name": "Portal Contábeis",
    "ok": true,
    "found": 9,
-   "new": 1
+   "new": 0
   },
   {
    "name": "InfoMoney",
@@ -43,8 +43,8 @@
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 98,
-   "new": 21
+   "found": 96,
+   "new": 18
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -54,6 +54,19 @@
   }
  ],
  "items": [
+  {
+   "id": "94c1719d0270",
+   "date": "2026-11-26",
+   "title": "Alíquota da CBS: Revisão do ‘tax gap’ vira alvo no Senado",
+   "resumo": "Audiências públicas na CAE do Senado tiveram como foco a possibilidade de revisão da alíquota da CBS, calculada em 11,3% pelo TCU.",
+   "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/aliquota-da-cbs-revisao-do-tax-gap-vira-alvo-no-senado",
+   "source": "JOTA Info",
+   "official": false,
+   "category": "aliq",
+   "tag": "Alíquotas",
+   "addedAt": "2026-11-27T03:28:06Z",
+   "tries": 1
+  },
   {
    "id": "44c9aeec11a4",
    "date": "2026-11-26",
@@ -90,7 +103,7 @@
    "category": "cont",
    "tag": "Contabilidade",
    "addedAt": "2026-11-27T02:15:59Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "068b35ef4825",
@@ -1413,6 +1426,19 @@
    "tries": 1
   },
   {
+   "id": "d63fa6f2cc1d",
+   "date": "2026-11-24",
+   "title": "Reforma tributária: governo promete tolerância com contribuinte que errar de boa-fé",
+   "resumo": "Representantes da União, de estados e de municípios afirmaram que os ajustes da transição serão administrativos e defenderam a alíquota de 11,3% da CBS",
+   "link": "https://www.jota.info/coberturas-especiais/ambiente-negocios-oportunidades/reforma-tributaria-governo-promete-tolerancia-com-contribuinte-que-errar-de-boa-fe",
+   "source": "JOTA Info",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-27T03:28:06Z",
+   "tries": 1
+  },
+  {
    "id": "d45ff8c3b603",
    "date": "2026-11-24",
    "title": "Comitê Gestor atualiza regras do Simples Nacional para transição da reforma tributária",
@@ -1950,31 +1976,6 @@
    "tag": "Simples",
    "addedAt": "2026-11-24T17:44:44Z",
    "tries": 2
-  },
-  {
-   "id": "2f235828b65e",
-   "date": "2026-11-24",
-   "title": "Reforma tributária pode afetar preços e margens",
-   "resumo": "Foto: Adeolu Eletu / Unsplash · Licença Unsplash Incertezas na precificação podem influenciar empresas e consumidores Leia mais em https://www.contabeis.com.br/noticias/81112/reforma-tributaria-pode-afetar-precos-e-margens/",
-   "link": "https://www.contabeis.com.br/noticias/81112/reforma-tributaria-pode-afetar-precos-e-margens/",
-   "source": "Portal Contábeis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-24T16:38:29Z"
-  },
-  {
-   "id": "0a1120a8b44f",
-   "date": "2026-11-24",
-   "title": "Setor produtivo contesta alíquota de 11,3% da CBS calculada pelo TCU",
-   "resumo": "Estudos encomendados pela Frente Parlamentar do Empreendedorismo estimam percentual entre 8,6% e 10,5%. Leia no Poder360.",
-   "link": "https://www.poder360.com.br/poder-economia/setor-produtivo-contesta-aliquota-de-113-da-cbs-calculada-pelo-tcu/",
-   "source": "Poder360",
-   "official": false,
-   "category": "aliq",
-   "tag": "Alíquotas",
-   "addedAt": "2026-11-24T16:38:29Z",
-   "tries": 1
   }
  ]
 }

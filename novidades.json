@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-27T19:49:45Z",
- "lastCheckBr": "27/11/2026 16:49",
- "added": 23,
+ "lastCheckAt": "2026-11-27T20:44:48Z",
+ "lastCheckBr": "27/11/2026 17:44",
+ "added": 21,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -12,15 +12,14 @@
   {
    "name": "Agência Câmara",
    "ok": true,
-   "found": 1,
+   "found": 0,
    "new": 0
   },
   {
    "name": "Receita Federal",
-   "ok": false,
+   "ok": true,
    "found": 0,
-   "new": 0,
-   "error": "URLError"
+   "new": 0
   },
   {
    "name": "Agência Brasil",
@@ -43,8 +42,8 @@
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 100,
-   "new": 18
+   "found": 98,
+   "new": 16
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -54,6 +53,32 @@
   }
  ],
  "items": [
+  {
+   "id": "7cc0a4bae1d1",
+   "date": "2026-11-27",
+   "title": "Receita Federal e CGIBS esclarecem emissão de documento fiscal por condomínios",
+   "resumo": "A emissão de documento fiscal será exigida apenas em situações específicas previstas em lei e será realizada por meio de um processo simplificado, desenvolvido em diálogo com as entidades representativas do setor.",
+   "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-e-cgibs-esclarecem-emissao-de-documento-fiscal-por-condominios",
+   "source": "Governo Federal",
+   "official": false,
+   "category": "nt",
+   "tag": "Nota técnica",
+   "addedAt": "2026-11-27T20:44:48Z",
+   "tries": 1
+  },
+  {
+   "id": "ff3dc3484525",
+   "date": "2026-11-27",
+   "title": "Condomínio edilício na Reforma Tributária: quando paga IBS e CBS",
+   "resumo": "Condomínio edilício não paga IBS e CBS, salvo duas exceções da LC 214/2025. Veja quando a NFS-e é exigida e mais detalhes sobre o tema.",
+   "link": "https://noticias.iob.com.br/condominio-edilicio-reforma-tributaria-ibs-cbs/",
+   "source": "IOB Notícias",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-27T20:44:48Z",
+   "tries": 1
+  },
   {
    "id": "cd342bbdde66",
    "date": "2026-11-27",
@@ -91,7 +116,7 @@
    "category": "simples",
    "tag": "Simples",
    "addedAt": "2026-11-27T19:49:45Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "69e1cf996f4e",
@@ -1873,6 +1898,71 @@
    "tries": 1
   },
   {
+   "id": "87131d60cb91",
+   "date": "2026-11-24",
+   "title": "Reforma Tributária: Receita Federal amplia acesso a ambiente de produção restrita da CBS",
+   "resumo": "Empresas de todo o Brasil poderão acessar o ambiente Piloto e conhecer as funcionalidades desenvolvidas para a Contribuição sobre Bens e Serviços (CBS)",
+   "link": "https://www.gov.br/secom/pt-br/acompanhe-a-secom/noticias/2026/11/reforma-tributaria-receita-federal-amplia-acesso-a-ambiente-de-producao-restrita-da-cbs",
+   "source": "www.gov.br",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-27T20:44:48Z",
+   "tries": 1
+  },
+  {
+   "id": "86937af02ebf",
+   "date": "2026-11-24",
+   "title": "Reforma tributária: impactos do IBS, CBS e split payment",
+   "resumo": "Entenda os impactos da reforma tributária nas empresas, incluindo as alíquotas de IBS e CBS, o split payment e a apropriação de créditos.",
+   "link": "https://www.contabeis.com.br/artigos/81100/reforma-tributaria-impactos-do-ibs-cbs-e-split-payment/",
+   "source": "Portal Contabeis",
+   "official": false,
+   "category": "pag",
+   "tag": "Split payment",
+   "addedAt": "2026-11-27T20:44:48Z",
+   "tries": 1
+  },
+  {
+   "id": "72d02c0593b2",
+   "date": "2026-11-24",
+   "title": "Que imposto é esse: Frentes parlamentares recebem estudos que revisam cálculo da CBS para menos de 10%",
+   "resumo": "Cálculos apresentados por Márcio Holland, Daniel Loria e Eduardo Fleury reveem premissas do TCU",
+   "link": "https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/11/frentes-parlamentares-recebem-estudos-que-revisam-calculo-da-cbs-para-menos-de-10.shtml",
+   "source": "Folha de S.Paulo",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-27T20:44:48Z",
+   "tries": 1
+  },
+  {
+   "id": "ef943b710c65",
+   "date": "2026-11-24",
+   "title": "Receita amplia acesso ao Piloto da CBS para empresas de todo o país",
+   "resumo": "Empresas poderão testar sistemas da CBS sem indicação prévia de entidades representativas, mediante procuração digital.",
+   "link": "https://www.contabeis.com.br/noticias/81089/receita-amplia-acesso-ao-piloto-da-cbs-para-empresas-de-todo-o-pais/",
+   "source": "Portal Contabeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-27T20:44:48Z",
+   "tries": 1
+  },
+  {
+   "id": "2abc785aacd5",
+   "date": "2026-11-24",
+   "title": "Reforma Tributária: clínicas devem cuidar do caixa",
+   "resumo": "A Reforma Tributária muda a rotina financeira das clínicas. Veja por que rever custos, preços e prazos de recebimento ajuda a proteger o caixa.",
+   "link": "https://www.contabeis.com.br/artigos/81079/reforma-tributaria-clinicas-devem-cuidar-do-caixa/",
+   "source": "Portal Contabeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-27T20:44:48Z",
+   "tries": 1
+  },
+  {
    "id": "be648c860d02",
    "date": "2026-11-24",
    "title": "Descondo de 60% no IBS e CBS: saiba quem pode ter redução",
@@ -1883,97 +1973,6 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-27T19:49:45Z",
-   "tries": 1
-  },
-  {
-   "id": "1e91bbf6c845",
-   "date": "2026-11-24",
-   "title": "Sefaz-BA promove debate on-line sobre o cadastro do IBS e da CBS no âmbito da reforma tributária",
-   "resumo": "A Secretaria da Fazenda do Estado da Bahia (Sefaz-BA), por meio da sua Universidade Corporativa (UCS/Sefaz), realiza, no dia 26 de novembro, mais uma edição do projeto Conversa sobre a Reforma Tributária. O encontro terá como tema “Cadastro do Imposto sobre…",
-   "link": "https://www.ba.gov.br/comunicacao/noticias/2026-11/385892/sefaz-ba-promove-debate-line-sobre-o-cadastro-do-ibs-e-da-cbs-no-ambito-da",
-   "source": "ba.gov.br",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-27T19:49:45Z",
-   "tries": 1
-  },
-  {
-   "id": "0e0acadfda73",
-   "date": "2026-11-24",
-   "title": "CNI propõe CBS de 10% para evitar alta de R$ 50 bi na carga tributária",
-   "resumo": "Em audiência na Câmara, representante da entidade defende mudanças na legislação da reforma tributária e alerta que alíquota recomendada pelo TCU pode reduzir os ganhos econômicos esperados com o ...",
-   "link": "https://www.congressoemfoco.com.br/noticia/131833/cni-propoe-cbs-de-10-para-evitar-alta-de-r-50-bi-na-carga-tributaria",
-   "source": "Congresso em Foco",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-27T19:49:45Z",
-   "tries": 1
-  },
-  {
-   "id": "cf887fb7b113",
-   "date": "2026-11-24",
-   "title": "Reforma tributária pode alterar preços ao consumidor",
-   "resumo": "Incertezas na precificação podem afetar margens e valores finais das operações",
-   "link": "https://www.contabeis.com.br/artigos/81121/reforma-tributaria-pode-alterar-precos-ao-consumidor/",
-   "source": "Portal Contabeis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-27T19:49:45Z",
-   "tries": 1
-  },
-  {
-   "id": "fa5e33a7511b",
-   "date": "2026-11-24",
-   "title": "Reforma Tributária pode pressionar inflação em 2027; entenda os possíveis impactos",
-   "resumo": "Especialistas apontam risco de alta nos preços com a entrada da CBS, mas impacto dependerá dos setores e do repasse dos custos pelas empresas.",
-   "link": "https://www.contabeis.com.br/noticias/81117/reforma-tributaria-pode-pressionar-inflacao-em-2027/",
-   "source": "Portal Contabeis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-27T19:49:45Z",
-   "tries": 1
-  },
-  {
-   "id": "151f2bcb9e05",
-   "date": "2026-11-24",
-   "title": "Comitê Gestor do Simples Nacional publica novas regras para o Simples Nacional e para a transição da Reforma Tributária — Receita Federal",
-   "resumo": "",
-   "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/comite-gestor-do-simples-nacional-publica-novas-regras-para-o-simples-nacional-e-para-a-transicao-da-reforma-tributaria",
-   "source": "Governo Federal",
-   "official": false,
-   "category": "simples",
-   "tag": "Simples",
-   "addedAt": "2026-11-27T18:44:03Z",
-   "tries": 2
-  },
-  {
-   "id": "d63fa6f2cc1d",
-   "date": "2026-11-24",
-   "title": "Reforma tributária: governo promete tolerância com contribuinte que errar de boa-fé",
-   "resumo": "Representantes da União, de estados e de municípios afirmaram que os ajustes da transição serão administrativos e defenderam a alíquota de 11,3% da CBS",
-   "link": "https://www.jota.info/coberturas-especiais/ambiente-negocios-oportunidades/reforma-tributaria-governo-promete-tolerancia-com-contribuinte-que-errar-de-boa-fe",
-   "source": "JOTA Info",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-27T18:44:03Z",
-   "tries": 1
-  },
-  {
-   "id": "d45ff8c3b603",
-   "date": "2026-11-24",
-   "title": "Comitê Gestor atualiza regras do Simples Nacional para transição da reforma tributária",
-   "resumo": "Resolução CGSN nº 196 altera tabelas, procedimentos de apuração e impõe regra de encerramento para quem usa regime de caixa neste ano",
-   "link": "https://dcomercio.com.br/publicacao/s/comite-gestor-atualiza-regras-do-simples-nacional-para-transicao-da-reforma-tributaria",
-   "source": "DComercio",
-   "official": false,
-   "category": "simples",
-   "tag": "Simples",
-   "addedAt": "2026-11-27T18:44:03Z",
    "tries": 1
   }
  ]

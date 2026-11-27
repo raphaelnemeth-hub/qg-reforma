@@ -1,12 +1,12 @@
 {
- "lastCheckAt": "2026-11-27T10:46:59Z",
- "lastCheckBr": "27/11/2026 07:46",
- "added": 24,
+ "lastCheckAt": "2026-11-27T11:46:13Z",
+ "lastCheckBr": "27/11/2026 08:46",
+ "added": 22,
  "feeds": [
   {
    "name": "Agência Senado",
    "ok": true,
-   "found": 2,
+   "found": 1,
    "new": 0
   },
   {
@@ -43,8 +43,8 @@
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 98,
-   "new": 19
+   "found": 96,
+   "new": 17
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -54,6 +54,19 @@
   }
  ],
  "items": [
+  {
+   "id": "344e134dd6a8",
+   "date": "2026-11-27",
+   "title": "Reforma Tributária: veja o que muda para empresas e consumidores em 2027",
+   "resumo": "",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWnBQMlZ4UzFjd25GcGx0S2FielRrUldKWHFGRUdMQUZiTmFDUlBCTVFfWUQ0b1FpSmpCUFg0d0RERmRPZ1RtNF9FYjA3VHQ0Z1hfX3NqQUhyWHBiSm01Z0tya2t2WmhaYXRBQTRvWHhVWVE1ZWJDTkZxbzVrczlmWjZwWmV1c2JTb0xnOGU1VFNIbExTRGZZ?oc=5",
+   "source": "TrendsCE",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-27T11:46:13Z",
+   "tries": 1
+  },
   {
    "id": "ba1252d1325b",
    "date": "2026-11-27",
@@ -78,7 +91,7 @@
    "category": "pag",
    "tag": "Split payment",
    "addedAt": "2026-11-27T10:46:59Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "125dc7eab941",
@@ -1965,19 +1978,6 @@
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-24T21:47:03Z",
-   "tries": 1
-  },
-  {
-   "id": "f8bcf382394c",
-   "date": "2026-11-24",
-   "title": "Ao vivo: Comissão de Finanças da Câmara discute a CBS",
-   "resumo": "Alíquota foi fixada em 11,3%; ministro Dario Durigan espera definição nas próximas duas semanas. Leia no Poder360.",
-   "link": "https://www.poder360.com.br/poder-congresso/ao-vivo-comissao-de-financas-da-camara-discute-a-cbs/",
-   "source": "Poder360",
-   "official": false,
-   "category": "lei",
-   "tag": "Legislação",
    "addedAt": "2026-11-24T21:47:03Z",
    "tries": 1
   }

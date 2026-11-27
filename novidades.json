@@ -1,6 +1,6 @@
 {
- "lastCheckAt": "2026-11-27T09:41:22Z",
- "lastCheckBr": "27/11/2026 06:41",
+ "lastCheckAt": "2026-11-27T10:46:59Z",
+ "lastCheckBr": "27/11/2026 07:46",
  "added": 24,
  "feeds": [
   {
@@ -43,7 +43,7 @@
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 96,
+   "found": 98,
    "new": 19
   },
   {
@@ -54,6 +54,32 @@
   }
  ],
  "items": [
+  {
+   "id": "ba1252d1325b",
+   "date": "2026-11-27",
+   "title": "CBS de 11,3% não pode virar piso",
+   "resumo": "Cálculo do TCU herda distorções do sistema atual; Senado precisa debater antes de fixar alíquota",
+   "link": "https://www.jota.info/opiniao-e-analise/artigos/cbs-de-113-nao-pode-virar-piso",
+   "source": "JOTA Info",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-27T10:46:59Z",
+   "tries": 1
+  },
+  {
+   "id": "ab7a7e23e703",
+   "date": "2026-11-27",
+   "title": "Adiamento do split payment coloca recolhimento pelo adquirente no centro da reforma",
+   "resumo": "",
+   "link": "https://exame.com/economia/adiamento-do-split-payment-coloca-recolhimento-pelo-adquirente-no-centro-da-reforma/",
+   "source": "Exame",
+   "official": false,
+   "category": "pag",
+   "tag": "Split payment",
+   "addedAt": "2026-11-27T10:46:59Z",
+   "tries": 1
+  },
   {
    "id": "125dc7eab941",
    "date": "2026-11-27",
@@ -1504,6 +1530,19 @@
    "tries": 1
   },
   {
+   "id": "1e91bbf6c845",
+   "date": "2026-11-24",
+   "title": "Sefaz-BA promove debate on-line sobre o cadastro do IBS e da CBS no âmbito da reforma tributária",
+   "resumo": "A Secretaria da Fazenda do Estado da Bahia (Sefaz-BA), por meio da sua Universidade Corporativa (UCS/Sefaz), realiza, no dia 26 de novembro, mais uma edição do projeto Conversa sobre a Reforma Tributária. O encontro terá como tema “Cadastro do Imposto sobre…",
+   "link": "https://www.ba.gov.br/comunicacao/noticias/2026-11/385892/sefaz-ba-promove-debate-line-sobre-o-cadastro-do-ibs-e-da-cbs-no-ambito-da",
+   "source": "ba.gov.br",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-27T10:46:59Z",
+   "tries": 1
+  },
+  {
    "id": "a670b4da54c2",
    "date": "2026-11-24",
    "title": "TCU defende cálculo da CBS de 11,3% e diz que alíquota pode mudar",
@@ -1527,7 +1566,7 @@
    "category": "simples",
    "tag": "Simples",
    "addedAt": "2026-11-27T09:41:22Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "ef943b710c65",
@@ -1941,45 +1980,6 @@
    "tag": "Legislação",
    "addedAt": "2026-11-24T21:47:03Z",
    "tries": 1
-  },
-  {
-   "id": "6a01a6e00eb2",
-   "date": "2026-11-24",
-   "title": "Reforma Tributária: Comitê Gestor atualiza regras para empresas do Simples Nacional",
-   "resumo": "As mudanças da Reforma Tributária envolvem procedimentos de declaração, apuração de receitas, repartição dos tributos e adaptações necessárias para a",
-   "link": "https://bomdiasc.com.br/reforma-tributaria-comite-gestor-atualiza-regras-para-empresas-do-simples-nacional/",
-   "source": "Bom Dia SC",
-   "official": false,
-   "category": "simples",
-   "tag": "Simples",
-   "addedAt": "2026-11-24T21:47:03Z",
-   "tries": 1
-  },
-  {
-   "id": "b6a9b291f294",
-   "date": "2026-11-24",
-   "title": "Simples Nacional terá novas regras em 2027 com a Reforma Tributária; veja alíquotas para comércio, indústria e serviços",
-   "resumo": "Empresas também precisarão observar o fim do regime de caixa.",
-   "link": "https://natalemfoco.com.br/noticia/13436/simples-nacional-tera-novas-regras-em-2027-com-a-reforma-tributaria-veja-aliquotas-para-comercio-industria-e-servicos",
-   "source": "Natal em Foco",
-   "official": false,
-   "category": "simples",
-   "tag": "Simples",
-   "addedAt": "2026-11-24T21:47:03Z",
-   "tries": 1
-  },
-  {
-   "id": "a98939d0597e",
-   "date": "2026-11-24",
-   "title": "REFORMA TRIBUTÁRIA: NOVIDADE PARA EMPRESAS! Receita Federal abre código de calculadoras no GitHub e libera testes da CBS.",
-   "resumo": "",
-   "link": "https://regional24horas.com.br/noticia/reforma-tributaria-novidade-para-empresas-receita-federal-abre-codigo-de-calculadoras-no-github-e-libera-testes-da-cbs-/16075",
-   "source": "Regional 24 Horas",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-24T21:47:03Z",
-   "tries": 2
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-27T16:31:39Z",
- "lastCheckBr": "27/11/2026 13:31",
- "added": 12,
+ "lastCheckAt": "2026-11-27T17:47:00Z",
+ "lastCheckBr": "27/11/2026 14:47",
+ "added": 22,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -13,7 +13,7 @@
    "name": "Agência Câmara",
    "ok": true,
    "found": 1,
-   "new": 0
+   "new": 1
   },
   {
    "name": "Receita Federal",
@@ -25,13 +25,13 @@
   {
    "name": "Agência Brasil",
    "ok": true,
-   "found": 0,
-   "new": 0
+   "found": 1,
+   "new": 1
   },
   {
    "name": "Portal Contábeis",
    "ok": true,
-   "found": 7,
+   "found": 6,
    "new": 0
   },
   {
@@ -43,18 +43,81 @@
   {
    "name": "Imprensa (Google Notícias)",
    "ok": true,
-   "found": 100,
-   "new": 12
+   "found": 98,
+   "new": 13
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
-   "ok": false,
-   "found": 0,
-   "new": 0,
-   "error": "HTTPError"
+   "ok": true,
+   "found": 7,
+   "new": 7
   }
  ],
  "items": [
+  {
+   "id": "86cb7525a992",
+   "date": "2026-11-27",
+   "title": "Ferramenta gratuita reúne mudanças para MEIs e pequenos negócios",
+   "resumo": "Microempreendedores individuais (MEIs) e donos de pequenos negócios podem consultar gratuitamente as mudanças previstas nas regras de faturamento, tributação e regularização de dívidas. O Radar das Mudanças para Pequenos Negócios reúne 11 medidas relacionadas…",
+   "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/ferramenta-gratuita-reune-mudancas-para-meis-e-pequenos-negocios",
+   "source": "Agência Brasil",
+   "official": true,
+   "category": "simples",
+   "tag": "Simples",
+   "addedAt": "2026-11-27T17:47:00Z"
+  },
+  {
+   "id": "6136e1ad3c10",
+   "date": "2026-11-27",
+   "title": "Presidente da Fenacon debate split payment e os desafios da Reforma Tributária no 8º Congresso de Direito Tributário do Codecon/SP",
+   "resumo": "Foto: Divulgação Fecomércio SP Os desafios da implementação da Reforma Tributária e os impactos dos novos mecanismos de arrecadação sobre o ambiente de negócios estiveram no centro da programação do...",
+   "link": "https://fenacon.org.br/noticias/56709/",
+   "source": "Sistema FENACON",
+   "official": false,
+   "category": "pag",
+   "tag": "Split payment",
+   "addedAt": "2026-11-27T17:47:00Z",
+   "tries": 1
+  },
+  {
+   "id": "025f139b6122",
+   "date": "2026-11-27",
+   "title": "Reforma Tributária: empresas no Lucro Real poderão recuperar créditos acumulados?",
+   "resumo": "Entenda as regras para empresas no Lucro Real aproveitarem créditos acumulados de PIS e Cofins na transição para a CBS, por compensação ou ressarcimento.",
+   "link": "https://www.serasaexperian.com.br/conteudos/reforma-tributaria-creditos-pis-cofins-lucro-real/",
+   "source": "Serasa Experian",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-27T17:47:00Z",
+   "tries": 1
+  },
+  {
+   "id": "0f5620246ac2",
+   "date": "2026-11-27",
+   "title": "Receita Federal e CGIBS esclarecem emissão de documento fiscal por condomínios conforme a LC nº 214/2025",
+   "resumo": "Texto legal prevê que o condomínio edilício, como regra geral, não é contribuinte do IBS e da CBS. Exigência ocorrerá apenas em situações específicas e será realizada por meio de um processo simplificado",
+   "link": "https://www.cgibs.gov.br/receita-federal-e-cgibs-esclarecem-emissao-de-documento-fiscal-por-condominios",
+   "source": "Comitê Gestor do IBS",
+   "official": false,
+   "category": "nt",
+   "tag": "Nota técnica",
+   "addedAt": "2026-11-27T17:47:00Z",
+   "tries": 1
+  },
+  {
+   "id": "48c6be0dbf4d",
+   "date": "2026-11-27",
+   "title": "CGIBS participa do Congresso de Direito Tributário do CODECON/SP e discute impactos da Reforma",
+   "resumo": "Evento reuniu autoridades públicas, especialistas, juristas e representantes do setor produtivo, que discutiram caminhos para a construção de um ambiente tributário mais equilibrado, transparente e seguro",
+   "link": "https://www.cgibs.gov.br/cgibs-participa-do-congresso-de-direito-tributario-do-codecon-sp",
+   "source": "Comitê Gestor do IBS",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-27T17:47:00Z",
+   "tries": 1
+  },
   {
    "id": "43296538a4fd",
    "date": "2026-11-27",
@@ -1732,6 +1795,31 @@
    "tries": 1
   },
   {
+   "id": "8d17ec7be98e",
+   "date": "2026-11-24",
+   "title": "Projeto limita repasses da Lei Kandir e despesas com exportações e previdência",
+   "resumo": "Texto também altera regras para incentivos da reforma tributária, seguro rural e restos a pagar",
+   "link": "https://www.camara.leg.br/noticias/1322175-projeto-limita-repasses-da-lei-kandir-e-despesas-com-exportacoes-e-previdencia",
+   "source": "Agência Câmara",
+   "official": true,
+   "category": "lei",
+   "tag": "Legislação",
+   "addedAt": "2026-11-27T17:47:00Z"
+  },
+  {
+   "id": "2abc785aacd5",
+   "date": "2026-11-24",
+   "title": "Reforma Tributária: clínicas devem cuidar do caixa",
+   "resumo": "A Reforma Tributária muda a rotina financeira das clínicas. Veja por que rever custos, preços e prazos de recebimento ajuda a proteger o caixa.",
+   "link": "https://www.contabeis.com.br/artigos/81079/reforma-tributaria-clinicas-devem-cuidar-do-caixa/",
+   "source": "Portal Contabeis",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-27T17:47:00Z",
+   "tries": 1
+  },
+  {
    "id": "4917bd463c5d",
    "date": "2026-11-24",
    "title": "Reforma Tributária para empresas: como se preparar para as mudanças",
@@ -1742,7 +1830,7 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-27T16:31:39Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "87131d60cb91",
@@ -1755,7 +1843,7 @@
    "category": "outros",
    "tag": "Atualização",
    "addedAt": "2026-11-27T16:31:39Z",
-   "tries": 1
+   "tries": 2
   },
   {
    "id": "86937af02ebf",
@@ -1886,97 +1974,6 @@
    "tag": "Simples",
    "addedAt": "2026-11-27T09:41:22Z",
    "tries": 2
-  },
-  {
-   "id": "ef943b710c65",
-   "date": "2026-11-24",
-   "title": "Receita amplia acesso ao Piloto da CBS para empresas de todo o país",
-   "resumo": "Empresas poderão testar sistemas da CBS sem indicação prévia de entidades representativas, mediante procuração digital.",
-   "link": "https://www.contabeis.com.br/noticias/81089/receita-amplia-acesso-ao-piloto-da-cbs-para-empresas-de-todo-o-pais/",
-   "source": "Portal Contabeis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-27T08:28:53Z",
-   "tries": 1
-  },
-  {
-   "id": "151f2bcb9e05",
-   "date": "2026-11-24",
-   "title": "Comitê Gestor do Simples Nacional publica novas regras para o Simples Nacional e para a transição da Reforma Tributária — Receita Federal",
-   "resumo": "",
-   "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/comite-gestor-do-simples-nacional-publica-novas-regras-para-o-simples-nacional-e-para-a-transicao-da-reforma-tributaria",
-   "source": "Governo Federal",
-   "official": false,
-   "category": "simples",
-   "tag": "Simples",
-   "addedAt": "2026-11-27T06:59:25Z",
-   "tries": 2
-  },
-  {
-   "id": "006736fcbdee",
-   "date": "2026-11-24",
-   "title": "Reforma Tributária: as 7 dúvidas que mais confundem as empresas, a pouco mais de um mês para 2027",
-   "resumo": "",
-   "link": "https://www.contadores.cnt.br/noticias/artigos/2026/11/24/reforma-tributaria-as-7-duvidas-que-mais-confundem-as-empresas-a-pouco-mais-de-um-mes-para-2027.html",
-   "source": "Contadores.cnt.br",
-   "official": false,
-   "category": "cont",
-   "tag": "Contabilidade",
-   "addedAt": "2026-11-27T06:59:25Z",
-   "tries": 2
-  },
-  {
-   "id": "d63fa6f2cc1d",
-   "date": "2026-11-24",
-   "title": "Reforma tributária: governo promete tolerância com contribuinte que errar de boa-fé",
-   "resumo": "Representantes da União, de estados e de municípios afirmaram que os ajustes da transição serão administrativos e defenderam a alíquota de 11,3% da CBS",
-   "link": "https://www.jota.info/coberturas-especiais/ambiente-negocios-oportunidades/reforma-tributaria-governo-promete-tolerancia-com-contribuinte-que-errar-de-boa-fe",
-   "source": "JOTA Info",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-27T03:28:06Z",
-   "tries": 1
-  },
-  {
-   "id": "d45ff8c3b603",
-   "date": "2026-11-24",
-   "title": "Comitê Gestor atualiza regras do Simples Nacional para transição da reforma tributária",
-   "resumo": "Resolução CGSN nº 196 altera tabelas, procedimentos de apuração e impõe regra de encerramento para quem usa regime de caixa neste ano",
-   "link": "https://dcomercio.com.br/publicacao/s/comite-gestor-atualiza-regras-do-simples-nacional-para-transicao-da-reforma-tributaria",
-   "source": "DComercio",
-   "official": false,
-   "category": "simples",
-   "tag": "Simples",
-   "addedAt": "2026-11-27T02:15:59Z",
-   "tries": 1
-  },
-  {
-   "id": "5d2a900c07bb",
-   "date": "2026-11-24",
-   "title": "CBS: crédito de bens de capital difere da depreciação",
-   "resumo": "Entenda os requisitos para o crédito da CBS sobre bens de capital, a depreciação contábil e o tratamento dos créditos antigos de PIS/Cofins em 2027.",
-   "link": "https://www.contabeis.com.br/noticias/81091/cbs-credito-de-bens-de-capital-difere-da-depreciacao/",
-   "source": "Portal Contabeis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-27T00:54:21Z",
-   "tries": 1
-  },
-  {
-   "id": "a49715122476",
-   "date": "2026-11-24",
-   "title": "CGIBS indica nomes para harmonizar IBS e CBS",
-   "resumo": "Portaria designa quatro titulares e quatro suplentes do Comitê Gestor para o colegiado que uniformizará regras e interpretações dos novos tributos.",
-   "link": "https://www.contabeis.com.br/noticias/81086/cgibs-indica-nomes-para-harmonizar-ibs-e-cbs/",
-   "source": "Portal Contabeis",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-26T23:44:33Z",
-   "tries": 1
   }
  ]
 }

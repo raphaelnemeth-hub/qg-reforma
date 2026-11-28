@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-28T10:42:43Z",
- "lastCheckBr": "28/11/2026 07:42",
- "added": 26,
+ "lastCheckAt": "2026-11-28T11:39:33Z",
+ "lastCheckBr": "28/11/2026 08:39",
+ "added": 25,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -44,7 +44,7 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 98,
-   "new": 20
+   "new": 19
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -1963,16 +1963,16 @@
    "tries": 1
   },
   {
-   "id": "151f2bcb9e05",
+   "id": "be648c860d02",
    "date": "2026-11-24",
-   "title": "Comitê Gestor do Simples Nacional publica novas regras para o Simples Nacional e para a transição da Reforma Tributária — Receita Federal",
-   "resumo": "",
-   "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/comite-gestor-do-simples-nacional-publica-novas-regras-para-o-simples-nacional-e-para-a-transicao-da-reforma-tributaria",
-   "source": "Governo Federal",
+   "title": "Descondo de 60% no IBS e CBS: saiba quem pode ter redução",
+   "resumo": "Treze grupos de serviços e produtos têm direito à redução, mas se não aproveitar créditos de IBS e CBS, empresa pode pagar mais do que atualmente; entenda",
+   "link": "https://investnews.com.br/negocios/desconto-60-ibs-e-cbs/",
+   "source": "InvestNews",
    "official": false,
-   "category": "simples",
-   "tag": "Simples",
-   "addedAt": "2026-11-28T10:42:43Z",
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-28T11:39:33Z",
    "tries": 1
   }
  ]

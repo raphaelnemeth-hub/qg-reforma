@@ -1,6 +1,6 @@
 {
- "lastCheckAt": "2026-11-28T03:20:50Z",
- "lastCheckBr": "28/11/2026 00:20",
+ "lastCheckAt": "2026-11-28T04:27:19Z",
+ "lastCheckBr": "28/11/2026 01:27",
  "added": 25,
  "feeds": [
   {
@@ -54,6 +54,19 @@
   }
  ],
  "items": [
+  {
+   "id": "21ad63480792",
+   "date": "2026-11-27",
+   "title": "Reforma Tributária – A exclusão do IBS e CBS das bases de cálculo do ISS e do ICMS no período de transição",
+   "resumo": "Find verified tax attorneys, CPAs and advisors in 250+ locations, with continuously updated tax data and expert insights.",
+   "link": "https://tributario.com.br/thlira88/reforma-tributaria-exclusao-ibs-cbs-bases-calculo-iss-icms-no-periodo-transicao",
+   "source": "Tributário",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-28T04:27:19Z",
+   "tries": 1
+  },
   {
    "id": "86032e770bd1",
    "date": "2026-11-27",
@@ -1924,55 +1937,42 @@
    "tries": 1
   },
   {
-   "id": "4917bd463c5d",
+   "id": "151f2bcb9e05",
    "date": "2026-11-24",
-   "title": "Reforma Tributária para empresas: como se preparar para as mudanças",
+   "title": "Comitê Gestor do Simples Nacional publica novas regras para o Simples Nacional e para a transição da Reforma Tributária — Receita Federal",
    "resumo": "",
-   "link": "https://www.sicredi.com.br/site/blog/empresas/reforma-tributaria-para-empresas-preparar-para-mudancas/",
-   "source": "Sicredi",
+   "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/comite-gestor-do-simples-nacional-publica-novas-regras-para-o-simples-nacional-e-para-a-transicao-da-reforma-tributaria",
+   "source": "Governo Federal",
    "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-28T03:20:50Z",
+   "category": "simples",
+   "tag": "Simples",
+   "addedAt": "2026-11-28T04:27:19Z",
    "tries": 1
   },
   {
-   "id": "be648c860d02",
+   "id": "d63fa6f2cc1d",
    "date": "2026-11-24",
-   "title": "Descondo de 60% no IBS e CBS: saiba quem pode ter redução",
-   "resumo": "",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HQ1Rscmt1VE10REtkVHYwUVVwRkhwWFdLN1NsYmcyRFdQTWdZR2h4aHpQVWhOb2NNTTRVTzBlQ3lQcmd5Q1lkWmpicVNxeklkR3l1aVdjOVRIcktiSEpwTDROSTdtWS1o0gFuQVVfeXFMUHliU1ZzZ3BPcEFCbXE1Rm5FR3VGWmtwTG84M3YwRTNEV1V2MW1RbEJLYW80SVVaQWVqdU43bEVDQVZFWTk3eWtkdGhLVWJOZUEzY19zZXl3aHNtMjEwYUJwUnZzLWJrU01TWEVCRUE?oc=5",
-   "source": "InvestNews",
+   "title": "Reforma tributária: governo promete tolerância com contribuinte que errar de boa-fé",
+   "resumo": "Representantes da União, de estados e de municípios afirmaram que os ajustes da transição serão administrativos e defenderam a alíquota de 11,3% da CBS",
+   "link": "https://www.jota.info/coberturas-especiais/ambiente-negocios-oportunidades/reforma-tributaria-governo-promete-tolerancia-com-contribuinte-que-errar-de-boa-fe",
+   "source": "JOTA Info",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-28T03:20:50Z",
+   "addedAt": "2026-11-28T04:27:19Z",
    "tries": 1
   },
   {
-   "id": "1e91bbf6c845",
+   "id": "86937af02ebf",
    "date": "2026-11-24",
-   "title": "Sefaz-BA promove debate on-line sobre o cadastro do IBS e da CBS no âmbito da reforma tributária",
-   "resumo": "A Secretaria da Fazenda do Estado da Bahia (Sefaz-BA), por meio da sua Universidade Corporativa (UCS/Sefaz), realiza, no dia 26 de novembro, mais uma edição do projeto Conversa sobre a Reforma Tributária. O encontro terá como tema “Cadastro do Imposto sobre…",
-   "link": "https://www.ba.gov.br/comunicacao/noticias/2026-11/385892/sefaz-ba-promove-debate-line-sobre-o-cadastro-do-ibs-e-da-cbs-no-ambito-da",
-   "source": "ba.gov.br",
+   "title": "Reforma tributária: impactos do IBS, CBS e split payment",
+   "resumo": "Entenda os impactos da reforma tributária nas empresas, incluindo as alíquotas de IBS e CBS, o split payment e a apropriação de créditos.",
+   "link": "https://www.contabeis.com.br/artigos/81100/reforma-tributaria-impactos-do-ibs-cbs-e-split-payment/",
+   "source": "Portal Contabeis",
    "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-28T03:20:50Z",
-   "tries": 1
-  },
-  {
-   "id": "87131d60cb91",
-   "date": "2026-11-24",
-   "title": "Reforma Tributária: Receita Federal amplia acesso a ambiente de produção restrita da CBS",
-   "resumo": "",
-   "link": "https://www.gov.br/secom/pt-br/acompanhe-a-secom/noticias/2026/11/reforma-tributaria-receita-federal-amplia-acesso-a-ambiente-de-producao-restrita-da-cbs",
-   "source": "www.gov.br",
-   "official": false,
-   "category": "outros",
-   "tag": "Atualização",
-   "addedAt": "2026-11-28T03:20:50Z",
+   "category": "pag",
+   "tag": "Split payment",
+   "addedAt": "2026-11-28T04:27:19Z",
    "tries": 1
   }
  ]

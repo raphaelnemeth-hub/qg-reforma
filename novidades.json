@@ -1,7 +1,7 @@
 {
- "lastCheckAt": "2026-11-28T06:26:01Z",
- "lastCheckBr": "28/11/2026 03:26",
- "added": 24,
+ "lastCheckAt": "2026-11-28T07:45:36Z",
+ "lastCheckBr": "28/11/2026 04:45",
+ "added": 23,
  "feeds": [
   {
    "name": "Agência Senado",
@@ -17,9 +17,10 @@
   },
   {
    "name": "Receita Federal",
-   "ok": true,
+   "ok": false,
    "found": 0,
-   "new": 0
+   "new": 0,
+   "error": "URLError"
   },
   {
    "name": "Agência Brasil",
@@ -43,7 +44,7 @@
    "name": "Imprensa (Google Notícias)",
    "ok": true,
    "found": 98,
-   "new": 19
+   "new": 18
   },
   {
    "name": "CGIBS / NF-e (Google Notícias)",
@@ -1949,29 +1950,29 @@
    "tries": 1
   },
   {
-   "id": "151f2bcb9e05",
+   "id": "be648c860d02",
    "date": "2026-11-24",
-   "title": "Comitê Gestor do Simples Nacional publica novas regras para o Simples Nacional e para a transição da Reforma Tributária — Receita Federal",
-   "resumo": "As mudanças envolvem procedimentos de declaração, apuração de receitas, repartição dos tributos e adaptações necessárias para a transição ao novo modelo tributário.",
-   "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/comite-gestor-do-simples-nacional-publica-novas-regras-para-o-simples-nacional-e-para-a-transicao-da-reforma-tributaria",
-   "source": "Governo Federal",
-   "official": false,
-   "category": "simples",
-   "tag": "Simples",
-   "addedAt": "2026-11-28T06:26:01Z",
-   "tries": 1
-  },
-  {
-   "id": "d63fa6f2cc1d",
-   "date": "2026-11-24",
-   "title": "Reforma tributária: governo promete tolerância com contribuinte que errar de boa-fé",
-   "resumo": "Representantes da União, de estados e de municípios afirmaram que os ajustes da transição serão administrativos e defenderam a alíquota de 11,3% da CBS",
-   "link": "https://www.jota.info/coberturas-especiais/ambiente-negocios-oportunidades/reforma-tributaria-governo-promete-tolerancia-com-contribuinte-que-errar-de-boa-fe",
-   "source": "JOTA Info",
+   "title": "Descondo de 60% no IBS e CBS: saiba quem pode ter redução",
+   "resumo": "Treze grupos de serviços e produtos têm direito à redução, mas se não aproveitar créditos de IBS e CBS, empresa pode pagar mais do que atualmente; entenda",
+   "link": "https://investnews.com.br/negocios/desconto-60-ibs-e-cbs/",
+   "source": "InvestNews",
    "official": false,
    "category": "outros",
    "tag": "Atualização",
-   "addedAt": "2026-11-28T06:26:01Z",
+   "addedAt": "2026-11-28T07:45:36Z",
+   "tries": 1
+  },
+  {
+   "id": "87131d60cb91",
+   "date": "2026-11-24",
+   "title": "Reforma Tributária: Receita Federal amplia acesso a ambiente de produção restrita da CBS",
+   "resumo": "",
+   "link": "https://www.gov.br/secom/pt-br/acompanhe-a-secom/noticias/2026/11/reforma-tributaria-receita-federal-amplia-acesso-a-ambiente-de-producao-restrita-da-cbs",
+   "source": "www.gov.br",
+   "official": false,
+   "category": "outros",
+   "tag": "Atualização",
+   "addedAt": "2026-11-28T07:45:36Z",
    "tries": 1
   }
  ]
